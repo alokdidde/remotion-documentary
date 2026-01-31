@@ -1,5 +1,5 @@
 // Background video component for displaying videos from public/video/
-import { staticFile, useCurrentFrame, interpolate, OffthreadVideo } from "remotion";
+import { staticFile, useCurrentFrame, interpolate, OffthreadVideo, Loop } from "remotion";
 import { AbsoluteFill } from "remotion";
 
 interface BackgroundVideoProps {
@@ -11,6 +11,8 @@ interface BackgroundVideoProps {
   playbackRate?: number;
   startFrom?: number;
   style?: React.CSSProperties;
+  loop?: boolean;
+  durationInFrames?: number;
 }
 
 export const BackgroundVideo: React.FC<BackgroundVideoProps> = ({
@@ -22,6 +24,8 @@ export const BackgroundVideo: React.FC<BackgroundVideoProps> = ({
   playbackRate = 1,
   startFrom = 0,
   style,
+  loop = true,
+  durationInFrames,
 }) => {
   const frame = useCurrentFrame();
 
@@ -44,22 +48,30 @@ export const BackgroundVideo: React.FC<BackgroundVideoProps> = ({
           overflow: "hidden",
         }}
       >
-        <OffthreadVideo
-          src={staticFile(`video/${src}`)}
-          muted={muted}
-          playbackRate={playbackRate}
-          startFrom={startFrom}
-          loop
-          pauseWhenBuffering={false}
-          delayRenderTimeoutInMilliseconds={60000}
-          delayRenderRetries={3}
-          style={{
-            width: "100%",
-            height: "100%",
-            objectFit: "cover",
-            ...style,
-          }}
-        />
+        {(() => {
+          const video = (
+            <OffthreadVideo
+              src={staticFile(`video/${src}`)}
+              muted={muted}
+              playbackRate={playbackRate}
+              startFrom={startFrom}
+              pauseWhenBuffering={false}
+              delayRenderTimeoutInMilliseconds={60000}
+              delayRenderRetries={3}
+              style={{
+                width: "100%",
+                height: "100%",
+                objectFit: "cover",
+                ...style,
+              }}
+            />
+          );
+          return loop && durationInFrames ? (
+            <Loop durationInFrames={durationInFrames}>{video}</Loop>
+          ) : (
+            video
+          );
+        })()}
       </AbsoluteFill>
       {overlay && (
         <AbsoluteFill

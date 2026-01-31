@@ -33,11 +33,9 @@ npm run dev
 | `generate-audio.ts` | Generate TTS, SFX, or music with ElevenLabs |
 | `generate-music.ts` | Generate chapter background music |
 | `generate-all-narration.ts` | Batch generate all narration |
-| `generate-all-chapter-assets.ts` | Batch generate all chapter assets |
 | `pexels-download.ts` | Search and download stock media from Pexels |
 | `youtube-download.ts` | Search and download YouTube videos via yt-dlp |
 | `analyze-audio-durations.ts` | Analyze audio durations vs frame timing |
-| `asset-manifest.ts` | Track asset generation status |
 
 ### Claude Skills (`.claude/skills/`)
 
@@ -45,21 +43,20 @@ Pre-configured skills for Claude Code to help generate assets:
 
 - `pexels-download` / `pexels-image-search` / `pexels-video-search`
 - `generate-audio` / `generate-image` / `generate-video`
-- `generate-chapter-assets`
 - `youtube-download`
 - `remotion-best-practices/` - Comprehensive Remotion reference guide
 
 ## Workflow
 
-1. **Define chapters** in `src/data/chapters.ts`
-2. **Set colors** in `src/data/colors.ts`
-3. **Add quotes** in `src/data/quotes.ts`
-4. **Add statistics** in `src/data/statistics.ts`
-5. **Write narration** in `scripts/narration-script.ts`
-6. **Build chapter components** in `src/chapters/`
-7. **Generate assets** using scripts or Claude skills
-8. **Preview** with `npm run dev`
-9. **Render** with Remotion CLI
+See [guide.md](./guide.md) for the full documentary creation process.
+
+1. **Write the script** — create or generate the narration text
+2. **Generate narration audio** — TTS via `generate-audio.ts`
+3. **Source b-roll** — search Pexels/YouTube for matching visuals
+4. **Fill gaps with AI** — only generate images/video if stock footage isn't found
+5. **Build chapter components** in `src/chapters/`
+6. **Preview** with `npm run dev`
+7. **Render** with Remotion CLI
 
 ## API Keys Required
 
