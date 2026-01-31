@@ -1,0 +1,40 @@
+# Dependencies
+node_modules/
+
+# Build output
+build/
+out/
+dist/
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# IDE/Editor folders
+.cursor/
+.windsurf/
+.codex/
+.agent/
+.gemini/
+.idea/
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*
+
+# TypeScript cache
+*.tsbuildinfo
+
+# Remotion
+.remotion/
+
+# Generated assets (re-generate with scripts)
+public/video/
+public/audio/
+public/images/
