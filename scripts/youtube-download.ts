@@ -31,8 +31,10 @@ interface SearchResult {
 interface DownloadOptions {
   url: string;
   output?: string;
+  outputDir?: string;
   resolution?: '720' | '1080';
   maxDuration?: number;
+  sections?: string; // e.g. "10-120" or "1:58-3:00"
 }
 
 function ensureDir(dir: string): void {
@@ -91,14 +93,14 @@ async function searchYouTube(query: string, maxResults: number = 5): Promise<Sea
 }
 
 async function downloadVideo(options: DownloadOptions): Promise<string | null> {
-  ensureDir(OUTPUT_DIR);
-
-  const { url, output, resolution = '720', maxDuration } = options;
+  const { url, output, outputDir, resolution = '1080', maxDuration, sections } = options;
+  const targetDir = outputDir ? path.resolve(outputDir) : OUTPUT_DIR;
+  ensureDir(targetDir);
 
   // Determine output filename
   const outputTemplate = output
-    ? path.join(OUTPUT_DIR, output.replace(/\.[^.]+$/, ''))
-    : path.join(OUTPUT_DIR, '%(title)s-%(id)s');
+    ? path.join(targetDir, output.replace(/\.[^.]+$/, ''))
+    : path.join(targetDir, '%(title)s-%(id)s');
 
   console.log(`\nDownloading: ${url}`);
   console.log(`Resolution: ${resolution}p`);
@@ -112,6 +114,10 @@ async function downloadVideo(options: DownloadOptions): Promise<string | null> {
     '--no-playlist',
     '--no-warnings',
   ];
+
+  if (sections) {
+    args.push('--download-sections', `*${sections}`);
+  }
 
   if (maxDuration) {
     args.push('--match-filter', `duration<=${maxDuration}`);
@@ -197,14 +203,16 @@ Search Options:
 Download Options:
   --url, -u           YouTube URL to download (required for download mode)
   --output, -o        Output filename (without extension)
-  --resolution, -r    Video resolution: 720 or 1080 (default: 720)
+  --output-dir, -d    Output directory (default: public/video/youtube/)
+  --resolution, -r    Video resolution: 720 or 1080 (default: 1080)
+  --sections          Time range to download, e.g. "10-120" or "1:58-3:00"
   --max-duration      Maximum video duration in seconds
 
 Examples:
   npx tsx scripts/youtube-download.ts --search "documentary b-roll nature" --max-results 5
   npx tsx scripts/youtube-download.ts --url "https://youtube.com/watch?v=..." --output "nature-clip"
-  npx tsx scripts/youtube-download.ts -s "timelapse city" -n 3
-  npx tsx scripts/youtube-download.ts -u "https://youtu.be/..." -o "city-timelapse" -r 1080
+  npx tsx scripts/youtube-download.ts -u "https://youtu.be/..." -o "clip" -d public/video/p01-bullet-train/ --sections "10-120"
+  npx tsx scripts/youtube-download.ts -u "https://youtu.be/..." -o "seg1" --sections "1:58-3:00" -d public/video/p05-samruddhi/
 
 Prerequisites:
   Install yt-dlp: https://github.com/yt-dlp/yt-dlp
@@ -236,6 +244,8 @@ Notes:
   const maxResultsIndex = args.findIndex(a => a === '--max-results' || a === '-n');
   const outputIndex = args.findIndex(a => a === '--output' || a === '-o');
   const resolutionIndex = args.findIndex(a => a === '--resolution' || a === '-r');
+  const outputDirIndex = args.findIndex(a => a === '--output-dir' || a === '-d');
+  const sectionsIndex = args.findIndex(a => a === '--sections');
   const maxDurationIndex = args.findIndex(a => a === '--max-duration');
 
   if (searchIndex !== -1 && args[searchIndex + 1]) {
@@ -245,10 +255,12 @@ Notes:
   } else if (urlIndex !== -1 && args[urlIndex + 1]) {
     const url = args[urlIndex + 1];
     const output = outputIndex !== -1 ? args[outputIndex + 1] : undefined;
-    const resolution = (resolutionIndex !== -1 ? args[resolutionIndex + 1] : '720') as '720' | '1080';
+    const outputDir = outputDirIndex !== -1 ? args[outputDirIndex + 1] : undefined;
+    const resolution = (resolutionIndex !== -1 ? args[resolutionIndex + 1] : '1080') as '720' | '1080';
+    const sections = sectionsIndex !== -1 ? args[sectionsIndex + 1] : undefined;
     const maxDuration = maxDurationIndex !== -1 ? parseInt(args[maxDurationIndex + 1], 10) : undefined;
 
-    await downloadVideo({ url, output, resolution, maxDuration });
+    await downloadVideo({ url, output, outputDir, resolution, sections, maxDuration });
   } else {
     console.error('Error: Specify --search "<query>" or --url "<url>"');
     process.exit(1);

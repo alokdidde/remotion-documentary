@@ -26,7 +26,7 @@ export const StatCard: React.FC<StatCardProps> = ({
   suffix = "",
   icon,
   color = "#3B82F6",
-  backgroundColor = "rgba(255,255,255,0.05)",
+  backgroundColor = "rgba(0,0,0,0.5)",
   delay = 0,
   animate = true,
   animateDuration = 60,
@@ -86,16 +86,15 @@ export const StatCard: React.FC<StatCardProps> = ({
     finalDisplayValue = displayValue;
   }
 
-  // Calculate min width to prevent layout shifts
+  // Fixed width based on final value to prevent layout shifts during animation
   const fullText = prefix + finalDisplayValue + suffix;
-  const minWidth = `${fullText.length * 0.6}em`;
 
   return (
     <div
       style={{
         backgroundColor,
         borderRadius: 20,
-        padding: "40px 50px",
+        padding: "32px 28px",
         border: `3px solid ${color}30`,
         opacity,
         transform: `scale(${scale})`,
@@ -103,6 +102,8 @@ export const StatCard: React.FC<StatCardProps> = ({
         flexDirection: "column",
         alignItems: "center",
         gap: 16,
+        overflow: "hidden",
+        minWidth: 0,
       }}
     >
       {/* Icon */}
@@ -117,22 +118,39 @@ export const StatCard: React.FC<StatCardProps> = ({
         </div>
       )}
 
-      {/* Value */}
-      <div
-        style={{
-          fontFamily: fonts.primary,
-          fontSize: fontSizes.hero,
-          fontWeight: fontWeights.bold,
-          color,
-          lineHeight: 1,
-          fontVariantNumeric: "tabular-nums",
-          minWidth,
-          textAlign: "center",
-        }}
-      >
-        {prefix}
-        {displayValue}
-        {suffix}
+      {/* Value — hidden final value reserves width to prevent layout shift */}
+      <div style={{ position: "relative", textAlign: "center" }}>
+        <div
+          style={{
+            fontFamily: fonts.primary,
+            fontSize: fontSizes.hero,
+            fontWeight: fontWeights.bold,
+            lineHeight: 1,
+            fontVariantNumeric: "tabular-nums",
+            whiteSpace: "nowrap",
+            visibility: "hidden",
+          }}
+        >
+          {prefix}{finalDisplayValue}{suffix}
+        </div>
+        <div
+          style={{
+            position: "absolute",
+            top: 0,
+            left: 0,
+            right: 0,
+            fontFamily: fonts.primary,
+            fontSize: fontSizes.hero,
+            fontWeight: fontWeights.bold,
+            color,
+            lineHeight: 1,
+            fontVariantNumeric: "tabular-nums",
+            whiteSpace: "nowrap",
+            textAlign: "center",
+          }}
+        >
+          {prefix}{displayValue}{suffix}
+        </div>
       </div>
 
       {/* Label */}
@@ -141,8 +159,9 @@ export const StatCard: React.FC<StatCardProps> = ({
           fontFamily: fonts.primary,
           fontSize: fontSizes.normal,
           fontWeight: fontWeights.medium,
-          color: "#FFFFFF",
+          color: "#FFFFFFEE",
           textAlign: "center",
+          textShadow: "0 2px 8px rgba(0,0,0,0.8)",
         }}
       >
         {label}

@@ -17,7 +17,7 @@ interface BackgroundMusicProps {
 
 export const BackgroundMusic: React.FC<BackgroundMusicProps> = ({
   track,
-  volume = 0.08,
+  volume = 0.15,
   fadeInFrames = 60,
   fadeOutFrames = 90,
   durationInFrames,
