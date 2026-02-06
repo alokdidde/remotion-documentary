@@ -22,12 +22,8 @@ export const config = {
   sfxDir: path.resolve(__dirname, '..', 'public', 'audio', 'sfx'),
   musicDir: path.resolve(__dirname, '..', 'public', 'audio', 'music'),
 
-  // ElevenLabs voice IDs (Hindi voices)
-  voices: {
-    hindiMale: 'pFZP5JQG7iQjIQuC4Bku', // Raj - Hindi male voice
-    hindiMaleAlt: 'TX3LPaxmHKxFdv7VOQHJ', // Liam - can work for Hindi
-    hindiNarrator: 'N2lVS1w4EtoT3dr4eOWO', // Callum - deep narrator voice
-  },
+  // ElevenLabs voice ID
+  voiceId: 'jmz2hUrAWEIhZkD3LXpt',
 
   // Model configurations
   models: {

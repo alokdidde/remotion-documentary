@@ -9,7 +9,6 @@ type AudioType = 'tts' | 'sfx' | 'music';
 interface TTSOptions {
   text: string;
   output: string;
-  voice?: 'hindi-male' | 'hindi-narrator' | string;
 }
 
 interface SFXOptions {
@@ -24,22 +23,11 @@ interface MusicOptions {
   duration?: number;
 }
 
-function getVoiceId(voice: string): string {
-  switch (voice) {
-    case 'hindi-male':
-      return config.voices.hindiMale;
-    case 'hindi-narrator':
-      return config.voices.hindiNarrator;
-    default:
-      // Allow custom voice IDs
-      return voice.length > 15 ? voice : config.voices.hindiMale;
-  }
-}
-
 async function generateTTS(options: TTSOptions): Promise<string> {
   validateConfig();
 
-  const { text, output, voice = 'hindi-male' } = options;
+  const { text, output } = options;
+  const voiceId = config.voiceId;
 
   const outputPath = output.startsWith('public/')
     ? path.resolve(config.rootDir, output)
@@ -47,11 +35,9 @@ async function generateTTS(options: TTSOptions): Promise<string> {
 
   ensureDir(path.dirname(outputPath));
 
-  const voiceId = getVoiceId(voice);
-
   console.log(`Generating TTS narration...`);
   console.log(`Text: "${text.substring(0, 50)}${text.length > 50 ? '...' : ''}"`);
-  console.log(`Voice: ${voice} (${voiceId})`);
+  console.log(`Voice: ${voiceId}`);
   console.log(`Output: ${outputPath}`);
 
   try {
@@ -197,7 +183,6 @@ Types:
 TTS Options:
   --text, -t      Text to convert to speech (required)
   --output, -o    Output file path (required)
-  --voice, -v     Voice: hindi-male, hindi-narrator, or voice ID (default: hindi-male)
 
 SFX Options:
   --prompt, -p    Sound effect description (required)
@@ -228,8 +213,6 @@ Examples:
   const promptIndex = args.findIndex((a) => a === '--prompt' || a === '-p');
   const outputIndex = args.findIndex((a) => a === '--output' || a === '-o');
   const durationIndex = args.findIndex((a) => a === '--duration' || a === '-d');
-  const voiceIndex = args.findIndex((a) => a === '--voice' || a === '-v');
-
   if (outputIndex === -1 || !args[outputIndex + 1]) {
     console.error('Error: --output is required');
     process.exit(1);
@@ -245,8 +228,7 @@ Examples:
           process.exit(1);
         }
         const text = args[textIndex + 1];
-        const voice = voiceIndex !== -1 ? args[voiceIndex + 1] : undefined;
-        await generateTTS({ text, output, voice });
+        await generateTTS({ text, output });
         break;
       }
       case 'sfx': {

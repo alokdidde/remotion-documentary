@@ -10,7 +10,7 @@ import path from 'path';
 import { config, validateConfig, ensureDir } from './config.js';
 import { narrationScript, NarrationEntry } from './narration-script.js';
 
-const VOICE_ID = '2zRM7PkgwBPiau2jvVXc';
+const VOICE_ID = config.voiceId;
 const OUTPUT_DIR = path.resolve(config.narrationDir);
 
 interface GenerationResult {

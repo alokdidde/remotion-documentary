@@ -129,7 +129,6 @@ async function generateChapterAssets(options: GenerationOptions): Promise<void> 
             await generateTTS({
               text: asset.prompt,
               output: asset.filename,
-              voice: asset.voice,
             });
             break;
           case 'sfx':
