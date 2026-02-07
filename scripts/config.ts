@@ -9,6 +9,7 @@ export const config = {
   googleApiKey: process.env.GOOGLE_API_KEY || '',
   elevenLabsApiKey: process.env.ELEVENLABS_API_KEY || '',
   pexelsApiKey: process.env.PEXELS_API_KEY || '',
+  mapboxApiKey: process.env.MAPBOX_API_KEY || '',
 
   // Output directories
   rootDir: path.resolve(__dirname, '..'),
@@ -28,7 +29,7 @@ export const config = {
   // Model configurations
   models: {
     geminiImage: 'gemini-3-pro-image-preview',
-    elevenLabsTTS: 'eleven_multilingual_v2',
+    elevenLabsTTS: 'eleven_v3',
   },
 
   // Default settings

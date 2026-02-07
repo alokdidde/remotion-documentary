@@ -1,6 +1,6 @@
 ---
 name: pexels-video-search
-description: Search and select stock videos from Pexels based on scene requirements
+description: Search for stock videos on Pexels
 ---
 
 # Pexels Video Search
@@ -10,16 +10,19 @@ Search for stock video footage on Pexels for your documentary.
 ## Usage
 
 ```bash
-npx tsx scripts/pexels-download.ts --query="<search term>" --type=video --count=5 --orientation=landscape
+npx tsx scripts/pexels-search.ts --query "<search term>" --type video --count 5 --orientation landscape
 ```
 
 ## Options
 
-- `--query` - Search term (required)
-- `--type=video` - Search for videos
-- `--count` - Number of results (default: 5)
-- `--orientation` - landscape, portrait, or square
-- `--prefix` - Filename prefix
+| Flag | Short | Description | Default |
+|------|-------|-------------|---------|
+| `--query` | `-q` | Search query | (required) |
+| `--type` | `-t` | Must be `video` | video |
+| `--count` | `-n` | Number of results | 10 |
+| `--orientation` | `-o` | landscape, portrait, or square | |
+| `--min-duration` | | Minimum duration in seconds | |
+| `--max-duration` | | Maximum duration in seconds | |
 
 ## Selection Criteria
 
@@ -29,8 +32,14 @@ npx tsx scripts/pexels-download.ts --query="<search term>" --type=video --count=
 4. **Stability**: Smooth footage preferred
 5. **Audio**: Clean audio or silence
 
+## Download a Result
+
+```bash
+npx tsx scripts/pexels-download.ts --id <ID> --type video --prefix chapter1
+```
+
 ## Notes
 
 - API rate limit: 200 requests/hour
-- HD/4K quality selected automatically
+- HD/4K quality selected automatically on download
 - Videos without 720p+ are skipped

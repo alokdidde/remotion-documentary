@@ -1,6 +1,6 @@
 ---
 name: pexels-image-search
-description: Search and select stock photos from Pexels based on description and requirements
+description: Search for stock photos on Pexels
 ---
 
 # Pexels Image Search
@@ -10,16 +10,19 @@ Search for stock photos on Pexels for your documentary.
 ## Usage
 
 ```bash
-npx tsx scripts/pexels-download.ts --query="<search term>" --type=photo --count=10 --orientation=landscape
+npx tsx scripts/pexels-search.ts --query "<search term>" --type photo --count 10 --orientation landscape
 ```
 
 ## Options
 
-- `--query` - Search term (required)
-- `--type=photo` - Search for photos
-- `--count` - Number of results (default: 5)
-- `--orientation` - landscape, portrait, or square
-- `--prefix` - Filename prefix (e.g., ch1, ch2)
+| Flag | Short | Description | Default |
+|------|-------|-------------|---------|
+| `--query` | `-q` | Search query | (required) |
+| `--type` | `-t` | Must be `photo` | photo |
+| `--count` | `-n` | Number of results | 10 |
+| `--orientation` | `-o` | landscape, portrait, or square | |
+| `--size` | | large, medium, or small | |
+| `--color` | | Color filter | |
 
 ## Selection Criteria
 
@@ -28,8 +31,14 @@ npx tsx scripts/pexels-download.ts --query="<search term>" --type=photo --count=
 3. **Composition**: Cinematic look suitable for video backgrounds
 4. **Color**: Match chapter color scheme
 
+## Download a Result
+
+```bash
+npx tsx scripts/pexels-download.ts --id <ID> --type photo --prefix chapter1
+```
+
 ## Notes
 
 - API rate limit: 200 requests/hour
-- Attribution saved automatically
+- Attribution saved automatically on download
 - Use `large2x` quality for HD video (1920px)
