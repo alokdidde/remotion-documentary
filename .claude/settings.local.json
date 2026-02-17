@@ -1,7 +1,8 @@
 {
   "permissions": {
     "allow": [
-      "WebSearch"
+      "WebSearch",
+      "Bash(npx tsx --eval \"import ''./scripts/sfx-catalog.js''; console.log\\(''sfx-catalog OK''\\)\")"
     ]
   }
 }

@@ -9,6 +9,10 @@ export const config = {
   googleApiKey: process.env.GOOGLE_API_KEY || '',
   elevenLabsApiKey: process.env.ELEVENLABS_API_KEY || '',
   pexelsApiKey: process.env.PEXELS_API_KEY || '',
+  pixabayApiKey: process.env.PIXABAY_API_KEY || '',
+  freesoundApiKey: process.env.FREESOUND_API_KEY || '',
+  freesoundClientId: process.env.FREESOUND_CLIENT_ID || '',
+  googleCseId: process.env.GOOGLE_CSE_ID || '',
 
   // Output directories
   rootDir: path.resolve(__dirname, '..'),

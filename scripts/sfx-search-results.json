@@ -1,0 +1,42 @@
+{
+  "whoosh_soft": {
+    "description": "Gentle air sweep",
+    "category": "Transitions & Structural Cues",
+    "pixabay": [],
+    "freesound": [],
+    "selected": null,
+    "downloaded": false
+  },
+  "whoosh_heavy": {
+    "description": "Deep, dramatic air sweep",
+    "category": "Transitions & Structural Cues",
+    "pixabay": [],
+    "freesound": [],
+    "selected": null,
+    "downloaded": false
+  },
+  "whoosh_reverse": {
+    "description": "Reversed air sweep",
+    "category": "Transitions & Structural Cues",
+    "pixabay": [],
+    "freesound": [],
+    "selected": null,
+    "downloaded": false
+  },
+  "swoosh_cinematic": {
+    "description": "Wide, theatrical sweep",
+    "category": "Transitions & Structural Cues",
+    "pixabay": [],
+    "freesound": [],
+    "selected": null,
+    "downloaded": false
+  },
+  "transition_rise": {
+    "description": "Rising tonal sweep",
+    "category": "Transitions & Structural Cues",
+    "pixabay": [],
+    "freesound": [],
+    "selected": null,
+    "downloaded": false
+  }
+}
