@@ -1,0 +1,107 @@
+{
+  "sfxName": "tape_rewind",
+  "catalogDescription": "VHS/cassette rewind",
+  "category": "Transitions & Structural Cues",
+  "files": [
+    {
+      "file": "tape_rewind_452904.mp3",
+      "freesoundId": 452904,
+      "freesoundName": "cassette tape deck rewind, ffwd long +start stop clicks.flac",
+      "description": "cassette tape deck rewind, ffwd long +start stop clicks.flac",
+      "duration": 161.167,
+      "tags": [
+        "cassette",
+        "clicks",
+        "deck",
+        "ffwd",
+        "long",
+        "rewind",
+        "start",
+        "stop",
+        "tape"
+      ],
+      "rating": 4.625,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "kyles",
+      "fileSizeKB": 3668.3
+    },
+    {
+      "file": "tape_rewind_452903.mp3",
+      "freesoundId": 452903,
+      "freesoundName": "cassette tape deck rewind slow +start, stop clicks.flac",
+      "description": "cassette tape deck rewind slow +start, stop clicks.flac",
+      "duration": 8.58333,
+      "tags": [
+        "cassette",
+        "clicks",
+        "deck",
+        "rewind",
+        "slow",
+        "start",
+        "stop",
+        "tape"
+      ],
+      "rating": 4.333333333333333,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "kyles",
+      "fileSizeKB": 195.4
+    },
+    {
+      "file": "tape_rewind_450523.mp3",
+      "freesoundId": 450523,
+      "freesoundName": "cassette tape deck open, close, rewind, ffwd, play +clicks.aif",
+      "description": "cassette tape deck open, close, rewind, ffwd, play +clicks",
+      "duration": 91.25,
+      "tags": [
+        "cassette",
+        "close",
+        "deck",
+        "ffwd",
+        "open",
+        "play",
+        "rewind",
+        "tape"
+      ],
+      "rating": 4.75,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "kyles",
+      "fileSizeKB": 1999.2
+    },
+    {
+      "file": "tape_rewind_754845.mp3",
+      "freesoundId": 754845,
+      "freesoundName": "Tape Player - Rewind",
+      "description": "Hi-Fi Tape player rewind, recorded with Lewitt LCT140. Free To use without any attribution  for personal and commercial use.",
+      "duration": 56.3333,
+      "tags": [
+        "mechanics",
+        "rewind",
+        "tape"
+      ],
+      "rating": 4.7272727272727275,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "Poulpy2.0",
+      "fileSizeKB": 1008
+    },
+    {
+      "file": "tape_rewind_452901.mp3",
+      "freesoundId": 452901,
+      "freesoundName": "cassette tape deck rewind +start, stop clicks.flac",
+      "description": "cassette tape deck rewind +start, stop clicks.flac",
+      "duration": 13.25,
+      "tags": [
+        "cassette",
+        "clicks",
+        "deck",
+        "rewind",
+        "start",
+        "stop",
+        "tape"
+      ],
+      "rating": 4.142857142857143,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "kyles",
+      "fileSizeKB": 308.1
+    }
+  ]
+}

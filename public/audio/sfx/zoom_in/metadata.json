@@ -1,0 +1,124 @@
+{
+  "sfxName": "zoom_in",
+  "catalogDescription": "Focusing/magnifying sound",
+  "category": "Narration & Information Cues",
+  "files": [
+    {
+      "file": "zoom_in_638147.mp3",
+      "freesoundId": 638147,
+      "freesoundName": "Colombian_Airport_CheckIn_Area_Quad.wav",
+      "description": "Colombian Airport Check In Area Quad, Recorded with Zoom H3-VR",
+      "duration": 240,
+      "tags": [
+        "Airport",
+        "Ambience",
+        "Baggage",
+        "Band",
+        "Check",
+        "Crowds",
+        "In",
+        "Indoors",
+        "Walla"
+      ],
+      "rating": 5,
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "author": "USBMED_Ambiences_Sound_Library",
+      "fileSizeKB": 5297.6
+    },
+    {
+      "file": "zoom_in_148777.mp3",
+      "freesoundId": 148777,
+      "freesoundName": "piano_played_like_a_harp.wav",
+      "description": "A short improvisation on a Yamaha grand piano played like a harp from inside. Recorded with a Zoom H4n.",
+      "duration": 23.6185,
+      "tags": [
+        "chord",
+        "hammer",
+        "hand-inside",
+        "harp",
+        "hit",
+        "keys",
+        "magic",
+        "muted",
+        "natural-reverb",
+        "note",
+        "piano",
+        "sound",
+        "spooky",
+        "string",
+        "sustain",
+        "tension"
+      ],
+      "rating": 4.9,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "Daphne_in_Wonderland",
+      "fileSizeKB": 526.7
+    },
+    {
+      "file": "zoom_in_638150.mp3",
+      "freesoundId": 638150,
+      "freesoundName": "Colombian_Airport_CheckIn_Area_AmbiX.wav",
+      "description": "Colombian Airport Check In Area AmbiX, Recorded with Zoom H3-VR",
+      "duration": 240,
+      "tags": [
+        "Airport",
+        "Ambience",
+        "Baggage",
+        "Band",
+        "Check",
+        "Crowds",
+        "In",
+        "Indoors",
+        "Walla"
+      ],
+      "rating": 3,
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "author": "USBMED_Ambiences_Sound_Library",
+      "fileSizeKB": 5392
+    },
+    {
+      "file": "zoom_in_638149.mp3",
+      "freesoundId": 638149,
+      "freesoundName": "Colombian_Airport_CheckIn_Area_Estereo.wav",
+      "description": "Colombian Airport Check In Area Stereo, Recorded with Zoom H3-VR",
+      "duration": 240,
+      "tags": [
+        "Airport",
+        "Ambience",
+        "Baggage",
+        "Band",
+        "Check",
+        "Crowds",
+        "In",
+        "Indoors",
+        "Walla"
+      ],
+      "rating": 3,
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "author": "USBMED_Ambiences_Sound_Library",
+      "fileSizeKB": 5218.8
+    },
+    {
+      "file": "zoom_in_638148.mp3",
+      "freesoundId": 638148,
+      "freesoundName": "Colombian_Airport_CheckIn_Area_FormatA.wav",
+      "description": "Colombian Airport Check In Area Ambisonics Format A, Recorded with Zoom H3-VR",
+      "duration": 240,
+      "tags": [
+        "Airport",
+        "Ambience",
+        "Baggage",
+        "Band",
+        "Check",
+        "Crowds",
+        "In",
+        "Indoors",
+        "Walla"
+      ],
+      "rating": 0,
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "author": "USBMED_Ambiences_Sound_Library",
+      "fileSizeKB": 5191.4
+    }
+  ]
+}

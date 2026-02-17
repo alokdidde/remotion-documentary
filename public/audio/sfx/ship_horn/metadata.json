@@ -1,0 +1,116 @@
+{
+  "sfxName": "ship_horn",
+  "catalogDescription": "Large vessel horn",
+  "category": "Urban & Industrial",
+  "files": [
+    {
+      "file": "ship_horn_767039.mp3",
+      "freesoundId": 767039,
+      "freesoundName": "ship hooter 2046 PM 220629_0435",
+      "description": "Ship horn/hooter 2x. River boulevard in the summer with river in front on 200m. \n\n\n\n\n\n\n\nMore at this boulevard today / More at this boulevard trough the year\n\nDate/time: June 29th 2022, 8:49 PM\n\nWeather: 26c, clouds 45% wind NNE 2 bft with gusts to 12 km/h, 1012 hPa, humidity 69%. \n\nLocation; embank",
+      "duration": 5.44644,
+      "tags": [
+        "foghorn",
+        "honk",
+        "hooter",
+        "horn",
+        "loop",
+        "river",
+        "ship"
+      ],
+      "rating": 4.333333333333333,
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "author": "klankbeeld",
+      "fileSizeKB": 124.9
+    },
+    {
+      "file": "ship_horn_64601.mp3",
+      "freesoundId": 64601,
+      "freesoundName": "Ship Horn.mp3",
+      "description": "an impressive horn of a giant cruiser ship in the harbour of Hamburg",
+      "duration": 40.8696,
+      "tags": [
+        "hamburg",
+        "harbour",
+        "horn",
+        "ship"
+      ],
+      "rating": 4.1419753086419755,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "Grotelue",
+      "fileSizeKB": 1023.7
+    },
+    {
+      "file": "ship_horn_806015.mp3",
+      "freesoundId": 806015,
+      "freesoundName": "Sky Princess \"Love Boat\" horns leaving Southampton Docks",
+      "description": "The Sky Princess playing the Love Boat \"tune\" on ships horns in Southampton\n\nZoom H1e, internal XY mics\n250426-143411_Sky_Princess_Leaving_Soton_Horns.wav",
+      "duration": 45.6753,
+      "tags": [
+        "boat",
+        "cruise",
+        "horn",
+        "love",
+        "love-boat",
+        "princess",
+        "ship",
+        "sky",
+        "Sky-Princess",
+        "southampton",
+        "tune"
+      ],
+      "rating": 5,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "richwise",
+      "fileSizeKB": 1023
+    },
+    {
+      "file": "ship_horn_833643.mp3",
+      "freesoundId": 833643,
+      "freesoundName": "AMBNaut_golden gate bridge fog horn with ships_Tim Kahn_MKH80208030st",
+      "description": "The Golden Gate Bridge fog horn blowing to notify ships coming in and out of the San Francisco Bay. The ships are blowing horns as well. The waves are crashing along the shore and in the distance cars can be occasionally heard as they cross the bridge.\n\nRecordist: Tim Kahn\nRecorder: Sound Devices 70",
+      "duration": 1334.33,
+      "tags": [
+        "ambience",
+        "boat",
+        "field-recording",
+        "fog",
+        "fog-horn",
+        "horn",
+        "outside",
+        "ship",
+        "urban",
+        "waves"
+      ],
+      "rating": 4.857142857142857,
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "author": "tim.kahn",
+      "fileSizeKB": 29480.4
+    },
+    {
+      "file": "ship_horn_208714.mp3",
+      "freesoundId": 208714,
+      "freesoundName": "ship horn.wav",
+      "description": "ship horns and seaport atmosphere",
+      "duration": 34.3749,
+      "tags": [
+        "atmosphere",
+        "boat",
+        "closed",
+        "distant",
+        "fieldrecording",
+        "harbor",
+        "horn",
+        "port",
+        "sea",
+        "seaport",
+        "ship",
+        "siren"
+      ],
+      "rating": 4.393258426966292,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "monotraum",
+      "fileSizeKB": 582.6
+    }
+  ]
+}

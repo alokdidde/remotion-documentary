@@ -1,0 +1,118 @@
+{
+  "sfxName": "footsteps_running",
+  "catalogDescription": "Frantic running",
+  "category": "Human & Social",
+  "files": [
+    {
+      "file": "footsteps_running_558471.mp3",
+      "freesoundId": 558471,
+      "freesoundName": "Footsteps_Mountain_Boots_Rock_Run_Sequence_Mono.wav",
+      "description": "Footsteps Run on Rock - Mountain Boots.\n\nYou can edit it with Reaper/Audacity/etc.\n\nGear : Rode NTG4+\nFile: 48khz, 24 bit, Mono, Wav.",
+      "duration": 18.4396,
+      "tags": [
+        "boots",
+        "clear",
+        "field-recording",
+        "foley",
+        "foot",
+        "footsteps",
+        "mountain",
+        "rock",
+        "rodeNTG4",
+        "run",
+        "running",
+        "steps",
+        "stone"
+      ],
+      "rating": 4.681818181818182,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "Nox_Sound",
+      "fileSizeKB": 421
+    },
+    {
+      "file": "footsteps_running_369834.mp3",
+      "freesoundId": 369834,
+      "freesoundName": "01-35 Footsteps, Wood, Socks, Running 2.wav",
+      "description": "Footsteps, running on wood floor with socks",
+      "duration": 10.6208,
+      "tags": [
+        "fast",
+        "footsteps",
+        "hardwood",
+        "running",
+        "socks",
+        "wood"
+      ],
+      "rating": 4.466666666666667,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "SpliceSound",
+      "fileSizeKB": 239.3
+    },
+    {
+      "file": "footsteps_running_547385.mp3",
+      "freesoundId": 547385,
+      "freesoundName": "Footsteps, Running On Stairs.wav",
+      "description": "Stereo recording of footsteps running up two short flights of lightly carpeted stairs. Some noise from clothing. Recorded using Voice Recorder Pro on a Samsung Galaxy S8 smartphone and edited in Adobe Audition.",
+      "duration": 5.91919,
+      "tags": [
+        "carpet",
+        "feet",
+        "floor",
+        "foley",
+        "foot",
+        "footsteps",
+        "move",
+        "people",
+        "run",
+        "running",
+        "shoes",
+        "stair",
+        "staircase",
+        "stairs",
+        "stairway",
+        "steps",
+        "walk",
+        "walking"
+      ],
+      "rating": 4.066666666666666,
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "author": "theplax",
+      "fileSizeKB": 144.4
+    },
+    {
+      "file": "footsteps_running_369835.mp3",
+      "freesoundId": 369835,
+      "freesoundName": "01-34 Footsteps, Wood, Socks, Running 1.wav",
+      "description": "Footsteps, running on wood floor with socks",
+      "duration": 13.3094,
+      "tags": [
+        "fast",
+        "footsteps",
+        "hardwood",
+        "running",
+        "socks",
+        "wood"
+      ],
+      "rating": 4.444444444444445,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "SpliceSound",
+      "fileSizeKB": 307.2
+    },
+    {
+      "file": "footsteps_running_682771.mp3",
+      "freesoundId": 682771,
+      "freesoundName": "Running footsteps on pavement.WAV",
+      "description": "Footsteps running along pavement.",
+      "duration": 10.3212,
+      "tags": [
+        "footsteps",
+        "pavement",
+        "running"
+      ],
+      "rating": 4.916666666666667,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "thomasanthony321",
+      "fileSizeKB": 247.9
+    }
+  ]
+}

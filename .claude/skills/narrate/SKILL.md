@@ -13,7 +13,33 @@ Transform the concept's narration column into a performance script with ElevenLa
 
 ## Output
 
-`scripts/narration-script.ts` — Array of `NarrationEntry` objects with fields: `id`, `chapter`, `scene`, `text` (tagged), `startFrame`, `durationFrames`.
+`scripts/narration-script.ts` — Array of `NarrationEntry` objects with fields: `id`, `scene`, `text` (tagged), `startFrame`, `durationFrames`. Audio is placed on the global timeline in `src/data/audio-timeline.ts` using absolute frame positions.
+
+## Opening Montage Hook Line
+
+The very first narration entry should be the **montage hook line** — a single killer sentence delivered during the cold-open montage (around the 15-20s mark). This is the one line that frames the entire video.
+
+**Requirements:**
+- Tag with `[declamatory]` — loud, chest-voice, high energy
+- Must create a curiosity gap — the viewer needs to know more
+- Should NOT explain the topic — it should provoke, not summarize
+- Place at `startFrame` matching the beat drop in the montage music
+
+**Examples:**
+- `[declamatory] Nobody... saw it coming.`
+- `[declamatory] They built an empire... on a lie.`
+- `[declamatory] This is the story they don't want you to hear.`
+
+**NarrationEntry:**
+```ts
+{
+  id: "montage-hook",
+  scene: "montage",
+  text: "[declamatory] ...",
+  startFrame: 450,      // ~15s, synced to beat drop
+  durationFrames: 150,  // ~5s
+}
+```
 
 ## Narrative Strategy
 
@@ -49,6 +75,15 @@ Transform the concept's narration column into a performance script with ElevenLa
 3. Insert dramatic pacing — `...` for tactical pauses, `[pause_long]` for chapter resets.
 4. Weight the numbers — every statistic isolated by tags for impact.
 5. Structure output as `NarrationEntry[]` in `scripts/narration-script.ts`.
+
+## Storytelling Principles (from story-telling.md)
+
+- **Write for reception, not transmission.** Read every line and ask: "What does the viewer hear?"
+- **Cognitive hospitality** — If a sentence requires prior knowledge, add a bridging phrase first. Use simple, ordinary words.
+- **Frame shifts at transitions** — When pivoting to a new idea, validate the viewer's current belief before introducing the shift.
+- **Statistics are heavy objects** — Isolate with tags. Let them land with weight and silence, not speed.
+- **In-group language** — Use vocabulary the target audience recognizes. Tribal signals earn trust.
+- **Anchoring** — The first sentence of each scene sets the frame. Lead with the vivid image or human benefit.
 
 ## Usage
 

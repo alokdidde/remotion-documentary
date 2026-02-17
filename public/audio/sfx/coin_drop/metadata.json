@@ -1,0 +1,101 @@
+{
+  "sfxName": "coin_drop",
+  "catalogDescription": "Coins clinking",
+  "category": "Historical & Period",
+  "files": [
+    {
+      "file": "coin_drop_510734.mp3",
+      "freesoundId": 510734,
+      "freesoundName": "Coin dropped on table 1",
+      "description": "short, coin dropped on table.",
+      "duration": 1.23094,
+      "tags": [
+        "coin",
+        "coins",
+        "drop",
+        "dropped",
+        "dropping",
+        "table"
+      ],
+      "rating": 3.3333333333333335,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "HoseNoseSounds",
+      "fileSizeKB": 31.2
+    },
+    {
+      "file": "coin_drop_510733.mp3",
+      "freesoundId": 510733,
+      "freesoundName": "Coin dropped on table 2",
+      "description": "short, coin dropped on table",
+      "duration": 2.4629,
+      "tags": [
+        "coin",
+        "coins",
+        "drop",
+        "dropped",
+        "dropping",
+        "table"
+      ],
+      "rating": 4.333333333333333,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "HoseNoseSounds",
+      "fileSizeKB": 57.8
+    },
+    {
+      "file": "coin_drop_510732.mp3",
+      "freesoundId": 510732,
+      "freesoundName": "Coin dropped on table 3",
+      "description": "short, coin dropped on table.",
+      "duration": 1.50598,
+      "tags": [
+        "coin",
+        "coins",
+        "drop",
+        "dropped",
+        "dropping",
+        "table"
+      ],
+      "rating": 4.3,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "HoseNoseSounds",
+      "fileSizeKB": 36.9
+    },
+    {
+      "file": "coin_drop_510735.mp3",
+      "freesoundId": 510735,
+      "freesoundName": "Coin dropped on table 5",
+      "description": "short, coin dropped on table with lots of reverb.",
+      "duration": 2.28967,
+      "tags": [
+        "coin",
+        "coins",
+        "drop",
+        "dropped",
+        "dropping"
+      ],
+      "rating": 4.833333333333333,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "HoseNoseSounds",
+      "fileSizeKB": 54.7
+    },
+    {
+      "file": "coin_drop_510731.mp3",
+      "freesoundId": 510731,
+      "freesoundName": "Coin dropped on table 4",
+      "description": "short, coin dropped on table",
+      "duration": 1.6946,
+      "tags": [
+        "coin",
+        "coins",
+        "drop",
+        "dropped",
+        "dropping",
+        "table"
+      ],
+      "rating": 4.428571428571429,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "HoseNoseSounds",
+      "fileSizeKB": 42.6
+    }
+  ]
+}

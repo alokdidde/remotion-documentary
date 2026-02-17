@@ -1,0 +1,107 @@
+{
+  "sfxName": "tractor_engine",
+  "catalogDescription": "Farm tractor running",
+  "category": "Food & Agriculture",
+  "files": [
+    {
+      "file": "tractor_engine_34372.mp3",
+      "freesoundId": 34372,
+      "freesoundName": "Deutz-Tractor-Engine-1972.wav",
+      "description": "This is a tractor engine build at 1972. It has 45 HP. I recorded it with 2 MBHO MBC603 +KA100, RME Quadmic, Archos Gmini 402.",
+      "duration": 93.3812,
+      "tags": [
+        "deutz",
+        "engine",
+        "field",
+        "machine",
+        "mechanics",
+        "recording",
+        "tractor"
+      ],
+      "rating": 4.338095238095238,
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "author": "Erdie",
+      "fileSizeKB": 2180.2
+    },
+    {
+      "file": "tractor_engine_34371.mp3",
+      "freesoundId": 34371,
+      "freesoundName": "Lanz-Bulldog-Tractor-Engine-Inside-Hall.wav",
+      "description": "This is a Lanz Bulldog tractor engine about 77 years old. It is a one cylinder two stroke machine, 10200 ccm swept volume, 19 HP. The pistons mass is 35 kg. This machine is started with a blowlamp. It was recorded  with 2 MBHO MBC603 + KA100, RME Quadmic and Archos Gmini 402. The machine was recorde",
+      "duration": 348.886,
+      "tags": [
+        "bulldog",
+        "country",
+        "engine",
+        "field",
+        "lanz",
+        "machine",
+        "noise",
+        "recording",
+        "tractor"
+      ],
+      "rating": 4.2976190476190474,
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "author": "Erdie",
+      "fileSizeKB": 7976.6
+    },
+    {
+      "file": "tractor_engine_34367.mp3",
+      "freesoundId": 34367,
+      "freesoundName": "Lanz-Bulldog-Tractor-Engine-Outside.wav",
+      "description": "This is a Lanz Bulldog tractor engine about 77 years old. It is a one cylinder two stroke machine, 10200 ccm swept volume, 19 HP. The pistons mass is 35 kg. This machine is started with a blowlamp. It was recorded  with 2 MBHO MBC603 + KA100, RME Quadmic and Archos Gmini 402.You can hear the machine",
+      "duration": 367.293,
+      "tags": [
+        "bulldog",
+        "country",
+        "engine",
+        "field",
+        "lanz",
+        "machine",
+        "noise",
+        "recording",
+        "tractor"
+      ],
+      "rating": 4.3059701492537314,
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "author": "Erdie",
+      "fileSizeKB": 8509.4
+    },
+    {
+      "file": "tractor_engine_707745.mp3",
+      "freesoundId": 707745,
+      "freesoundName": "tractor engine on",
+      "description": "engine from a new holland TL 75 tractor",
+      "duration": 1.30417,
+      "tags": [
+        "diesel",
+        "engine",
+        "tractor"
+      ],
+      "rating": 5,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "lauderson",
+      "fileSizeKB": 31.5
+    },
+    {
+      "file": "tractor_engine_718409.mp3",
+      "freesoundId": 718409,
+      "freesoundName": "Tractor engine working",
+      "description": "A renault tractor is working in a field at swovening. Close-up on the engine of the tractor\n\nFrance, june 2023\n\nRecorded with a Schoeps AB ORTF MSTC\nrecorded on Sounddevices 633\nwave stereo 24 bits 48Khz",
+      "duration": 165.618,
+      "tags": [
+        "countryside",
+        "engine",
+        "field",
+        "field-recording",
+        "motor",
+        "tractor",
+        "work"
+      ],
+      "rating": 5,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "bruno.auzet",
+      "fileSizeKB": 3694.3
+    }
+  ]
+}

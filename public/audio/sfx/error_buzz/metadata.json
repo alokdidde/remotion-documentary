@@ -1,0 +1,122 @@
+{
+  "sfxName": "error_buzz",
+  "catalogDescription": "Negative buzzer",
+  "category": "Narration & Information Cues",
+  "files": [
+    {
+      "file": "error_buzz_615437.mp3",
+      "freesoundId": 615437,
+      "freesoundName": "Radio Electric Buzz Error Noise.wav",
+      "description": "Radio Electric Buzz Error Noise",
+      "duration": 69.9893,
+      "tags": [
+        "Buzz",
+        "Cinematic",
+        "Electric",
+        "Electronic",
+        "Error",
+        "Factory",
+        "Film",
+        "Futuristic",
+        "Industrial",
+        "Machinery",
+        "Machines",
+        "Mechanical",
+        "Movie",
+        "Noise",
+        "Radio",
+        "Sci-fi"
+      ],
+      "rating": 4.636363636363637,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "szegvari",
+      "fileSizeKB": 1611.8
+    },
+    {
+      "file": "error_buzz_699923.mp3",
+      "freesoundId": 699923,
+      "freesoundName": "Multimedia SFX - Error 01.wav",
+      "description": "An aggressive buzz multimedia sound effect that could be used as an error noise.",
+      "duration": 0.161769,
+      "tags": [
+        "aggressive",
+        "buzz",
+        "buzzy",
+        "digital",
+        "electronic",
+        "electronics",
+        "error",
+        "fx",
+        "media",
+        "multimedia",
+        "one-shot",
+        "oneshot",
+        "sfx",
+        "sound",
+        "sound-design",
+        "sounddesign",
+        "sounds",
+        "synthesized"
+      ],
+      "rating": 4.857142857142857,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "8bitmyketison",
+      "fileSizeKB": 6
+    },
+    {
+      "file": "error_buzz_157640.mp3",
+      "freesoundId": 157640,
+      "freesoundName": "digi buzz.flac",
+      "description": "low bit depth digital buzz ",
+      "duration": 1.4922,
+      "tags": [
+        "bleep",
+        "blip",
+        "buzz",
+        "digital",
+        "electronic",
+        "error",
+        "warble"
+      ],
+      "rating": 4.571428571428571,
+      "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "author": "Timbre",
+      "fileSizeKB": 26.6
+    },
+    {
+      "file": "error_buzz_145284.mp3",
+      "freesoundId": 145284,
+      "freesoundName": "SeriousError01c.aif",
+      "description": "Error sound for software apps or video games.  Made on a Nord Modular.",
+      "duration": 0.242358,
+      "tags": [
+        "Abstract",
+        "Buzz",
+        "Error",
+        "Software",
+        "Video-Game"
+      ],
+      "rating": 0,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "Kuru23",
+      "fileSizeKB": 8
+    },
+    {
+      "file": "error_buzz_145288.mp3",
+      "freesoundId": 145288,
+      "freesoundName": "SeriousError01e.aif",
+      "description": "Error sound for software apps or video games.  Made on a Nord Modular.",
+      "duration": 0.172834,
+      "tags": [
+        "Buzz",
+        "Error",
+        "Software",
+        "Video-Game"
+      ],
+      "rating": 0,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "Kuru23",
+      "fileSizeKB": 6.8
+    }
+  ]
+}

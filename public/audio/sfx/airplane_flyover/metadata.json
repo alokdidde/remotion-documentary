@@ -1,0 +1,97 @@
+{
+  "sfxName": "airplane_flyover",
+  "catalogDescription": "Jet overhead",
+  "category": "Urban & Industrial",
+  "files": [
+    {
+      "file": "airplane_flyover_351586.mp3",
+      "freesoundId": 351586,
+      "freesoundName": "Airplane_Flyover_landing_in_Heathrow_3_48_24.wav",
+      "description": "airplane flyover while landing at London Heathrow",
+      "duration": 90.3194,
+      "tags": [
+        "aircraft",
+        "airplane",
+        "field-recording",
+        "flyover",
+        "landing"
+      ],
+      "rating": 5,
+      "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "author": "Suz_Soundcreations",
+      "fileSizeKB": 1939.1
+    },
+    {
+      "file": "airplane_flyover_351585.mp3",
+      "freesoundId": 351585,
+      "freesoundName": "Airplane_Flyover_landing_Heathrow_#4_48_24.wav",
+      "description": "airplane flyover while landing at London Heathrow",
+      "duration": 56.9917,
+      "tags": [
+        "aircraft",
+        "airplane",
+        "field-recording",
+        "flyover",
+        "landing"
+      ],
+      "rating": 4.564102564102564,
+      "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "author": "Suz_Soundcreations",
+      "fileSizeKB": 1212.3
+    },
+    {
+      "file": "airplane_flyover_351589.mp3",
+      "freesoundId": 351589,
+      "freesoundName": "Airplane_Flyover_landing_in_Heathrow_5_48_24.wav",
+      "description": "airplane flyover while landing at London Heathrow",
+      "duration": 60.4311,
+      "tags": [
+        "aircraft",
+        "airplane",
+        "field-recording",
+        "flyover",
+        "landing"
+      ],
+      "rating": 4.666666666666667,
+      "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "author": "Suz_Soundcreations",
+      "fileSizeKB": 1279.3
+    },
+    {
+      "file": "airplane_flyover_351587.mp3",
+      "freesoundId": 351587,
+      "freesoundName": "Airplane_Flyover_landing_in_Heathrow_2_48_24.wav",
+      "description": "airplane flyover while landing at London Heathrow",
+      "duration": 54.9075,
+      "tags": [
+        "aircraft",
+        "airplane",
+        "field-recording",
+        "flyover",
+        "landing"
+      ],
+      "rating": 5,
+      "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "author": "Suz_Soundcreations",
+      "fileSizeKB": 1168
+    },
+    {
+      "file": "airplane_flyover_351588.mp3",
+      "freesoundId": 351588,
+      "freesoundName": "Airplane_Flyover_landing_in_Heathrow_1_48_24.wav",
+      "description": "airplane flyover while landing at London Heathrow",
+      "duration": 64.4426,
+      "tags": [
+        "aircraft",
+        "airplane",
+        "field-recording",
+        "flyover",
+        "landing"
+      ],
+      "rating": 4.777777777777778,
+      "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "author": "Suz_Soundcreations",
+      "fileSizeKB": 1372.5
+    }
+  ]
+}

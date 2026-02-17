@@ -1,0 +1,103 @@
+{
+  "sfxName": "phone_dial_tone",
+  "catalogDescription": "Landline dial tone",
+  "category": "Human & Social",
+  "files": [
+    {
+      "file": "phone_dial_tone_158427.mp3",
+      "freesoundId": 158427,
+      "freesoundName": "Dial Tone",
+      "description": "A dial tone, made from scratch.",
+      "duration": 5,
+      "tags": [
+        "dial",
+        "dtmf",
+        "tone"
+      ],
+      "rating": 4.623376623376624,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "ramicio",
+      "fileSizeKB": 32.9
+    },
+    {
+      "file": "phone_dial_tone_316660.mp3",
+      "freesoundId": 316660,
+      "freesoundName": "Dial Tone for a Phone (sci-fi edition)",
+      "description": "This is a dial tone that I made in Logic. Enjoy =)",
+      "duration": 8.17342,
+      "tags": [
+        "dial",
+        "edition",
+        "ES2",
+        "fi",
+        "logic",
+        "phone",
+        "sic",
+        "tone"
+      ],
+      "rating": 3.25,
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "author": "Dpoggioli",
+      "fileSizeKB": 175.8
+    },
+    {
+      "file": "phone_dial_tone_360473.mp3",
+      "freesoundId": 360473,
+      "freesoundName": "Dial tone 2",
+      "description": "A dial tone from a phone.\r\n\r\nRecorded with a Zoom H1.",
+      "duration": 8.98372,
+      "tags": [
+        "ambient",
+        "dial",
+        "dialtone",
+        "office",
+        "Phone",
+        "tone",
+        "work"
+      ],
+      "rating": 5,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "giddster",
+      "fileSizeKB": 202.7
+    },
+    {
+      "file": "phone_dial_tone_199342.mp3",
+      "freesoundId": 199342,
+      "freesoundName": "phone interference while dial tone plays",
+      "description": "dial tone while wireless phone gives interference. I used the Tascam dr-40 with wind sock. un edited",
+      "duration": 101.433,
+      "tags": [
+        "dial",
+        "interference",
+        "phone",
+        "tone",
+        "wireless"
+      ],
+      "rating": 4.2,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "s9ames",
+      "fileSizeKB": 2628.2
+    },
+    {
+      "file": "phone_dial_tone_360480.mp3",
+      "freesoundId": 360480,
+      "freesoundName": "Dial tone",
+      "description": "Another dial tone. Huehuehuehuehue.\r\n\r\nRecorded with a Zoom H1.",
+      "duration": 7.40918,
+      "tags": [
+        "alert",
+        "ambience",
+        "Dial",
+        "foley",
+        "phone",
+        "ring",
+        "telephone",
+        "tone"
+      ],
+      "rating": 4.285714285714286,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "giddster",
+      "fileSizeKB": 165.4
+    }
+  ]
+}

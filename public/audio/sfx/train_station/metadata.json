@@ -1,0 +1,104 @@
+{
+  "sfxName": "train_station",
+  "catalogDescription": "Station announcements, crowd",
+  "category": "Urban & Industrial",
+  "files": [
+    {
+      "file": "train_station_78455.mp3",
+      "freesoundId": 78455,
+      "freesoundName": "cambridge_train_station_02_shelter_water_2005.flac",
+      "description": "Train station in Cambridge, UK - rainy afternoon. Short recording of me standing inside one of the station's shelters, a bit of water dripping from the makeshift ceiling. The other 2 samples of this pack were recorded outside.\nRecorded April 2005 with a Sony Minidisc and a small Sony condenser micro",
+      "duration": 21.9987,
+      "tags": [
+        "cambridge",
+        "dripping",
+        "shelter",
+        "station",
+        "train",
+        "water"
+      ],
+      "rating": 0,
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "author": "andre.nascimento",
+      "fileSizeKB": 599.3
+    },
+    {
+      "file": "train_station_78454.mp3",
+      "freesoundId": 78454,
+      "freesoundName": "cambridge_train_station_01_2005.flac",
+      "description": "Train station in Cambridge, UK, general environment, train doors closing, train departing towards the end of the recording (you can also hear another train departing on the background). \nRecorded in a rainy afternoon around April 2005 with a Sony Minidisc and a small Sony condenser microphone.",
+      "duration": 121.916,
+      "tags": [
+        "cambridge",
+        "departing",
+        "railroad",
+        "station",
+        "train"
+      ],
+      "rating": 3.333333333333335,
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "author": "andre.nascimento",
+      "fileSizeKB": 2629.6
+    },
+    {
+      "file": "train_station_78456.mp3",
+      "freesoundId": 78456,
+      "freesoundName": "cambridge_train_station_03_2005.flac",
+      "description": "Train station in Cambridge, UK, general environment, loudspeaker announcements, people walking around, train departing. \nRecorded in a rainy afternoon around April 2005 with a Sony Minidisc and a small Sony condenser microphone.",
+      "duration": 353.504,
+      "tags": [
+        "cambridge",
+        "departing",
+        "railroad",
+        "station",
+        "train"
+      ],
+      "rating": 0,
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "author": "andre.nascimento",
+      "fileSizeKB": 7603.9
+    },
+    {
+      "file": "train_station_833569.mp3",
+      "freesoundId": 833569,
+      "freesoundName": "Train Station Warning - Get Away from the Wite Stripe - Allontanarsi dalla Linea Gialla",
+      "description": "Train station warning to get away from the white stripe because a train is approaching. Language is italian.",
+      "duration": 3.24573,
+      "tags": [
+        "field-recording",
+        "italian",
+        "italy",
+        "rail",
+        "railway",
+        "station",
+        "train",
+        "trains",
+        "warning"
+      ],
+      "rating": 4,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "bassimat",
+      "fileSizeKB": 76.6
+    },
+    {
+      "file": "train_station_833570.mp3",
+      "freesoundId": 833570,
+      "freesoundName": "Train Passing by in the Train Station",
+      "description": "Train passing by while at the platform of Padova railway station",
+      "duration": 66.3307,
+      "tags": [
+        "announcement",
+        "field-recording",
+        "platform",
+        "railway",
+        "railway-station",
+        "station",
+        "train"
+      ],
+      "rating": 2,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "bassimat",
+      "fileSizeKB": 1459.1
+    }
+  ]
+}

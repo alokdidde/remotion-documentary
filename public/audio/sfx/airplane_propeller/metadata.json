@@ -1,0 +1,104 @@
+{
+  "sfxName": "airplane_propeller",
+  "catalogDescription": "Vintage prop engine",
+  "category": "Urban & Industrial",
+  "files": [
+    {
+      "file": "airplane_propeller_515215.mp3",
+      "freesoundId": 515215,
+      "freesoundName": "airplane, propeller ultralight plane, rans, takeoff, external perspective",
+      "description": "Field recording of experimental ultralight single propeller airplane Rans, airplane taking off. Professionally recorded with Zoom h5 recorder and Audio Technica At8035 microphone.",
+      "duration": 27.7605,
+      "tags": [
+        "aircraft",
+        "airplane",
+        "exterior",
+        "field-recording",
+        "propeller",
+        "take-off"
+      ],
+      "rating": 5,
+      "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "author": "JoseIgnacioTriay",
+      "fileSizeKB": 592.9
+    },
+    {
+      "file": "airplane_propeller_515211.mp3",
+      "freesoundId": 515211,
+      "freesoundName": "airplane, propeller ultralight plane, quicksilver, idle, taxi away",
+      "description": "Field recording of experimental single propeller airplane quicksilver, airplane idles, then taxi into distance. Professionally recorded with Zoom h5 recorder and Audio Technica At8035 microphone.",
+      "duration": 27.9671,
+      "tags": [
+        "aircraft",
+        "airplane",
+        "exterior",
+        "field-recording",
+        "idling",
+        "propeller",
+        "taxi"
+      ],
+      "rating": 5,
+      "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "author": "JoseIgnacioTriay",
+      "fileSizeKB": 615.2
+    },
+    {
+      "file": "airplane_propeller_705380.mp3",
+      "freesoundId": 705380,
+      "freesoundName": "Old propeller airplane",
+      "description": "Sound of an old propeller airplane flying by, this is AI generated audio.",
+      "duration": 12.3432,
+      "tags": [
+        "ai",
+        "aircraft",
+        "airplane",
+        "plane",
+        "propeller"
+      ],
+      "rating": 1.8571428571428572,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "chungus43A",
+      "fileSizeKB": 268.8
+    },
+    {
+      "file": "airplane_propeller_515216.mp3",
+      "freesoundId": 515216,
+      "freesoundName": "airplane, propeller ultralight plane, rans, start, idol, taxi away, external perspective",
+      "description": "Field recording of experimental ultralight single propeller airplane Rans, airplane starts, idles, then taxies away. Professionally recorded with Zoom h5 recorder and Audio Technica At8035 microphone.",
+      "duration": 129.836,
+      "tags": [
+        "aircraft",
+        "airplane",
+        "field-recording",
+        "idling",
+        "propeller",
+        "start",
+        "taxi"
+      ],
+      "rating": 4.5,
+      "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "author": "JoseIgnacioTriay",
+      "fileSizeKB": 2881
+    },
+    {
+      "file": "airplane_propeller_515210.mp3",
+      "freesoundId": 515210,
+      "freesoundName": "airplane, propeller ultralight plane, quicksilver, start and idle, external perspective",
+      "description": "Field recording of experimental ultralight single propeller airplane quicksilver close perspective from the outside, airplane starts and idles. Professionally recorded with Zoom h5 recorder and Audio Technica At8035 microphone.?",
+      "duration": 42.7441,
+      "tags": [
+        "aircraft",
+        "airplane",
+        "exterior",
+        "field-recording",
+        "idling",
+        "propeller",
+        "start"
+      ],
+      "rating": 4.375,
+      "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "author": "JoseIgnacioTriay",
+      "fileSizeKB": 967.3
+    }
+  ]
+}

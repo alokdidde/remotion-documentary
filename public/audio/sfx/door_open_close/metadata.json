@@ -1,0 +1,125 @@
+{
+  "sfxName": "door_open_close",
+  "catalogDescription": "Door creak or click",
+  "category": "Transitions & Structural Cues",
+  "files": [
+    {
+      "file": "door_open_close_261109.mp3",
+      "freesoundId": 261109,
+      "freesoundName": "Door opening and closing 8",
+      "description": "Wooden door being opened then shut.\r\n\r\nrecorded with a Roland R-05",
+      "duration": 4.70204,
+      "tags": [
+        "close",
+        "closing",
+        "door",
+        "doors",
+        "open",
+        "opening",
+        "wood",
+        "wooden"
+      ],
+      "rating": 4.617021276595745,
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "author": "JakLocke",
+      "fileSizeKB": 110.9
+    },
+    {
+      "file": "door_open_close_261088.mp3",
+      "freesoundId": 261088,
+      "freesoundName": "Door opening and closing 4",
+      "description": "Wooden door being opened then shut, with light squeak.\r\n\r\nrecorded with a Roland R-05",
+      "duration": 7.13143,
+      "tags": [
+        "close",
+        "closing",
+        "creak",
+        "creaking",
+        "door",
+        "doors",
+        "open",
+        "opening",
+        "squeak",
+        "squeaky",
+        "wood",
+        "wooden"
+      ],
+      "rating": 4.461538461538462,
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "author": "JakLocke",
+      "fileSizeKB": 169.5
+    },
+    {
+      "file": "door_open_close_261092.mp3",
+      "freesoundId": 261092,
+      "freesoundName": "Door opening and closing 6",
+      "description": "Extremely squeaky door being opened and shut, with audible outside ambience when open.\r\n\r\nrecorded with a Roland R-05",
+      "duration": 7.52327,
+      "tags": [
+        "close",
+        "closing",
+        "creak",
+        "creaking",
+        "door",
+        "doors",
+        "open",
+        "opening",
+        "outdoor",
+        "squeak",
+        "squeaky",
+        "wood",
+        "wooden"
+      ],
+      "rating": 4.461538461538462,
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "author": "JakLocke",
+      "fileSizeKB": 175.6
+    },
+    {
+      "file": "door_open_close_261090.mp3",
+      "freesoundId": 261090,
+      "freesoundName": "Door opening and closing 2",
+      "description": "Wooden door being opened then shut.\r\n\r\nrecorded with a Roland R-05",
+      "duration": 4.38857,
+      "tags": [
+        "close",
+        "closing",
+        "door",
+        "doors",
+        "open",
+        "opening",
+        "wood",
+        "wooden"
+      ],
+      "rating": 4.6,
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "author": "JakLocke",
+      "fileSizeKB": 105.3
+    },
+    {
+      "file": "door_open_close_261110.mp3",
+      "freesoundId": 261110,
+      "freesoundName": "Door opening and closing 7",
+      "description": "Wooden door being opened then shut, with light squeak.\r\n\r\nrecorded with a Roland R-05",
+      "duration": 5.12,
+      "tags": [
+        "close",
+        "closing",
+        "creak",
+        "creaking",
+        "door",
+        "doors",
+        "open",
+        "opening",
+        "squeak",
+        "squeaky",
+        "wood",
+        "wooden"
+      ],
+      "rating": 4.619047619047619,
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "author": "JakLocke",
+      "fileSizeKB": 122.2
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "sfxName": "horse_gallop",
+  "catalogDescription": "Galloping horse",
+  "category": "Historical & Period",
+  "files": [
+    {
+      "file": "horse_gallop_574316.mp3",
+      "freesoundId": 574316,
+      "freesoundName": "82 - Galloping horse Caballo galopando",
+      "description": "Caballo Galopando en Competencia Galloping Horse in Competence",
+      "duration": 14.365,
+      "tags": [
+        "field-recording",
+        "gallop",
+        "Galloping",
+        "horse",
+        "Horse",
+        "wind",
+        "yockey"
+      ],
+      "rating": 3.5833333333333335,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "GiordanoFabricio",
+      "fileSizeKB": 267.6
+    },
+    {
+      "file": "horse_gallop_574315.mp3",
+      "freesoundId": 574315,
+      "freesoundName": "86 - Galloping horse Caballo galopando",
+      "description": "Caballo Galopando en Competencia Galloping Horse in Competence",
+      "duration": 63.781,
+      "tags": [
+        "field-recording",
+        "gallop",
+        "Galloping",
+        "horse",
+        "Horse",
+        "wind",
+        "yockey"
+      ],
+      "rating": 4.142857142857143,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "GiordanoFabricio",
+      "fileSizeKB": 1199.4
+    },
+    {
+      "file": "horse_gallop_574317.mp3",
+      "freesoundId": 574317,
+      "freesoundName": "65 - Galloping horse Caballo galopando",
+      "description": "Caballo Galopando en Competencia Galloping Horse in Competence",
+      "duration": 44.509,
+      "tags": [
+        "field-recording",
+        "gallop",
+        "Galloping",
+        "horse",
+        "Horse",
+        "wind",
+        "yockey"
+      ],
+      "rating": 3.857142857142857,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "GiordanoFabricio",
+      "fileSizeKB": 839.7
+    },
+    {
+      "file": "horse_gallop_522190.mp3",
+      "freesoundId": 522190,
+      "freesoundName": "horse galloping loop.m4a",
+      "description": "GIVE CREDIT, This sound is not in the public domain! \nSubscribe to my youtube: https://www.youtube.com/channel/UCJ64IaEwdJpzrEJYlwr0T9w\n\nI recorded myself dropping a couple of things on the ground but when I listened to the recording it didn't sound right. Before I could scrap it I realized what it ",
+      "duration": 0.896,
+      "tags": [
+        "gallop",
+        "hooves",
+        "horse",
+        "loop"
+      ],
+      "rating": 1.9285714285714286,
+      "license": "http://creativecommons.org/licenses/by/3.0/",
+      "author": "MBlol",
+      "fileSizeKB": 22.2
+    },
+    {
+      "file": "horse_gallop_510914.mp3",
+      "freesoundId": 510914,
+      "freesoundName": "SlowFX_Horse_Gallop.wav",
+      "description": "Slow fx horse gallop",
+      "duration": 22.5767,
+      "tags": [
+        "fx",
+        "gallop",
+        "horse",
+        "slow"
+      ],
+      "rating": 3.2,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "Lydmakeren",
+      "fileSizeKB": 518.1
+    }
+  ]
+}

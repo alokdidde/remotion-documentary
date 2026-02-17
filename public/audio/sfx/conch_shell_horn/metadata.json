@@ -1,0 +1,124 @@
+{
+  "sfxName": "conch_shell_horn",
+  "catalogDescription": "Conch shell blown",
+  "category": "Historical & Period",
+  "files": [
+    {
+      "file": "conch_shell_horn_731214.mp3",
+      "freesoundId": 731214,
+      "freesoundName": "AMB-Restaurant,Walla,Bells,ConchShell-2Jul2022,1908H-PatanDurbar,Nepal",
+      "description": "An evening ambience at historical Patan Durbar Square area in Kathmandu Valley.",
+      "duration": 133.371,
+      "tags": [
+        "Ambience",
+        "Bells",
+        "Conch",
+        "Durbar",
+        "Lalitpur",
+        "Nepal",
+        "Patan",
+        "Restaurant",
+        "Shell",
+        "Walla"
+      ],
+      "rating": 0,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "soundandmelodies",
+      "fileSizeKB": 2905.8
+    },
+    {
+      "file": "conch_shell_horn_693727.mp3",
+      "freesoundId": 693727,
+      "freesoundName": "Ocean Sounds with Conch Shell",
+      "description": "Ocean Sounds with Conch Shell",
+      "duration": 68.826,
+      "tags": [
+        "atlantic",
+        "beach",
+        "breaking-waves",
+        "coast",
+        "coastal",
+        "field-recording",
+        "lapping",
+        "ocean",
+        "sea",
+        "sea-shore",
+        "seashore",
+        "seaside",
+        "shell",
+        "shore",
+        "splash",
+        "splashing",
+        "surf",
+        "water",
+        "wave",
+        "waves"
+      ],
+      "rating": 5,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "composingatnight",
+      "fileSizeKB": 1519.5
+    },
+    {
+      "file": "conch_shell_horn_439477.mp3",
+      "freesoundId": 439477,
+      "freesoundName": "Sankh_conch.mp3",
+      "description": "Sankh Dwani, Sankh Naad-A Shankha [Sanskrit:शङ्ख] is a conch shell of ritual and religious importance in Hinduism and Buddhism. It is the shell of a large predatory sea snail.In Hindu mythology, the shankha is a sacred emblem of the Hindu preserver god Vishnu. It is still used as a trumpet in Hindu ",
+      "duration": 22.2705,
+      "tags": [
+        "blow",
+        "blowing",
+        "conch",
+        "hindu",
+        "pooja",
+        "sankh",
+        "sankha",
+        "spiritual",
+        "trumpet"
+      ],
+      "rating": 4.1521739130434785,
+      "license": "http://creativecommons.org/licenses/by-nc/3.0/",
+      "author": "Odiasites.com",
+      "fileSizeKB": 487.8
+    },
+    {
+      "file": "conch_shell_horn_467959.mp3",
+      "freesoundId": 467959,
+      "freesoundName": "come back horn1.wav",
+      "description": "Recording of conch shell with Neumann mic 24 bit, 44.1",
+      "duration": 280.393,
+      "tags": [
+        "conch",
+        "earthytimbres",
+        "horn",
+        "pagan",
+        "shamanic",
+        "sounds"
+      ],
+      "rating": 4,
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "author": "CMeeson",
+      "fileSizeKB": 3422
+    },
+    {
+      "file": "conch_shell_horn_507468.mp3",
+      "freesoundId": 507468,
+      "freesoundName": "Alpenhorn.aiff",
+      "description": "A middle-frequency note that sounds like a Swiss alpenhorn or person blowing into a conch shell.  Made by blowing into a short section of PVC pipe.",
+      "duration": 5.25525,
+      "tags": [
+        "alpenhorn",
+        "clarion",
+        "conch",
+        "conch-shell",
+        "horn",
+        "mountain",
+        "swiss"
+      ],
+      "rating": 4.714285714285714,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "Danjocross",
+      "fileSizeKB": 119.4
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "sfxName": "construction_site",
+  "catalogDescription": "Hammering, drilling",
+  "category": "Urban & Industrial",
+  "files": [
+    {
+      "file": "construction_site_383272.mp3",
+      "freesoundId": 383272,
+      "freesoundName": "Construction Sounds Noisy Jobsite Free High Quality Sound FX",
+      "description": "Construction Sounds Noisy Jobsite Free High Quality Sound FX",
+      "duration": 137.208,
+      "tags": [
+        "Construction",
+        "Free",
+        "FX",
+        "High",
+        "Jobsite",
+        "Noisy",
+        "Quality",
+        "Sound",
+        "Sounds"
+      ],
+      "rating": 4.571428571428571,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "deleted_user_7146007",
+      "fileSizeKB": 2621.6
+    },
+    {
+      "file": "construction_site_383274.mp3",
+      "freesoundId": 383274,
+      "freesoundName": "Construction Sounds Oscillating Saw Free High Quality Sound FX",
+      "description": "Construction Sounds Oscillating Saw Free High Quality Sound FX",
+      "duration": 61.5833,
+      "tags": [
+        "Construction",
+        "Free",
+        "FX",
+        "High",
+        "Oscillating",
+        "Quality",
+        "Saw",
+        "Sound",
+        "Sounds"
+      ],
+      "rating": 4,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "deleted_user_7146007",
+      "fileSizeKB": 1183.9
+    },
+    {
+      "file": "construction_site_383813.mp3",
+      "freesoundId": 383813,
+      "freesoundName": "Nails Construction Sounds",
+      "description": "Nails Construction Sounds",
+      "duration": 40.1333,
+      "tags": [
+        "Construction",
+        "Nails",
+        "Sounds"
+      ],
+      "rating": 4.6,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "deleted_user_7146007",
+      "fileSizeKB": 745.2
+    },
+    {
+      "file": "construction_site_383271.mp3",
+      "freesoundId": 383271,
+      "freesoundName": "Construction Sounds K12 Saw Sound Effect Free High Quality Sound FX",
+      "description": "Construction Sounds K12 Saw Sound Effect Free High Quality Sound FX",
+      "duration": 301.208,
+      "tags": [
+        "Construction",
+        "Effect",
+        "Free",
+        "FX",
+        "High",
+        "K12",
+        "Quality",
+        "Saw",
+        "Sound",
+        "Sounds"
+      ],
+      "rating": 4.666666666666667,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "deleted_user_7146007",
+      "fileSizeKB": 5834.4
+    },
+    {
+      "file": "construction_site_383270.mp3",
+      "freesoundId": 383270,
+      "freesoundName": "Construction Sounds Hammer Hammering Sound Effect Free High Quality Sound FX",
+      "description": "Construction Sounds Hammer Hammering Sound Effect Free High Quality Sound FX",
+      "duration": 18.8333,
+      "tags": [
+        "Construction",
+        "Effect",
+        "Free",
+        "FX",
+        "Hammer",
+        "Hammering",
+        "High",
+        "Quality",
+        "Sound",
+        "Sounds"
+      ],
+      "rating": 5,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "deleted_user_7146007",
+      "fileSizeKB": 346.5
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "sfxName": "gunfire_distant",
+  "catalogDescription": "Faraway automatic fire",
+  "category": "War & Conflict",
+  "files": [
+    {
+      "file": "gunfire_distant_158978.mp3",
+      "freesoundId": 158978,
+      "freesoundName": "Distant_gunfire_02.wav",
+      "description": "Distant gunfire. Not suitable for close-range shots, but could work as well as distant shots or even explosions.",
+      "duration": 1.73754,
+      "tags": [
+        "blast",
+        "boom",
+        "bullet",
+        "crack",
+        "distant",
+        "fire",
+        "gun",
+        "gunfire",
+        "pow",
+        "shoot"
+      ],
+      "rating": 4.75,
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "author": "CGEffex",
+      "fileSizeKB": 39.9
+    },
+    {
+      "file": "gunfire_distant_158979.mp3",
+      "freesoundId": 158979,
+      "freesoundName": "Distant_gunfire_01.wav",
+      "description": "Distant gunfire. Not suitable for close-range shots, but could work as well as distant shots or even explosions.",
+      "duration": 2.51292,
+      "tags": [
+        "blast",
+        "boom",
+        "bullet",
+        "crack",
+        "distant",
+        "fire",
+        "gun",
+        "gunfire",
+        "pow",
+        "shoot"
+      ],
+      "rating": 4.521739130434782,
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "author": "CGEffex",
+      "fileSizeKB": 57.7
+    },
+    {
+      "file": "gunfire_distant_158977.mp3",
+      "freesoundId": 158977,
+      "freesoundName": "Distant_gunfire_03.wav",
+      "description": "Distant gunfire. Not suitable for close-range shots, but could work as well as distant shots or even explosions.",
+      "duration": 1.88656,
+      "tags": [
+        "blast",
+        "boom",
+        "bullet",
+        "crack",
+        "distant",
+        "fire",
+        "gun",
+        "gunfire",
+        "pow",
+        "shoot"
+      ],
+      "rating": 4.647058823529412,
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "author": "CGEffex",
+      "fileSizeKB": 42.8
+    },
+    {
+      "file": "gunfire_distant_170478.mp3",
+      "freesoundId": 170478,
+      "freesoundName": "Distant WW2 Gunfire Kent.wav",
+      "description": "A recording of a distant re-enactment ww2 battle from inside a wood in Kent 2012. Mono.\r\nSchoeps CMIT and 744\r\n",
+      "duration": 68.8199,
+      "tags": [
+        "battle",
+        "distant",
+        "fighting",
+        "firing",
+        "gun",
+        "gunfire",
+        "machine-gun",
+        "war",
+        "ww2"
+      ],
+      "rating": 4.683333333333334,
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "author": "Cheeseheadburger",
+      "fileSizeKB": 1497.1
+    },
+    {
+      "file": "gunfire_distant_384717.mp3",
+      "freesoundId": 384717,
+      "freesoundName": "Distant Gunshot 1.wav",
+      "description": "A distant gunshot SFX created by heavily, heavily editing me thwacking my microphone, in Audacity. Use however you see fit.",
+      "duration": 3.48063,
+      "tags": [
+        "Distant",
+        "Firefight",
+        "Gunfire"
+      ],
+      "rating": 1.5,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "morganpurkis",
+      "fileSizeKB": 75.2
+    }
+  ]
+}

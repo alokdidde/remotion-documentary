@@ -1,0 +1,104 @@
+{
+  "sfxName": "glass_break",
+  "catalogDescription": "Shattering glass",
+  "category": "Impacts & Emphasis",
+  "files": [
+    {
+      "file": "glass_break_977.mp3",
+      "freesoundId": 977,
+      "freesoundName": "RBH Glass_Break 01.wav",
+      "description": "Stereo recording, small glass being dropped and breaking. Recorded with a Zaxcom Deva II and a Sennheiser MKH 30 and MKH 40 as mid-side, decoded to AB stereo.",
+      "duration": 1.37027,
+      "tags": [
+        "break",
+        "glass",
+        "household",
+        "small",
+        "smash"
+      ],
+      "rating": 4.016806722689076,
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "author": "RHumphries",
+      "fileSizeKB": 36.8
+    },
+    {
+      "file": "glass_break_981.mp3",
+      "freesoundId": 981,
+      "freesoundName": "RBH Glass_Break 05.wav",
+      "description": "Stereo recording, small glass being dropped and breaking. Recorded with a Zaxcom Deva II and a Sennheiser MKH 30 and MKH 40 as mid-side, decoded to AB stereo.",
+      "duration": 1.76956,
+      "tags": [
+        "break",
+        "environmental-sounds-research",
+        "glass",
+        "household",
+        "small",
+        "smash"
+      ],
+      "rating": 4.263313609467455,
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "author": "RHumphries",
+      "fileSizeKB": 43
+    },
+    {
+      "file": "glass_break_203370.mp3",
+      "freesoundId": 203370,
+      "freesoundName": "glass-in-bucket_01.ogg",
+      "description": "Glass shattering/breaking sound in a bucket. Could be used as a drum sound for an industrial beat.\r\n\r\nWould love to hear some of your work with these sounds, but it is not necessary to give me credit, or do anything beyond enjoying the sound for your professional or non-professional use. This file i",
+      "duration": 1.23465,
+      "tags": [
+        "break",
+        "crack",
+        "crunch",
+        "drum",
+        "explode",
+        "glass",
+        "percussion",
+        "shatter"
+      ],
+      "rating": 4.333333333333333,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "C_Rogers",
+      "fileSizeKB": 30.9
+    },
+    {
+      "file": "glass_break_203373.mp3",
+      "freesoundId": 203373,
+      "freesoundName": "glass-shattering_03.ogg",
+      "description": "Glass shattering/breaking sound\r\n\r\nWould love to hear some of your work with these sounds, but it is not necessary to give me credit, or do anything beyond enjoying the sound for your professional or non-professional use. This file is tagged cc0, with my info, to prevent the need to carry a separate",
+      "duration": 0.74288,
+      "tags": [
+        "break",
+        "crack",
+        "crunch",
+        "explode",
+        "glass",
+        "shatter"
+      ],
+      "rating": 4.695652173913044,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "C_Rogers",
+      "fileSizeKB": 19.9
+    },
+    {
+      "file": "glass_break_338694.mp3",
+      "freesoundId": 338694,
+      "freesoundName": "Glass bottle break.wav",
+      "description": "breaking 2 glass bottles",
+      "duration": 1.28011,
+      "tags": [
+        "beer",
+        "bottle",
+        "break",
+        "crack",
+        "glass",
+        "shatter",
+        "smash"
+      ],
+      "rating": 3.3846153846153846,
+      "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "author": "natemarler",
+      "fileSizeKB": 24.8
+    }
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "sfxName": "train_passing",
+  "catalogDescription": "Train whoosh",
+  "category": "Urban & Industrial",
+  "files": [
+    {
+      "file": "train_passing_591920.mp3",
+      "freesoundId": 591920,
+      "freesoundName": "Train Passing By 44 with Horn (Pitch Change).mp3",
+      "description": "An mp3 audio recording of a train passing by. Includes a horn and pitch change. Taken from a YouTube train compilation video (of which, unfortunately, I've forgotten the location). Therefore no credit goes to me except cutting/editing the audio. Hope it's useful.",
+      "duration": 11.56,
+      "tags": [
+        "blast",
+        "blow",
+        "freight",
+        "honk",
+        "horn",
+        "locomotive",
+        "passing",
+        "pitch-change",
+        "rail",
+        "railroad",
+        "train"
+      ],
+      "rating": 5,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "FunWithSound",
+      "fileSizeKB": 255.1
+    },
+    {
+      "file": "train_passing_591921.mp3",
+      "freesoundId": 591921,
+      "freesoundName": "Train Passing By 43 with Pitch Change, Track Clacking.mp3",
+      "description": "An mp3 audio recording of a train passing by. Includes a pitch change and track clacking noises. Taken from a YouTube train compilation video (of which, unfortunately, I've forgotten the location). Therefore no credit goes to me except cutting/editing the audio. Hope it's useful.",
+      "duration": 6.44,
+      "tags": [
+        "clacking",
+        "freight",
+        "locomotive",
+        "noises",
+        "passing",
+        "pitch-change",
+        "rail",
+        "railroad",
+        "track",
+        "train"
+      ],
+      "rating": 0,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "FunWithSound",
+      "fileSizeKB": 142.6
+    },
+    {
+      "file": "train_passing_591918.mp3",
+      "freesoundId": 591918,
+      "freesoundName": "Train Passing By 26 with Bell.mp3",
+      "description": "An mp3 audio recording of a train passing by. Includes a train bell. Taken from a YouTube train compilation video (of which, unfortunately, I've forgotten the location). Therefore no credit goes to me except cutting/editing the audio. Hope it's useful.",
+      "duration": 11.76,
+      "tags": [
+        "bell",
+        "freight",
+        "locomotive",
+        "passing",
+        "rail",
+        "railroad",
+        "train"
+      ],
+      "rating": 5,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "FunWithSound",
+      "fileSizeKB": 261
+    },
+    {
+      "file": "train_passing_591917.mp3",
+      "freesoundId": 591917,
+      "freesoundName": "Train Passing By 21 with Dry Horn, Pitch Change.mp3",
+      "description": "A dry mp3 audio recording of a train passing by. Includes a horn and pitch-change. Taken from a YouTube train compilation video (of which, unfortunately, I've forgotten the location). Therefore no credit goes to me except cutting/editing the audio. Hope it's useful.",
+      "duration": 15.48,
+      "tags": [
+        "blast",
+        "blow",
+        "dry",
+        "freight",
+        "honk",
+        "horn",
+        "locomotive",
+        "passing",
+        "pitch-change",
+        "rail",
+        "railroad",
+        "train"
+      ],
+      "rating": 5,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "FunWithSound",
+      "fileSizeKB": 340.5
+    },
+    {
+      "file": "train_passing_591915.mp3",
+      "freesoundId": 591915,
+      "freesoundName": "Train Passing By 23 in Mountains.mp3",
+      "description": "An mp3 audio recording of a train passing by in the mountains. Taken from a YouTube train compilation video (of which, unfortunately, I've forgotten the location). Therefore no credit goes to me except cutting/editing the audio. Hope it's useful.",
+      "duration": 18.68,
+      "tags": [
+        "freight",
+        "locomotive",
+        "mountains",
+        "passing",
+        "rail",
+        "railroad",
+        "train"
+      ],
+      "rating": 4,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "FunWithSound",
+      "fileSizeKB": 407.7
+    }
+  ]
+}

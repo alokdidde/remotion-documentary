@@ -1,0 +1,123 @@
+{
+  "sfxName": "train_whistle",
+  "catalogDescription": "Steam locomotive whistle",
+  "category": "Urban & Industrial",
+  "files": [
+    {
+      "file": "train_whistle_591949.mp3",
+      "freesoundId": 591949,
+      "freesoundName": "Train Passing By 72 with Steam Whistle, Chugging.mp3",
+      "description": "An mp3 audio recording of a train passing by. Includes a steam whistle and chugging. Taken from a YouTube train compilation video (of which, unfortunately, I've forgotten the location). Therefore no credit goes to me except cutting/editing the audio. Hope it's useful.",
+      "duration": 15.6,
+      "tags": [
+        "chugging",
+        "freight",
+        "locomotive",
+        "passing",
+        "rail",
+        "railroad",
+        "steam",
+        "train",
+        "whistle"
+      ],
+      "rating": 5,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "FunWithSound",
+      "fileSizeKB": 342.3
+    },
+    {
+      "file": "train_whistle_591900.mp3",
+      "freesoundId": 591900,
+      "freesoundName": "Train Passing By 27 with Steam Whistle, Several Bells.mp3",
+      "description": "An mp3 audio recording of a train passing by. Includes a steam whistle, train bell, and crossing bells. Taken from a YouTube train compilation video (of which, unfortunately, I've forgotten the location). Therefore no credit goes to me except cutting/editing the audio. Hope it's useful.",
+      "duration": 26.88,
+      "tags": [
+        "bells",
+        "crossing",
+        "freight",
+        "junction",
+        "locomotive",
+        "pass",
+        "passing",
+        "rail",
+        "railroad",
+        "steam",
+        "train",
+        "whistle"
+      ],
+      "rating": 5,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "FunWithSound",
+      "fileSizeKB": 590.8
+    },
+    {
+      "file": "train_whistle_591974.mp3",
+      "freesoundId": 591974,
+      "freesoundName": "Train Passing By 83 with Bell, Steam Whistle, Chugging.mp3",
+      "description": "An mp3 audio recording of a train passing by. Includes a train bell, steam whistle, and chugging. Taken from a YouTube train compilation video (of which, unfortunately, I've forgotten the location). Therefore no credit goes to me except cutting/editing the audio. Hope it's useful.",
+      "duration": 23.76,
+      "tags": [
+        "bell",
+        "chugging",
+        "ding",
+        "freight",
+        "locomotive",
+        "passing",
+        "rail",
+        "railroad",
+        "steam",
+        "train",
+        "whistle"
+      ],
+      "rating": 5,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "FunWithSound",
+      "fileSizeKB": 522.8
+    },
+    {
+      "file": "train_whistle_591894.mp3",
+      "freesoundId": 591894,
+      "freesoundName": "Train Passing By 49 with Bell, Steam Whistle.mp3",
+      "description": "An mp3 audio recording of a train passing by. Includes a train bell and steam whistle. Taken from a YouTube train compilation video (of which, unfortunately, I've forgotten the location). Therefore no credit goes to me except cutting/editing the audio. Hope it's useful.",
+      "duration": 23.68,
+      "tags": [
+        "bell",
+        "freight",
+        "locomotive",
+        "passing",
+        "rail",
+        "railroad",
+        "steam",
+        "train",
+        "whistle"
+      ],
+      "rating": 5,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "FunWithSound",
+      "fileSizeKB": 516.4
+    },
+    {
+      "file": "train_whistle_591944.mp3",
+      "freesoundId": 591944,
+      "freesoundName": "Train Passing By 79 with Steam Whistle (Harsh), Bell.mp3",
+      "description": "An mp3 audio recording of a train passing by. Includes a train bell and harsh steam whistle. Taken from a YouTube train compilation video (of which, unfortunately, I've forgotten the location). Therefore no credit goes to me except cutting/editing the audio. Hope it's useful.",
+      "duration": 20.56,
+      "tags": [
+        "bell",
+        "freight",
+        "harsh",
+        "locomotive",
+        "passing",
+        "rail",
+        "railroad",
+        "steam",
+        "train",
+        "whistle"
+      ],
+      "rating": 5,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "FunWithSound",
+      "fileSizeKB": 453.7
+    }
+  ]
+}

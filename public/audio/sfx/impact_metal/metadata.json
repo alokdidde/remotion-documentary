@@ -1,0 +1,129 @@
+{
+  "sfxName": "impact_metal",
+  "catalogDescription": "Metallic slam",
+  "category": "Impacts & Emphasis",
+  "files": [
+    {
+      "file": "impact_metal_193601.mp3",
+      "freesoundId": 193601,
+      "freesoundName": "Crunchy Metal Impact",
+      "description": "Crunchy, grainy, metallic impact.\r\nRoland R-05. Various processing. Sounds better downloaded.\r\n\r\nThis sound is not in the public domain.\r\nLicense: Creative Commons BY-NC (Attribution Noncommercial) 3.0\r\nLicense text: http://creativecommons.org/licenses/by-nc/3.0/\r\nFor help on the licenses used by fr",
+      "duration": 18.0071,
+      "tags": [
+        "bang",
+        "crunchy",
+        "deep",
+        "grainy",
+        "hit",
+        "impact",
+        "metal",
+        "metallic"
+      ],
+      "rating": 3.8076923076923075,
+      "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "author": "Speedenza",
+      "fileSizeKB": 402.8
+    },
+    {
+      "file": "impact_metal_167839.mp3",
+      "freesoundId": 167839,
+      "freesoundName": "Deep Metal Impact (82) 1.wav",
+      "description": "Sound of a hard impact on a heavy metal object.\r\nMade by applying effects to a sound vocalised by me.\r\n\r\nThis sound is not in the public domain.\r\nLicense: Creative Commons BY-NC (Attribution Noncommercial) 3.0\r\nLicense text: http://creativecommons.org/licenses/by-nc/3.0/\r\nFor help on the licenses us",
+      "duration": 1.8458,
+      "tags": [
+        "bang",
+        "banging",
+        "deep",
+        "door",
+        "hard",
+        "hit",
+        "impact",
+        "industrial",
+        "metal",
+        "metallic",
+        "percussion",
+        "slam"
+      ],
+      "rating": 4.2,
+      "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "author": "Speedenza",
+      "fileSizeKB": 44
+    },
+    {
+      "file": "impact_metal_167841.mp3",
+      "freesoundId": 167841,
+      "freesoundName": "Deep Metal Impact (37) 1.wav",
+      "description": "Sound effect of a hard impact on a heavy metal object - a bit like a heavy steel door being slammed.\r\nMade by applying various effects to a sound vocalised by me.\r\nNote: There is a higher quality, stereo version of this - here.\r\n\r\nThis sound is not in the public domain.\r\nLicense: Creative Commons BY",
+      "duration": 3.49073,
+      "tags": [
+        "deep",
+        "door",
+        "effect",
+        "hard",
+        "hit",
+        "impact",
+        "industrial",
+        "metal",
+        "metallic",
+        "percussion",
+        "slam",
+        "soundeffect"
+      ],
+      "rating": 4.529411764705882,
+      "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "author": "Speedenza",
+      "fileSizeKB": 76.8
+    },
+    {
+      "file": "impact_metal_193602.mp3",
+      "freesoundId": 193602,
+      "freesoundName": "Deep Metal Impact - Airy Angellic Chorus",
+      "description": "Deep metal impact. Two impacts with an airy angellic chorus effect in the long tail. Sounds a lot better when downloaded. Maybe useful for an asteroid strike or some sort of apocalyptic denouement.\r\nRoland R-05 for the original recording, then processed with various effects.\r\n\r\nThis sound is not in ",
+      "duration": 21.19,
+      "tags": [
+        "airy",
+        "angellic",
+        "angels",
+        "apocalypse",
+        "apocalyptic",
+        "asteroid",
+        "bang",
+        "chorus",
+        "deep",
+        "hit",
+        "impact",
+        "metal",
+        "metallic",
+        "meteor"
+      ],
+      "rating": 4.333333333333333,
+      "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "author": "Speedenza",
+      "fileSizeKB": 472.8
+    },
+    {
+      "file": "impact_metal_167840.mp3",
+      "freesoundId": 167840,
+      "freesoundName": "Deep Metal Impact (79) 1s.wav",
+      "description": "Sound of a hard impact on a heavy metal object - like a water tank or something.\r\nMade by processing a vocalised sound (recorded by me).\r\n\r\nThis sound is not in the public domain.\r\nLicense: Creative Commons BY-NC (Attribution Noncommercial) 3.0\r\nLicense text: http://creativecommons.org/licenses/by-n",
+      "duration": 3.20338,
+      "tags": [
+        "deep",
+        "hard",
+        "hit",
+        "hollow",
+        "impact",
+        "metal",
+        "metallic",
+        "percussion",
+        "percussive",
+        "slam",
+        "water-tank"
+      ],
+      "rating": 5,
+      "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "author": "Speedenza",
+      "fileSizeKB": 59.4
+    }
+  ]
+}

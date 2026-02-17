@@ -1,0 +1,108 @@
+{
+  "sfxName": "briefcase_click",
+  "catalogDescription": "Briefcase latching",
+  "category": "Money & Economy",
+  "files": [
+    {
+      "file": "briefcase_click_12732.mp3",
+      "freesoundId": 12732,
+      "freesoundName": "briefcase click2.wav",
+      "description": "Mono 44.1khz 16 bit PCM; simple opening 'click' of a leather briefcase (alternate)",
+      "duration": 0.109388,
+      "tags": [
+        "brief",
+        "briefcase",
+        "case",
+        "click",
+        "lock",
+        "tab"
+      ],
+      "rating": 4.125,
+      "license": "http://creativecommons.org/licenses/by/3.0/",
+      "author": "Leady",
+      "fileSizeKB": 4.3
+    },
+    {
+      "file": "briefcase_click_12731.mp3",
+      "freesoundId": 12731,
+      "freesoundName": "briefcase click.wav",
+      "description": "Mono 44.1khz 16 bit PCM; simple opening 'click' of a leather briefcase",
+      "duration": 0.120476,
+      "tags": [
+        "brief",
+        "briefcase",
+        "case",
+        "click",
+        "lock",
+        "tab"
+      ],
+      "rating": 3.75,
+      "license": "http://creativecommons.org/licenses/by/3.0/",
+      "author": "Leady",
+      "fileSizeKB": 4.5
+    },
+    {
+      "file": "briefcase_click_327013.mp3",
+      "freesoundId": 327013,
+      "freesoundName": "150209 Trevor Webb Briefcase.wav",
+      "description": "Click of opening up a locked briefcase.",
+      "duration": 5.82231,
+      "tags": [
+        "briefcase",
+        "clank",
+        "click",
+        "lock",
+        "locking",
+        "mechanism",
+        "open",
+        "OWI",
+        "security",
+        "suitcase",
+        "unlock",
+        "unlocking"
+      ],
+      "rating": 5,
+      "license": "http://creativecommons.org/licenses/by-nc/3.0/",
+      "author": "Bleachbear",
+      "fileSizeKB": 117.6
+    },
+    {
+      "file": "briefcase_click_156649.mp3",
+      "freesoundId": 156649,
+      "freesoundName": "briefcase locks.wav",
+      "description": "business briefcase latch opened and closed a few times.\r\n\r\nSennheiser 416T -> Sound Devices MixPre -> Zoom H4N.",
+      "duration": 24.1905,
+      "tags": [
+        "briefcase",
+        "click",
+        "foley",
+        "latch",
+        "lock"
+      ],
+      "rating": 4.714285714285714,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "xyzr_kx",
+      "fileSizeKB": 440.7
+    },
+    {
+      "file": "briefcase_click_325917.mp3",
+      "freesoundId": 325917,
+      "freesoundName": "Briefcase.wav",
+      "description": "A briefcase being opened and closed.\r\n\r\nRecorded with a Tascam DR-40\r\n48kHz 24bit",
+      "duration": 10.4473,
+      "tags": [
+        "Briefcase",
+        "Case",
+        "Click",
+        "Close",
+        "Code",
+        "Open",
+        "OWI"
+      ],
+      "rating": 4.333333333333333,
+      "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "author": "lizanejordaan",
+      "fileSizeKB": 194.5
+    }
+  ]
+}

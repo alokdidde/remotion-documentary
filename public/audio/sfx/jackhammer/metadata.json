@@ -1,0 +1,99 @@
+{
+  "sfxName": "jackhammer",
+  "catalogDescription": "Pneumatic drilling",
+  "category": "Urban & Industrial",
+  "files": [
+    {
+      "file": "jackhammer_132016.mp3",
+      "freesoundId": 132016,
+      "freesoundName": "Mexico City Centro - Sanbornes vs. Jackhammer",
+      "description": "Listen to the soundscape of one of the central streets in Mexico City. You can hear the easy-listening Sanbornes music playing out onto a street being jackhammered. There is a nice juxtaposition of noise vs. music here.  \r\n\r\nRecorded with an Edirol R-09 HR in Mexico City 2010. ",
+      "duration": 96.6933,
+      "tags": [
+        "Ciudad-de-Mxico",
+        "commerical-music",
+        "construction",
+        "development",
+        "DF",
+        "jackhammer",
+        "Mexico-City",
+        "Sanbornes"
+      ],
+      "rating": 0,
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "author": "taurindb",
+      "fileSizeKB": 2145.1
+    },
+    {
+      "file": "jackhammer_639554.mp3",
+      "freesoundId": 639554,
+      "freesoundName": "Jackhammer inside, heard from outside.",
+      "description": "A jackhammer is breaking up walls inside a large building. Sounds recorded from outside the entrance",
+      "duration": 66.7793,
+      "tags": [
+        "construction",
+        "home-improvement",
+        "jackhammer",
+        "remodeling",
+        "renovate",
+        "renovation"
+      ],
+      "rating": 5,
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "author": "ultradust",
+      "fileSizeKB": 1497.9
+    },
+    {
+      "file": "jackhammer_661214.mp3",
+      "freesoundId": 661214,
+      "freesoundName": "Jackhammering floor tiles and cement screed.m4a",
+      "description": "Jackhammering floor tiles and cement screed",
+      "duration": 84.9618,
+      "tags": [
+        "cement",
+        "jackhammer",
+        "tiling"
+      ],
+      "rating": 0,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "osaka78",
+      "fileSizeKB": 1881.2
+    },
+    {
+      "file": "jackhammer_77751.mp3",
+      "freesoundId": 77751,
+      "freesoundName": "jackhammer.wav",
+      "description": "Jackhammer drilling on a sidewalk next to a house and recorded from inside the house.",
+      "duration": 64.0198,
+      "tags": [
+        "construction",
+        "drill",
+        "jackhammer",
+        "pneumatic",
+        "sidewalk",
+        "street"
+      ],
+      "rating": 5,
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "author": "xserra",
+      "fileSizeKB": 1420.3
+    },
+    {
+      "file": "jackhammer_90013.mp3",
+      "freesoundId": 90013,
+      "freesoundName": "jackhammer vehicles and gennies.wav",
+      "description": "On the same beautiful summer day as the concrete saw, we have the not-at-all repetitive thump of a jackhammer, along with the sounds of construction vehicles moving along, chains rattling, and generator sounds.",
+      "duration": 78.1387,
+      "tags": [
+        "construction",
+        "generator",
+        "jackhammer",
+        "roadworks"
+      ],
+      "rating": 5,
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "author": "thfc140491",
+      "fileSizeKB": 1774.7
+    }
+  ]
+}

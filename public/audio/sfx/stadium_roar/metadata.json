@@ -1,0 +1,119 @@
+{
+  "sfxName": "stadium_roar",
+  "catalogDescription": "Packed stadium crowd",
+  "category": "Sports & Competition",
+  "files": [
+    {
+      "file": "stadium_roar_350721.mp3",
+      "freesoundId": 350721,
+      "freesoundName": "Collegiate Cheering",
+      "description": "The crowd... what can be said. THey love the grads.",
+      "duration": 160.612,
+      "tags": [
+        "Cheer",
+        "Cornell",
+        "Crowd",
+        "Roar",
+        "Stadium"
+      ],
+      "rating": 0,
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "author": "Veridiansunrise",
+      "fileSizeKB": 3625.7
+    },
+    {
+      "file": "stadium_roar_237676.mp3",
+      "freesoundId": 237676,
+      "freesoundName": "Football Crowd -  Minute Silence then whistle blow - Crowd cheer - Southampton Vs Hull at Saint Mary's Stadium.wav",
+      "description": "Recorded at Southampton FC Saint Mary's stadium. Southampton VS Hull. Mixture of oohs and cheers. Before the game there was a minutes silence, took the opportunity and recorded it and the cheers after. The sound of 60,000 people silent and then a roar when the ref blows his whistle.",
+      "duration": 90.5184,
+      "tags": [
+        "Boo",
+        "Cheer",
+        "Football",
+        "Football-Crowd",
+        "Large-Crowd",
+        "Southampton-FC",
+        "Stadium"
+      ],
+      "rating": 4.636363636363637,
+      "license": "http://creativecommons.org/licenses/by/3.0/",
+      "author": "Quistard",
+      "fileSizeKB": 1999
+    },
+    {
+      "file": "stadium_roar_829453.mp3",
+      "freesoundId": 829453,
+      "freesoundName": "CRWDReac-SOCCER_Millerntor Stadium Crowd Reaction Excited 01_PHILIPP FEIT_FCSP 29.546_Sound Of Sankt Pauli",
+      "description": "Authentic live recording from FC St. Pauli’s Millerntor Stadium, capturing the collective excitement of 29,546 passionate fans. The crowd roars with energy as the atmosphere swells — voices rise, anticipation builds, and a wave of cheers and shouts fills the stands.",
+      "duration": 63.0701,
+      "tags": [
+        "Crowd",
+        "Excited",
+        "Football",
+        "Group",
+        "Reaction",
+        "Soccer",
+        "Stadium"
+      ],
+      "rating": 5,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "itmightgetloud",
+      "fileSizeKB": 1302.8
+    },
+    {
+      "file": "stadium_roar_130568.mp3",
+      "freesoundId": 130568,
+      "freesoundName": "RoaringCrowd.wav",
+      "description": "Rock concert roaring audience.",
+      "duration": 19.2935,
+      "tags": [
+        "applause",
+        "audience",
+        "cheering",
+        "crowd",
+        "Roaring",
+        "stadium",
+        "thunderous"
+      ],
+      "rating": 4.625,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "benfree",
+      "fileSizeKB": 351.6
+    },
+    {
+      "file": "stadium_roar_156196.mp3",
+      "freesoundId": 156196,
+      "freesoundName": "Muay Thai.wav",
+      "description": "Muay Thai or kickboxing, Thailand's national sport. This recording made at Ratchadamnoen Boxing Stadium in Bangkok gives a sense of the crowd's wild calls at each kick landed as well as the frenetic vocals of the placing of bets, strangely at its most intense after the third round of five.\r\n\r\n\r\nmini",
+      "duration": 297.514,
+      "tags": [
+        "audience",
+        "Bangkok",
+        "bet",
+        "box",
+        "boxing",
+        "cheer",
+        "crowd",
+        "field-recording",
+        "gambling",
+        "kick",
+        "kick-boxing",
+        "Muay",
+        "Muay-Thai",
+        "punch",
+        "ring",
+        "roar",
+        "shout",
+        "sport",
+        "sports",
+        "Thai",
+        "Thailand"
+      ],
+      "rating": 4.296296296296297,
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "author": "RTB45",
+      "fileSizeKB": 6724.5
+    }
+  ]
+}

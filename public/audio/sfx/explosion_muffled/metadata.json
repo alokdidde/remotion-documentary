@@ -1,0 +1,126 @@
+{
+  "sfxName": "explosion_muffled",
+  "catalogDescription": "Interior/distant blast",
+  "category": "War & Conflict",
+  "files": [
+    {
+      "file": "explosion_muffled_704814.mp3",
+      "freesoundId": 704814,
+      "freesoundName": "Desert ambiance with slight wind on bushes, muffled gust of wind, road hum, explosion at 4'50",
+      "description": "Desert ambiance with slight wind on bushes, muffled gust of wind, road hum, plane passing far away, explosion at 4'50 and slight chiming clock. Recorded near Todos Santos\n\nSound recorded by a MS setup Schoeps Microphone CCM41 &amp; CCM8\nSound Devices 552 Mixer + Sound Devices 744T Recorder\nSound ref",
+      "duration": 553.07,
+      "tags": [
+        "ambiance",
+        "Blume",
+        "bushes",
+        "chiming",
+        "clock",
+        "desert",
+        "explosion",
+        "Felix",
+        "Felixblume",
+        "field-recording",
+        "gust",
+        "hum",
+        "muffled",
+        "plane",
+        "road",
+        "slight",
+        "traffic",
+        "wind"
+      ],
+      "rating": 4.785714285714286,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "felix.blume",
+      "fileSizeKB": 12305.1
+    },
+    {
+      "file": "explosion_muffled_420671.mp3",
+      "freesoundId": 420671,
+      "freesoundName": "muffled_explosion.wav",
+      "description": "Modified version of FUN-EXPLOSION04 by newagesoup:\nhttps://freesound.org/people/newagesoup/sounds/347317/\n\n^ Original version available under CC BY 3.0 License.\nhttps://creativecommons.org/licenses/by/3.0/\n\n\nChanged pitch, tempo, etc. using Audacity.\n\n\nThis sound was used in the free game, Multivers",
+      "duration": 2.72858,
+      "tags": [
+        "bang",
+        "bomb",
+        "boom",
+        "explode",
+        "explosion",
+        "muffle",
+        "muffled"
+      ],
+      "rating": 4,
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "author": "SypherZent",
+      "fileSizeKB": 62
+    },
+    {
+      "file": "explosion_muffled_108640.mp3",
+      "freesoundId": 108640,
+      "freesoundName": "Distant explosion.wav",
+      "description": "Explosion from far away.",
+      "duration": 4.0137,
+      "tags": [
+        "artillery",
+        "blast",
+        "bomb",
+        "detonation",
+        "distant",
+        "explode",
+        "explosion",
+        "far",
+        "heavy",
+        "muffled"
+      ],
+      "rating": 4.504201680672269,
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "author": "juskiddink",
+      "fileSizeKB": 85.5
+    },
+    {
+      "file": "explosion_muffled_191697.mp3",
+      "freesoundId": 191697,
+      "freesoundName": "Muffled Boom",
+      "description": "Cool effect for when an explosion goes off when you ears have gone temporarily deaf from something else really loud.\r\n\r\nMade by hitting garage door and adding reverb and low pass filter.",
+      "duration": 3.22844,
+      "tags": [
+        "bang",
+        "blow",
+        "bomb",
+        "boom",
+        "explode",
+        "explosion",
+        "loud",
+        "muffled",
+        "up"
+      ],
+      "rating": 4.428571428571429,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "UnderlinedDesigns",
+      "fileSizeKB": 68.5
+    },
+    {
+      "file": "explosion_muffled_718466.mp3",
+      "freesoundId": 718466,
+      "freesoundName": "(NOT OC) Muffled Explosion",
+      "description": "Origin of the sound;\n\"BOATSub_Sonar Pings.Submarine.Synth.More Speaker Distortion x8_EM\" by Freesound user newlocknew.\n\nPost-processed to reduce background/ambient noises, normalized and converted to 44100 Hz sample rate.\n\n(Main) Plugins used;\nCouture and Renegate by Auburn Sounds,\nEasyQ by RS-MET (",
+      "duration": 1.08,
+      "tags": [
+        "bang",
+        "bomb",
+        "boom",
+        "derivative",
+        "explosion",
+        "explosive",
+        "modified",
+        "muffled",
+        "not-oc",
+        "processed"
+      ],
+      "rating": 5,
+      "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "author": "moodyfingers",
+      "fileSizeKB": 14.4
+    }
+  ]
+}

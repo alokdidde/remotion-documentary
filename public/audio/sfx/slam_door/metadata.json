@@ -1,0 +1,88 @@
+{
+  "sfxName": "slam_door",
+  "catalogDescription": "Heavy door slam",
+  "category": "Impacts & Emphasis",
+  "files": [
+    {
+      "file": "slam_door_80928.mp3",
+      "freesoundId": 80928,
+      "freesoundName": "Door slam 1.wav",
+      "description": "A simple door slam recorded in mono with an NT5 on to Mini Disc.",
+      "duration": 1.29594,
+      "tags": [
+        "door",
+        "slam",
+        "wooden"
+      ],
+      "rating": 4.342592592592593,
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "author": "bennstir",
+      "fileSizeKB": 29.9
+    },
+    {
+      "file": "slam_door_80929.mp3",
+      "freesoundId": 80929,
+      "freesoundName": "Door slam 2.wav",
+      "description": "A simple door slam recorded in mono with an NT5 to mini disc.",
+      "duration": 1.40029,
+      "tags": [
+        "door",
+        "slam",
+        "wooden"
+      ],
+      "rating": 4.4227642276422765,
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "author": "bennstir",
+      "fileSizeKB": 32.5
+    },
+    {
+      "file": "slam_door_440261.mp3",
+      "freesoundId": 440261,
+      "freesoundName": "Door Slam - No Reverb.wav",
+      "description": "Door Slamming Hard. Original Sound without reverb.",
+      "duration": 4.19302,
+      "tags": [
+        "door",
+        "door-slam",
+        "slam"
+      ],
+      "rating": 4.553191489361702,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "adriann",
+      "fileSizeKB": 92
+    },
+    {
+      "file": "slam_door_194987.mp3",
+      "freesoundId": 194987,
+      "freesoundName": "tractor door slam2.mp3",
+      "description": "tractor, door, slam ",
+      "duration": 0.492979,
+      "tags": [
+        "door",
+        "slam",
+        "tractor"
+      ],
+      "rating": 3.5,
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "author": "soundmary",
+      "fileSizeKB": 8.9
+    },
+    {
+      "file": "slam_door_406629.mp3",
+      "freesoundId": 406629,
+      "freesoundName": "Bathroom door slam open_softer.wav",
+      "description": "Slamming a bathroom door open. It was recorded with an H4N recorder in my home.",
+      "duration": 1.23333,
+      "tags": [
+        "bathroom",
+        "door",
+        "open",
+        "slam"
+      ],
+      "rating": 3.3333333333333335,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "tlcolbe",
+      "fileSizeKB": 23.6
+    }
+  ]
+}

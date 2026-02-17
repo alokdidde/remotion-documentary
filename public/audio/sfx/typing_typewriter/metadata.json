@@ -1,0 +1,92 @@
+{
+  "sfxName": "typing_typewriter",
+  "catalogDescription": "Mechanical typewriter",
+  "category": "Human & Social",
+  "files": [
+    {
+      "file": "typing_typewriter_761334.mp3",
+      "freesoundId": 761334,
+      "freesoundName": "COMType_MECHMisc_Clean_Movement_Sequence_Mechanical_Typewriter_02",
+      "description": "mechanical typewriter",
+      "duration": 9.0339,
+      "tags": [
+        "machine",
+        "mechanical",
+        "metal",
+        "typewriter"
+      ],
+      "rating": 0,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "CallFlan",
+      "fileSizeKB": 234.9
+    },
+    {
+      "file": "typing_typewriter_761341.mp3",
+      "freesoundId": 761341,
+      "freesoundName": "COMType_MECHMisc_Line_Roating_Mechanical_Typewriter_02",
+      "description": "mechanical typewriter",
+      "duration": 4.06608,
+      "tags": [
+        "machine",
+        "mechanical",
+        "metal",
+        "typewriter"
+      ],
+      "rating": 0,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "CallFlan",
+      "fileSizeKB": 98.8
+    },
+    {
+      "file": "typing_typewriter_761337.mp3",
+      "freesoundId": 761337,
+      "freesoundName": "COMType_MECHMisc_Line_Ratchet_Mechanical_Typewriter_01",
+      "description": "mechanical typewriter",
+      "duration": 1.84252,
+      "tags": [
+        "machine",
+        "mechanical",
+        "metal",
+        "typewriter"
+      ],
+      "rating": 5,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "CallFlan",
+      "fileSizeKB": 48
+    },
+    {
+      "file": "typing_typewriter_761335.mp3",
+      "freesoundId": 761335,
+      "freesoundName": "COMType_MECHMisc_Color_Selector_Double_Mechanical_Typewriter_01",
+      "description": "mechanical typewriter",
+      "duration": 13.7552,
+      "tags": [
+        "machine",
+        "mechanical",
+        "metal",
+        "typewriter"
+      ],
+      "rating": 5,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "CallFlan",
+      "fileSizeKB": 332.5
+    },
+    {
+      "file": "typing_typewriter_761336.mp3",
+      "freesoundId": 761336,
+      "freesoundName": "COMType_MECHMisc_Color_Selector_Single_Click_Metal_Mechanical_Typewriter_01",
+      "description": "mechanical typewriter",
+      "duration": 11.9526,
+      "tags": [
+        "machine",
+        "mechanical",
+        "metal",
+        "typewriter"
+      ],
+      "rating": 1,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "CallFlan",
+      "fileSizeKB": 274.8
+    }
+  ]
+}

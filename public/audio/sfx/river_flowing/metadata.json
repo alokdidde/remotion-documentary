@@ -1,0 +1,126 @@
+{
+  "sfxName": "river_flowing",
+  "catalogDescription": "Gentle stream",
+  "category": "Nature & Environment",
+  "files": [
+    {
+      "file": "river_flowing_145395.mp3",
+      "freesoundId": 145395,
+      "freesoundName": "flowing river in the woods",
+      "description": "flowing river in the woods",
+      "duration": 62.9828,
+      "tags": [
+        "flowing",
+        "river",
+        "woods"
+      ],
+      "rating": 4.493827160493828,
+      "license": "http://creativecommons.org/licenses/by/3.0/",
+      "author": "CastleofSamples",
+      "fileSizeKB": 1365.7
+    },
+    {
+      "file": "river_flowing_514313.mp3",
+      "freesoundId": 514313,
+      "freesoundName": "Small river flow 001",
+      "description": "Sound of a small river flow, field recording - April 15th 2020, Occitania, South Of France",
+      "duration": 92.8566,
+      "tags": [
+        "babbling",
+        "field-recording",
+        "flow",
+        "flowing",
+        "france",
+        "gurgle",
+        "liquid",
+        "river",
+        "small-river",
+        "southoffrance",
+        "stream",
+        "water"
+      ],
+      "rating": 0,
+      "license": "http://creativecommons.org/licenses/by/3.0/",
+      "author": "14anger",
+      "fileSizeKB": 2094.4
+    },
+    {
+      "file": "river_flowing_378250.mp3",
+      "freesoundId": 378250,
+      "freesoundName": "river flowing fast.wav",
+      "description": "Sounds of a river flowing fast.",
+      "duration": 46.748,
+      "tags": [
+        "city",
+        "flow",
+        "flowing",
+        "river",
+        "stream",
+        "water"
+      ],
+      "rating": 3.6,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "13GPanska_Kubinova_Karolina",
+      "fileSizeKB": 1033
+    },
+    {
+      "file": "river_flowing_654279.mp3",
+      "freesoundId": 654279,
+      "freesoundName": "Flowing river Ambience.wav",
+      "description": "River flowing recorded at night on a bridge. Recorded with a Zoom H6",
+      "duration": 134.819,
+      "tags": [
+        "flow",
+        "flowing",
+        "gurgle",
+        "OWI",
+        "river",
+        "stream",
+        "trickle",
+        "water"
+      ],
+      "rating": 4.333333333333333,
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "author": "Jolindi",
+      "fileSizeKB": 2982.9
+    },
+    {
+      "file": "river_flowing_660251.mp3",
+      "freesoundId": 660251,
+      "freesoundName": "River flowing.",
+      "description": "This is the sound of a small waterfall flowing into a river. Recorded with a Sony PCM-D100 in stereo.",
+      "duration": 61.6517,
+      "tags": [
+        "ambient",
+        "babbling",
+        "brook",
+        "bubbling",
+        "creek",
+        "field-recording",
+        "flow",
+        "flowing",
+        "gurgle",
+        "gurgling",
+        "liquid",
+        "meditation",
+        "meditative",
+        "nature",
+        "relaxation",
+        "relaxing",
+        "river",
+        "shallow",
+        "SonyPCM-D100",
+        "splash",
+        "stream",
+        "trickle",
+        "trickling",
+        "water",
+        "waterfall"
+      ],
+      "rating": 5,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "Tom_Kaszuba",
+      "fileSizeKB": 1359.2
+    }
+  ]
+}

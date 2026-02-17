@@ -1,0 +1,123 @@
+{
+  "sfxName": "calendar_flip",
+  "catalogDescription": "Page calendar turning",
+  "category": "Narration & Information Cues",
+  "files": [
+    {
+      "file": "calendar_flip_611718.mp3",
+      "freesoundId": 611718,
+      "freesoundName": "Ripping a spiral bound notebook or a calendar page",
+      "description": "Once a month is over you happily rip away its calendar page. This can also be a spiral notebook page being taken away. Tearing is relaxing.\n\nRecorded with a RØDE Procaster mic.",
+      "duration": 5.69079,
+      "tags": [
+        "book",
+        "bound",
+        "calendar",
+        "note",
+        "notebook",
+        "page",
+        "paper",
+        "rip",
+        "ripping",
+        "sheet",
+        "spiral",
+        "tear",
+        "tearing",
+        "ticket"
+      ],
+      "rating": 4,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "nomadas",
+      "fileSizeKB": 116.5
+    },
+    {
+      "file": "calendar_flip_459657.mp3",
+      "freesoundId": 459657,
+      "freesoundName": "Calendar flip.WAV",
+      "description": "Pages of a calendar being turned.\nRecorded with a ZOOM H2N",
+      "duration": 16.8185,
+      "tags": [
+        "calendar",
+        "flick",
+        "flip",
+        "magazine",
+        "page",
+        "paper",
+        "read",
+        "reading",
+        "turn"
+      ],
+      "rating": 4.666666666666667,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "Ranne_Madsen",
+      "fileSizeKB": 406.9
+    },
+    {
+      "file": "calendar_flip_214034.mp3",
+      "freesoundId": 214034,
+      "freesoundName": "flipping cards.wav",
+      "description": "I needed to record calendar page flip, so i decided to upload my first sound here :) Recorded with TASCAM DR-40",
+      "duration": 86.904,
+      "tags": [
+        "book",
+        "calendar",
+        "card",
+        "cards",
+        "flip",
+        "flipping",
+        "page",
+        "paper",
+        "shuffle"
+      ],
+      "rating": 4.333333333333333,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "hubsons",
+      "fileSizeKB": 2170.6
+    },
+    {
+      "file": "calendar_flip_97974.mp3",
+      "freesoundId": 97974,
+      "freesoundName": "folding paper.wav",
+      "description": "The sound of a flip chart turning to the next page.  Done several times over.",
+      "duration": 47.0137,
+      "tags": [
+        "bond",
+        "calendar",
+        "chart",
+        "flip",
+        "flipchart",
+        "fold",
+        "heavy",
+        "large",
+        "page",
+        "paper",
+        "rustle",
+        "turn"
+      ],
+      "rating": 4.4411764705882355,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "allcaps99",
+      "fileSizeKB": 1088.7
+    },
+    {
+      "file": "calendar_flip_840723.mp3",
+      "freesoundId": 840723,
+      "freesoundName": "CalendarPage_Tear_V02",
+      "description": "clean tear from a small desktop calendar with a metal spiral binding.\nUseful for paper handling, transitions, or time-passing moments.\n\nSound quality: High-quality WAV, 24-bit / 44.1 kHz",
+      "duration": 1.15515,
+      "tags": [
+        "calendar",
+        "foley",
+        "office",
+        "page-turn",
+        "paper",
+        "paper-tear",
+        "transition"
+      ],
+      "rating": 0,
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "author": "StratiAudio",
+      "fileSizeKB": 22.1
+    }
+  ]
+}

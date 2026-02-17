@@ -1,0 +1,120 @@
+{
+  "sfxName": "cough_single",
+  "catalogDescription": "Awkward single cough",
+  "category": "Human & Social",
+  "files": [
+    {
+      "file": "cough_single_656331.mp3",
+      "freesoundId": 656331,
+      "freesoundName": "Cough Short Single Cough.wav",
+      "description": "(Recorded using the ZOOM H5 Handy Recorder. Stereo WAV file. 48kHz 24bit.) Recording of a young adult woman coughing. A short, single cough.",
+      "duration": 1.60977,
+      "tags": [
+        "cold",
+        "cough",
+        "coughing",
+        "flu",
+        "ill",
+        "OWI",
+        "sick",
+        "woman"
+      ],
+      "rating": 5,
+      "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "author": "miaopolus",
+      "fileSizeKB": 37.8
+    },
+    {
+      "file": "cough_single_656332.mp3",
+      "freesoundId": 656332,
+      "freesoundName": "Cough Sarcastic.wav",
+      "description": "(Recorded using the ZOOM H5 Handy Recorder. Stereo WAV file. 48kHz 24bit.) Recording of a young adult woman coughing. A single, sarcastic cough. Cough seems mocking in tone.",
+      "duration": 1.90323,
+      "tags": [
+        "cough",
+        "coughing",
+        "flu",
+        "ill",
+        "OWI",
+        "sarcasm",
+        "sarcastic",
+        "sick",
+        "woman"
+      ],
+      "rating": 5,
+      "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "author": "miaopolus",
+      "fileSizeKB": 46.2
+    },
+    {
+      "file": "cough_single_325656.mp3",
+      "freesoundId": 325656,
+      "freesoundName": "Harsh Cough ",
+      "description": "Harsh coughing: a single dry harsh cough. Dry and hard singular coughing sound. Recorded on a tascam DR-40 ",
+      "duration": 0.971375,
+      "tags": [
+        "cold",
+        "cough",
+        "coughing",
+        "dry",
+        "dry-cough",
+        "flu",
+        "hard",
+        "harsh",
+        "harsh-cough",
+        "loud",
+        "OWI",
+        "sick",
+        "single-cough",
+        "throat"
+      ],
+      "rating": 4,
+      "license": "http://creativecommons.org/licenses/by-nc/3.0/",
+      "author": "Hourofmidnight",
+      "fileSizeKB": 18.7
+    },
+    {
+      "file": "cough_single_272029.mp3",
+      "freesoundId": 272029,
+      "freesoundName": "Male cough",
+      "description": "single male cough",
+      "duration": 0.875875,
+      "tags": [
+        "cough",
+        "human",
+        "male",
+        "man",
+        "sounds",
+        "vocal",
+        "vocals",
+        "voice"
+      ],
+      "rating": 4.75,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "aldenroth2",
+      "fileSizeKB": 22.2
+    },
+    {
+      "file": "cough_single_609920.mp3",
+      "freesoundId": 609920,
+      "freesoundName": "hoest_male.wav",
+      "description": "single cough of a male in outdoor field recording",
+      "duration": 1.15104,
+      "tags": [
+        "cough",
+        "fieldrecording",
+        "human",
+        "male",
+        "man",
+        "mouth",
+        "outdoor",
+        "raw",
+        "unprocessed"
+      ],
+      "rating": 5,
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "author": "gecop",
+      "fileSizeKB": 28.7
+    }
+  ]
+}

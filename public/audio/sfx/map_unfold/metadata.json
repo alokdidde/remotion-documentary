@@ -1,0 +1,117 @@
+{
+  "sfxName": "map_unfold",
+  "catalogDescription": "Paper map crinkling",
+  "category": "Narration & Information Cues",
+  "files": [
+    {
+      "file": "map_unfold_405452.mp3",
+      "freesoundId": 405452,
+      "freesoundName": "Playing with a map",
+      "description": "Opening (or attempting to open) a map and find something on it.\r\n\r\nRecorded for the visual novel, \"The Pizza Delivery Boy Who Saved the World\".",
+      "duration": 36.7107,
+      "tags": [
+        "crinkle",
+        "crinkling",
+        "fold",
+        "folding",
+        "map",
+        "maps",
+        "paper",
+        "rustle",
+        "rustling",
+        "unfold",
+        "unfolding"
+      ],
+      "rating": 4.96,
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "author": "pfranzen",
+      "fileSizeKB": 864
+    },
+    {
+      "file": "map_unfold_612242.mp3",
+      "freesoundId": 612242,
+      "freesoundName": "Unfolding an Ordance Survey map – Bluebird 096-100.wav",
+      "description": "Original stereo Foley recorded summer 2021 in London and Essex, UK for Bluebird using paired Rode NTG-2 microphones.\n\nBluebird is a new, original, full-cast mystery/thriller audio drama series. Listen now at http://minimumlabyrinth.org/. A writer and his student probe the curious history of a remote",
+      "duration": 7.24519,
+      "tags": [
+        "map",
+        "rustle",
+        "unfold"
+      ],
+      "rating": 3,
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "author": "minimumlabyrinth",
+      "fileSizeKB": 179.5
+    },
+    {
+      "file": "map_unfold_447931.mp3",
+      "freesoundId": 447931,
+      "freesoundName": "Unfold a map",
+      "description": "Unfolding a map",
+      "duration": 1.42288,
+      "tags": [
+        "crumple",
+        "flip",
+        "fold",
+        "folding",
+        "map",
+        "newspaper",
+        "page",
+        "paper",
+        "reading",
+        "turn"
+      ],
+      "rating": 4.428571428571429,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "Breviceps",
+      "fileSizeKB": 35.7
+    },
+    {
+      "file": "map_unfold_234886.mp3",
+      "freesoundId": 234886,
+      "freesoundName": "Unfolding and crumbling paper",
+      "description": "I unfold a piece of paper several times to get different effects.\r\nThe idea I had here was someone recieving a letter and quickly open it curious to read what it says. or perhaps a treasure map of some sort :)",
+      "duration": 40.3312,
+      "tags": [
+        "crumble",
+        "folding",
+        "wav",
+        "wrapping"
+      ],
+      "rating": 4.769230769230769,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "Runey",
+      "fileSizeKB": 948
+    },
+    {
+      "file": "map_unfold_836202.mp3",
+      "freesoundId": 836202,
+      "freesoundName": "floodplain river Maas close to village Hedikhuizen Netherlands 730 pm 250420_1075",
+      "description": "Windy floodplains of the Meuse River in the Netherlands on an early evening in April. \nLocal traffic drives across the dyke on the other side. In the distant stables, cows moo incessantly. Cows that are content do not moo. All kinds of birds know that it is spring and announce it loudly. A fast boat",
+      "duration": 240,
+      "tags": [
+        "background-sound",
+        "bird",
+        "embankment",
+        "evening",
+        "field-recording",
+        "floodplain",
+        "general-noise",
+        "Hedikhuizen",
+        "Maas",
+        "Meuse",
+        "Netherlands",
+        "river",
+        "river-bank",
+        "spring",
+        "traffic",
+        "waterside",
+        "white-noise"
+      ],
+      "rating": 3,
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "author": "klankbeeld",
+      "fileSizeKB": 5385.7
+    }
+  ]
+}

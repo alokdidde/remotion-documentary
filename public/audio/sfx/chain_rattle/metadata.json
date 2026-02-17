@@ -1,0 +1,121 @@
+{
+  "sfxName": "chain_rattle",
+  "catalogDescription": "Heavy chains",
+  "category": "Historical & Period",
+  "files": [
+    {
+      "file": "chain_rattle_401622.mp3",
+      "freesoundId": 401622,
+      "freesoundName": "Chain Rattling - 1",
+      "description": "SFX - Chains being rattled outside, variation in the intensity of the rattling. Recorded outside using a Zoom H6 Recorder,",
+      "duration": 9.67271,
+      "tags": [
+        "Chain",
+        "Chain-rattle",
+        "Chain-Rattling",
+        "Chains",
+        "iron",
+        "Metal",
+        "Owi",
+        "Rattle"
+      ],
+      "rating": 2.6875,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "Roxis_Boy",
+      "fileSizeKB": 184.7
+    },
+    {
+      "file": "chain_rattle_401621.mp3",
+      "freesoundId": 401621,
+      "freesoundName": "Chain Rattling - 2",
+      "description": "SFX - Chains being rattled outside, variation in the intensity of the rattling. Recorded outside using a Zoom H6 Recorder,",
+      "duration": 9.67271,
+      "tags": [
+        "Chain",
+        "Chain-rattle",
+        "Chain-Rattling",
+        "Chains",
+        "iron",
+        "Metal",
+        "Owi",
+        "Rattle"
+      ],
+      "rating": 4,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "Roxis_Boy",
+      "fileSizeKB": 217.9
+    },
+    {
+      "file": "chain_rattle_798148.mp3",
+      "freesoundId": 798148,
+      "freesoundName": "CHAINHndl_Chain Metal Rattle 02_KVV AUDIO_FREE",
+      "description": "Description: A recording of a metal chain rattling. The sound is sharp and metallic, capturing the clinking and dragging of heavy links in motion.\n\nThis sound is suitable for machinery, dungeon atmospheres, and action scenes in games and films.\n\nTechnical details:\nRecorder: Zoom Н5\nMicrophone: EM 25",
+      "duration": 18.4826,
+      "tags": [
+        "Chain",
+        "Clank",
+        "Drag",
+        "Heavy",
+        "Industrial",
+        "Metal",
+        "Metallic",
+        "Movement",
+        "Object",
+        "Rattle",
+        "Shake",
+        "Texture"
+      ],
+      "rating": 5,
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "author": "KVV_Audio",
+      "fileSizeKB": 373.7
+    },
+    {
+      "file": "chain_rattle_798137.mp3",
+      "freesoundId": 798137,
+      "freesoundName": "CHAINHndl_Chain Metal Rattle 01_KVV AUDIO_FREE",
+      "description": "Description: A recording of a metal chain rattling. The sound is sharp and metallic, capturing the clinking and dragging of heavy links in motion.\n\nThis sound is suitable for machinery, dungeon atmospheres, and action scenes in games and films.\n\nTechnical details:\nRecorder: Zoom Н5\nMicrophone: EM 25",
+      "duration": 11.3879,
+      "tags": [
+        "Chain",
+        "Clank",
+        "Drag",
+        "Heavy",
+        "Industrial",
+        "Metal",
+        "Metallic",
+        "Movement",
+        "Object",
+        "Rattle",
+        "Shake",
+        "Texture"
+      ],
+      "rating": 4.8,
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "author": "KVV_Audio",
+      "fileSizeKB": 202.8
+    },
+    {
+      "file": "chain_rattle_407347.mp3",
+      "freesoundId": 407347,
+      "freesoundName": "FX_Chain_Rattle.wav",
+      "description": "The sound of a chain, which has been strung around a dead tree, being rattled.",
+      "duration": 25.7531,
+      "tags": [
+        "chain",
+        "links",
+        "metal",
+        "OWI",
+        "rattle",
+        "rusty",
+        "short",
+        "tree",
+        "wood"
+      ],
+      "rating": 1,
+      "license": "http://creativecommons.org/licenses/by-nc/3.0/",
+      "author": "ForTheHorde68",
+      "fileSizeKB": 101.2
+    }
+  ]
+}

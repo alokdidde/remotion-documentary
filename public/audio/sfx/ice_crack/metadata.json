@@ -1,0 +1,103 @@
+{
+  "sfxName": "ice_crack",
+  "catalogDescription": "Ice fracturing",
+  "category": "Nature & Environment",
+  "files": [
+    {
+      "file": "ice_crack_177212.mp3",
+      "freesoundId": 177212,
+      "freesoundName": "Ice Crack 2.wav",
+      "description": "Ice cracking.",
+      "duration": 5.22118,
+      "tags": [
+        "break",
+        "crack",
+        "foley",
+        "ice",
+        "ice-crack",
+        "melt"
+      ],
+      "rating": 4.3076923076923075,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "ecfike",
+      "fileSizeKB": 150.4
+    },
+    {
+      "file": "ice_crack_177210.mp3",
+      "freesoundId": 177210,
+      "freesoundName": "Ice Crack 4.wav",
+      "description": "Ice cracking.",
+      "duration": 7.00086,
+      "tags": [
+        "break",
+        "crack",
+        "foley",
+        "ice",
+        "ice-crack",
+        "melt"
+      ],
+      "rating": 4.3076923076923075,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "ecfike",
+      "fileSizeKB": 198.1
+    },
+    {
+      "file": "ice_crack_177215.mp3",
+      "freesoundId": 177215,
+      "freesoundName": "Ice Crack 7.wav",
+      "description": "Ice cracking.",
+      "duration": 0.761134,
+      "tags": [
+        "break",
+        "crack",
+        "foley",
+        "ice",
+        "ice-crack",
+        "melt"
+      ],
+      "rating": 3.3333333333333335,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "ecfike",
+      "fileSizeKB": 23.5
+    },
+    {
+      "file": "ice_crack_262634.mp3",
+      "freesoundId": 262634,
+      "freesoundName": "Ice Crack 2",
+      "description": "Sound of ice melting and cracking, recorded using a piezo element frozen in a block of ice and a zoom h6.",
+      "duration": 1.70599,
+      "tags": [
+        "cold",
+        "crack",
+        "cracking",
+        "frozen",
+        "ice",
+        "melt",
+        "snap"
+      ],
+      "rating": 4,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "j_p_higgins",
+      "fileSizeKB": 49.6
+    },
+    {
+      "file": "ice_crack_177223.mp3",
+      "freesoundId": 177223,
+      "freesoundName": "Ice Crack 9.wav",
+      "description": "Ice cracking.",
+      "duration": 2.00488,
+      "tags": [
+        "break",
+        "crack",
+        "foley",
+        "ice",
+        "ice-crack",
+        "melt"
+      ],
+      "rating": 2.6666666666666665,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "ecfike",
+      "fileSizeKB": 48.5
+    }
+  ]
+}

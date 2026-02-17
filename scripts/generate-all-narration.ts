@@ -10,7 +10,7 @@ import path from 'path';
 import { config, validateConfig, ensureDir } from './config.js';
 import { narrationScript, NarrationEntry } from './narration-script.js';
 
-const VOICE_ID = '2zRM7PkgwBPiau2jvVXc';
+const VOICE_ID = config.voiceId;
 const OUTPUT_DIR = path.resolve(config.narrationDir);
 
 interface GenerationResult {
@@ -24,7 +24,6 @@ async function generateNarration(entry: NarrationEntry): Promise<GenerationResul
   const outputPath = path.join(OUTPUT_DIR, `${entry.id}.mp3`);
 
   console.log(`\nGenerating: ${entry.id}`);
-  console.log(`  Chapter: ${entry.chapter}`);
   console.log(`  Scene: ${entry.scene}`);
   console.log(`  Text: "${entry.text.substring(0, 60)}..."`);
 
@@ -65,7 +64,7 @@ async function generateNarration(entry: NarrationEntry): Promise<GenerationResul
 }
 
 async function generateAllNarration(options: {
-  chapter?: number;
+  filter?: string;
   dryRun?: boolean;
   sequential?: boolean;
   concurrency?: number;
@@ -75,10 +74,13 @@ async function generateAllNarration(options: {
 
   let entries = narrationScript;
 
-  // Filter by chapter if specified
-  if (options.chapter !== undefined) {
-    entries = entries.filter(e => e.chapter === options.chapter);
-    console.log(`Filtered to Chapter ${options.chapter}: ${entries.length} entries`);
+  // Filter by id or scene substring
+  if (options.filter) {
+    const f = options.filter.toLowerCase();
+    entries = entries.filter(e =>
+      e.id.toLowerCase().includes(f) || e.scene.toLowerCase().includes(f)
+    );
+    console.log(`Filtered to "${options.filter}": ${entries.length} entries`);
   }
 
   console.log(`\n========================================`);
@@ -168,7 +170,7 @@ async function main() {
 Usage: npx tsx scripts/generate-all-narration.ts [options]
 
 Options:
-  --chapter, -c <num>   Generate only for specific chapter (1-7)
+  --filter, -f <str>   Filter entries by id or scene (substring match)
   --dry-run             Show what would be generated without making API calls
   --sequential          Generate one at a time (slower but safer)
   --concurrency <num>   Number of parallel requests (default: 3)
@@ -176,18 +178,18 @@ Options:
 
 Examples:
   npx tsx scripts/generate-all-narration.ts                    # Generate all
-  npx tsx scripts/generate-all-narration.ts --chapter 1        # Generate Chapter 1 only
+  npx tsx scripts/generate-all-narration.ts --filter ch1       # Generate entries matching "ch1"
   npx tsx scripts/generate-all-narration.ts --dry-run          # Preview without generating
   npx tsx scripts/generate-all-narration.ts --sequential       # Generate one at a time
 `);
     process.exit(0);
   }
 
-  const chapterIndex = args.findIndex(a => a === '--chapter' || a === '-c');
+  const filterIndex = args.findIndex(a => a === '--filter' || a === '-f');
   const concurrencyIndex = args.findIndex(a => a === '--concurrency');
 
   const options = {
-    chapter: chapterIndex !== -1 ? parseInt(args[chapterIndex + 1], 10) : undefined,
+    filter: filterIndex !== -1 ? args[filterIndex + 1] : undefined,
     dryRun: args.includes('--dry-run'),
     sequential: args.includes('--sequential'),
     concurrency: concurrencyIndex !== -1 ? parseInt(args[concurrencyIndex + 1], 10) : 3,

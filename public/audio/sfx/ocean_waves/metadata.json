@@ -1,0 +1,131 @@
+{
+  "sfxName": "ocean_waves",
+  "catalogDescription": "Rhythmic waves",
+  "category": "Nature & Environment",
+  "files": [
+    {
+      "file": "ocean_waves_757932.mp3",
+      "freesoundId": 757932,
+      "freesoundName": "WATRWave_waves on a sandy beach_Tim Kahn_MKH80208030st",
+      "description": "Ocean waves hitting a sandy beach. It's a touristy area so possibly some human sounds occasionally.\n\nMicrophones: Sennheriser MKH8020/8030\nRecorder: Sound Devices 702t\nRecordist: Tim Kahn",
+      "duration": 967.929,
+      "tags": [
+        "beach",
+        "coast",
+        "field-recording",
+        "geophony",
+        "nature",
+        "ocean",
+        "outside",
+        "relaxing",
+        "sea",
+        "seashore",
+        "shore",
+        "slosh",
+        "splash",
+        "surf",
+        "water",
+        "waves",
+        "wet"
+      ],
+      "rating": 4.785714285714286,
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "author": "tim.kahn",
+      "fileSizeKB": 21189.8
+    },
+    {
+      "file": "ocean_waves_163120.mp3",
+      "freesoundId": 163120,
+      "freesoundName": "ocean_waves_2.wav",
+      "description": "ocean waves recorded in a windy day on the northern portuguese atlantic shore",
+      "duration": 54.1833,
+      "tags": [
+        "field-recording",
+        "ocean",
+        "sea",
+        "soundscape",
+        "waves"
+      ],
+      "rating": 4.282608695652174,
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "author": "mmiron",
+      "fileSizeKB": 1196.4
+    },
+    {
+      "file": "ocean_waves_757930.mp3",
+      "freesoundId": 757930,
+      "freesoundName": "WATRWave_waves on a sandy beach 02_Tim Kahn_MKH80608030st",
+      "description": "Ocean waves hitting a sandy beach. It's a touristy area so possibly some human sounds occasionally.\n\nMicrophones: Sennheriser MKH8060/8030\nRecorder: Sound Devices 702t\nRecordist: Tim Kahn",
+      "duration": 367.423,
+      "tags": [
+        "beach",
+        "coast",
+        "field-recording",
+        "geophony",
+        "nature",
+        "ocean",
+        "outside",
+        "relaxing",
+        "sea",
+        "seashore",
+        "shore",
+        "slosh",
+        "splash",
+        "surf",
+        "water",
+        "waves",
+        "wet"
+      ],
+      "rating": 4.888888888888889,
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "author": "tim.kahn",
+      "fileSizeKB": 8019.9
+    },
+    {
+      "file": "ocean_waves_757931.mp3",
+      "freesoundId": 757931,
+      "freesoundName": "WATRWave_waves on a sandy beach 03_Tim Kahn_MKH80608030st",
+      "description": "Ocean waves hitting a sandy beach. It's a touristy area so possibly some human sounds occasionally.\n\nMicrophones: Sennheriser MKH8060/8030\nRecorder: Sound Devices 702t\nRecordist: Tim Kahn",
+      "duration": 471.866,
+      "tags": [
+        "beach",
+        "coast",
+        "field-recording",
+        "geophony",
+        "nature",
+        "ocean",
+        "outside",
+        "relaxing",
+        "sea",
+        "seashore",
+        "shore",
+        "slosh",
+        "splash",
+        "surf",
+        "water",
+        "waves",
+        "wet"
+      ],
+      "rating": 4.944444444444445,
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "author": "tim.kahn",
+      "fileSizeKB": 10288.5
+    },
+    {
+      "file": "ocean_waves_58416.mp3",
+      "freesoundId": 58416,
+      "freesoundName": "OceanWaves.wav",
+      "description": "Ocean waves cumming ashore",
+      "duration": 9.06739,
+      "tags": [
+        "ocean",
+        "water",
+        "waves"
+      ],
+      "rating": 4.4862068965517246,
+      "license": "http://creativecommons.org/licenses/sampling+/1.0/",
+      "author": "darren1979",
+      "fileSizeKB": 160.6
+    }
+  ]
+}

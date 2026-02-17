@@ -1,0 +1,125 @@
+{
+  "sfxName": "forest_ambience",
+  "catalogDescription": "Birds, rustling leaves",
+  "category": "Nature & Environment",
+  "files": [
+    {
+      "file": "forest_ambience_607434.mp3",
+      "freesoundId": 607434,
+      "freesoundName": "River in Forest Ambience.wav",
+      "description": "A small river in a forest ambience recording",
+      "duration": 121,
+      "tags": [
+        "Ambience",
+        "Atmosphere",
+        "Birds",
+        "Field-Recording",
+        "Forest",
+        "OWI",
+        "River"
+      ],
+      "rating": 3.125,
+      "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "author": "bennathanras",
+      "fileSizeKB": 2639.7
+    },
+    {
+      "file": "forest_ambience_319446.mp3",
+      "freesoundId": 319446,
+      "freesoundName": "ambience_forest_austria_w4tel_thunder_light_rain.wav",
+      "description": "Ambience recording in a forest in the woodquarter in austria. You can hear thunder and light rain.\r\n\r\nRecorded with the Fostex FR-2LE and the Rode NT4.",
+      "duration": 176.344,
+      "tags": [
+        "ambience",
+        "ambient",
+        "atmo",
+        "atmosphere",
+        "austria",
+        "field-recording",
+        "forest",
+        "light",
+        "nature",
+        "rain",
+        "thunder",
+        "w4tel",
+        "waldviertel",
+        "wood",
+        "woodquarter"
+      ],
+      "rating": 4.815789473684211,
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "author": "magedu",
+      "fileSizeKB": 3980.6
+    },
+    {
+      "file": "forest_ambience_698308.mp3",
+      "freesoundId": 698308,
+      "freesoundName": "New England Forest with Soft Rain Morning Ambience",
+      "description": "Morning ambience recorded in a forest during soft rain in North Andover, Massachusetts. Recorded on a Sound Devices 744t with an Audio Technica BP4025.",
+      "duration": 195.162,
+      "tags": [
+        "Ambience",
+        "Birds",
+        "Forest",
+        "Morning",
+        "Nature",
+        "New-England",
+        "Rain",
+        "Stereo",
+        "Trees"
+      ],
+      "rating": 4.733333333333333,
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "author": "Bmisiewicz",
+      "fileSizeKB": 4429.1
+    },
+    {
+      "file": "forest_ambience_447811.mp3",
+      "freesoundId": 447811,
+      "freesoundName": "walking ambience forest autumn crunchy step walking leafes-003.wav",
+      "description": "walking ambience forest autumn crunchy step walking leafes leaves walk footstep crunch",
+      "duration": 355.543,
+      "tags": [
+        "ambience",
+        "autumn",
+        "crunch",
+        "crunchy",
+        "footstep",
+        "forest",
+        "leafes",
+        "leaves",
+        "step",
+        "walk",
+        "walking"
+      ],
+      "rating": 3.7333333333333334,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "EricsSoundschmiede",
+      "fileSizeKB": 2990.4
+    },
+    {
+      "file": "forest_ambience_447815.mp3",
+      "freesoundId": 447815,
+      "freesoundName": "walking ambience forest autumn crunchy step walking leafes.wav",
+      "description": "walking ambience forest autumn crunchy step walking leafes leaves walk footstep crunch",
+      "duration": 403.897,
+      "tags": [
+        "ambience",
+        "autumn",
+        "crunch",
+        "crunchy",
+        "footstep",
+        "forest",
+        "leafes",
+        "leaves",
+        "step",
+        "walk",
+        "walking"
+      ],
+      "rating": 4.833333333333333,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "EricsSoundschmiede",
+      "fileSizeKB": 7423.1
+    }
+  ]
+}

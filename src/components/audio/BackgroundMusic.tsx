@@ -1,11 +1,11 @@
-// Background music component for ambient soundscape
+// Background music component for inline usage within a Sequence.
+// For the primary workflow, use AudioTimeline at the composition root instead.
 import { Audio, staticFile, useCurrentFrame, interpolate } from "remotion";
-import { useCallback, useEffect, useState } from "react";
 
 interface BackgroundMusicProps {
   /** Music track filename (without path) */
   track: string;
-  /** Volume level (0-1), default 0.08 for subtle background */
+  /** Volume level (0-1), default 0.15 for subtle background */
   volume?: number;
   /** Fade in duration in frames */
   fadeInFrames?: number;
@@ -17,28 +17,12 @@ interface BackgroundMusicProps {
 
 export const BackgroundMusic: React.FC<BackgroundMusicProps> = ({
   track,
-  volume = 0.08,
+  volume = 0.15,
   fadeInFrames = 60,
   fadeOutFrames = 90,
   durationInFrames,
 }) => {
   const frame = useCurrentFrame();
-  const [exists, setExists] = useState(true);
-
-  const checkFile = useCallback(async () => {
-    try {
-      const response = await fetch(staticFile(`audio/music/${track}`), { method: 'HEAD' });
-      setExists(response.ok);
-    } catch {
-      setExists(false);
-    }
-  }, [track]);
-
-  useEffect(() => {
-    if (typeof window !== 'undefined') {
-      checkFile();
-    }
-  }, [checkFile]);
 
   const fadeInMultiplier = interpolate(
     frame,
@@ -56,10 +40,6 @@ export const BackgroundMusic: React.FC<BackgroundMusicProps> = ({
 
   const currentVolume = volume * fadeInMultiplier * fadeOutMultiplier;
 
-  if (!exists) {
-    return null;
-  }
-
   return (
     <Audio
       src={staticFile(`audio/music/${track}`)}
@@ -67,11 +47,4 @@ export const BackgroundMusic: React.FC<BackgroundMusicProps> = ({
       loop
     />
   );
-};
-
-// Map your chapter music tracks here
-export const chapterMusic: Record<string, string> = {
-  chapter1: "chapter1-bg.mp3",
-  chapter2: "chapter2-bg.mp3",
-  chapter3: "chapter3-bg.mp3",
 };

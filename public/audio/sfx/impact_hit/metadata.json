@@ -1,0 +1,127 @@
+{
+  "sfxName": "impact_hit",
+  "catalogDescription": "Punchy bass impact",
+  "category": "Impacts & Emphasis",
+  "files": [
+    {
+      "file": "impact_hit_660770.mp3",
+      "freesoundId": 660770,
+      "freesoundName": "Hit Impact",
+      "description": "Hit impact for firearms.\n\nGood for video games.",
+      "duration": 0.444898,
+      "tags": [
+        "gunshot",
+        "hit",
+        "impact",
+        "wound"
+      ],
+      "rating": 4.714285714285714,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "MadPanCake",
+      "fileSizeKB": 9.4
+    },
+    {
+      "file": "impact_hit_681527.mp3",
+      "freesoundId": 681527,
+      "freesoundName": "Car Impact Hit, Shatter, No Glass",
+      "description": "Car Impact Hit, Shatter, No Glass",
+      "duration": 1.18964,
+      "tags": [
+        "car",
+        "hit",
+        "impact",
+        "shatter"
+      ],
+      "rating": 4.125,
+      "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "author": "PNMCarrieRailfan",
+      "fileSizeKB": 17.5
+    },
+    {
+      "file": "impact_hit_554145.mp3",
+      "freesoundId": 554145,
+      "freesoundName": "Swish hit. Metal impact(11lrs,mltprcssng).wav",
+      "description": "Normal swish hit sound. Enjoy it. If it does not bother you, share links to your work where this sound was used.",
+      "duration": 6.57375,
+      "tags": [
+        "boom",
+        "boomer",
+        "cinematic",
+        "effect",
+        "film",
+        "filmscore",
+        "fx",
+        "game",
+        "hit",
+        "impact",
+        "metal",
+        "motion",
+        "move",
+        "movie",
+        "riser",
+        "riser-hit",
+        "score",
+        "sfx",
+        "sound",
+        "sound-design",
+        "sounddesign",
+        "stinger",
+        "swish-hit",
+        "swoosh",
+        "trailer",
+        "transition",
+        "whoosh",
+        "woosh",
+        "woosh-hit"
+      ],
+      "rating": 4.84375,
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "author": "newlocknew",
+      "fileSizeKB": 136.3
+    },
+    {
+      "file": "impact_hit_829908.mp3",
+      "freesoundId": 829908,
+      "freesoundName": "DSGNImpt_Synthetic Impacts_Boom, Impact, Sci-Fi, Synthetic, Slow Evolving, Recording 1_JW Audio_SI",
+      "description": "A synthetic designed impact hit created in Reaper with various plugins.",
+      "duration": 3.99557,
+      "tags": [
+        "electronic",
+        "evolving",
+        "game-audio",
+        "hit",
+        "Impact",
+        "processed",
+        "sfx",
+        "sound-design",
+        "synthetic"
+      ],
+      "rating": 0,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "JW_Audio",
+      "fileSizeKB": 93.6
+    },
+    {
+      "file": "impact_hit_829909.mp3",
+      "freesoundId": 829909,
+      "freesoundName": "DSGNImpt_Synthetic Impacts_Boom, Impact, Sci-Fi, Synthetic, Slow Evolving, Recording 2_JW Audio_SI",
+      "description": "A synthetic designed impact hit created in Reaper with various plugins.",
+      "duration": 4.00458,
+      "tags": [
+        "electronic",
+        "evolving",
+        "game-audio",
+        "hit",
+        "Impact",
+        "processed",
+        "sfx",
+        "sound-design",
+        "synthetic"
+      ],
+      "rating": 0,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "JW_Audio",
+      "fileSizeKB": 94.1
+    }
+  ]
+}

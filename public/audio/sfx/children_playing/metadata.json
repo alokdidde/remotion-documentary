@@ -1,0 +1,120 @@
+{
+  "sfxName": "children_playing",
+  "catalogDescription": "Kids at play",
+  "category": "Human & Social",
+  "files": [
+    {
+      "file": "children_playing_260125.mp3",
+      "freesoundId": 260125,
+      "freesoundName": "Kids, toddlers, children playing, crying.wav",
+      "description": "Children playing loudly indoors with some parental commentary",
+      "duration": 121.719,
+      "tags": [
+        "argue",
+        "children",
+        "cry",
+        "kids",
+        "playing",
+        "scream",
+        "shout",
+        "toddlers",
+        "yell"
+      ],
+      "rating": 3.8333333333333335,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "SpliceSound",
+      "fileSizeKB": 2704.1
+    },
+    {
+      "file": "children_playing_260126.mp3",
+      "freesoundId": 260126,
+      "freesoundName": "Kids, toddlers, children playing with parents.wav",
+      "description": "Children playing loudly indoors with some parental commentary",
+      "duration": 74.9303,
+      "tags": [
+        "argue",
+        "children",
+        "cry",
+        "kids",
+        "parents",
+        "playing",
+        "scream",
+        "shout",
+        "toddlers",
+        "yell"
+      ],
+      "rating": 4.083333333333333,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "SpliceSound",
+      "fileSizeKB": 1646.3
+    },
+    {
+      "file": "children_playing_779852.mp3",
+      "freesoundId": 779852,
+      "freesoundName": "Donkey braying with souk ambience far away with children playing, slight wind and",
+      "description": "Souk ambience far away with children playing, slight wind and donkey, some children are playing football in. Assem Souk\n \n\n Sound recorded by a MS setup Schoeps Microphone CCM41 &amp; CCM8\n Sound Devices 744T Recorder\n MS is encoded in STEREO Left-Right\n Sound reference: PAS120320T056\n Recorded in M",
+      "duration": 836.715,
+      "tags": [
+        "Assem",
+        "Blume",
+        "cars",
+        "children",
+        "donkey",
+        "Felix",
+        "Felixblume",
+        "field-recording",
+        "Morocco",
+        "playing",
+        "Souk",
+        "voice"
+      ],
+      "rating": 5,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "felix.blume",
+      "fileSizeKB": 18280.5
+    },
+    {
+      "file": "children_playing_779151.mp3",
+      "freesoundId": 779151,
+      "freesoundName": "Children playing ambience, river in a distance",
+      "description": "Children playing ambience in the morning a calm countryside with river in a distance and sometimes there is a goat and a chicken in Arenbou\n \n\n Sound recorded by a MS setup Schoeps Microphone CCM41 &amp; CCM8\n Sound Devices 744T Recorder\n MS is encoded in STEREO Left-Right\n Sound reference: PAS12032",
+      "duration": 301,
+      "tags": [
+        "Arenbou",
+        "Blume",
+        "chicken",
+        "children",
+        "Felix",
+        "Felixblume",
+        "field-recording",
+        "goat",
+        "Morocco",
+        "playing",
+        "river"
+      ],
+      "rating": 0,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "felix.blume",
+      "fileSizeKB": 6756.4
+    },
+    {
+      "file": "children_playing_177760.mp3",
+      "freesoundId": 177760,
+      "freesoundName": "Thailand young children playing loudly in Bangkok hotel hallway before being brought in room2 +hear adult's voice through wall (persp change at very end).flac",
+      "description": "Thailand young children playing loudly in Bangkok hotel hallway before being brought in room +hear adult's voice through wall (persp change at very end)",
+      "duration": 144.455,
+      "tags": [
+        "children",
+        "field-recording",
+        "hallway",
+        "hotel",
+        "playing",
+        "Thailand"
+      ],
+      "rating": 4.333333333333333,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "kyles",
+      "fileSizeKB": 3212.7
+    }
+  ]
+}

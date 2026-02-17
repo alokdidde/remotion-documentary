@@ -1,0 +1,114 @@
+{
+  "sfxName": "drone_dark",
+  "catalogDescription": "Low ominous drone",
+  "category": "Tension & Suspense",
+  "files": [
+    {
+      "file": "drone_dark_658648.mp3",
+      "freesoundId": 658648,
+      "freesoundName": "Dark Analog Drone",
+      "description": "Dark drone sound i made on a my Behringer Model D analog synthesizer. Recorded trough my Soundcraft FX16II mixer. Effects come from external pedals (Zoom CDR 70, and Line6 echopark, from the lexicon process . Some processing was done later in Adobe Audition to finalize this sound.",
+      "duration": 513.6,
+      "tags": [
+        "ambient",
+        "buzz",
+        "dark",
+        "delay",
+        "drone",
+        "echo",
+        "industrial",
+        "LFO",
+        "machinery",
+        "mechanical",
+        "noise",
+        "oscillator",
+        "pulsing",
+        "reverb",
+        "robot",
+        "soundscape"
+      ],
+      "rating": 5,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "Nielsvdb",
+      "fileSizeKB": 12322.5
+    },
+    {
+      "file": "drone_dark_519121.mp3",
+      "freesoundId": 519121,
+      "freesoundName": "drone2",
+      "description": "slow dark granulated drone sound with lots of delay and reverb, not much low tones",
+      "duration": 48,
+      "tags": [
+        "dark",
+        "drone",
+        "menacing",
+        "spooky"
+      ],
+      "rating": 5,
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "author": "Koen",
+      "fileSizeKB": 989.7
+    },
+    {
+      "file": "drone_dark_612798.mp3",
+      "freesoundId": 612798,
+      "freesoundName": "Dark drone noisy electronical",
+      "description": "Nice constant drone with bass and distortion, noisy and dark. Somewhat post-apocaliptic. Made with multiple sound sample synthetised.",
+      "duration": 85.2678,
+      "tags": [
+        "atmosphere",
+        "background",
+        "dark",
+        "drone",
+        "electronic",
+        "experimental",
+        "noise",
+        "sci-fi",
+        "soundscape"
+      ],
+      "rating": 4.8,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "xkeril",
+      "fileSizeKB": 2510.2
+    },
+    {
+      "file": "drone_dark_826597.mp3",
+      "freesoundId": 826597,
+      "freesoundName": "Dark Tension Drone",
+      "description": "A dark, intense and suspenseful drone with creepy background noises.\nMade with Serum 2 and personal samples",
+      "duration": 19.2,
+      "tags": [
+        "creepy",
+        "dark",
+        "drone",
+        "fear",
+        "horror",
+        "loop",
+        "suspense",
+        "tension",
+        "terror"
+      ],
+      "rating": 4.8,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "HarmonicMess",
+      "fileSizeKB": 445.5
+    },
+    {
+      "file": "drone_dark_519122.mp3",
+      "freesoundId": 519122,
+      "freesoundName": "drone1",
+      "description": "slow dark granulated drone sound with lots of delay and reverb, more low tones",
+      "duration": 64,
+      "tags": [
+        "dark",
+        "drone",
+        "menacing",
+        "spooky"
+      ],
+      "rating": 4.333333333333333,
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "author": "Koen",
+      "fileSizeKB": 1332.8
+    }
+  ]
+}

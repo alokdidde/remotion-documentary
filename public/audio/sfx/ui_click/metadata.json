@@ -1,0 +1,112 @@
+{
+  "sfxName": "ui_click",
+  "catalogDescription": "Interface button click",
+  "category": "Technology & Digital",
+  "files": [
+    {
+      "file": "ui_click_350885.mp3",
+      "freesoundId": 350885,
+      "freesoundName": "Interface Click SoundFX",
+      "description": "Sound Effect for Clicking on an Interface, hope you like it.",
+      "duration": 7.23122,
+      "tags": [
+        "click",
+        "clicking",
+        "effect",
+        "interface",
+        "mouse-click",
+        "sound-fx"
+      ],
+      "rating": 4.8,
+      "license": "http://creativecommons.org/licenses/by/3.0/",
+      "author": "elmasmalo1",
+      "fileSizeKB": 113.2
+    },
+    {
+      "file": "ui_click_321083.mp3",
+      "freesoundId": 321083,
+      "freesoundName": "Wooden Click",
+      "description": "Wooden interface sound effect, could be used for click or hover.",
+      "duration": 0.0864375,
+      "tags": [
+        "application",
+        "button",
+        "click",
+        "game",
+        "interface",
+        "menu",
+        "select",
+        "short",
+        "wood"
+      ],
+      "rating": 4.838709677419355,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "BenjaminNelan",
+      "fileSizeKB": 3.6
+    },
+    {
+      "file": "ui_click_493551.mp3",
+      "freesoundId": 493551,
+      "freesoundName": "User Interface Clicks and Buttons 1.wav",
+      "description": "A cool royalty free sfx collection of 3 corporate user interface sound clicks and buttons specially designed for mobiles, video presentations, intros and video games!\n\nFull pack here:&nbsp;http://bit.ly/2NZyl1m",
+      "duration": 1,
+      "tags": [
+        "accept",
+        "button",
+        "click",
+        "confirmation",
+        "email",
+        "enter",
+        "interface",
+        "intro",
+        "mobile",
+        "mouse",
+        "user"
+      ],
+      "rating": 5,
+      "license": "http://creativecommons.org/licenses/by/3.0/",
+      "author": "original_sound",
+      "fileSizeKB": 24.1
+    },
+    {
+      "file": "ui_click_252713.mp3",
+      "freesoundId": 252713,
+      "freesoundName": "MOUSE, CLICK.wav",
+      "description": "Click sound. Useful for user interfaces. Recorded with a CA desktop microphone.",
+      "duration": 0.298957,
+      "tags": [
+        "click",
+        "interface",
+        "mouse",
+        "ui",
+        "user-interface"
+      ],
+      "rating": 5,
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "author": "xtrgamr",
+      "fileSizeKB": 9.5
+    },
+    {
+      "file": "ui_click_321082.mp3",
+      "freesoundId": 321082,
+      "freesoundName": "Wooden Hover",
+      "description": "Wooden interface sound effect, could be used for click or hover.",
+      "duration": 0.0916042,
+      "tags": [
+        "application",
+        "button",
+        "click",
+        "game",
+        "interface",
+        "menu",
+        "select",
+        "short",
+        "wood"
+      ],
+      "rating": 4.954545454545454,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "BenjaminNelan",
+      "fileSizeKB": 4.3
+    }
+  ]
+}

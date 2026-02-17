@@ -1,11 +1,12 @@
 /**
  * Pexels Media Downloader
- * Downloads photos and videos from Pexels for the documentary project
+ * Downloads photos and videos from Pexels by ID or search query
  *
  * Usage:
- *   npx tsx scripts/pexels-download.ts --query "indian train" --type photo --count 5
- *   npx tsx scripts/pexels-download.ts --query "railway station india" --type video --count 3
- *   npx tsx scripts/pexels-download.ts --query "steam locomotive" --type photo --orientation landscape
+ *   npx tsx scripts/pexels-download.ts --id 12345 --type photo --prefix chapter1
+ *   npx tsx scripts/pexels-download.ts --id 67890 --type video --prefix chapter1
+ *   npx tsx scripts/pexels-download.ts --query "indian train" --type photo --count 3 --prefix chapter1
+ *   npx tsx scripts/pexels-download.ts --query "railway station" --type video --count 2 --output public/video/ch1/
  */
 
 import fs from 'fs';
@@ -66,66 +67,56 @@ interface PexelsVideo {
   }[];
 }
 
-interface SearchOptions {
-  query: string;
-  type: 'photo' | 'video';
-  count: number;
-  orientation?: 'landscape' | 'portrait' | 'square';
-  size?: 'large' | 'medium' | 'small';
-  color?: string;
-  minWidth?: number;
-  minHeight?: number;
-  minDuration?: number;
-  maxDuration?: number;
-  outputDir?: string;
-  prefix?: string;
+function ensureDir(dir: string): void {
+  if (!fs.existsSync(dir)) {
+    fs.mkdirSync(dir, { recursive: true });
+  }
 }
 
-async function searchPhotos(query: string, options: Partial<SearchOptions> = {}): Promise<PexelsPhoto[]> {
-  const params = new URLSearchParams({
-    query,
-    per_page: String(options.count || 15),
+async function fetchPhotoById(id: number): Promise<PexelsPhoto> {
+  const response = await fetch(`${PEXELS_API_BASE}/v1/photos/${id}`, {
+    headers: { 'Authorization': PEXELS_API_KEY },
   });
-
-  if (options.orientation) params.append('orientation', options.orientation);
-  if (options.size) params.append('size', options.size);
-  if (options.color) params.append('color', options.color);
-
-  const response = await fetch(`${PEXELS_API_BASE}/v1/search?${params}`, {
-    headers: {
-      'Authorization': PEXELS_API_KEY,
-    },
-  });
-
   if (!response.ok) {
     throw new Error(`Pexels API error: ${response.status} ${response.statusText}`);
   }
+  return response.json();
+}
 
+async function fetchVideoById(id: number): Promise<PexelsVideo> {
+  const response = await fetch(`${PEXELS_API_BASE}/videos/videos/${id}`, {
+    headers: { 'Authorization': PEXELS_API_KEY },
+  });
+  if (!response.ok) {
+    throw new Error(`Pexels API error: ${response.status} ${response.statusText}`);
+  }
+  return response.json();
+}
+
+async function searchPhotos(query: string, count: number, orientation?: string): Promise<PexelsPhoto[]> {
+  const params = new URLSearchParams({ query, per_page: String(count) });
+  if (orientation) params.append('orientation', orientation);
+
+  const response = await fetch(`${PEXELS_API_BASE}/v1/search?${params}`, {
+    headers: { 'Authorization': PEXELS_API_KEY },
+  });
+  if (!response.ok) {
+    throw new Error(`Pexels API error: ${response.status} ${response.statusText}`);
+  }
   const data = await response.json();
   return data.photos || [];
 }
 
-async function searchVideos(query: string, options: Partial<SearchOptions> = {}): Promise<PexelsVideo[]> {
-  const params = new URLSearchParams({
-    query,
-    per_page: String(options.count || 15),
-  });
-
-  if (options.orientation) params.append('orientation', options.orientation);
-  if (options.size) params.append('size', options.size);
-  if (options.minDuration) params.append('min_duration', String(options.minDuration));
-  if (options.maxDuration) params.append('max_duration', String(options.maxDuration));
+async function searchVideos(query: string, count: number, orientation?: string): Promise<PexelsVideo[]> {
+  const params = new URLSearchParams({ query, per_page: String(count) });
+  if (orientation) params.append('orientation', orientation);
 
   const response = await fetch(`${PEXELS_API_BASE}/videos/search?${params}`, {
-    headers: {
-      'Authorization': PEXELS_API_KEY,
-    },
+    headers: { 'Authorization': PEXELS_API_KEY },
   });
-
   if (!response.ok) {
     throw new Error(`Pexels API error: ${response.status} ${response.statusText}`);
   }
-
   const data = await response.json();
   return data.videos || [];
 }
@@ -135,13 +126,11 @@ async function downloadFile(url: string, outputPath: string): Promise<void> {
   if (!response.ok) {
     throw new Error(`Download failed: ${response.status}`);
   }
-
   const buffer = Buffer.from(await response.arrayBuffer());
   fs.writeFileSync(outputPath, buffer);
 }
 
 async function downloadPhoto(photo: PexelsPhoto, outputDir: string, prefix: string = ''): Promise<string> {
-  // Use large2x for best quality at 1920px width
   const url = photo.src.large2x || photo.src.original;
   const ext = 'jpg';
   const filename = `${prefix}${prefix ? '-' : ''}pexels-${photo.id}.${ext}`;
@@ -158,17 +147,18 @@ async function downloadPhoto(photo: PexelsPhoto, outputDir: string, prefix: stri
 
   await downloadFile(url, outputPath);
 
-  // Save attribution info
   const attrPath = path.join(outputDir, `${filename}.txt`);
   fs.writeFileSync(attrPath, `Photo by ${photo.photographer} on Pexels\n${photo.url}\nDownloaded from: ${url}`);
+
+  const sizeKB = Math.round(fs.statSync(outputPath).size / 1024);
+  console.log(`    Saved: ${outputPath} (${sizeKB} KB)`);
 
   return outputPath;
 }
 
 async function downloadVideo(video: PexelsVideo, outputDir: string, prefix: string = ''): Promise<string> {
-  // Find best quality video file (sort by resolution, prefer HD/Full HD)
   const videoFile = video.video_files
-    .filter(f => f.width >= 720) // At least 720p
+    .filter(f => f.width >= 720)
     .sort((a, b) => (b.width * b.height) - (a.width * a.height))[0]
     || video.video_files.sort((a, b) => (b.width * b.height) - (a.width * a.height))[0];
 
@@ -192,58 +182,14 @@ async function downloadVideo(video: PexelsVideo, outputDir: string, prefix: stri
 
   await downloadFile(videoFile.link, outputPath);
 
-  // Save attribution info
   const attrPath = path.join(outputDir, `${filename}.txt`);
   fs.writeFileSync(attrPath, `Video by ${video.user.name} on Pexels\n${video.url}\nDownloaded from: ${videoFile.link}`);
 
+  const sizeMB = (fs.statSync(outputPath).size / (1024 * 1024)).toFixed(1);
+  console.log(`    Saved: ${outputPath} (${sizeMB} MB)`);
+
   return outputPath;
 }
-
-async function searchAndDownload(options: SearchOptions): Promise<string[]> {
-  const outputDir = options.outputDir || (options.type === 'photo' ? config.imagesDir : config.videoDir);
-
-  // Ensure output directory exists
-  if (!fs.existsSync(outputDir)) {
-    fs.mkdirSync(outputDir, { recursive: true });
-  }
-
-  console.log(`\nSearching Pexels for: "${options.query}"`);
-  console.log(`Type: ${options.type}, Count: ${options.count}`);
-  if (options.orientation) console.log(`Orientation: ${options.orientation}`);
-
-  const downloadedFiles: string[] = [];
-
-  if (options.type === 'photo') {
-    const photos = await searchPhotos(options.query, options);
-    console.log(`Found ${photos.length} photos\n`);
-
-    for (const photo of photos.slice(0, options.count)) {
-      try {
-        const filePath = await downloadPhoto(photo, outputDir, options.prefix);
-        downloadedFiles.push(filePath);
-      } catch (error) {
-        console.error(`  Error downloading photo ${photo.id}:`, error);
-      }
-    }
-  } else {
-    const videos = await searchVideos(options.query, options);
-    console.log(`Found ${videos.length} videos\n`);
-
-    for (const video of videos.slice(0, options.count)) {
-      try {
-        const filePath = await downloadVideo(video, outputDir, options.prefix);
-        downloadedFiles.push(filePath);
-      } catch (error) {
-        console.error(`  Error downloading video ${video.id}:`, error);
-      }
-    }
-  }
-
-  return downloadedFiles;
-}
-
-// Pre-defined searches for the documentary
-const documentarySearches: SearchOptions[] = [];
 
 async function main() {
   console.log('========================================');
@@ -252,78 +198,120 @@ async function main() {
 
   const args = process.argv.slice(2);
 
-  // Check for --all flag to download all documentary assets
-  if (args.includes('--all')) {
-    console.log('\nDownloading all documentary assets...');
-    console.log(`Total searches: ${documentarySearches.length}\n`);
-
-    let totalDownloaded = 0;
-    for (const search of documentarySearches) {
-      try {
-        const files = await searchAndDownload(search);
-        totalDownloaded += files.length;
-        // Small delay to respect rate limits
-        await new Promise(r => setTimeout(r, 500));
-      } catch (error) {
-        console.error(`Error with search "${search.query}":`, error);
-      }
-    }
-
-    console.log(`\n========================================`);
-    console.log(`Total files downloaded: ${totalDownloaded}`);
-    console.log('========================================');
-    return;
-  }
-
-  // Parse command line arguments
-  const query = args.find(a => a.startsWith('--query='))?.split('=').slice(1).join('=') ||
-                args.find((a, i) => args[i-1] === '--query');
-  const type = (args.find(a => a.startsWith('--type='))?.split('=')[1] ||
-               args.find((a, i) => args[i-1] === '--type') || 'photo') as 'photo' | 'video';
-  const count = parseInt(args.find(a => a.startsWith('--count='))?.split('=')[1] ||
-                        args.find((a, i) => args[i-1] === '--count') || '5');
-  const orientation = args.find(a => a.startsWith('--orientation='))?.split('=')[1] as 'landscape' | 'portrait' | 'square' | undefined;
-  const prefix = args.find(a => a.startsWith('--prefix='))?.split('=')[1] || '';
-  const outputDir = args.find(a => a.startsWith('--output='))?.split('=')[1];
-
-  if (!query) {
+  if (args.length === 0 || args.includes('--help') || args.includes('-h')) {
     console.log(`
 Usage:
-  npx tsx scripts/pexels-download.ts --query "search term" [options]
+  npx tsx scripts/pexels-download.ts --id <ID> --type <photo|video> [options]
+  npx tsx scripts/pexels-download.ts --query "search term" --type <photo|video> [options]
 
-Options:
-  --query=<term>        Search query (required)
-  --type=<photo|video>  Media type (default: photo)
-  --count=<n>           Number of items to download (default: 5)
-  --orientation=<type>  landscape, portrait, or square
-  --prefix=<string>     Filename prefix
-  --output=<dir>        Output directory
-  --all                 Download all pre-defined documentary assets
+Download by ID:
+  --id                  Pexels media ID (required for ID mode)
+  --type, -t            photo or video (required)
+
+Download by search:
+  --query, -q           Search query (required for search mode)
+  --type, -t            photo or video (default: photo)
+  --count, -n           Number to download (default: 5)
+  --orientation         landscape, portrait, or square
+
+Common Options:
+  --prefix              Filename prefix (e.g., ch1, intro)
+  --output, -o          Output directory (default: public/images/ or public/video/)
 
 Examples:
-  npx tsx scripts/pexels-download.ts --query="indian train" --type=photo --count=10
-  npx tsx scripts/pexels-download.ts --query="railway station" --type=video --orientation=landscape
-  npx tsx scripts/pexels-download.ts --all
+  npx tsx scripts/pexels-download.ts --id 12345 --type photo --prefix chapter1
+  npx tsx scripts/pexels-download.ts --id 67890 --type video --prefix chapter1 --output public/video/ch1/
+  npx tsx scripts/pexels-download.ts --query "indian train" --type photo --count 3 --prefix ch1
+  npx tsx scripts/pexels-download.ts --query "railway station" --type video --count 2 --orientation landscape
+
+Search first with pexels-search.ts:
+  npx tsx scripts/pexels-search.ts --query "indian train" --type photo --count 10
 `);
     return;
   }
 
-  const options: SearchOptions = {
-    query,
-    type,
-    count,
-    orientation,
-    prefix,
-    outputDir,
+  // Parse arguments
+  const getArg = (flags: string[]): string | undefined => {
+    for (const flag of flags) {
+      const eqIdx = args.findIndex(a => a.startsWith(`${flag}=`));
+      if (eqIdx !== -1) return args[eqIdx].split('=').slice(1).join('=');
+      const spIdx = args.findIndex(a => a === flag);
+      if (spIdx !== -1 && args[spIdx + 1]) return args[spIdx + 1];
+    }
+    return undefined;
   };
 
-  try {
-    const files = await searchAndDownload(options);
+  const id = getArg(['--id']);
+  const query = getArg(['--query', '-q']);
+  const type = (getArg(['--type', '-t']) || 'photo') as 'photo' | 'video';
+  const count = parseInt(getArg(['--count', '-n']) || '5', 10);
+  const orientation = getArg(['--orientation']) as 'landscape' | 'portrait' | 'square' | undefined;
+  const prefix = getArg(['--prefix']) || '';
+  const outputArg = getArg(['--output', '-o']);
+  const outputDir = outputArg || (type === 'photo' ? config.imagesDir : config.videoDir);
+
+  ensureDir(outputDir);
+
+  if (id) {
+    // Download by ID
+    const mediaId = parseInt(id, 10);
+    console.log(`\nDownloading ${type} ID: ${mediaId}\n`);
+
+    try {
+      if (type === 'photo') {
+        const photo = await fetchPhotoById(mediaId);
+        await downloadPhoto(photo, outputDir, prefix);
+      } else {
+        const video = await fetchVideoById(mediaId);
+        await downloadVideo(video, outputDir, prefix);
+      }
+    } catch (error) {
+      console.error(`Error downloading ${type} ${mediaId}:`, error);
+      process.exit(1);
+    }
+  } else if (query) {
+    // Search and download
+    console.log(`\nSearching Pexels for: "${query}"`);
+    console.log(`Type: ${type}, Count: ${count}`);
+    if (orientation) console.log(`Orientation: ${orientation}`);
+    console.log('');
+
+    let downloaded = 0;
+    try {
+      if (type === 'photo') {
+        const photos = await searchPhotos(query, count, orientation);
+        console.log(`Found ${photos.length} photos\n`);
+        for (const photo of photos.slice(0, count)) {
+          try {
+            await downloadPhoto(photo, outputDir, prefix);
+            downloaded++;
+          } catch (error) {
+            console.error(`  Error downloading photo ${photo.id}:`, error);
+          }
+        }
+      } else {
+        const videos = await searchVideos(query, count, orientation);
+        console.log(`Found ${videos.length} videos\n`);
+        for (const video of videos.slice(0, count)) {
+          try {
+            await downloadVideo(video, outputDir, prefix);
+            downloaded++;
+          } catch (error) {
+            console.error(`  Error downloading video ${video.id}:`, error);
+          }
+        }
+      }
+    } catch (error) {
+      console.error('Error:', error);
+      process.exit(1);
+    }
+
     console.log(`\n========================================`);
-    console.log(`Downloaded ${files.length} files`);
+    console.log(`Downloaded ${downloaded} files`);
     console.log('========================================');
-  } catch (error) {
-    console.error('Error:', error);
+  } else {
+    console.error('Error: Specify --id <ID> or --query "search term"');
+    process.exit(1);
   }
 }
 

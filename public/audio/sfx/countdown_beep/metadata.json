@@ -1,0 +1,107 @@
+{
+  "sfxName": "countdown_beep",
+  "catalogDescription": "Sequential countdown tones",
+  "category": "Science & Space",
+  "files": [
+    {
+      "file": "countdown_beep_138108.mp3",
+      "freesoundId": 138108,
+      "freesoundName": "Bomb Countdown Beeps",
+      "description": "The countdown beeps of a bomb about to go off.",
+      "duration": 2.04371,
+      "tags": [
+        "beep",
+        "bomb",
+        "countdown"
+      ],
+      "rating": 4.541666666666667,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "snakebarney",
+      "fileSizeKB": 47.6
+    },
+    {
+      "file": "countdown_beep_488811.mp3",
+      "freesoundId": 488811,
+      "freesoundName": "FX - Beep bomb countdown 4",
+      "description": "Made with Synth-VST FM8, a simple beep sound for different purposes, like a bomb or any beeping things :)\n\nFeel free to use it! Comments and ratings welcome :)",
+      "duration": 25.7188,
+      "tags": [
+        "beep",
+        "beeping",
+        "biep",
+        "bomb",
+        "countdown",
+        "effect",
+        "FX",
+        "synth"
+      ],
+      "rating": 4.826086956521739,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "TILIADESIGN",
+      "fileSizeKB": 235.4
+    },
+    {
+      "file": "countdown_beep_488812.mp3",
+      "freesoundId": 488812,
+      "freesoundName": "FX - Beep bomb countdown 3",
+      "description": "Made with Synth-VST FM8, a simple beep sound for different purposes, like a bomb or any beeping things :)\n\nFeel free to use it! Comments and ratings welcome :)",
+      "duration": 25.7188,
+      "tags": [
+        "beep",
+        "beeping",
+        "biep",
+        "bomb",
+        "countdown",
+        "effect",
+        "FX",
+        "synth"
+      ],
+      "rating": 4.636363636363637,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "TILIADESIGN",
+      "fileSizeKB": 234.5
+    },
+    {
+      "file": "countdown_beep_488813.mp3",
+      "freesoundId": 488813,
+      "freesoundName": "FX - Beep bomb countdown 2",
+      "description": "Made with Synth-VST FM8, a simple beep sound for different purposes, like a bomb or any beeping things :)\n\nFeel free to use it! Comments and ratings welcome :)",
+      "duration": 25.7188,
+      "tags": [
+        "beep",
+        "beeping",
+        "biep",
+        "bomb",
+        "countdown",
+        "effect",
+        "FX",
+        "synth"
+      ],
+      "rating": 4.44,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "TILIADESIGN",
+      "fileSizeKB": 187.5
+    },
+    {
+      "file": "countdown_beep_488810.mp3",
+      "freesoundId": 488810,
+      "freesoundName": "FX - Beep bomb countdown 1",
+      "description": "Made with Synth-VST FM8, a simple beep sound for different purposes, like a bomb or any beeping things :)\n\nFeel free to use it! Comments and ratings welcome :)",
+      "duration": 25.7188,
+      "tags": [
+        "beep",
+        "beeping",
+        "biep",
+        "bomb",
+        "countdown",
+        "effect",
+        "FX",
+        "synth"
+      ],
+      "rating": 4.842105263157895,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "TILIADESIGN",
+      "fileSizeKB": 187.5
+    }
+  ]
+}

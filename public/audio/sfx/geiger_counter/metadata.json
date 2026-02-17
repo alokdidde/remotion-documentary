@@ -1,0 +1,114 @@
+{
+  "sfxName": "geiger_counter",
+  "catalogDescription": "Clicking radiation meter",
+  "category": "Technology & Digital",
+  "files": [
+    {
+      "file": "geiger_counter_555926.mp3",
+      "freesoundId": 555926,
+      "freesoundName": "Geiger Counter Hotspot (Long)",
+      "description": "Long and slow sweeping over a hotspot area.\n\nThis is a recording of an EBERLINE E-120 Geiger counter, which makes the \"classic\" Geiger click sound. Recorded with a RØDE NT-1 at about 4 CM (1.6\") from the speaker.\n\nClick here to check out the full Geiger sound pack.\n\n\n\n\n\n",
+      "duration": 44.12,
+      "tags": [
+        "click",
+        "clicks",
+        "counter",
+        "geiger",
+        "geiger-counter",
+        "hotspot",
+        "radiation",
+        "sweeping"
+      ],
+      "rating": 4.666666666666667,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "cookies+policy",
+      "fileSizeKB": 1085.4
+    },
+    {
+      "file": "geiger_counter_555928.mp3",
+      "freesoundId": 555928,
+      "freesoundName": "Geiger Counter Hotspot (Extreme 3)",
+      "description": "Sweeping over a extremely irradiated hotspot area.\n\nThis is a recording of an EBERLINE E-120 Geiger counter, which makes the \"classic\" Geiger click sound. Recorded with a RØDE NT-1 at about 4 CM (1.6\") from the speaker.\n\nClick here to check out the full Geiger sound pack.\n\n\n\n\n\n",
+      "duration": 12.52,
+      "tags": [
+        "click",
+        "clicks",
+        "counter",
+        "geiger",
+        "geiger-counter",
+        "hotspot",
+        "radiation",
+        "sweeping"
+      ],
+      "rating": 5,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "cookies+policy",
+      "fileSizeKB": 362.7
+    },
+    {
+      "file": "geiger_counter_555927.mp3",
+      "freesoundId": 555927,
+      "freesoundName": "Geiger Counter Hotspot (Extreme 1)",
+      "description": "Sweeping over a extremely irradiated hotspot area.\n\nThis is a recording of an EBERLINE E-120 Geiger counter, which makes the \"classic\" Geiger click sound. Recorded with a RØDE NT-1 at about 4 CM (1.6\") from the speaker.\n\nClick here to check out the full Geiger sound pack.\n\n\n\n\n\n",
+      "duration": 27.48,
+      "tags": [
+        "click",
+        "clicks",
+        "counter",
+        "geiger",
+        "geiger-counter",
+        "hotspot",
+        "radiation",
+        "sweeping"
+      ],
+      "rating": 4.833333333333333,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "cookies+policy",
+      "fileSizeKB": 747
+    },
+    {
+      "file": "geiger_counter_555921.mp3",
+      "freesoundId": 555921,
+      "freesoundName": "Geiger counter clicks (EXTREME)",
+      "description": "That's the sound of you being fried from the inside out. This is an extremely strong signal.\n\nThis is a recording of an EBERLINE E-120 Geiger counter, which makes the \"classic\" Geiger click sound. Recorded with a RØDE NT-1 at about 4 CM (1.6\") from the speaker.\n\nClick here to check out the full Geig",
+      "duration": 180,
+      "tags": [
+        "click",
+        "clicks",
+        "counter",
+        "extreme",
+        "geiger",
+        "geiger-counter",
+        "high",
+        "radiation",
+        "very-high"
+      ],
+      "rating": 5,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "cookies+policy",
+      "fileSizeKB": 5369
+    },
+    {
+      "file": "geiger_counter_555922.mp3",
+      "freesoundId": 555922,
+      "freesoundName": "Geiger counter clicks (BG, NO RADIATION)",
+      "description": "This is normal background radiation. This is essentially what you'll hear when there's no actual radiation. The clicks are spaced far apart.\n\nThis is a recording of an EBERLINE E-120 Geiger counter, which makes the \"classic\" Geiger click sound. Recorded with a RØDE NT-1 at about 4 CM (1.6\") from the",
+      "duration": 180,
+      "tags": [
+        "background",
+        "background-radiation",
+        "bg",
+        "click",
+        "clicks",
+        "counter",
+        "geiger",
+        "geiger-counter",
+        "radiation"
+      ],
+      "rating": 4.833333333333333,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "cookies+policy",
+      "fileSizeKB": 3991.5
+    }
+  ]
+}

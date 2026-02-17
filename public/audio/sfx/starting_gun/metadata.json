@@ -1,0 +1,97 @@
+{
+  "sfxName": "starting_gun",
+  "catalogDescription": "Pistol crack",
+  "category": "Sports & Competition",
+  "files": [
+    {
+      "file": "starting_gun_100177.mp3",
+      "freesoundId": 100177,
+      "freesoundName": "raw_mower_washer_notsure.mp3",
+      "description": "I think these are the recordings I remember making in Vero Beach FL. I kept hearing gun shots coming from the west and assume they were wind blown sounds of outdoor gun range somewhere near there. Then the landscapers started with the lawnmowers.",
+      "duration": 106.332,
+      "tags": [
+        "birds",
+        "field-recording",
+        "gun",
+        "plane",
+        "wind"
+      ],
+      "rating": 5,
+      "license": "http://creativecommons.org/licenses/by/3.0/",
+      "author": "NoiseCollector",
+      "fileSizeKB": 2274.9
+    },
+    {
+      "file": "starting_gun_100176.mp3",
+      "freesoundId": 100176,
+      "freesoundName": "raw_lawnmoyer_vero.mp3",
+      "description": "I think these are the recordings I remember making in Vero Beach FL. I kept hearing gun shots coming from the west and assume they were wind blown sounds of outdoor gun range somewhere near there. Then the landscapers started with the lawnmowers.",
+      "duration": 324.638,
+      "tags": [
+        "birds",
+        "field-recording",
+        "gun",
+        "plane",
+        "wind"
+      ],
+      "rating": 0,
+      "license": "http://creativecommons.org/licenses/by/3.0/",
+      "author": "NoiseCollector",
+      "fileSizeKB": 7010
+    },
+    {
+      "file": "starting_gun_100175.mp3",
+      "freesoundId": 100175,
+      "freesoundName": "raw_lawnmowermaybe.mp3",
+      "description": "I think these are the recordings I remember making in Vero Beach FL. I kept hearing gun shots coming from the west and assume they were wind blown sounds of outdoor gun range somewhere near there. Then the landscapers started with the lawnmowers.",
+      "duration": 383.074,
+      "tags": [
+        "birds",
+        "field-recording",
+        "gun",
+        "plane",
+        "wind"
+      ],
+      "rating": 0,
+      "license": "http://creativecommons.org/licenses/by/3.0/",
+      "author": "NoiseCollector",
+      "fileSizeKB": 8267.7
+    },
+    {
+      "file": "starting_gun_100174.mp3",
+      "freesoundId": 100174,
+      "freesoundName": "raw_lawnmowerman.mp3",
+      "description": "I think these are the recordings I remember making in Vero Beach FL. I kept hearing gun shots coming from the west and assume they were wind blown sounds of outdoor gun range somewhere near there. Then the landscapers started with the lawnmowers.",
+      "duration": 5.55209,
+      "tags": [
+        "birds",
+        "field-recording",
+        "gun",
+        "plane",
+        "wind"
+      ],
+      "rating": 0,
+      "license": "http://creativecommons.org/licenses/by/3.0/",
+      "author": "NoiseCollector",
+      "fileSizeKB": 121.7
+    },
+    {
+      "file": "starting_gun_100173.mp3",
+      "freesoundId": 100173,
+      "freesoundName": "raw_airplanes.mp3",
+      "description": "I think these are the recordings I remember making in Vero Beach FL. I kept hearing gun shots coming from the west and assume they were wind blown sounds of outdoor gun range somewhere near there. Then the landscapers started with the lawnmowers.",
+      "duration": 395.665,
+      "tags": [
+        "birds",
+        "field-recording",
+        "gun",
+        "plane",
+        "wind"
+      ],
+      "rating": 5,
+      "license": "http://creativecommons.org/licenses/by/3.0/",
+      "author": "NoiseCollector",
+      "fileSizeKB": 8512.8
+    }
+  ]
+}

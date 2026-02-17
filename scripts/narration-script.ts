@@ -3,7 +3,6 @@
 
 export interface NarrationEntry {
   id: string;
-  chapter: number;
   scene: string;
   text: string;
   startFrame: number;
@@ -17,7 +16,6 @@ const PADDING_FRAMES = 15;
 // Example structure:
 // {
 //   id: "ch1-intro",
-//   chapter: 1,
 //   scene: "Introduction",
 //   text: "Your narration text here...",
 //   startFrame: 0 + PADDING_FRAMES,

@@ -1,0 +1,109 @@
+{
+  "sfxName": "harvest_scythe",
+  "catalogDescription": "Grain cutting",
+  "category": "Food & Agriculture",
+  "files": [
+    {
+      "file": "harvest_scythe_68343.mp3",
+      "freesoundId": 68343,
+      "freesoundName": "00774 grain in bucket taking.wav",
+      "description": "Pouring grain mix into small plastic bucket, rec by Zoom H2",
+      "duration": 26.4121,
+      "tags": [
+        "bucket",
+        "grain",
+        "harvest",
+        "pour",
+        "pouring",
+        "rye",
+        "wheat"
+      ],
+      "rating": 4.333333333333333,
+      "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "author": "Robinhood76",
+      "fileSizeKB": 670.6
+    },
+    {
+      "file": "harvest_scythe_57186.mp3",
+      "freesoundId": 57186,
+      "freesoundName": "hereg_hungary__grain_field_1_20080712.flac",
+      "description": "Summer night ambience, with combine harvesters far away. Recorded at a grain field near the village Héreg using Rode NT4 -&gt; custom-built Green preamp -&gt; M-Audio MicroTrack. Unprocessed.",
+      "duration": 220.129,
+      "tags": [
+        "cicades",
+        "combine",
+        "crickets",
+        "hungary",
+        "night",
+        "summer",
+        "weed",
+        "wind"
+      ],
+      "rating": 3.3333333333333335,
+      "license": "http://creativecommons.org/licenses/by/3.0/",
+      "author": "Nonoo",
+      "fileSizeKB": 4932.2
+    },
+    {
+      "file": "harvest_scythe_57188.mp3",
+      "freesoundId": 57188,
+      "freesoundName": "hereg_hungary__grain_field_3_20080712.flac",
+      "description": "Summer night ambience, with combine harvesters far away. Recorded at a grain field near the village Héreg using Rode NT4 -&gt; custom-built Green preamp -&gt; M-Audio MicroTrack. Unprocessed.",
+      "duration": 123.886,
+      "tags": [
+        "cicades",
+        "combine",
+        "crickets",
+        "hungary",
+        "night",
+        "summer",
+        "weed",
+        "wind"
+      ],
+      "rating": 4.615384615384615,
+      "license": "http://creativecommons.org/licenses/by/3.0/",
+      "author": "Nonoo",
+      "fileSizeKB": 2721.2
+    },
+    {
+      "file": "harvest_scythe_57187.mp3",
+      "freesoundId": 57187,
+      "freesoundName": "hereg_hungary__grain_field_2_20080712.flac",
+      "description": "Summer night ambience, with combine harvesters and a motorcycle far away. Recorded at a grain field near the village Héreg using Rode NT4 -&gt; custom-built Green preamp -&gt; M-Audio MicroTrack. Unprocessed.",
+      "duration": 141.312,
+      "tags": [
+        "cicades",
+        "combine",
+        "crickets",
+        "hungary",
+        "motorcycle",
+        "night",
+        "summer",
+        "weed",
+        "wind"
+      ],
+      "rating": 4.166666666666667,
+      "license": "http://creativecommons.org/licenses/by/3.0/",
+      "author": "Nonoo",
+      "fileSizeKB": 3136.4
+    },
+    {
+      "file": "harvest_scythe_679913.mp3",
+      "freesoundId": 679913,
+      "freesoundName": "Batteuse_woodenElectricMachine_08.wav",
+      "description": "Recorded with Sony PCM-D100, 96kHz-24bit\n\nOld machine refitted with electric motor used to separate/clean up grains after harvest.\n\nwww.hervegirardin.com",
+      "duration": 16.8447,
+      "tags": [
+        "industrial",
+        "mechanical",
+        "squeaky",
+        "wood",
+        "wooden"
+      ],
+      "rating": 0,
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "author": "HerveGirardin",
+      "fileSizeKB": 368.7
+    }
+  ]
+}

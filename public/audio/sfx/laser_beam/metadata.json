@@ -1,0 +1,98 @@
+{
+  "sfxName": "laser_beam",
+  "catalogDescription": "Focused energy beam",
+  "category": "Science & Space",
+  "files": [
+    {
+      "file": "laser_beam_789942.mp3",
+      "freesoundId": 789942,
+      "freesoundName": "Sci-Fi Laser Beams",
+      "description": "Sci-Fi laser beams sound effect.",
+      "duration": 0.732358,
+      "tags": [
+        "beam",
+        "Laser",
+        "science",
+        "sci-fi",
+        "teleport"
+      ],
+      "rating": 4.25,
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "author": "Cpfcfan10",
+      "fileSizeKB": 19.1
+    },
+    {
+      "file": "laser_beam_794591.mp3",
+      "freesoundId": 794591,
+      "freesoundName": "Sci-Fi Laser Beams 2",
+      "description": "Sci-Fi laser beams sound effect.",
+      "duration": 0.989683,
+      "tags": [
+        "Beam",
+        "FX",
+        "Laser",
+        "Pulse",
+        "Sci-Fi",
+        "Shoot"
+      ],
+      "rating": 5,
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "author": "Cpfcfan10",
+      "fileSizeKB": 24.3
+    },
+    {
+      "file": "laser_beam_191832.mp3",
+      "freesoundId": 191832,
+      "freesoundName": "Laser Beam",
+      "description": "It sounds a bit like a laser beam! ;) High pitched with Audacity.",
+      "duration": 0.927415,
+      "tags": [
+        "alien",
+        "beam",
+        "laser",
+        "laser-beam",
+        "space"
+      ],
+      "rating": 1.3783783783783785,
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "author": "Flo_Rayen",
+      "fileSizeKB": 23.4
+    },
+    {
+      "file": "laser_beam_200458.mp3",
+      "freesoundId": 200458,
+      "freesoundName": "Laser, beam, phaser etc",
+      "description": "An attempt at a short laser/beam firing sound.\r\n\r\nUsing something I created? arrall.com Please, consider contributing to one of my apps. ",
+      "duration": 0.380227,
+      "tags": [
+        "beam",
+        "game-sound",
+        "laser",
+        "sound-efffect",
+        "space",
+        "video-game"
+      ],
+      "rating": 4.153846153846154,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "wubitog",
+      "fileSizeKB": 10.1
+    },
+    {
+      "file": "laser_beam_337955.mp3",
+      "freesoundId": 337955,
+      "freesoundName": "74LaserBeam.wav",
+      "description": "Laser Beam",
+      "duration": 2.56612,
+      "tags": [
+        "Beam",
+        "c",
+        "Laser",
+        "simple"
+      ],
+      "rating": 2.75,
+      "license": "http://creativecommons.org/licenses/by-nc/3.0/",
+      "author": "deleted_user_5997821",
+      "fileSizeKB": 48.1
+    }
+  ]
+}

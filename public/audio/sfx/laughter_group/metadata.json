@@ -1,0 +1,107 @@
+{
+  "sfxName": "laughter_group",
+  "catalogDescription": "Group laughing",
+  "category": "Human & Social",
+  "files": [
+    {
+      "file": "laughter_group_80579.mp3",
+      "freesoundId": 80579,
+      "freesoundName": "01268 distant male group laughter.wav",
+      "description": "laughing male group 10 m distance aged about 40-50 years old rec by zoom H2",
+      "duration": 5.22701,
+      "tags": [
+        "group",
+        "laugh",
+        "laughter",
+        "male",
+        "man",
+        "men"
+      ],
+      "rating": 4.235294117647059,
+      "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "author": "Robinhood76",
+      "fileSizeKB": 118.7
+    },
+    {
+      "file": "laughter_group_15294.mp3",
+      "freesoundId": 15294,
+      "freesoundName": "SMALL GROUP LAUGHTER.wav",
+      "description": "A stereo recording of a small group of people laughing together. Recorded in a studio using Stereo matched Oktava MC-012 cardioid capsules in an ORTF Array.",
+      "duration": 6.29333,
+      "tags": [
+        "field-recording",
+        "group",
+        "laugh",
+        "laughter"
+      ],
+      "rating": 4.166129032258064,
+      "license": "http://creativecommons.org/licenses/by/3.0/",
+      "author": "Ch0cchi",
+      "fileSizeKB": 108.8
+    },
+    {
+      "file": "laughter_group_134762.mp3",
+      "freesoundId": 134762,
+      "freesoundName": "03163 children joy.wav",
+      "description": "Isolated children group enjoys",
+      "duration": 5.20685,
+      "tags": [
+        "children",
+        "enjoy",
+        "group",
+        "isolated",
+        "joy",
+        "laughter",
+        "shout",
+        "small",
+        "smile"
+      ],
+      "rating": 4.25,
+      "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "author": "Robinhood76",
+      "fileSizeKB": 134.3
+    },
+    {
+      "file": "laughter_group_440100.mp3",
+      "freesoundId": 440100,
+      "freesoundName": "M Short Laughter.wav",
+      "description": "These are canned crowd sounds, recorded for a theatrical production.  These were recorded in quad, with the design to be played out of four speakers, one near each corner of the room.  We made them with a small group of people, and recorded 20 layers or so of each reaction, moving the group around t",
+      "duration": 7.89585,
+      "tags": [
+        "adults",
+        "audience",
+        "auditorium",
+        "crowd",
+        "group",
+        "laugh",
+        "laughing",
+        "laughter"
+      ],
+      "rating": 4.375,
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "author": "Processaurus",
+      "fileSizeKB": 150.9
+    },
+    {
+      "file": "laughter_group_440101.mp3",
+      "freesoundId": 440101,
+      "freesoundName": "M Short Laughter - staggered.wav",
+      "description": "These are canned crowd sounds, recorded for a theatrical production.  These were recorded in quad, with the design to be played out of four speakers, one near each corner of the room.  We made them with a small group of people, and recorded 20 layers or so of each reaction, moving the group around t",
+      "duration": 8.91646,
+      "tags": [
+        "adults",
+        "audience",
+        "auditorium",
+        "crowd",
+        "group",
+        "laugh",
+        "laughing",
+        "laughter"
+      ],
+      "rating": 5,
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "author": "Processaurus",
+      "fileSizeKB": 192.5
+    }
+  ]
+}

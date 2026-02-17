@@ -1,0 +1,132 @@
+{
+  "sfxName": "robot_servo",
+  "catalogDescription": "Mechanical servo motor",
+  "category": "Technology & Digital",
+  "files": [
+    {
+      "file": "robot_servo_810693.mp3",
+      "freesoundId": 810693,
+      "freesoundName": "ROBTMvmt-CU_Robot Servo Motors_Nicholas Judy_TDC",
+      "description": "Robot servo motors in various effects, speeds and lengths.",
+      "duration": 63.9245,
+      "tags": [
+        "Blue-brand",
+        "Blue-Snowball",
+        "motor",
+        "robot",
+        "servo"
+      ],
+      "rating": 4.5,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "designerschoice",
+      "fileSizeKB": 1508.2
+    },
+    {
+      "file": "robot_servo_705136.mp3",
+      "freesoundId": 705136,
+      "freesoundName": "servo_sound_02.wav",
+      "description": "This is a sound of servos from a Mechanical laser window video. Good for robotic sounds.\n\nThis sfx belongs to thenervoussquirrel from youtube.\n\nCredit him when using this sfx.\n\nHave fun using this sfx!",
+      "duration": 32.8098,
+      "tags": [
+        "Computer",
+        "Machine",
+        "Mechanical",
+        "Robot",
+        "Robotic",
+        "Sci-fi",
+        "Servo"
+      ],
+      "rating": 4.4,
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "author": "Artninja",
+      "fileSizeKB": 740.7
+    },
+    {
+      "file": "robot_servo_705135.mp3",
+      "freesoundId": 705135,
+      "freesoundName": "Servo_sound_01.wav",
+      "description": "This is a sound of servos from a Mechanical gramophone video. Good for robotic sounds.\n\nThis sfx belongs to thenervoussquirrel from youtube.\n\nCredit him when using this sfx.\n\nHave fun using this sfx!",
+      "duration": 18.8883,
+      "tags": [
+        "Computer",
+        "Machine",
+        "Mechanical",
+        "Robot",
+        "Robotic",
+        "Sci-fi",
+        "Servo"
+      ],
+      "rating": 5,
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "author": "Artninja",
+      "fileSizeKB": 405.9
+    },
+    {
+      "file": "robot_servo_776274.mp3",
+      "freesoundId": 776274,
+      "freesoundName": "MOTRSrvo_electric servo motor sound designed in phase plant synth. robot sound. two different duration sequences from very low to very hi pitch (6 octaves)_Anton Bushinskiy_AB FX",
+      "description": "Electric servo motor sound designed in phase plant synth. robot sound. two different duration sequences from very low to very hi pitch. 6 octaves from C1 note",
+      "duration": 196.196,
+      "tags": [
+        "abstract",
+        "android",
+        "automatic",
+        "buzz",
+        "c-3po",
+        "digital",
+        "drill",
+        "drive",
+        "droid",
+        "electric",
+        "electricity",
+        "electronic",
+        "engine",
+        "factory",
+        "future",
+        "industrial",
+        "machine",
+        "machinery",
+        "mechanic",
+        "mechanical",
+        "motor",
+        "motorized",
+        "noise",
+        "R2-D2",
+        "robohand",
+        "robot",
+        "robotic",
+        "sci-fi",
+        "servo",
+        "sound-design"
+      ],
+      "rating": 5,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "pryanic",
+      "fileSizeKB": 3277.5
+    },
+    {
+      "file": "robot_servo_705210.mp3",
+      "freesoundId": 705210,
+      "freesoundName": "industrial_robot_washing_machine_servo_sounds_.wav",
+      "description": "Sound of a washing machine motor sound. This can be used for big machinery servo sounds being lifted.\n\nThis sound was an edited version of kaonaya washing machine 2 sound.\n\nCredit her when using this sfx and me. \n\nHave fun using this sfx!",
+      "duration": 26.392,
+      "tags": [
+        "factory",
+        "industrial",
+        "laundry",
+        "machine",
+        "machinery",
+        "mechanical",
+        "robot",
+        "robotic",
+        "servo",
+        "washer",
+        "washing-machine"
+      ],
+      "rating": 5,
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "author": "Artninja",
+      "fileSizeKB": 558.8
+    }
+  ]
+}

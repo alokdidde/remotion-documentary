@@ -1,0 +1,109 @@
+{
+  "sfxName": "whistle_referee",
+  "catalogDescription": "Sharp whistle blow",
+  "category": "Sports & Competition",
+  "files": [
+    {
+      "file": "whistle_referee_692545.mp3",
+      "freesoundId": 692545,
+      "freesoundName": "11628 end of match referee whistle.wav",
+      "description": "End of the match referee whistle",
+      "duration": 1.93306,
+      "tags": [
+        "end",
+        "final",
+        "football",
+        "match",
+        "referee",
+        "soccer",
+        "whistle"
+      ],
+      "rating": 4.428571428571429,
+      "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "author": "Robinhood76",
+      "fileSizeKB": 46.7
+    },
+    {
+      "file": "whistle_referee_538422.mp3",
+      "freesoundId": 538422,
+      "freesoundName": "Referee whistle sound.wav",
+      "description": "A sound of a referee blowing his whistle\n\nThis can be played on sport games like football, basketball, tennis or ping pong\n\nOf course, this sound should be loud\n\nI hope you enjoyed that sound",
+      "duration": 0.535896,
+      "tags": [
+        "basketball",
+        "football",
+        "referee",
+        "sport",
+        "tennis",
+        "whistle"
+      ],
+      "rating": 4.0625,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "Rosa-Orenes256",
+      "fileSizeKB": 15.9
+    },
+    {
+      "file": "whistle_referee_78508.mp3",
+      "freesoundId": 78508,
+      "freesoundName": "referee_whistle_01.wav",
+      "description": "A real referee whistle being blown at close range. Recorded by my camcorder. Post-processed to soften the initial attack and reduce background noise.",
+      "duration": 1.22658,
+      "tags": [
+        "alarm",
+        "basketball",
+        "blast",
+        "football",
+        "foul",
+        "referee",
+        "sport",
+        "umpire",
+        "whistle"
+      ],
+      "rating": 4.285046728971962,
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "author": "joedeshon",
+      "fileSizeKB": 29.3
+    },
+    {
+      "file": "whistle_referee_90743.mp3",
+      "freesoundId": 90743,
+      "freesoundName": "referee-whistle.wav",
+      "description": "This is a football (soccer) referee whistle. Recorded at home with a SAMSON C01 microphone and ardour. Good for batukada too.",
+      "duration": 2.10848,
+      "tags": [
+        "batukada",
+        "football",
+        "referee",
+        "soccer",
+        "whistle"
+      ],
+      "rating": 4.25,
+      "license": "http://creativecommons.org/licenses/by/3.0/",
+      "author": "Pablo-F",
+      "fileSizeKB": 49.5
+    },
+    {
+      "file": "whistle_referee_218318.mp3",
+      "freesoundId": 218318,
+      "freesoundName": "Referee whistle blow, gymnasium.wav",
+      "description": "Referee's whistle blowing inside a gymnasium",
+      "duration": 3.32925,
+      "tags": [
+        "auditorium",
+        "basketball",
+        "blow",
+        "coach",
+        "gym",
+        "gymnasium",
+        "ref",
+        "referee",
+        "umpire",
+        "whistle"
+      ],
+      "rating": 4.675977653631285,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "SpliceSound",
+      "fileSizeKB": 75.5
+    }
+  ]
+}

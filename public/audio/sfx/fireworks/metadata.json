@@ -1,0 +1,95 @@
+{
+  "sfxName": "fireworks",
+  "catalogDescription": "Firework bursts",
+  "category": "Historical & Period",
+  "files": [
+    {
+      "file": "fireworks_349825.mp3",
+      "freesoundId": 349825,
+      "freesoundName": "Fireworks19.wav",
+      "description": "Fireworks recorded using a combination of Tascam DR-05 onboard mics and Tascam DR-60 using a stereo pair of lavalier mics and a Sennheiser MD421. I removed some voices with Izotope RX 5, then added some low punch and high crispness with EQ.",
+      "duration": 0.648095,
+      "tags": [
+        "bang",
+        "crackle",
+        "fireworks",
+        "pop",
+        "whiz"
+      ],
+      "rating": 5,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "kingsrow",
+      "fileSizeKB": 18.9
+    },
+    {
+      "file": "fireworks_349828.mp3",
+      "freesoundId": 349828,
+      "freesoundName": "Fireworks20.wav",
+      "description": "Fireworks recorded using a combination of Tascam DR-05 onboard mics and Tascam DR-60 using a stereo pair of lavalier mics and a Sennheiser MD421. I removed some voices with Izotope RX 5, then added some low punch and high crispness with EQ.",
+      "duration": 3.10154,
+      "tags": [
+        "bang",
+        "crackle",
+        "fireworks",
+        "pop",
+        "whiz"
+      ],
+      "rating": 0,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "kingsrow",
+      "fileSizeKB": 74
+    },
+    {
+      "file": "fireworks_349824.mp3",
+      "freesoundId": 349824,
+      "freesoundName": "Fireworks16.wav",
+      "description": "Fireworks recorded using a combination of Tascam DR-05 onboard mics and Tascam DR-60 using a stereo pair of lavalier mics and a Sennheiser MD421. I removed some voices with Izotope RX 5, then added some low punch and high crispness with EQ.",
+      "duration": 28.3768,
+      "tags": [
+        "bang",
+        "crackle",
+        "fireworks",
+        "pop",
+        "whiz"
+      ],
+      "rating": 4,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "kingsrow",
+      "fileSizeKB": 694.3
+    },
+    {
+      "file": "fireworks_349805.mp3",
+      "freesoundId": 349805,
+      "freesoundName": "Fireworks07.wav",
+      "description": "Fireworks recorded using a combination of Tascam DR-05 onboard mics and Tascam DR-60 using a stereo pair of lavalier mics and a Sennheiser MD421. I removed some voices with Izotope RX 5, then added some low punch and high crispness with EQ.",
+      "duration": 11.977,
+      "tags": [
+        "bang",
+        "fireworks",
+        "pop",
+        "whiz"
+      ],
+      "rating": 5,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "kingsrow",
+      "fileSizeKB": 344.5
+    },
+    {
+      "file": "fireworks_349806.mp3",
+      "freesoundId": 349806,
+      "freesoundName": "Fireworks12.wav",
+      "description": "Fireworks recorded using a combination of Tascam DR-05 onboard mics and Tascam DR-60 using a stereo pair of lavalier mics and a Sennheiser MD421. I removed some voices with Izotope RX 5, then added some low punch and high crispness with EQ.",
+      "duration": 18.1001,
+      "tags": [
+        "bang",
+        "fireworks",
+        "pop",
+        "whiz"
+      ],
+      "rating": 1,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "kingsrow",
+      "fileSizeKB": 533.9
+    }
+  ]
+}

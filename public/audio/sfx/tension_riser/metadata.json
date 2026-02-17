@@ -1,0 +1,116 @@
+{
+  "sfxName": "tension_riser",
+  "catalogDescription": "Rising frequency sweep",
+  "category": "Tension & Suspense",
+  "files": [
+    {
+      "file": "tension_riser_789102.mp3",
+      "freesoundId": 789102,
+      "freesoundName": "Another long riser",
+      "description": "Long riser saturated with tension\n\nOther mood in pack\n\n\n(initially created by myselft for a movie called Le Poids des Néons by https://remibelleville.com/home)",
+      "duration": 15,
+      "tags": [
+        "effect",
+        "future",
+        "fx",
+        "noise",
+        "rise",
+        "riser",
+        "saturated",
+        "sfx",
+        "soundeffect",
+        "synth",
+        "tension",
+        "texture",
+        "transition"
+      ],
+      "rating": 4.642857142857143,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "xkeril",
+      "fileSizeKB": 290.6
+    },
+    {
+      "file": "tension_riser_789101.mp3",
+      "freesoundId": 789101,
+      "freesoundName": "Long tension riser",
+      "description": "Dark musical long riser saturated\n\nOther mood in pack\n\n\n(initially created by myselft for a movie called Le Poids des Néons by https://remibelleville.com/home)",
+      "duration": 15,
+      "tags": [
+        "dark",
+        "effect",
+        "future",
+        "fx",
+        "noise",
+        "rise",
+        "riser",
+        "saturated",
+        "sfx",
+        "soundeffect",
+        "synth",
+        "tension",
+        "texture",
+        "transition"
+      ],
+      "rating": 4.875,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "xkeril",
+      "fileSizeKB": 297.4
+    },
+    {
+      "file": "tension_riser_609767.mp3",
+      "freesoundId": 609767,
+      "freesoundName": "Tension riser",
+      "description": "short riser made with vst &amp; plugin, check the pack for other mood",
+      "duration": 12.4375,
+      "tags": [
+        "fx",
+        "rise",
+        "riser",
+        "soundeffect",
+        "synth",
+        "tension",
+        "texture"
+      ],
+      "rating": 4.7894736842105265,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "xkeril",
+      "fileSizeKB": 271.3
+    },
+    {
+      "file": "tension_riser_840719.mp3",
+      "freesoundId": 840719,
+      "freesoundName": "Simple Riser",
+      "description": "Simple Suspenseful Riser. Good for transitions and building tension. \nMade from tossing some tool onto a metal table. Recorded with my phone and processed in Audacity.  \nThe main effects I used are reverb, pitch shift, and EQ adjustments. The ending was smoothed out with a pitch shift to make it les",
+      "duration": 3.59158,
+      "tags": [
+        "Build-up",
+        "Riser",
+        "Tension"
+      ],
+      "rating": 4.541666666666667,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "SoundEffectsForAll",
+      "fileSizeKB": 77.3
+    },
+    {
+      "file": "tension_riser_751209.mp3",
+      "freesoundId": 751209,
+      "freesoundName": "Uneasy Riser 1",
+      "description": "A suspenseful riser that builds tension and anxiety, perfect for horror scenes or other scenes that are uneasy.\n\nMade using synths and a sampled scream.",
+      "duration": 18.4911,
+      "tags": [
+        "anxiety",
+        "horror",
+        "riser",
+        "scary",
+        "suspense",
+        "tension",
+        "uneasy"
+      ],
+      "rating": 4.285714285714286,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "kanaizo",
+      "fileSizeKB": 413.3
+    }
+  ]
+}

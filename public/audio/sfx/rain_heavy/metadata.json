@@ -1,0 +1,103 @@
+{
+  "sfxName": "rain_heavy",
+  "catalogDescription": "Downpour",
+  "category": "Nature & Environment",
+  "files": [
+    {
+      "file": "rain_heavy_810467.mp3",
+      "freesoundId": 810467,
+      "freesoundName": "RAIN-Samsung Galaxy Smartphone, Distant_Heavy_Nicholas Judy_TDC",
+      "description": "Heavy rain in distance.",
+      "duration": 49.0791,
+      "tags": [
+        "distance",
+        "heavy",
+        "nature",
+        "Phone-recording",
+        "rain"
+      ],
+      "rating": 0,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "designerschoice",
+      "fileSizeKB": 1100.8
+    },
+    {
+      "file": "rain_heavy_810465.mp3",
+      "freesoundId": 810465,
+      "freesoundName": "RAIN-Samsung Galaxy Smartphone, CU_Heavy_Nicholas Judy_TDC",
+      "description": "Heavy rain.",
+      "duration": 87.8369,
+      "tags": [
+        "heavy",
+        "nature",
+        "Phone-recording",
+        "rain"
+      ],
+      "rating": 4.666666666666667,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "designerschoice",
+      "fileSizeKB": 1969.4
+    },
+    {
+      "file": "rain_heavy_640651.mp3",
+      "freesoundId": 640651,
+      "freesoundName": "Heavy Rain and gutter.WAV",
+      "description": "Heavy rain falls from the roof making a gutter",
+      "duration": 39.75,
+      "tags": [
+        "dripping",
+        "gutter",
+        "heavy",
+        "rain",
+        "water"
+      ],
+      "rating": 4.846153846153846,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "barkenov",
+      "fileSizeKB": 1034.7
+    },
+    {
+      "file": "rain_heavy_202090.mp3",
+      "freesoundId": 202090,
+      "freesoundName": "Heavy Rain 01.flac",
+      "description": "Water splashing in off the roof during heavy rain.\r\n\r\nRecorded with a Tascam DR-07MKII in stereo 24-bit/96KHz.",
+      "duration": 61.584,
+      "tags": [
+        "drip",
+        "dripping",
+        "field-recording",
+        "flood",
+        "heavy",
+        "rain",
+        "raining",
+        "splash",
+        "splashing",
+        "water"
+      ],
+      "rating": 4.411764705882353,
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "author": "GammaScorpii",
+      "fileSizeKB": 1405.6
+    },
+    {
+      "file": "rain_heavy_171981.mp3",
+      "freesoundId": 171981,
+      "freesoundName": "AMB_M_City_Rain_Heavy.wav",
+      "description": "This is a heavy rain sound recorded in the courtyard of my apartment building. There's a heavy stream of water splashing from the second floor balcony.\r\n\r\nRecorded with: AT 4073a, Sound Devices 702t",
+      "duration": 105.105,
+      "tags": [
+        "city",
+        "drips",
+        "heavy",
+        "puddle",
+        "rain",
+        "splatter",
+        "water"
+      ],
+      "rating": 4.76,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "conleec",
+      "fileSizeKB": 2607
+    }
+  ]
+}

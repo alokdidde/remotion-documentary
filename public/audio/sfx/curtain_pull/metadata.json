@@ -1,0 +1,103 @@
+{
+  "sfxName": "curtain_pull",
+  "catalogDescription": "Fabric sliding sound",
+  "category": "Transitions & Structural Cues",
+  "files": [
+    {
+      "file": "curtain_pull_85934.mp3",
+      "freesoundId": 85934,
+      "freesoundName": "shower curtain pull.aiff",
+      "description": "shower curtain pull",
+      "duration": 6.57324,
+      "tags": [
+        "curtain",
+        "pull",
+        "shower"
+      ],
+      "rating": 4.666666666666667,
+      "license": "http://creativecommons.org/licenses/sampling+/1.0/",
+      "author": "mwmarsh",
+      "fileSizeKB": 156.8
+    },
+    {
+      "file": "curtain_pull_553069.mp3",
+      "freesoundId": 553069,
+      "freesoundName": "pull curtain on wooden rail sound effect",
+      "description": "pull curtain on wooden rail sound effect recorded with sony pcm d100.\n\nIf you appreciate these sounds, I warmly invite you to visit the YouTube channel of the Leipzig Song Scene Association (Leipziger Liederszene e.V.).\nhttps://www.youtube.com/@LeipzigerLiederszene\n\nYour comments, likes, or even sub",
+      "duration": 17.7507,
+      "tags": [
+        "close",
+        "closing",
+        "curtain",
+        "door",
+        "open",
+        "pull",
+        "push",
+        "rattle",
+        "window",
+        "wood",
+        "wooden"
+      ],
+      "rating": 0,
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "author": "Garuda1982",
+      "fileSizeKB": 391.5
+    },
+    {
+      "file": "curtain_pull_365528.mp3",
+      "freesoundId": 365528,
+      "freesoundName": "Pulling curtains.mp3",
+      "description": "A sound effect of pulling curtains",
+      "duration": 5.23862,
+      "tags": [
+        "bedroom",
+        "curtain",
+        "curtains",
+        "pull",
+        "pulling"
+      ],
+      "rating": 4,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "Caitlin_100",
+      "fileSizeKB": 103
+    },
+    {
+      "file": "curtain_pull_408871.mp3",
+      "freesoundId": 408871,
+      "freesoundName": "pulling curtains.wav",
+      "description": "Recorded myself pulling open a curtain.\r\nUsed a Zoom H6.",
+      "duration": 7.5,
+      "tags": [
+        "curtain",
+        "drag",
+        "metalic",
+        "OWI",
+        "pull",
+        "pulling",
+        "tug"
+      ],
+      "rating": 1,
+      "license": "http://creativecommons.org/licenses/by-nc/3.0/",
+      "author": "Cprinsloo77",
+      "fileSizeKB": 166.1
+    },
+    {
+      "file": "curtain_pull_272034.mp3",
+      "freesoundId": 272034,
+      "freesoundName": "Shower Curtain Pull Plastic",
+      "description": "A shower curtain being pulled shut",
+      "duration": 2.04371,
+      "tags": [
+        "curtain",
+        "curtains",
+        "pull",
+        "pulled",
+        "shower"
+      ],
+      "rating": 5,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "aldenroth2",
+      "fileSizeKB": 48.8
+    }
+  ]
+}

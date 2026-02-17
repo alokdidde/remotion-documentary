@@ -1,0 +1,98 @@
+{
+  "sfxName": "tank_rolling",
+  "catalogDescription": "Heavy tracked vehicle",
+  "category": "War & Conflict",
+  "files": [
+    {
+      "file": "tank_rolling_698348.mp3",
+      "freesoundId": 698348,
+      "freesoundName": "Gas tank rolling 2",
+      "description": "A gas vendor moves a gas tank by turning it on the street. Recorded with stereo omni microphones at 48/24",
+      "duration": 34.5386,
+      "tags": [
+        "gas",
+        "metal",
+        "rolling",
+        "tank"
+      ],
+      "rating": 5,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "Globofonia",
+      "fileSizeKB": 628.2
+    },
+    {
+      "file": "tank_rolling_698347.mp3",
+      "freesoundId": 698347,
+      "freesoundName": "Gas tank rolling",
+      "description": "A gas vendor moves a gas tank by turning it on the street. Recorded with stereo omni microphones at 48/24",
+      "duration": 25.1013,
+      "tags": [
+        "gas",
+        "metal",
+        "rolling",
+        "tank"
+      ],
+      "rating": 5,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "Globofonia",
+      "fileSizeKB": 456.6
+    },
+    {
+      "file": "tank_rolling_608120.mp3",
+      "freesoundId": 608120,
+      "freesoundName": "FX Tank Mix b4.wav",
+      "description": "mixture of mechanical sounds. motors clicks and squeaks.\ninspired by military tank",
+      "duration": 17.4546,
+      "tags": [
+        "machine",
+        "mechanical",
+        "motorized",
+        "rolling",
+        "squeaky",
+        "tank"
+      ],
+      "rating": 4,
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "author": "Department64",
+      "fileSizeKB": 406.6
+    },
+    {
+      "file": "tank_rolling_608126.mp3",
+      "freesoundId": 608126,
+      "freesoundName": "FX Tank Mix-a.wav",
+      "description": "mixture of mechanical sounds. motors clicks and squeaks.\ninspired by military tank",
+      "duration": 17.4546,
+      "tags": [
+        "machine",
+        "mechanical",
+        "motorized",
+        "rolling",
+        "squeaky",
+        "tank"
+      ],
+      "rating": 4.5,
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "author": "Department64",
+      "fileSizeKB": 406.5
+    },
+    {
+      "file": "tank_rolling_608121.mp3",
+      "freesoundId": 608121,
+      "freesoundName": "FX Tank Mix b3.wav",
+      "description": "mixture of mechanical sounds. motors clicks and squeaks.\ninspired by military tank",
+      "duration": 15.2727,
+      "tags": [
+        "machine",
+        "mechanical",
+        "motorized",
+        "rolling",
+        "squeaky",
+        "tank"
+      ],
+      "rating": 4,
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "author": "Department64",
+      "fileSizeKB": 401.6
+    }
+  ]
+}

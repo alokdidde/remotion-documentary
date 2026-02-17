@@ -1,0 +1,115 @@
+{
+  "sfxName": "boom_sub",
+  "catalogDescription": "Sub-bass hit",
+  "category": "Impacts & Emphasis",
+  "files": [
+    {
+      "file": "boom_sub_339437.mp3",
+      "freesoundId": 339437,
+      "freesoundName": "super low bass hit kick drum wAv",
+      "description": "super  low  bass  hit  kick  drum  thump lowend subs sub  deep base-drum bass-drum percussion boom",
+      "duration": 0.330583,
+      "tags": [
+        "base-drum",
+        "bass",
+        "bass-drum",
+        "boom",
+        "deep",
+        "drum",
+        "hit",
+        "kick",
+        "low",
+        "lowend",
+        "percussion",
+        "sub",
+        "subs",
+        "super",
+        "thump"
+      ],
+      "rating": 4.52,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "phluidbox",
+      "fileSizeKB": 5.3
+    },
+    {
+      "file": "boom_sub_115525.mp3",
+      "freesoundId": 115525,
+      "freesoundName": "Bass Stab 11.wav",
+      "description": "Another short bass stab/hit for dubstep, DnB, etc.",
+      "duration": 0.86161,
+      "tags": [
+        "bass",
+        "dnb",
+        "dubstep",
+        "hit",
+        "stab",
+        "sub",
+        "wobble"
+      ],
+      "rating": 3.888888888888889,
+      "license": "http://creativecommons.org/licenses/by/3.0/",
+      "author": "Ongitak",
+      "fileSizeKB": 9.9
+    },
+    {
+      "file": "boom_sub_233753.mp3",
+      "freesoundId": 233753,
+      "freesoundName": "subbass_hit_002_44.1khz",
+      "description": "One-hit sub bass noise 2 - 44.1khz version\r\nRecorded with Zoom h2n.\r\nProcessed with Reaper\r\nFrom series of processed samples recorded in kitchen. ",
+      "duration": 2.54338,
+      "tags": [
+        "bass",
+        "effect",
+        "fx",
+        "hit",
+        "noise",
+        "one",
+        "processed",
+        "sub"
+      ],
+      "rating": 5,
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "author": "szpury",
+      "fileSizeKB": 30.5
+    },
+    {
+      "file": "boom_sub_233752.mp3",
+      "freesoundId": 233752,
+      "freesoundName": "subbass_hit_001",
+      "description": "One-hit sub bass noise\r\nRecorded with Zoom h2n.\r\nProcessed with Reaper\r\nFrom series of processed samples recorded in kitchen. ",
+      "duration": 1.54337,
+      "tags": [
+        "bass",
+        "fx",
+        "hit",
+        "low",
+        "noise",
+        "one",
+        "sub"
+      ],
+      "rating": 4.5,
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "author": "szpury",
+      "fileSizeKB": 25.8
+    },
+    {
+      "file": "boom_sub_59538.mp3",
+      "freesoundId": 59538,
+      "freesoundName": "sub bass 2 secondsssss.wav",
+      "description": "2 second long sub bass bomb made in audacity",
+      "duration": 0.7922,
+      "tags": [
+        "bass",
+        "bomb",
+        "boom",
+        "drop",
+        "hit",
+        "sub"
+      ],
+      "rating": 4.208333333333333,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "uzerx",
+      "fileSizeKB": 7.5
+    }
+  ]
+}

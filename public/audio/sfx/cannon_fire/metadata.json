@@ -1,0 +1,126 @@
+{
+  "sfxName": "cannon_fire",
+  "catalogDescription": "Historical cannon blast",
+  "category": "War & Conflict",
+  "files": [
+    {
+      "file": "cannon_fire_274826.mp3",
+      "freesoundId": 274826,
+      "freesoundName": "ceremonial cannon fire",
+      "description": "Memorial day cannon fire and closing remarks from Presidio San Francisco. empty crowd noise and build up, mild siren, then two ordered cannon fires",
+      "duration": 28.5,
+      "tags": [
+        "cannon",
+        "ceremonial",
+        "day",
+        "fire",
+        "memorial",
+        "presidio"
+      ],
+      "rating": 3.5416666666666665,
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "author": "DylanSmithSound",
+      "fileSizeKB": 509.2
+    },
+    {
+      "file": "cannon_fire_234336.mp3",
+      "freesoundId": 234336,
+      "freesoundName": "Hunger Games: Tribute Cannon Fire",
+      "description": "I did my best to \"re-create\" the fallen tribute cannon fire sound from hunger games. Tell me what you think? Also if you use this in a video please post it here so I can watch! Thanks!",
+      "duration": 5.04163,
+      "tags": [
+        "cannon",
+        "fire",
+        "games",
+        "Hunger",
+        "hungergames",
+        "shot",
+        "tribute"
+      ],
+      "rating": 4.235294117647059,
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "author": "Tiger_v15",
+      "fileSizeKB": 113.6
+    },
+    {
+      "file": "cannon_fire_553240.mp3",
+      "freesoundId": 553240,
+      "freesoundName": "Cannon fire.WAV",
+      "description": "Cannon shots recorded at a medieval festival in Belgium with a rode NT5 (mono). The gain has been diminished at the begining to avoid saturation. There are differents cannon shots and arrows shooting.",
+      "duration": 641.399,
+      "tags": [
+        "cannon",
+        "festival",
+        "fire",
+        "firing",
+        "gun",
+        "medieval",
+        "projectile",
+        "shooting",
+        "shot",
+        "war",
+        "weapon"
+      ],
+      "rating": 2.75,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "t-man95",
+      "fileSizeKB": 14203.8
+    },
+    {
+      "file": "cannon_fire_519005.mp3",
+      "freesoundId": 519005,
+      "freesoundName": "8-Bit Cannon Fire",
+      "description": "A retro \"fire the projectile\" sound in an old-school 8-Bit video game. Sounds like it should be on an enemy instead of the main player since it's quite dark and hollow. Generated with a periodic 1-bit noise pattern.",
+      "duration": 0.523447,
+      "tags": [
+        "8-bit",
+        "arcade",
+        "blast",
+        "bounce",
+        "cannon",
+        "chiptune",
+        "digital",
+        "effect",
+        "explosion",
+        "fire",
+        "fx",
+        "game",
+        "gun",
+        "jump",
+        "old-school",
+        "power",
+        "powerup",
+        "retro",
+        "sci-fi",
+        "sfx",
+        "sine",
+        "snes",
+        "sound",
+        "wave"
+      ],
+      "rating": 4.5,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "SomeGuy22",
+      "fileSizeKB": 16.6
+    },
+    {
+      "file": "cannon_fire_565794.mp3",
+      "freesoundId": 565794,
+      "freesoundName": "Distant Cannon Fire (simulated)",
+      "description": "Simulation of a distant cannon shot. Uses amthomas101's basketball recording:  https://freesound.org/people/amthomas101/sounds/175833/",
+      "duration": 3.84408,
+      "tags": [
+        "blast",
+        "cannon",
+        "distant",
+        "fire",
+        "gun",
+        "weapon"
+      ],
+      "rating": 4.25,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "stomachache",
+      "fileSizeKB": 87.4
+    }
+  ]
+}

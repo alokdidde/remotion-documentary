@@ -1,0 +1,92 @@
+{
+  "sfxName": "ventilator_rhythm",
+  "catalogDescription": "Mechanical breathing",
+  "category": "Science & Space",
+  "files": [
+    {
+      "file": "ventilator_rhythm_720061.mp3",
+      "freesoundId": 720061,
+      "freesoundName": "Ventilation in office space (SonicRhythm 022)",
+      "description": "The sound of a noisy ventilation system in a medium-sized, empty office area.\n\nThis recording is part of the SonicRhythms project. Throughout 2024, I will record a continuous \"background\" sound maker as part of the AMBIENT project at the University of Oslo. Additional material can be found in the OS",
+      "duration": 60,
+      "tags": [
+        "office",
+        "sonic-rhythm",
+        "ventilation",
+        "ventilator"
+      ],
+      "rating": 5,
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "author": "alexarje",
+      "fileSizeKB": 1291.5
+    },
+    {
+      "file": "ventilator_rhythm_720064.mp3",
+      "freesoundId": 720064,
+      "freesoundName": "Ventilation in bathroom (SonicRhythm 025)",
+      "description": "The sound of an electric ventilator in a small bathroom.\n\nThis recording is part of the SonicRhythms project. Throughout 2024, I will record a continuous \"background\" sound maker as part of the AMBIENT project at the University of Oslo. Additional material can be found in the OSF repository.",
+      "duration": 60,
+      "tags": [
+        "bathroom",
+        "sonic-rhythm",
+        "ventilation"
+      ],
+      "rating": 4,
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "author": "alexarje",
+      "fileSizeKB": 1276.2
+    },
+    {
+      "file": "ventilator_rhythm_721983.mp3",
+      "freesoundId": 721983,
+      "freesoundName": "Ventilation in meeting pod (SonicRhythm 035)",
+      "description": "The ventilation sound inside a small meeting pod.\n\nThis recording is part of the SonicRhythms project. Throughout 2024, I will record a continuous \"background\" sound maker as part of the AMBIENT project at the University of Oslo. Additional material can be found in the OSF repository.\n\nThe recording",
+      "duration": 60,
+      "tags": [
+        "airflow",
+        "meeting-pod",
+        "sonic-rhythm",
+        "ventilation"
+      ],
+      "rating": 0,
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "author": "alexarje",
+      "fileSizeKB": 1320
+    },
+    {
+      "file": "ventilator_rhythm_721243.mp3",
+      "freesoundId": 721243,
+      "freesoundName": "Ventilation in classroom (SonicRhythm 028 )",
+      "description": "The sound of ventilation and traffic noise in a class room.\n\nThis recording is part of the SonicRhythms project. Throughout 2024, I will record a continuous \"background\" sound maker as part of the AMBIENT project at the University of Oslo. Additional material can be found in the OSF repository.\n\nThe",
+      "duration": 60,
+      "tags": [
+        "classroom",
+        "noise",
+        "sonic-rhythm",
+        "traffic",
+        "ventilation"
+      ],
+      "rating": 5,
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "author": "alexarje",
+      "fileSizeKB": 1336.4
+    },
+    {
+      "file": "ventilator_rhythm_719467.mp3",
+      "freesoundId": 719467,
+      "freesoundName": "Ventilation in staircase (SonicRhythm 017)",
+      "description": "The sound of a ventilation system in a concrete staircase, with some kids playing in the background.\n\nThis recording is part of the SonicRhythms project. Throughout 2024, I will record a continuous \"background\" sound maker as part of the AMBIENT project at the University of Oslo. Additional material",
+      "duration": 60,
+      "tags": [
+        "field-recording",
+        "sonic-rhythm",
+        "staircase",
+        "ventilation"
+      ],
+      "rating": 0,
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "author": "alexarje",
+      "fileSizeKB": 1329.8
+    }
+  ]
+}

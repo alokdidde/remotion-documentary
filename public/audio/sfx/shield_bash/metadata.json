@@ -1,0 +1,112 @@
+{
+  "sfxName": "shield_bash",
+  "catalogDescription": "Wood/metal impact",
+  "category": "War & Conflict",
+  "files": [
+    {
+      "file": "shield_bash_322158.mp3",
+      "freesoundId": 322158,
+      "freesoundName": "Shield Hit 5",
+      "description": "Microphones - SM58, Tascam DR07-MKII\r\nDAW Used - Audacity & Reaper\r\nObjects used - Kitchen Pan's (Scrape, Impact)\r\n\r\nMethodology - Combined various metallic sounds and used EQ, Pitch Shift & reverb with mixing. Recorded metallic grating sounds with Tascam. High impact sounds - SM58 ",
+      "duration": 1.84508,
+      "tags": [
+        "bash",
+        "battle",
+        "hit",
+        "impact",
+        "medieval",
+        "metal",
+        "Shield",
+        "strike"
+      ],
+      "rating": 0,
+      "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "author": "LiamG_SFX",
+      "fileSizeKB": 40.3
+    },
+    {
+      "file": "shield_bash_322155.mp3",
+      "freesoundId": 322155,
+      "freesoundName": "Shield Hit 3",
+      "description": "Microphones - SM58, Tascam DR07-MKII\r\nDAW Used - Audacity & Reaper\r\nObjects used - Kitchen Pan's (Scrape, Impact)\r\n\r\nMethodology - Combined various metallic sounds and used EQ, Pitch Shift & reverb with mixing. Recorded metallic grating sounds with Tascam. High impact sounds - SM58 ",
+      "duration": 1.53005,
+      "tags": [
+        "bash",
+        "battle",
+        "hit",
+        "impact",
+        "medieval",
+        "metal",
+        "Shield",
+        "strike"
+      ],
+      "rating": 1,
+      "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "author": "LiamG_SFX",
+      "fileSizeKB": 35.5
+    },
+    {
+      "file": "shield_bash_322166.mp3",
+      "freesoundId": 322166,
+      "freesoundName": "Shield Hit 13",
+      "description": "Microphones - SM58, Tascam DR07-MKII\r\nDAW Used - Audacity & Reaper\r\nObjects used - Kitchen Pan's (Scrape, Impact)\r\n\r\nMethodology - Combined various metallic sounds and used EQ, Pitch Shift & reverb with mixing. Recorded metallic grating sounds with Tascam. High impact sounds - SM58 ",
+      "duration": 0.953175,
+      "tags": [
+        "bash",
+        "battle",
+        "hit",
+        "impact",
+        "medieval",
+        "metal",
+        "Shield",
+        "strike"
+      ],
+      "rating": 5,
+      "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "author": "LiamG_SFX",
+      "fileSizeKB": 23.1
+    },
+    {
+      "file": "shield_bash_322165.mp3",
+      "freesoundId": 322165,
+      "freesoundName": "Shield Hit 12",
+      "description": "Microphones - SM58, Tascam DR07-MKII\r\nDAW Used - Audacity & Reaper\r\nObjects used - Kitchen Pan's (Scrape, Impact)\r\n\r\nMethodology - Combined various metallic sounds and used EQ, Pitch Shift & reverb with mixing. Recorded metallic grating sounds with Tascam. High impact sounds - SM58 ",
+      "duration": 0.953175,
+      "tags": [
+        "bash",
+        "battle",
+        "hit",
+        "impact",
+        "medieval",
+        "metal",
+        "Shield",
+        "strike"
+      ],
+      "rating": 4,
+      "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "author": "LiamG_SFX",
+      "fileSizeKB": 23.2
+    },
+    {
+      "file": "shield_bash_322150.mp3",
+      "freesoundId": 322150,
+      "freesoundName": "Shield Hit 1",
+      "description": "Microphones - SM58, Tascam DR07-MKII\r\nDAW Used - Audacity & Reaper\r\nObjects used - Kitchen Pan's (Scrape, Impact)\r\n\r\nMethodology - Combined various metallic sounds and used EQ, Pitch Shift & reverb with mixing. Recorded metallic grating sounds with Tascam. High impact sounds - SM58 ",
+      "duration": 0.6061,
+      "tags": [
+        "bash",
+        "battle",
+        "hit",
+        "impact",
+        "medieval",
+        "metal",
+        "Shield",
+        "strike"
+      ],
+      "rating": 4,
+      "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "author": "LiamG_SFX",
+      "fileSizeKB": 15.8
+    }
+  ]
+}

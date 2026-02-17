@@ -1,0 +1,102 @@
+{
+  "sfxName": "keyboard_mechanical",
+  "catalogDescription": "Rapid mechanical typing",
+  "category": "Technology & Digital",
+  "files": [
+    {
+      "file": "keyboard_mechanical_450282.mp3",
+      "freesoundId": 450282,
+      "freesoundName": "Mechanical Keyboard Typing (Treble Version)",
+      "description": "Typing on a mechanical keyboard (Leopold FC660M, mx browns, enjoypbt and gmk caps)\n\nThis one is the more trebley of the two recorded using my keyboard. \nRecorded with a ZOOM HD1 placed on a wrist pad in between my hands, in front of the keyboard's spacebar.",
+      "duration": 183.166,
+      "tags": [
+        "keyboard",
+        "mechanical",
+        "typing"
+      ],
+      "rating": 4.584474885844749,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "stu556",
+      "fileSizeKB": 4952.5
+    },
+    {
+      "file": "keyboard_mechanical_450281.mp3",
+      "freesoundId": 450281,
+      "freesoundName": "Mechanical Keyboard Typing (Bass Version)",
+      "description": "Typing on a mechanical keyboard (Leopold FC660M, mx browns, enjoypbt and gmk caps)\n\nThis one is the more bassy of the two recorded using my keyboard. \nRecorded with a ZOOM HD1 placed slightly above the left side of the keyboard.",
+      "duration": 182.991,
+      "tags": [
+        "keyboard",
+        "mechanical",
+        "typing"
+      ],
+      "rating": 4.723684210526316,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "stu556",
+      "fileSizeKB": 5051.2
+    },
+    {
+      "file": "keyboard_mechanical_766618.mp3",
+      "freesoundId": 766618,
+      "freesoundName": "Keyboard_Clicky_3",
+      "description": "A single key press on a clicky mechanical keyboard.",
+      "duration": 0.510068,
+      "tags": [
+        "computer",
+        "desktop",
+        "key",
+        "keyboard",
+        "keys",
+        "mechanical",
+        "type",
+        "typing"
+      ],
+      "rating": 5,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "StavSounds",
+      "fileSizeKB": 10.7
+    },
+    {
+      "file": "keyboard_mechanical_766624.mp3",
+      "freesoundId": 766624,
+      "freesoundName": "Keyboard_Clicky_9",
+      "description": "A single key press on a clicky mechanical keyboard.",
+      "duration": 0.268458,
+      "tags": [
+        "computer",
+        "desktop",
+        "key",
+        "keyboard",
+        "keys",
+        "mechanical",
+        "type",
+        "typing"
+      ],
+      "rating": 5,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "StavSounds",
+      "fileSizeKB": 6.4
+    },
+    {
+      "file": "keyboard_mechanical_766609.mp3",
+      "freesoundId": 766609,
+      "freesoundName": "Keyboard_Clicky_13",
+      "description": "A single key press on a clicky mechanical keyboard.",
+      "duration": 0.277392,
+      "tags": [
+        "computer",
+        "desktop",
+        "key",
+        "keyboard",
+        "keys",
+        "mechanical",
+        "type",
+        "typing"
+      ],
+      "rating": 5,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "StavSounds",
+      "fileSizeKB": 6.5
+    }
+  ]
+}

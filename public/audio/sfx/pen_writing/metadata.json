@@ -1,0 +1,126 @@
+{
+  "sfxName": "pen_writing",
+  "catalogDescription": "Pen scratching paper",
+  "category": "Human & Social",
+  "files": [
+    {
+      "file": "pen_writing_178445.mp3",
+      "freesoundId": 178445,
+      "freesoundName": "Brush Writing SFX",
+      "description": "Brush writing sound effects",
+      "duration": 13.247,
+      "tags": [
+        "Brush",
+        "effects",
+        "FX",
+        "SFX",
+        "sound",
+        "writing"
+      ],
+      "rating": 4.071428571428571,
+      "license": "http://creativecommons.org/licenses/by/3.0/",
+      "author": "runirasmussen",
+      "fileSizeKB": 307.7
+    },
+    {
+      "file": "pen_writing_335941.mp3",
+      "freesoundId": 335941,
+      "freesoundName": "marker-whiteboard-short10",
+      "description": "Writing on a whiteboard. Cut up, EQ'd and compressed this sound: http://freesound.org/people/edctrainer/sounds/251677/",
+      "duration": 2.09219,
+      "tags": [
+        "draw",
+        "drawing",
+        "dry",
+        "erase",
+        "expo",
+        "foley",
+        "marker",
+        "scribble",
+        "sound",
+        "whiteboard",
+        "write",
+        "writing"
+      ],
+      "rating": 5,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "newagesoup",
+      "fileSizeKB": 40.5
+    },
+    {
+      "file": "pen_writing_335940.mp3",
+      "freesoundId": 335940,
+      "freesoundName": "marker-whiteboard-short09",
+      "description": "Writing on a whiteboard. Cut up, EQ'd and compressed this sound: http://freesound.org/people/edctrainer/sounds/251677/",
+      "duration": 1.9901,
+      "tags": [
+        "draw",
+        "drawing",
+        "dry",
+        "erase",
+        "expo",
+        "foley",
+        "marker",
+        "scribble",
+        "sound",
+        "whiteboard",
+        "write",
+        "writing"
+      ],
+      "rating": 3.6666666666666665,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "newagesoup",
+      "fileSizeKB": 38.1
+    },
+    {
+      "file": "pen_writing_335947.mp3",
+      "freesoundId": 335947,
+      "freesoundName": "marker-whiteboard-phrase06",
+      "description": "Writing on a whiteboard. Cut up, EQ'd and compressed this sound: http://freesound.org/people/edctrainer/sounds/251677/",
+      "duration": 3.80729,
+      "tags": [
+        "draw",
+        "drawing",
+        "dry",
+        "erase",
+        "expo",
+        "foley",
+        "marker",
+        "scribble",
+        "sound",
+        "whiteboard",
+        "write",
+        "writing"
+      ],
+      "rating": 5,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "newagesoup",
+      "fileSizeKB": 72.6
+    },
+    {
+      "file": "pen_writing_335949.mp3",
+      "freesoundId": 335949,
+      "freesoundName": "marker-whiteboard-short03",
+      "description": "Writing on a whiteboard. Cut up, EQ'd and compressed this sound: http://freesound.org/people/edctrainer/sounds/251677/",
+      "duration": 0.541146,
+      "tags": [
+        "draw",
+        "drawing",
+        "dry",
+        "erase",
+        "expo",
+        "foley",
+        "marker",
+        "scribble",
+        "sound",
+        "whiteboard",
+        "write",
+        "writing"
+      ],
+      "rating": 5,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "newagesoup",
+      "fileSizeKB": 11.5
+    }
+  ]
+}

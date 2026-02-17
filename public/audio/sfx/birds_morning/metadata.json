@@ -1,0 +1,106 @@
+{
+  "sfxName": "birds_morning",
+  "catalogDescription": "Dawn chorus",
+  "category": "Nature & Environment",
+  "files": [
+    {
+      "file": "birds_morning_757810.mp3",
+      "freesoundId": 757810,
+      "freesoundName": "Goats and birds morning Crete 1",
+      "description": "Early morning in Crete. Goats and birds are almost the only sounds. Field-recording with a ZOOMH2n",
+      "duration": 48.75,
+      "tags": [
+        "bells",
+        "birds",
+        "birdsong",
+        "crete",
+        "field-recording",
+        "goat",
+        "morning",
+        "nature"
+      ],
+      "rating": 5,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "Rimmer",
+      "fileSizeKB": 1097.8
+    },
+    {
+      "file": "birds_morning_511753.mp3",
+      "freesoundId": 511753,
+      "freesoundName": "Early_morning_birds_02.mp3",
+      "description": "Birds in the Belgian countryside early in the morning taken with Zoom H4, WAV, 48Khz-24Bit.\nThis recording was made during the Corona virus quarantine, meaning no planes, no cars in the background.",
+      "duration": 192.493,
+      "tags": [
+        "Birds",
+        "chirping",
+        "countryside",
+        "dawn",
+        "early",
+        "morning"
+      ],
+      "rating": 4.818181818181818,
+      "license": "http://creativecommons.org/licenses/by/3.0/",
+      "author": "aladar",
+      "fileSizeKB": 4368.5
+    },
+    {
+      "file": "birds_morning_511754.mp3",
+      "freesoundId": 511754,
+      "freesoundName": "Early_morning_birds_01.mp3",
+      "description": "Birds in the Belgian countryside early in the morning taken with Zoom H4, WAV, 48Khz-24Bit.\nThis recording was made during the Corona virus quarantine, meaning no planes, no cars in the background.",
+      "duration": 205.333,
+      "tags": [
+        "Birds",
+        "chirping",
+        "countryside",
+        "dawn",
+        "early",
+        "morning"
+      ],
+      "rating": 4.285714285714286,
+      "license": "http://creativecommons.org/licenses/by/3.0/",
+      "author": "aladar",
+      "fileSizeKB": 4650.5
+    },
+    {
+      "file": "birds_morning_757812.mp3",
+      "freesoundId": 757812,
+      "freesoundName": "Goats and birds morning Crete 3",
+      "description": "Early morning in Crete. Goats and birds are almost the only sounds. Field-recording with a ZOOMH2n",
+      "duration": 33.234,
+      "tags": [
+        "ambiance",
+        "birds",
+        "birdsong",
+        "crete",
+        "field-recording",
+        "goats",
+        "morning",
+        "nature"
+      ],
+      "rating": 4.666666666666667,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "Rimmer",
+      "fileSizeKB": 750.8
+    },
+    {
+      "file": "birds_morning_511755.mp3",
+      "freesoundId": 511755,
+      "freesoundName": "Early_morning_birds_07.mp3",
+      "description": "Birds in the Belgian countryside early in the morning taken with Zoom H4, WAV, 48Khz-24Bit.\nThis recording was made during the Corona virus quarantine, meaning no planes, no cars in the background.",
+      "duration": 156.613,
+      "tags": [
+        "Birds",
+        "chirping",
+        "countryside",
+        "dawn",
+        "early",
+        "morning"
+      ],
+      "rating": 4.809523809523809,
+      "license": "http://creativecommons.org/licenses/by/3.0/",
+      "author": "aladar",
+      "fileSizeKB": 3519.5
+    }
+  ]
+}

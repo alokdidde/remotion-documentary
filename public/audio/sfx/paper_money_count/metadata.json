@@ -1,0 +1,110 @@
+{
+  "sfxName": "paper_money_count",
+  "catalogDescription": "Shuffling bills",
+  "category": "Money & Economy",
+  "files": [
+    {
+      "file": "paper_money_count_56406.mp3",
+      "freesoundId": 56406,
+      "freesoundName": "00183 counting a lot of money manually.wav",
+      "description": "Counting lot of banknotes manually rec by Zoom H2 20 cm distance rear. Last recording by this Zoom, after changing a SD card,  recorder was stolen in a few hours time. So recording money is dangerous :(",
+      "duration": 33.3119,
+      "tags": [
+        "bank",
+        "banknote",
+        "bucks",
+        "cash",
+        "counting",
+        "dollars",
+        "money"
+      ],
+      "rating": 3.973684210526316,
+      "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "author": "Robinhood76",
+      "fileSizeKB": 795.9
+    },
+    {
+      "file": "paper_money_count_764778.mp3",
+      "freesoundId": 764778,
+      "freesoundName": "SFXMoney_Int_CountingOrFlippingThroughMoney_Ava_OwSfx_",
+      "description": "Paper money being counted.",
+      "duration": 20.5,
+      "tags": [
+        "cash",
+        "change",
+        "counting",
+        "money",
+        "OWI",
+        "paper",
+        "shuffling",
+        "sliding"
+      ],
+      "rating": 0,
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "author": "242011Vee",
+      "fileSizeKB": 476.6
+    },
+    {
+      "file": "paper_money_count_487569.mp3",
+      "freesoundId": 487569,
+      "freesoundName": "Counting Money",
+      "description": "This is the sound of someone counting paper money. Recorded with Zoom H6 Stereo Microphone. Recorded with Nvidia High Definition Audio Drivers.",
+      "duration": 5.5,
+      "tags": [
+        "Counting",
+        "Counting-Money",
+        "Money",
+        "Paper"
+      ],
+      "rating": 5,
+      "license": "http://creativecommons.org/licenses/by/3.0/",
+      "author": "190042",
+      "fileSizeKB": 129.1
+    },
+    {
+      "file": "paper_money_count_74986.mp3",
+      "freesoundId": 74986,
+      "freesoundName": "01103 banking machine counting.wav",
+      "description": "atm machine counting money rec by zoom h2 front",
+      "duration": 14.859,
+      "tags": [
+        "atm",
+        "banking",
+        "banknote",
+        "cash",
+        "count",
+        "counting",
+        "money"
+      ],
+      "rating": 4.214285714285714,
+      "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "author": "Robinhood76",
+      "fileSizeKB": 338.6
+    },
+    {
+      "file": "paper_money_count_565513.mp3",
+      "freesoundId": 565513,
+      "freesoundName": "Counting money handling US dollars Bills edlarez vsnr.wav",
+      "description": "Counting money in hands US dollars Bills, shifting trough a pack of US Bills, handling money. edlarez VSNR",
+      "duration": 20.7365,
+      "tags": [
+        "billetes",
+        "Bills",
+        "cash",
+        "contando",
+        "count",
+        "counting",
+        "Counting",
+        "dinero",
+        "dollar",
+        "dollars",
+        "handling",
+        "money"
+      ],
+      "rating": 4.578947368421052,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "visionear",
+      "fileSizeKB": 495.6
+    }
+  ]
+}

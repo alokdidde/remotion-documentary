@@ -1,0 +1,111 @@
+{
+  "sfxName": "heartbeat_single",
+  "catalogDescription": "One heavy heartbeat",
+  "category": "Tension & Suspense",
+  "files": [
+    {
+      "file": "heartbeat_single_418788.mp3",
+      "freesoundId": 418788,
+      "freesoundName": "heartbeat single",
+      "description": "Single heartbeat sound.",
+      "duration": 0.0905442,
+      "tags": [
+        "heart",
+        "heart-beat",
+        "heartbeat",
+        "synth"
+      ],
+      "rating": 4.085106382978723,
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "author": ".name",
+      "fileSizeKB": 2.1
+    },
+    {
+      "file": "heartbeat_single_22440.mp3",
+      "freesoundId": 22440,
+      "freesoundName": "Single Heartbeat Clean HQ_BeatSmith.wav",
+      "description": "Heartbeat single beat; clean version",
+      "duration": 0.664,
+      "tags": [
+        "beat",
+        "body",
+        "heart",
+        "heartbeat",
+        "human"
+      ],
+      "rating": 3.7954545454545454,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "Lunardrive",
+      "fileSizeKB": 15.3
+    },
+    {
+      "file": "heartbeat_single_418866.mp3",
+      "freesoundId": 418866,
+      "freesoundName": "Heartbeat loop",
+      "description": "Single heartbeat loop.",
+      "duration": 1,
+      "tags": [
+        "heart",
+        "heart-beat",
+        "heartbeat",
+        "loop",
+        "loopable",
+        "pulse",
+        "synth"
+      ],
+      "rating": 4.651515151515151,
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "author": ".name",
+      "fileSizeKB": 11.5
+    },
+    {
+      "file": "heartbeat_single_485076.mp3",
+      "freesoundId": 485076,
+      "freesoundName": "Heartbeat, Regular, Single, 01-01, LOOP.wav",
+      "description": "Loopable audio of a heartbeat, artificially created with by using a low-pass filter on some fireworks and adding some reverberation and Soundtoys \"Decapitator\".\n\nThis sound is not in the public domain. Please attribute/credit the sound if you use it. If you would prefer to not have to give attributi",
+      "duration": 2.02304,
+      "tags": [
+        "beat",
+        "Beat",
+        "blood",
+        "Blood",
+        "heart",
+        "Heart",
+        "heartbeat",
+        "Heartbeat",
+        "loop",
+        "Loop",
+        "pulse",
+        "Pulse",
+        "thump",
+        "Thump"
+      ],
+      "rating": 4.415929203539823,
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "author": "InspectorJ",
+      "fileSizeKB": 50.5
+    },
+    {
+      "file": "heartbeat_single_798007.mp3",
+      "freesoundId": 798007,
+      "freesoundName": "Simulating Heartbeat With Paper Bag (Crackling)",
+      "description": "Paper bag simulated into a heartbeat with rumbling the paper bag, recorded straight above mic (and in homestudio) \nMic: AT2020 with a Pop Filter/Windscreen\nAudio chain set up: AT2020 - From Rodecaster Pro II - Focusrite Scarlett 2i2 (3rd Gen) [AIR: ON] - Propellerheads Reason as DAW + Some normalizi",
+      "duration": 11.5573,
+      "tags": [
+        "AT2020",
+        "beat",
+        "cc0",
+        "crumbling",
+        "free",
+        "Heartbeat",
+        "paper-bag",
+        "pulse",
+        "stereo"
+      ],
+      "rating": 1.1666666666666667,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "deleted_user_15584536",
+      "fileSizeKB": 268.6
+    }
+  ]
+}

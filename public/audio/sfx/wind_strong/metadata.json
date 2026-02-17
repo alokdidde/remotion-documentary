@@ -1,0 +1,132 @@
+{
+  "sfxName": "wind_strong",
+  "catalogDescription": "Gusting wind",
+  "category": "Nature & Environment",
+  "files": [
+    {
+      "file": "wind_strong_81188.mp3",
+      "freesoundId": 81188,
+      "freesoundName": "Strong Wind through leaves.wav",
+      "description": "Leaves of birch and ash in a strong wind. ",
+      "duration": 44.1353,
+      "tags": [
+        "blowing",
+        "leaves",
+        "strong",
+        "surf",
+        "trees",
+        "wind"
+      ],
+      "rating": 4.525806451612903,
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "author": "juskiddink",
+      "fileSizeKB": 983.6
+    },
+    {
+      "file": "wind_strong_78955.mp3",
+      "freesoundId": 78955,
+      "freesoundName": "Aspen tree in strong wind.wav",
+      "description": "Leaves of the aspen tree rattling in a strong wind.Due to its unique sound this tree is often heard in nature before it is seen,also the leaves are so flexible that they seem to rotate!There is a bird-call i don't recognise at 40 secs.R-09HR in Rode blimp.",
+      "duration": 114.543,
+      "tags": [
+        "aspen",
+        "blowing",
+        "breeze",
+        "gusting",
+        "haapa",
+        "leaves",
+        "populus-tremula",
+        "rattling",
+        "rustling",
+        "strong",
+        "tree",
+        "wind"
+      ],
+      "rating": 4.473684210526316,
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "author": "juskiddink",
+      "fileSizeKB": 2622.8
+    },
+    {
+      "file": "wind_strong_459981.mp3",
+      "freesoundId": 459981,
+      "freesoundName": "Strong Wind",
+      "description": "Watch our travel video about DUBAI here: https://youtu.be/Q7OXul_ksAQ\nYou might as well go and check out my instagram: https://www.florianreichelt.com\nLeave a comment and tell me for which project you used it!! :)\n\nIf you want to support me and my work or acknowledge that I provide my soundeffects f",
+      "duration": 43.5341,
+      "tags": [
+        "Ambience",
+        "Ambient",
+        "Autumn",
+        "Birds",
+        "Cars",
+        "Day",
+        "Field-recording",
+        "Forest",
+        "Natural",
+        "Nature",
+        "Rain",
+        "Road",
+        "Sounds",
+        "Storm",
+        "Strong",
+        "Strong-Wind",
+        "Summer",
+        "Trees",
+        "Wind",
+        "Windy"
+      ],
+      "rating": 4.682926829268292,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "florianreichelt",
+      "fileSizeKB": 989.9
+    },
+    {
+      "file": "wind_strong_454371.mp3",
+      "freesoundId": 454371,
+      "freesoundName": "wind strong gusty storm form inside, battering kitchen windows.flac",
+      "description": "wind strong gusty storm form inside, battering kitchen windows.flac",
+      "duration": 950.032,
+      "tags": [
+        "battering",
+        "form",
+        "gusty",
+        "inside",
+        "kitchen",
+        "storm",
+        "strong",
+        "wind",
+        "windows"
+      ],
+      "rating": 4.666666666666667,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "kyles",
+      "fileSizeKB": 21048.8
+    },
+    {
+      "file": "wind_strong_706465.mp3",
+      "freesoundId": 706465,
+      "freesoundName": "strong wind and sea.wav",
+      "description": "Strong wind and big waves recording from the dock of Doelan, Britany.\nGeneral recording,\nNo voice, no motor\n\nrecorded with schoeps MSTC\nrecorded on Sounddevice 633\nwave stereo, 24 bits 48Khz\n\nDoelan, Britany, France, oct2023",
+      "duration": 196.005,
+      "tags": [
+        "Atlantic",
+        "Autumn",
+        "Britany",
+        "Doelan",
+        "field-recording",
+        "harbour",
+        "Ocean",
+        "sea",
+        "seaside",
+        "storm",
+        "strong",
+        "waves",
+        "wind"
+      ],
+      "rating": 4.875,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "bruno.auzet",
+      "fileSizeKB": 4343.9
+    }
+  ]
+}

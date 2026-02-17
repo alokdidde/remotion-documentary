@@ -1,15 +1,21 @@
 /**
- * SFX Download Script
+ * SFX Download Script — Freesound only
  *
- * Reads sfx-search-results.json and downloads the best match for each SFX.
+ * Reads sfx-search-results.json, downloads ALL found results per SFX,
+ * and generates a per-sound metadata file in each subfolder:
+ *   public/audio/sfx/{sfx_name}/metadata.json
+ *
+ * Each SFX gets a subfolder: public/audio/sfx/{sfx_name}/
+ *   containing multiple MP3s named {sfx_name}_{freesound_id}.mp3
  *
  * Usage:
- *   npx tsx scripts/download-sfx.ts --auto                          # Auto-select & download all
- *   npx tsx scripts/download-sfx.ts --auto --limit 5                # Download first 5
- *   npx tsx scripts/download-sfx.ts --name whoosh_soft               # Download specific SFX
- *   npx tsx scripts/download-sfx.ts --source freesound --auto        # Prefer freesound
- *   npx tsx scripts/download-sfx.ts --auto --skip-downloaded         # Skip already downloaded
- *   npx tsx scripts/download-sfx.ts --dry-run --auto                 # Show what would be downloaded
+ *   npx tsx scripts/download-sfx.ts                              # Download all
+ *   npx tsx scripts/download-sfx.ts --limit 5                    # First 5 SFX
+ *   npx tsx scripts/download-sfx.ts --name whoosh_soft            # Specific SFX
+ *   npx tsx scripts/download-sfx.ts --category "Nature"           # By category
+ *   npx tsx scripts/download-sfx.ts --skip-downloaded             # Resume interrupted run
+ *   npx tsx scripts/download-sfx.ts --dry-run                     # Preview without downloading
+ *   npx tsx scripts/download-sfx.ts --flat                        # Flat dir (best match only as {name}.mp3)
  */
 
 import 'dotenv/config';
@@ -22,57 +28,67 @@ const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const RESULTS_FILE = path.join(__dirname, 'sfx-search-results.json');
 const SFX_DIR = config.sfxDir;
 
-interface PixabayResult {
-  title: string;
-  url: string;
-  duration: number;
-  downloadUrl: string;
-  id: number;
-}
-
 interface FreesoundResult {
   id: number;
   name: string;
+  description: string;
   duration: number;
   previewUrl: string;
   tags: string[];
   rating: number;
+  license: string;
+  username: string;
 }
 
 interface SfxSearchResult {
   description: string;
   category: string;
-  pixabay: PixabayResult[];
-  freesound: FreesoundResult[];
-  selected: { source: 'pixabay' | 'freesound'; index: number } | null;
+  results: FreesoundResult[];
+  searchTermUsed: string;
   downloaded: boolean;
 }
 
 type SearchResults = Record<string, SfxSearchResult>;
 
+interface SfxFileMetadata {
+  file: string;
+  freesoundId: number;
+  freesoundName: string;
+  description: string;
+  duration: number;
+  tags: string[];
+  rating: number;
+  license: string;
+  author: string;
+  fileSizeKB: number;
+}
+
+interface SfxSoundMetadata {
+  sfxName: string;
+  catalogDescription: string;
+  category: string;
+  files: SfxFileMetadata[];
+}
+
 function parseArgs() {
   const args = process.argv.slice(2);
-  let auto = false;
-  let name = '';
-  let source: 'pixabay' | 'freesound' | '' = '';
   let limit = 0;
+  let name = '';
+  let category = '';
   let skipDownloaded = false;
   let dryRun = false;
-  let category = '';
+  let flat = false;
 
   for (let i = 0; i < args.length; i++) {
     switch (args[i]) {
-      case '--auto':
-        auto = true;
+      case '--limit':
+        limit = parseInt(args[++i] || '0', 10);
         break;
       case '--name':
         name = args[++i] || '';
         break;
-      case '--source':
-        source = (args[++i] || '') as 'pixabay' | 'freesound';
-        break;
-      case '--limit':
-        limit = parseInt(args[++i] || '0', 10);
+      case '--category':
+        category = args[++i] || '';
         break;
       case '--skip-downloaded':
         skipDownloaded = true;
@@ -80,127 +96,58 @@ function parseArgs() {
       case '--dry-run':
         dryRun = true;
         break;
-      case '--category':
-        category = args[++i] || '';
+      case '--flat':
+        flat = true;
         break;
     }
   }
 
-  return { auto, name, source, limit, skipDownloaded, dryRun, category };
+  return { limit, name, category, skipDownloaded, dryRun, flat };
 }
 
-function autoSelect(
-  result: SfxSearchResult,
-  preferSource: 'pixabay' | 'freesound' | '',
-): { source: 'pixabay' | 'freesound'; index: number } | null {
-  const hasPixabay = result.pixabay.length > 0;
-  const hasFreesound = result.freesound.length > 0;
+async function downloadFile(
+  url: string,
+  outputPath: string,
+): Promise<number> {
+  const resp = await fetch(url, { redirect: 'follow' });
 
-  if (!hasPixabay && !hasFreesound) return null;
-
-  // If a preferred source is specified, try it first
-  if (preferSource === 'pixabay' && hasPixabay) {
-    return { source: 'pixabay', index: selectBestPixabay(result.pixabay) };
-  }
-  if (preferSource === 'freesound' && hasFreesound) {
-    return { source: 'freesound', index: selectBestFreesound(result.freesound) };
+  if (!resp.ok) {
+    throw new Error(`HTTP ${resp.status}`);
   }
 
-  // Default priority: Freesound (has rating data, reliable previews) > Pixabay
-  if (hasFreesound) {
-    return { source: 'freesound', index: selectBestFreesound(result.freesound) };
-  }
-  if (hasPixabay) {
-    return { source: 'pixabay', index: selectBestPixabay(result.pixabay) };
-  }
+  const buffer = Buffer.from(await resp.arrayBuffer());
+  fs.writeFileSync(outputPath, buffer);
+  return buffer.length;
+}
 
+function loadSoundMetadata(sfxDir: string): SfxSoundMetadata | null {
+  const metaPath = path.join(sfxDir, 'metadata.json');
+  if (fs.existsSync(metaPath)) {
+    return JSON.parse(fs.readFileSync(metaPath, 'utf-8'));
+  }
   return null;
 }
 
-function selectBestPixabay(results: PixabayResult[]): number {
-  // Prefer shorter duration (SFX should be brief), first result as tiebreaker
-  let bestIdx = 0;
-  let bestScore = Infinity;
-
-  for (let i = 0; i < results.length; i++) {
-    const dur = results[i].duration || 10; // Default high if unknown
-    if (dur < bestScore) {
-      bestScore = dur;
-      bestIdx = i;
-    }
-  }
-
-  return bestIdx;
-}
-
-function selectBestFreesound(results: FreesoundResult[]): number {
-  // Score: prefer short duration (< 10s) and high rating
-  let bestIdx = 0;
-  let bestScore = -Infinity;
-
-  for (let i = 0; i < results.length; i++) {
-    const r = results[i];
-    const durScore = r.duration <= 5 ? 3 : r.duration <= 10 ? 2 : r.duration <= 30 ? 1 : 0;
-    const ratingScore = r.rating || 0;
-    const score = durScore * 2 + ratingScore;
-
-    if (score > bestScore) {
-      bestScore = score;
-      bestIdx = i;
-    }
-  }
-
-  return bestIdx;
-}
-
-async function downloadFile(url: string, outputPath: string): Promise<boolean> {
-  try {
-    const resp = await fetch(url, {
-      headers: {
-        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36',
-      },
-      redirect: 'follow',
-    });
-
-    if (!resp.ok) {
-      console.error(`    HTTP ${resp.status} for ${url}`);
-      return false;
-    }
-
-    const buffer = Buffer.from(await resp.arrayBuffer());
-
-    // Sanity check: file should be at least 1KB
-    if (buffer.length < 1024) {
-      console.warn(`    Warning: File is very small (${buffer.length} bytes), may be corrupt`);
-    }
-
-    fs.writeFileSync(outputPath, buffer);
-    return true;
-  } catch (err) {
-    console.error(`    Download error: ${err instanceof Error ? err.message : err}`);
-    return false;
-  }
+function saveSoundMetadata(sfxDir: string, metadata: SfxSoundMetadata): void {
+  fs.writeFileSync(
+    path.join(sfxDir, 'metadata.json'),
+    JSON.stringify(metadata, null, 2),
+  );
 }
 
 async function main() {
-  const { auto, name, source, limit, skipDownloaded, dryRun, category } = parseArgs();
+  const { limit, name, category, skipDownloaded, dryRun, flat } = parseArgs();
 
-  if (!auto && !name) {
-    console.log('Usage: npx tsx scripts/download-sfx.ts --auto [--limit N] [--source pixabay|freesound]');
-    console.log('       npx tsx scripts/download-sfx.ts --name <sfx_name>');
-    process.exit(1);
-  }
-
-  // Load search results
   if (!fs.existsSync(RESULTS_FILE)) {
-    console.error(`No search results found at ${RESULTS_FILE}`);
-    console.error('Run search-sfx.ts first to populate search results.');
+    console.error(`No search results found. Run search-sfx.ts first.`);
     process.exit(1);
   }
 
-  const results: SearchResults = JSON.parse(fs.readFileSync(RESULTS_FILE, 'utf-8'));
+  const results: SearchResults = JSON.parse(
+    fs.readFileSync(RESULTS_FILE, 'utf-8'),
+  );
 
-  // Ensure output directory exists
+  // Ensure base output dir
   if (!fs.existsSync(SFX_DIR)) {
     fs.mkdirSync(SFX_DIR, { recursive: true });
   }
@@ -209,7 +156,7 @@ async function main() {
   let entries = Object.entries(results);
 
   if (name) {
-    entries = entries.filter(([key]) => key === name);
+    entries = entries.filter(([k]) => k === name);
     if (entries.length === 0) {
       console.error(`SFX "${name}" not found in search results`);
       process.exit(1);
@@ -217,110 +164,148 @@ async function main() {
   }
 
   if (category) {
-    entries = entries.filter(([, val]) =>
-      val.category.toLowerCase().includes(category.toLowerCase()),
+    entries = entries.filter(([, v]) =>
+      v.category.toLowerCase().includes(category.toLowerCase()),
     );
   }
 
   if (skipDownloaded) {
-    entries = entries.filter(([, val]) => !val.downloaded);
+    entries = entries.filter(([, v]) => !v.downloaded);
   }
 
   if (limit > 0) {
     entries = entries.slice(0, limit);
   }
 
-  console.log(`\nDownloading ${entries.length} SFX to ${SFX_DIR}\n`);
+  const totalFiles = entries.reduce((s, [, v]) => s + v.results.length, 0);
+  console.log(
+    `\nDownloading ${entries.length} SFX (${totalFiles} files total) to ${SFX_DIR}`,
+  );
+  console.log(`Mode: ${flat ? 'flat (best match only)' : 'multi-file (all results)'}\n`);
 
-  let downloaded = 0;
-  let skipped = 0;
-  let failed = 0;
+  let downloadedFiles = 0;
+  let skippedSfx = 0;
+  let failedFiles = 0;
 
   for (const [sfxName, result] of entries) {
-    const outputPath = path.join(SFX_DIR, `${sfxName}.mp3`);
-
-    // Skip if already downloaded and file exists
-    if (result.downloaded && fs.existsSync(outputPath) && skipDownloaded) {
-      skipped++;
+    if (result.results.length === 0) {
+      console.log(`[SKIP] ${sfxName} — no search results`);
+      skippedSfx++;
       continue;
     }
 
-    // Auto-select or use existing selection
-    let selection = result.selected;
-    if (auto && !selection) {
-      selection = autoSelect(result, source);
+    // Determine which results to download
+    const toDownload = flat ? [result.results[0]] : result.results;
+
+    // Create subfolder (unless flat mode)
+    const sfxDir = flat ? SFX_DIR : path.join(SFX_DIR, sfxName);
+    if (!flat && !dryRun && !fs.existsSync(sfxDir)) {
+      fs.mkdirSync(sfxDir, { recursive: true });
     }
 
-    if (!selection) {
-      console.log(`[SKIP] ${sfxName} — no results available`);
-      skipped++;
-      continue;
-    }
+    // Load or init per-sound metadata
+    const meta: SfxSoundMetadata = (!flat && loadSoundMetadata(sfxDir)) || {
+      sfxName,
+      catalogDescription: result.description,
+      category: result.category,
+      files: [],
+    };
 
-    // Get the download URL
-    let downloadUrl = '';
-    let sourceLabel = '';
+    console.log(
+      `[${sfxName}] ${result.description} (${toDownload.length} file${toDownload.length > 1 ? 's' : ''})`,
+    );
 
-    if (selection.source === 'pixabay') {
-      const item = result.pixabay[selection.index];
-      if (item) {
-        downloadUrl = item.downloadUrl;
-        sourceLabel = `pixabay: "${item.title}"`;
+    for (const sound of toDownload) {
+      if (!sound.previewUrl) {
+        console.log(`  - ${sound.name}: no preview URL, skipping`);
+        continue;
       }
-    } else if (selection.source === 'freesound') {
-      const item = result.freesound[selection.index];
-      if (item) {
-        downloadUrl = item.previewUrl;
-        sourceLabel = `freesound: "${item.name}" (${item.duration.toFixed(1)}s, rating: ${item.rating})`;
+
+      const fileName = flat
+        ? `${sfxName}.mp3`
+        : `${sfxName}_${sound.id}.mp3`;
+      const filePath = path.join(sfxDir, fileName);
+
+      // Skip if already exists
+      if (fs.existsSync(filePath)) {
+        console.log(`  - ${fileName}: already exists, skipping`);
+        downloadedFiles++;
+        continue;
       }
+
+      if (dryRun) {
+        console.log(
+          `  - [DRY] ${fileName} <- "${sound.name}" (${sound.duration.toFixed(1)}s)`,
+        );
+        downloadedFiles++;
+        continue;
+      }
+
+      try {
+        const bytes = await downloadFile(sound.previewUrl, filePath);
+        const sizeKB = +(bytes / 1024).toFixed(1);
+        console.log(
+          `  - ${fileName} (${sizeKB} KB, ${sound.duration.toFixed(1)}s)`,
+        );
+
+        // Add to per-sound metadata
+        const existing = meta.files.findIndex(
+          (f) => f.freesoundId === sound.id,
+        );
+        const fileEntry: SfxFileMetadata = {
+          file: fileName,
+          freesoundId: sound.id,
+          freesoundName: sound.name,
+          description: sound.description,
+          duration: sound.duration,
+          tags: sound.tags,
+          rating: sound.rating,
+          license: sound.license,
+          author: sound.username,
+          fileSizeKB: sizeKB,
+        };
+        if (existing >= 0) {
+          meta.files[existing] = fileEntry;
+        } else {
+          meta.files.push(fileEntry);
+        }
+
+        downloadedFiles++;
+      } catch (err) {
+        console.log(
+          `  - ${fileName}: FAILED (${err instanceof Error ? err.message : err})`,
+        );
+        failedFiles++;
+      }
+
+      // Rate limit
+      await new Promise((r) => setTimeout(r, 300));
     }
 
-    if (!downloadUrl) {
-      console.log(`[SKIP] ${sfxName} — no download URL`);
-      skipped++;
-      continue;
+    // Save per-sound metadata.json inside the subfolder
+    if (!flat && !dryRun) {
+      saveSoundMetadata(sfxDir, meta);
     }
 
-    if (dryRun) {
-      console.log(`[DRY] ${sfxName} ← ${sourceLabel}`);
-      console.log(`      URL: ${downloadUrl}`);
-      downloaded++;
-      continue;
-    }
-
-    console.log(`[DL] ${sfxName} ← ${sourceLabel}`);
-
-    const success = await downloadFile(downloadUrl, outputPath);
-
-    if (success) {
-      const stats = fs.statSync(outputPath);
-      console.log(`     ✓ Saved (${(stats.size / 1024).toFixed(1)} KB)`);
-      downloaded++;
-
-      // Update results
-      result.selected = selection;
-      result.downloaded = true;
-      fs.writeFileSync(RESULTS_FILE, JSON.stringify(results, null, 2));
-    } else {
-      console.log(`     ✗ Failed`);
-      failed++;
-    }
-
-    // Rate limit
-    await new Promise((r) => setTimeout(r, 500));
+    // Mark as downloaded in search results
+    result.downloaded = true;
+    fs.writeFileSync(RESULTS_FILE, JSON.stringify(results, null, 2));
   }
 
   // Summary
   console.log('\n' + '='.repeat(50));
   console.log('Download complete!');
-  console.log(`  Downloaded: ${downloaded}`);
-  console.log(`  Skipped: ${skipped}`);
-  console.log(`  Failed: ${failed}`);
+  console.log(`  SFX processed: ${entries.length - skippedSfx}`);
+  console.log(`  SFX skipped (no results): ${skippedSfx}`);
+  console.log(`  Files downloaded: ${downloadedFiles}`);
+  console.log(`  Files failed: ${failedFiles}`);
 
-  // Overall progress
-  const totalInCatalog = Object.keys(results).length;
-  const totalDownloaded = Object.values(results).filter((r) => r.downloaded).length;
-  console.log(`\nOverall progress: ${totalDownloaded}/${totalInCatalog} SFX downloaded`);
+  // Overall
+  const totalDl = Object.values(results).filter((r) => r.downloaded).length;
+  console.log(
+    `\nOverall: ${totalDl}/${Object.keys(results).length} SFX downloaded`,
+  );
+  console.log(`Each subfolder contains its own metadata.json`);
 }
 
 main().catch((err) => {

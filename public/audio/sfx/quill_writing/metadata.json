@@ -1,0 +1,78 @@
+{
+  "sfxName": "quill_writing",
+  "catalogDescription": "Quill on parchment",
+  "category": "Historical & Period",
+  "files": [
+    {
+      "file": "quill_writing_194905.mp3",
+      "freesoundId": 194905,
+      "freesoundName": "Quill pen writing on hard paper various speed.wav",
+      "description": "The name says all. It's a take of a quill pen writing on an hard paper. I begun to write slowly and then increasing the speed.\r\n\r\nLa nome dice tutto. E' il campionamento di una penna d'oca che scrive su cartoncino. Ho iniziato a scrivere lentamente per poi aumentare progressivamente la velocità.",
+      "duration": 98.1835,
+      "tags": [
+        "handwrite",
+        "paper",
+        "papyrus",
+        "quill",
+        "quill-pen",
+        "write",
+        "writing"
+      ],
+      "rating": 4.777777777777778,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "marcoman89",
+      "fileSizeKB": 2216.7
+    },
+    {
+      "file": "quill_writing_507864.mp3",
+      "freesoundId": 507864,
+      "freesoundName": "Quill and Parchment.WAV",
+      "description": "Writing with a quill pen on some parchment... as you do. Recorded with a Zoom H1 as ever.\nAnother sound from the makers of Release The Clowns Sketch Comedy Podcast which you can find here \nhttps://podcasts.apple.com/gb/podcast/release-the-clowns-sketch-comedy-podcast/id1326524948\nor at www.releaseth",
+      "duration": 54.2373,
+      "tags": [
+        "Parchment",
+        "Quill",
+        "Writing"
+      ],
+      "rating": 4.625,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "Nickh69",
+      "fileSizeKB": 1280.7
+    },
+    {
+      "file": "quill_writing_180379.mp3",
+      "freesoundId": 180379,
+      "freesoundName": "psaní brkem 02.aif",
+      "description": "A guill writing on paper.",
+      "duration": 102.906,
+      "tags": [
+        "quill",
+        "write",
+        "writing"
+      ],
+      "rating": 4.857142857142857,
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "author": "6polnic",
+      "fileSizeKB": 2396
+    },
+    {
+      "file": "quill_writing_829662.mp3",
+      "freesoundId": 829662,
+      "freesoundName": "OBJWrite-Blue Snowball Microphone, MCU_Quill, Pen, Writing_Nicholas Judy_TDC",
+      "description": "A quill pen writing.",
+      "duration": 39.8687,
+      "tags": [
+        "Blue-brand",
+        "Blue-Snowball",
+        "foley",
+        "pen",
+        "quill",
+        "write"
+      ],
+      "rating": 4.5,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "designerschoice",
+      "fileSizeKB": 921.6
+    }
+  ]
+}

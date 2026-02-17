@@ -1,0 +1,120 @@
+{
+  "sfxName": "question_tone",
+  "catalogDescription": "Rising inquisitive note",
+  "category": "Narration & Information Cues",
+  "files": [
+    {
+      "file": "question_tone_81166.mp3",
+      "freesoundId": 81166,
+      "freesoundName": "tokyo narita.wav",
+      "description": "i think this is a public anouncement tone of the narita airport, but i not sure this tone is exactly of this airport, please leave your comments!.made with audition and sonar.",
+      "duration": 3.27229,
+      "tags": [
+        "airport",
+        "alarm",
+        "alert",
+        "chime",
+        "japan",
+        "narita",
+        "public-anouncement",
+        "question",
+        "sure",
+        "tokyo",
+        "tone"
+      ],
+      "rating": 4.166666666666667,
+      "license": "http://creativecommons.org/licenses/by-nc/3.0/",
+      "author": "milton.",
+      "fileSizeKB": 71.4
+    },
+    {
+      "file": "question_tone_216090.mp3",
+      "freesoundId": 216090,
+      "freesoundName": "Bad Beep (Incorrect)",
+      "description": "You pressed the red button again, didn't you? The one I explicitly told you not to push. Go sit in the corner and think about what you've done.",
+      "duration": 0.592018,
+      "tags": [
+        "alarm",
+        "alert",
+        "answer",
+        "beep",
+        "buzzer",
+        "incorrect",
+        "invalid",
+        "malfunction",
+        "question",
+        "tone",
+        "warning",
+        "wrong"
+      ],
+      "rating": 4.377777777777778,
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "author": "RICHERlandTV",
+      "fileSizeKB": 19.3
+    },
+    {
+      "file": "question_tone_692847.mp3",
+      "freesoundId": 692847,
+      "freesoundName": "False C",
+      "description": "Short harsh buzz for a wrong answer or incorrect selection. It is a C note that is pitched downward. CC0",
+      "duration": 1.53252,
+      "tags": [
+        "alert",
+        "buzz",
+        "c",
+        "false",
+        "game",
+        "incorrect",
+        "invalid",
+        "menu",
+        "noise",
+        "puzzle",
+        "question",
+        "quiz",
+        "tone",
+        "wrong"
+      ],
+      "rating": 4.733333333333333,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "Beetlemuse",
+      "fileSizeKB": 40.6
+    },
+    {
+      "file": "question_tone_19262.mp3",
+      "freesoundId": 19262,
+      "freesoundName": "questioning vocal tone huh.wav",
+      "description": "cartoon questioning vocal tone huh",
+      "duration": 0.546236,
+      "tags": [
+        "cartoon",
+        "huh",
+        "questioning",
+        "tone",
+        "vocal"
+      ],
+      "rating": 3.09375,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "martian",
+      "fileSizeKB": 10.4
+    },
+    {
+      "file": "question_tone_786669.mp3",
+      "freesoundId": 786669,
+      "freesoundName": "noise to tone - constant amplitude",
+      "description": "I have tried to create a transition from noise to tone and keep the amplitude constant. The question is if you perceive the amplitude as constant? What do you say?\nThe sound is made with ChucK.",
+      "duration": 50.0117,
+      "tags": [
+        "amplitude",
+        "ChucK",
+        "experiment",
+        "noise",
+        "Scripting",
+        "tone"
+      ],
+      "rating": 4,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "gis_sweden",
+      "fileSizeKB": 939.2
+    }
+  ]
+}

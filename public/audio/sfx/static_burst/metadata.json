@@ -1,0 +1,101 @@
+{
+  "sfxName": "static_burst",
+  "catalogDescription": "Short TV static",
+  "category": "Transitions & Structural Cues",
+  "files": [
+    {
+      "file": "static_burst_762873.mp3",
+      "freesoundId": 762873,
+      "freesoundName": "TV Outro Song Static Remix",
+      "description": "My TV sound called \"TV Outro song\" blew up, so here's a remix of it but it ends with a static rather than an click!",
+      "duration": 3.66045,
+      "tags": [
+        "1900s",
+        "calm",
+        "HD",
+        "old",
+        "radio",
+        "short",
+        "song",
+        "static",
+        "television",
+        "Tv"
+      ],
+      "rating": 4.6923076923076925,
+      "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "author": "AItF4",
+      "fileSizeKB": 79.1
+    },
+    {
+      "file": "static_burst_761609.mp3",
+      "freesoundId": 761609,
+      "freesoundName": "TV Turn On Static",
+      "description": "An fade in static of a TV, its short, simple, and sounds amazing!",
+      "duration": 0.286508,
+      "tags": [
+        "1900s",
+        "short",
+        "static",
+        "television",
+        "Tv"
+      ],
+      "rating": 0,
+      "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "author": "AItF4",
+      "fileSizeKB": 9.7
+    },
+    {
+      "file": "static_burst_761608.mp3",
+      "freesoundId": 761608,
+      "freesoundName": "TV Turn Off Static",
+      "description": "An fade out static of a TV, its short, simple, has no delay and sounds amazing!",
+      "duration": 0.766259,
+      "tags": [
+        "1900s",
+        "off",
+        "old",
+        "short",
+        "static",
+        "television",
+        "Tv"
+      ],
+      "rating": 5,
+      "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "author": "AItF4",
+      "fileSizeKB": 13.1
+    },
+    {
+      "file": "static_burst_721496.mp3",
+      "freesoundId": 721496,
+      "freesoundName": "Static TV Sound",
+      "description": "Static TV Sound",
+      "duration": 1.53571,
+      "tags": [
+        "Sound",
+        "Static",
+        "TV"
+      ],
+      "rating": 4.833333333333333,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "synth2",
+      "fileSizeKB": 37.8
+    },
+    {
+      "file": "static_burst_766740.mp3",
+      "freesoundId": 766740,
+      "freesoundName": "ELECBuzz_TV Static_ODIMog_OWISFX",
+      "description": "Old TV static sound.",
+      "duration": 12,
+      "tags": [
+        "fuzz",
+        "static",
+        "television",
+        "TV"
+      ],
+      "rating": 4.875,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "OMogadime",
+      "fileSizeKB": 232.4
+    }
+  ]
+}

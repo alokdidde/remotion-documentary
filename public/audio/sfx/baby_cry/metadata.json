@@ -1,0 +1,102 @@
+{
+  "sfxName": "baby_cry",
+  "catalogDescription": "Infant crying",
+  "category": "Human & Social",
+  "files": [
+    {
+      "file": "baby_cry_211526.mp3",
+      "freesoundId": 211526,
+      "freesoundName": "Crying newborn baby child 4.WAV",
+      "description": "Crying newborn baby child recorded using the Zoom H1",
+      "duration": 54.9546,
+      "tags": [
+        "baby",
+        "child",
+        "cry",
+        "Cry",
+        "crying",
+        "kid",
+        "newborn"
+      ],
+      "rating": 4.555555555555555,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "the_yura",
+      "fileSizeKB": 1261.2
+    },
+    {
+      "file": "baby_cry_668793.mp3",
+      "freesoundId": 668793,
+      "freesoundName": "Crying baby 2",
+      "description": "A baby has a long wobbly cry.\n\nThe sample is edited to reduce unrelated noise (Audacity).\n\nSo... I just figured out, instead of being angry when a baby is crying in a public transportation, I'm just going to record them.",
+      "duration": 4.74058,
+      "tags": [
+        "baby",
+        "cry",
+        "crying",
+        "infant"
+      ],
+      "rating": 4.4,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "MBPL",
+      "fileSizeKB": 110
+    },
+    {
+      "file": "baby_cry_667199.mp3",
+      "freesoundId": 667199,
+      "freesoundName": "Crying baby 1",
+      "description": "A baby cries in 3 distinct breaths.\n\nThe sample is edited to reduce unrelated noise (Audacity).",
+      "duration": 3.22424,
+      "tags": [
+        "baby",
+        "cry",
+        "crying",
+        "infant"
+      ],
+      "rating": 3.4,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "MBPL",
+      "fileSizeKB": 76.1
+    },
+    {
+      "file": "baby_cry_211527.mp3",
+      "freesoundId": 211527,
+      "freesoundName": "Crying newborn baby child 3.WAV",
+      "description": "Crying newborn baby child",
+      "duration": 103.973,
+      "tags": [
+        "baby",
+        "child",
+        "cry",
+        "Cry",
+        "crying",
+        "newborn",
+        "recorded",
+        "Sounds"
+      ],
+      "rating": 4.3046875,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "the_yura",
+      "fileSizeKB": 2382.5
+    },
+    {
+      "file": "baby_cry_211529.mp3",
+      "freesoundId": 211529,
+      "freesoundName": "Crying newborn baby child 1.WAV",
+      "description": "Crying newborn baby child recorded using the Zoom H1",
+      "duration": 43.5113,
+      "tags": [
+        "baby",
+        "child",
+        "cry",
+        "Cry",
+        "crying",
+        "kid",
+        "newborn"
+      ],
+      "rating": 4.553191489361702,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "the_yura",
+      "fileSizeKB": 1006.6
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "sfxName": "footsteps_slow",
+  "catalogDescription": "Deliberate slow steps",
+  "category": "Tension & Suspense",
+  "files": [
+    {
+      "file": "footsteps_slow_369837.mp3",
+      "freesoundId": 369837,
+      "freesoundName": "01-32 Footsteps, Wood, Socks, Slow Pace.wav",
+      "description": "Footsteps, slow pace on wood floor with socks",
+      "duration": 15.2333,
+      "tags": [
+        "footsteps",
+        "hardwood",
+        "slow",
+        "socks",
+        "walking",
+        "wood"
+      ],
+      "rating": 4.37037037037037,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "SpliceSound",
+      "fileSizeKB": 340.9
+    },
+    {
+      "file": "footsteps_slow_452011.mp3",
+      "freesoundId": 452011,
+      "freesoundName": "footsteps shoes packed snow slow medium fast speeds stops starts scuffs mic close.flac",
+      "description": "footsteps shoes packed snow slow medium fast speeds stops starts scuffs mic close.flac",
+      "duration": 328.036,
+      "tags": [
+        "fast",
+        "footsteps",
+        "medium",
+        "packed",
+        "scuffs",
+        "shoes",
+        "slow",
+        "snow",
+        "speeds",
+        "starts",
+        "stops"
+      ],
+      "rating": 0,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "kyles",
+      "fileSizeKB": 8154.2
+    },
+    {
+      "file": "footsteps_slow_452526.mp3",
+      "freesoundId": 452526,
+      "freesoundName": "traffic slow dirt gravel road main gate Shambhala music festival last day everyone leaving people footsteps pulling carts with coolers +trucks cars ATVs.flac",
+      "description": "traffic slow dirt gravel road main gate Shambhala music festival last day everyone leaving people footsteps pulling carts with coolers +trucks cars ATVs.flac",
+      "duration": 700.29,
+      "tags": [
+        "ATVs",
+        "cars",
+        "carts",
+        "coolers",
+        "dirt",
+        "festival",
+        "footsteps",
+        "gate",
+        "gravel",
+        "main",
+        "music",
+        "people",
+        "pulling",
+        "road",
+        "Shambhala",
+        "slow",
+        "traffic",
+        "trucks"
+      ],
+      "rating": 0,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "kyles",
+      "fileSizeKB": 16299.7
+    },
+    {
+      "file": "footsteps_slow_452525.mp3",
+      "freesoundId": 452525,
+      "freesoundName": "traffic slow dirt gravel road intersection Shambhala music festival last day everyone leaving good tire detail and people footsteps and pushing carts2 +trucks cars ATVs.flac",
+      "description": "traffic slow dirt gravel road intersection Shambhala music festival last day everyone leaving good tire detail and people footsteps and pushing carts2 +trucks cars ATVs.flac",
+      "duration": 392.581,
+      "tags": [
+        "carts",
+        "detail",
+        "dirt",
+        "festival",
+        "footsteps",
+        "good",
+        "gravel",
+        "intersection",
+        "music",
+        "people",
+        "pushing",
+        "road",
+        "Shambhala",
+        "slow",
+        "tire",
+        "traffic"
+      ],
+      "rating": 4,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "kyles",
+      "fileSizeKB": 9034.3
+    },
+    {
+      "file": "footsteps_slow_451861.mp3",
+      "freesoundId": 451861,
+      "freesoundName": "footsteps shoes dirt floor slow scuff stop.flac",
+      "description": "footsteps shoes dirt floor slow scuff stop.flac",
+      "duration": 95.5682,
+      "tags": [
+        "dirt",
+        "floor",
+        "footsteps",
+        "scuff",
+        "shoes",
+        "slow",
+        "stop"
+      ],
+      "rating": 4.5,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "kyles",
+      "fileSizeKB": 2308.9
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "sfxName": "film_reel_click",
+  "catalogDescription": "Projector clicking",
+  "category": "Transitions & Structural Cues",
+  "files": [
+    {
+      "file": "film_reel_click_836692.mp3",
+      "freesoundId": 836692,
+      "freesoundName": "COMAv-Blue Snowball Microphone, CU_Projector, Film, 8mm, Super 8, Slow Motion Switch_Nicholas Judy_TDC",
+      "description": "Bell and Howell 8mm-Super 8 film projector switches from slow motion switch.",
+      "duration": 8.45206,
+      "tags": [
+        "8mm",
+        "Blue-brand",
+        "Blue-Snowball",
+        "film",
+        "film-projector",
+        "foley",
+        "projector",
+        "slow-motion",
+        "super-8",
+        "switch"
+      ],
+      "rating": 0,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "designerschoice",
+      "fileSizeKB": 191.1
+    },
+    {
+      "file": "film_reel_click_836694.mp3",
+      "freesoundId": 836694,
+      "freesoundName": "COMAv-Blue Snowball Microphone, MCU_Projector, Film, 8mm, Super 8, Focus Lens, Unscrew, Screw_Nicholas Judy_TDC",
+      "description": "Bell and Howell 8mm-Super 8 film projector focus lens being unscrewed and screwed with squeaks.",
+      "duration": 23.5915,
+      "tags": [
+        "8mm",
+        "Blue-brand",
+        "Blue-Snowball",
+        "film",
+        "film-projector",
+        "focus-lens",
+        "foley",
+        "projector",
+        "screw",
+        "squeak",
+        "super-8",
+        "unscrew"
+      ],
+      "rating": 0,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "designerschoice",
+      "fileSizeKB": 533.4
+    },
+    {
+      "file": "film_reel_click_836691.mp3",
+      "freesoundId": 836691,
+      "freesoundName": "COMAv-Blue Snowball Microphone, CU_Projector, Film, 8mm, Super 8, Reverse Switch, On, Run, Off_Nicholas Judy_TDC",
+      "description": "Bell and Howell 8mm-Super 8 film projector set switch to reverse, switch on, run and switch off.",
+      "duration": 54.0094,
+      "tags": [
+        "8mm",
+        "Blue-brand",
+        "Blue-Snowball",
+        "film",
+        "film-projector",
+        "projector",
+        "super-8"
+      ],
+      "rating": 0,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "designerschoice",
+      "fileSizeKB": 1188.7
+    },
+    {
+      "file": "film_reel_click_836690.mp3",
+      "freesoundId": 836690,
+      "freesoundName": "COMAv-Blue Snowball Microphone, CU_Projector, Film, 8mm, Super 8, Position Reel Arm_Nicholas Judy_TDC",
+      "description": "Bell and Howell 8mm-Super 8 film projector positioning reel arms.",
+      "duration": 16.3933,
+      "tags": [
+        "8mm",
+        "Blue-brand",
+        "Blue-Snowball",
+        "film",
+        "film-projector",
+        "foley",
+        "position",
+        "projector",
+        "reel-arms",
+        "super-8"
+      ],
+      "rating": 0,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "designerschoice",
+      "fileSizeKB": 377.7
+    },
+    {
+      "file": "film_reel_click_65921.mp3",
+      "freesoundId": 65921,
+      "freesoundName": "Film Projector.wav",
+      "description": "A 1970s Film Projector",
+      "duration": 48.5239,
+      "tags": [
+        "film",
+        "projector"
+      ],
+      "rating": 4.470588235294118,
+      "license": "http://creativecommons.org/licenses/sampling+/1.0/",
+      "author": "Rock Savage",
+      "fileSizeKB": 1112.1
+    }
+  ]
+}

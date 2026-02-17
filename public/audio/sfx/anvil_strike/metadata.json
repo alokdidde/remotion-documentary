@@ -1,0 +1,97 @@
+{
+  "sfxName": "anvil_strike",
+  "catalogDescription": "Blacksmith anvil hit",
+  "category": "Impacts & Emphasis",
+  "files": [
+    {
+      "file": "anvil_strike_19017.mp3",
+      "freesoundId": 19017,
+      "freesoundName": "anvil strike 5.wav",
+      "description": "The sound of what I imagine a hammer striking an anvil would probably make. This was created by hitting two knives together and resampling it for a lower pitch. Because I only sampled at 44,100 Hz, most high frequency information is gone. I might make these again recording at 192 kHz if I find the t",
+      "duration": 0.987687,
+      "tags": [
+        "anvil",
+        "hard",
+        "hit",
+        "processed",
+        "strike"
+      ],
+      "rating": 4.142857142857143,
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "author": "l0calh05t",
+      "fileSizeKB": 23
+    },
+    {
+      "file": "anvil_strike_19016.mp3",
+      "freesoundId": 19016,
+      "freesoundName": "anvil strike 4.wav",
+      "description": "The sound of what I imagine a hammer striking an anvil would probably make. This was created by hitting two knives together and resampling it for a lower pitch. Because I only sampled at 44,100 Hz, most high frequency information is gone. I might make these again recording at 192 kHz if I find the t",
+      "duration": 0.867596,
+      "tags": [
+        "anvil",
+        "hard",
+        "hit",
+        "processed",
+        "strike"
+      ],
+      "rating": 4.208333333333333,
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "author": "l0calh05t",
+      "fileSizeKB": 20.5
+    },
+    {
+      "file": "anvil_strike_19018.mp3",
+      "freesoundId": 19018,
+      "freesoundName": "anvil strike 6.wav",
+      "description": "The sound of what I imagine a hammer striking an anvil would probably make. This was created by hitting two knives together and resampling it for a lower pitch. Because I only sampled at 44,100 Hz, most high frequency information is gone. I might make these again recording at 192 kHz if I find the t",
+      "duration": 1.09163,
+      "tags": [
+        "anvil",
+        "hard",
+        "hit",
+        "processed",
+        "strike"
+      ],
+      "rating": 4.375,
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "author": "l0calh05t",
+      "fileSizeKB": 25.1
+    },
+    {
+      "file": "anvil_strike_19014.mp3",
+      "freesoundId": 19014,
+      "freesoundName": "anvil strike 2.wav",
+      "description": "The sound of what I imagine a hammer striking an anvil would probably make. This was created by hitting two knives together and resampling it for a lower pitch. Because I only sampled at 44,100 Hz, most high frequency information is gone. I might make these again recording at 192 kHz if I find the t",
+      "duration": 1.382,
+      "tags": [
+        "anvil",
+        "hard",
+        "hit",
+        "processed",
+        "strike"
+      ],
+      "rating": 3.166666666666665,
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "author": "l0calh05t",
+      "fileSizeKB": 30.7
+    },
+    {
+      "file": "anvil_strike_19022.mp3",
+      "freesoundId": 19022,
+      "freesoundName": "anvil strike weak 2.wav",
+      "description": "The sound of what I imagine a hammer striking an anvil would probably make. This was created by hitting two knives together and resampling it for a lower pitch. Because I only sampled at 44,100 Hz, most high frequency information is gone. I might make these again recording at 192 kHz if I find the t",
+      "duration": 0.59381,
+      "tags": [
+        "anvil",
+        "hard",
+        "hit",
+        "processed",
+        "strike"
+      ],
+      "rating": 4.5,
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "author": "l0calh05t",
+      "fileSizeKB": 14.5
+    }
+  ]
+}

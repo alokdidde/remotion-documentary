@@ -1,0 +1,87 @@
+{
+  "sfxName": "shofar_blast",
+  "catalogDescription": "Ram's horn trumpet",
+  "category": "Historical & Period",
+  "files": [
+    {
+      "file": "shofar_blast_479310.mp3",
+      "freesoundId": 479310,
+      "freesoundName": "shofar blast medium length two tone.m4a",
+      "description": "this is a medium length two-tone shofar blast",
+      "duration": 6.336,
+      "tags": [
+        "Jewish",
+        "shofar",
+        "trumpet"
+      ],
+      "rating": 4.777777777777778,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "Sonicsheep",
+      "fileSizeKB": 120.4
+    },
+    {
+      "file": "shofar_blast_435891.mp3",
+      "freesoundId": 435891,
+      "freesoundName": "short [2018-08-01 140749]-1.aif",
+      "description": "Solo recording of shofar (ram's horn) blasts",
+      "duration": 2.9485,
+      "tags": [
+        "horn",
+        "jewish",
+        "shofar"
+      ],
+      "rating": 4,
+      "license": "http://creativecommons.org/licenses/by/3.0/",
+      "author": "shogood_shofar",
+      "fileSizeKB": 65.9
+    },
+    {
+      "file": "shofar_blast_435890.mp3",
+      "freesoundId": 435890,
+      "freesoundName": "short [2018-08-01 140749]-2.aif",
+      "description": "Solo recording of shofar (ram's horn) blasts",
+      "duration": 2.50916,
+      "tags": [
+        "horn",
+        "jewish",
+        "shofar"
+      ],
+      "rating": 0,
+      "license": "http://creativecommons.org/licenses/by/3.0/",
+      "author": "shogood_shofar",
+      "fileSizeKB": 56.4
+    },
+    {
+      "file": "shofar_blast_435889.mp3",
+      "freesoundId": 435889,
+      "freesoundName": "long [2018-08-01 140749]-1.aif",
+      "description": "Solo recording of shofar (ram's horn) blasts",
+      "duration": 22.4233,
+      "tags": [
+        "horn",
+        "jewish",
+        "shofar"
+      ],
+      "rating": 0,
+      "license": "http://creativecommons.org/licenses/by/3.0/",
+      "author": "shogood_shofar",
+      "fileSizeKB": 482.7
+    },
+    {
+      "file": "shofar_blast_435888.mp3",
+      "freesoundId": 435888,
+      "freesoundName": "long [2018-08-01 140749].aif",
+      "description": "Solo recording of shofar (ram's horn) blasts",
+      "duration": 10.5752,
+      "tags": [
+        "horn",
+        "jewish",
+        "shofar"
+      ],
+      "rating": 2,
+      "license": "http://creativecommons.org/licenses/by/3.0/",
+      "author": "shogood_shofar",
+      "fileSizeKB": 231
+    }
+  ]
+}

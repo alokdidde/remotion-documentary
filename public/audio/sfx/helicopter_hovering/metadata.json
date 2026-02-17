@@ -1,0 +1,107 @@
+{
+  "sfxName": "helicopter_hovering",
+  "catalogDescription": "Chopper blades",
+  "category": "Urban & Industrial",
+  "files": [
+    {
+      "file": "helicopter_hovering_637598.mp3",
+      "freesoundId": 637598,
+      "freesoundName": "helicopter police flying hovering over protest5 turn.flac",
+      "description": "helicopter police flying hovering over protest5 turn\n\nrecorded with Sony PCM-D50, Tascam DAP1 DAT with AT835 stereo mic, or Zoom H2",
+      "duration": 31.031,
+      "tags": [
+        "flying",
+        "helicopter",
+        "hovering",
+        "over",
+        "police",
+        "protest",
+        "turn"
+      ],
+      "rating": 0,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "kyles",
+      "fileSizeKB": 664.8
+    },
+    {
+      "file": "helicopter_hovering_637597.mp3",
+      "freesoundId": 637597,
+      "freesoundName": "helicopter police flying hovering over protest4 sharp modulations.flac",
+      "description": "helicopter police flying hovering over protest4 sharp modulations\n\nrecorded with Sony PCM-D50, Tascam DAP1 DAT with AT835 stereo mic, or Zoom H2",
+      "duration": 49.0072,
+      "tags": [
+        "flying",
+        "helicopter",
+        "hovering",
+        "modulations",
+        "over",
+        "police",
+        "protest",
+        "sharp"
+      ],
+      "rating": 0,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "kyles",
+      "fileSizeKB": 1038.6
+    },
+    {
+      "file": "helicopter_hovering_637599.mp3",
+      "freesoundId": 637599,
+      "freesoundName": "helicopter police flying hovering over protest6 sharp modulations.flac",
+      "description": "helicopter police flying hovering over protest6 sharp modulations\n\nrecorded with Sony PCM-D50, Tascam DAP1 DAT with AT835 stereo mic, or Zoom H2",
+      "duration": 92.0917,
+      "tags": [
+        "flying",
+        "helicopter",
+        "hovering",
+        "modulations",
+        "over",
+        "police",
+        "protest",
+        "sharp"
+      ],
+      "rating": 5,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "kyles",
+      "fileSizeKB": 1961.6
+    },
+    {
+      "file": "helicopter_hovering_637595.mp3",
+      "freesoundId": 637595,
+      "freesoundName": "helicopter police flying hovering over protest2.flac",
+      "description": "helicopter police flying hovering over protest2\n\nrecorded with Sony PCM-D50, Tascam DAP1 DAT with AT835 stereo mic, or Zoom H2",
+      "duration": 91.091,
+      "tags": [
+        "flying",
+        "helicopter",
+        "hovering",
+        "over",
+        "police",
+        "protest"
+      ],
+      "rating": 0,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "kyles",
+      "fileSizeKB": 1936.6
+    },
+    {
+      "file": "helicopter_hovering_637594.mp3",
+      "freesoundId": 637594,
+      "freesoundName": "helicopter police flying hovering over protest1.flac",
+      "description": "helicopter police flying hovering over protest1\n\nrecorded with Sony PCM-D50, Tascam DAP1 DAT with AT835 stereo mic, or Zoom H2",
+      "duration": 70.07,
+      "tags": [
+        "flying",
+        "helicopter",
+        "hovering",
+        "over",
+        "police",
+        "protest"
+      ],
+      "rating": 0,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "kyles",
+      "fileSizeKB": 1496.6
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "sfxName": "spotlight_on",
+  "catalogDescription": "Lamp/spot switching on",
+  "category": "Narration & Information Cues",
+  "files": [
+    {
+      "file": "spotlight_on_338084.mp3",
+      "freesoundId": 338084,
+      "freesoundName": "Spotlight_clear.wav",
+      "description": "I hope this sound is realistic enough for your projects. Download the Soundpack, there is also a edited version of this sound (with reverb). Maybe i will add some spotlights in the future\r\n",
+      "duration": 9.70467,
+      "tags": [
+        "floodlight",
+        "movie-feature",
+        "Scheinwerfer",
+        "searchlight",
+        "spotlight"
+      ],
+      "rating": 4.428571428571429,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "EricsSoundschmiede",
+      "fileSizeKB": 218.3
+    },
+    {
+      "file": "spotlight_on_338083.mp3",
+      "freesoundId": 338083,
+      "freesoundName": "Spotlight_reverb.wav",
+      "description": "I hope this sound is realistic enough for your projects. Download the Soundpack, there is also a unedited version of this sound (without reverb). Maybe i will add some spotlights in the future\r\n",
+      "duration": 1.5,
+      "tags": [
+        "floodlight",
+        "light",
+        "movie-feature",
+        "Scheinwerfer",
+        "searchlight",
+        "spotlight"
+      ],
+      "rating": 4.870967741935484,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "EricsSoundschmiede",
+      "fileSizeKB": 35.2
+    },
+    {
+      "file": "spotlight_on_720888.mp3",
+      "freesoundId": 720888,
+      "freesoundName": "Switch_Flick",
+      "description": "I took a broom and dustpan's handle and clicked the two together.  The second take was slightly metallic, whereas all the other takes focused more on the sound made by the plastic.  I used this for a spotlight's reveal effect during a game jam, though I added reverb to mine.  This is the raw take.\n\n",
+      "duration": 4.14946,
+      "tags": [
+        "Flick",
+        "Interactable",
+        "Interaction",
+        "Short",
+        "Sound",
+        "Switch",
+        "UI",
+        "VideoGame"
+      ],
+      "rating": 5,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "BaggoNotes",
+      "fileSizeKB": 74.7
+    },
+    {
+      "file": "spotlight_on_49013.mp3",
+      "freesoundId": 49013,
+      "freesoundName": "Spotlight.aif",
+      "description": "large searchlight turning on in medium outdoor space.  to make effect sound closer increase low-end. 6-channel surround.",
+      "duration": 5.12577,
+      "tags": [
+        "floodlight",
+        "movie-feature",
+        "searchlight",
+        "spotlight"
+      ],
+      "rating": 4.658415841584159,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "reidmangan",
+      "fileSizeKB": 93.6
+    },
+    {
+      "file": "spotlight_on_49023.mp3",
+      "freesoundId": 49023,
+      "freesoundName": "spotlight-stereo.aif",
+      "description": "large searchlight turning on in medium outdoor space. to make effect sound closer increase low-end. 2-channel stereo.",
+      "duration": 5.12577,
+      "tags": [
+        "floodlight",
+        "movie-feature",
+        "searchlight",
+        "spotlight"
+      ],
+      "rating": 4.444174757281553,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "reidmangan",
+      "fileSizeKB": 93.6
+    }
+  ]
+}

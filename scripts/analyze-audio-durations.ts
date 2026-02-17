@@ -14,7 +14,6 @@ const FPS = 30; // Video frames per second
 
 interface AudioAnalysis {
   id: string;
-  chapter: number;
   scene: string;
   audioFile: string;
   audioDurationSec: number;
@@ -58,7 +57,6 @@ function analyzeAll(): AudioAnalysis[] {
 
     results.push({
       id: entry.id,
-      chapter: entry.chapter,
       scene: entry.scene,
       audioFile: path.basename(audioFile),
       audioDurationSec: Math.round(audioDurationSec * 100) / 100,
@@ -84,18 +82,12 @@ function generateReport(results: AudioAnalysis[]): void {
   console.log(`OK (audio fits): ${okCount}`);
   console.log(`Needs update (audio longer): ${needsUpdate.length}\n`);
 
-  // Group by chapter
-  for (let ch = 1; ch <= 7; ch++) {
-    const chapterResults = results.filter(r => r.chapter === ch);
-    console.log(`\n--- Chapter ${ch} ---`);
-
-    for (const r of chapterResults) {
-      const status = r.needsUpdate ? '❌ NEEDS UPDATE' : '✓ OK';
-      const diffStr = r.difference > 0 ? `+${r.difference}` : `${r.difference}`;
-      console.log(
-        `  ${r.id.padEnd(25)} | Audio: ${r.audioDurationSec.toFixed(1)}s (${r.audioDurationFrames} frames) | Current: ${r.currentFrames} frames | Diff: ${diffStr.padStart(4)} | ${status}`
-      );
-    }
+  for (const r of results) {
+    const status = r.needsUpdate ? '❌ NEEDS UPDATE' : '✓ OK';
+    const diffStr = r.difference > 0 ? `+${r.difference}` : `${r.difference}`;
+    console.log(
+      `  ${r.id.padEnd(25)} | ${r.scene.padEnd(20)} | Audio: ${r.audioDurationSec.toFixed(1)}s (${r.audioDurationFrames} frames) | Current: ${r.currentFrames} frames | Diff: ${diffStr.padStart(4)} | ${status}`
+    );
   }
 
   // Generate update recommendations
@@ -112,7 +104,6 @@ function generateReport(results: AudioAnalysis[]): void {
   // Export as JSON for automated updates
   const updateData = results.map(r => ({
     id: r.id,
-    chapter: r.chapter,
     scene: r.scene,
     recommendedFrames: r.audioDurationFrames,
     currentFrames: r.currentFrames,

@@ -1,0 +1,120 @@
+{
+  "sfxName": "thud_heavy",
+  "catalogDescription": "Deep thud",
+  "category": "Impacts & Emphasis",
+  "files": [
+    {
+      "file": "thud_heavy_453960.mp3",
+      "freesoundId": 453960,
+      "freesoundName": "door heavy office wood with metal handle close 3 times thud with rattle.flac",
+      "description": "door heavy office wood with metal handle close 3 times thud with rattle.flac",
+      "duration": 8.70871,
+      "tags": [
+        "3",
+        "close",
+        "door",
+        "handle",
+        "heavy",
+        "metal",
+        "office",
+        "rattle",
+        "thud",
+        "times",
+        "wood"
+      ],
+      "rating": 5,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "kyles",
+      "fileSizeKB": 194.6
+    },
+    {
+      "file": "thud_heavy_454221.mp3",
+      "freesoundId": 454221,
+      "freesoundName": "thud impact wrestling ring heavy wrestler fall on mat +breath exhale.flac",
+      "description": "thud impact wrestling ring heavy wrestler fall on mat +breath exhale.flac",
+      "duration": 60.6022,
+      "tags": [
+        "fall",
+        "heavy",
+        "impact",
+        "mat",
+        "ring",
+        "thud",
+        "wrestler",
+        "wrestling"
+      ],
+      "rating": 4.758620689655173,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "kyles",
+      "fileSizeKB": 837.7
+    },
+    {
+      "file": "thud_heavy_637510.mp3",
+      "freesoundId": 637510,
+      "freesoundName": "dumpster garbage bin lid heavy open thud2.flac",
+      "description": "dumpster garbage bin lid heavy open thud2\n\nrecorded with Sony PCM-D50, Tascam DAP1 DAT with AT835 stereo mic, or Zoom H2",
+      "duration": 4.08742,
+      "tags": [
+        "bin",
+        "dumpster",
+        "garbage",
+        "heavy",
+        "lid",
+        "open",
+        "thud"
+      ],
+      "rating": 4.666666666666667,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "kyles",
+      "fileSizeKB": 84.7
+    },
+    {
+      "file": "thud_heavy_452660.mp3",
+      "freesoundId": 452660,
+      "freesoundName": "plastic gas container put down on pavement full heavy thud1.wav",
+      "description": "plastic gas container put down on pavement full heavy thud1.wav",
+      "duration": 9.38438,
+      "tags": [
+        "container",
+        "down",
+        "full",
+        "gas",
+        "heavy",
+        "pavement",
+        "plastic",
+        "put",
+        "thud"
+      ],
+      "rating": 4.666666666666667,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "kyles",
+      "fileSizeKB": 217.5
+    },
+    {
+      "file": "thud_heavy_452657.mp3",
+      "freesoundId": 452657,
+      "freesoundName": "plastic gas container put down on counter full heavy thud slosh and slide dry room.wav",
+      "description": "plastic gas container put down on counter full heavy thud slosh and slide dry room.wav",
+      "duration": 9.80146,
+      "tags": [
+        "container",
+        "counter",
+        "down",
+        "dry",
+        "full",
+        "gas",
+        "heavy",
+        "plastic",
+        "put",
+        "room",
+        "slide",
+        "slosh",
+        "thud"
+      ],
+      "rating": 4.666666666666667,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "kyles",
+      "fileSizeKB": 231.7
+    }
+  ]
+}

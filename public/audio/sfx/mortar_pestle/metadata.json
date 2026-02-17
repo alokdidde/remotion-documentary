@@ -1,0 +1,97 @@
+{
+  "sfxName": "mortar_pestle",
+  "catalogDescription": "Grinding spices",
+  "category": "Food & Agriculture",
+  "files": [
+    {
+      "file": "mortar_pestle_733127.mp3",
+      "freesoundId": 733127,
+      "freesoundName": "Egg Shell Crunch 05 Single Shot",
+      "description": "Egg Shells crush in a mortar and pestle",
+      "duration": 2.7876,
+      "tags": [
+        "crush",
+        "Egg",
+        "mortar",
+        "pestle",
+        "Shells"
+      ],
+      "rating": 0,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "velcronator",
+      "fileSizeKB": 33.3
+    },
+    {
+      "file": "mortar_pestle_733132.mp3",
+      "freesoundId": 733132,
+      "freesoundName": "Egg Shell Crunch 11 Single Shot",
+      "description": "Egg Shells crush in a mortar and pestle",
+      "duration": 2.7876,
+      "tags": [
+        "crush",
+        "Egg",
+        "mortar",
+        "pestle",
+        "Shells"
+      ],
+      "rating": 0,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "velcronator",
+      "fileSizeKB": 47.7
+    },
+    {
+      "file": "mortar_pestle_733130.mp3",
+      "freesoundId": 733130,
+      "freesoundName": "Egg Shell Crunch 08 Single Shot",
+      "description": "Egg Shells crush in a mortar and pestle",
+      "duration": 2.7876,
+      "tags": [
+        "crush",
+        "Egg",
+        "mortar",
+        "pestle",
+        "Shells"
+      ],
+      "rating": 0,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "velcronator",
+      "fileSizeKB": 39.9
+    },
+    {
+      "file": "mortar_pestle_733133.mp3",
+      "freesoundId": 733133,
+      "freesoundName": "Egg Shell Crunch 9 Single Shot",
+      "description": "Egg Shells crush in a mortar and pestle",
+      "duration": 2.7876,
+      "tags": [
+        "crush",
+        "Egg",
+        "mortar",
+        "pestle",
+        "Shells"
+      ],
+      "rating": 0,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "velcronator",
+      "fileSizeKB": 38
+    },
+    {
+      "file": "mortar_pestle_733131.mp3",
+      "freesoundId": 733131,
+      "freesoundName": "Egg Shell Crunch 10 Single Shot",
+      "description": "Egg Shells crush in a mortar and pestle",
+      "duration": 2.7876,
+      "tags": [
+        "crush",
+        "Egg",
+        "mortar",
+        "pestle",
+        "Shells"
+      ],
+      "rating": 0,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "velcronator",
+      "fileSizeKB": 35.1
+    }
+  ]
+}

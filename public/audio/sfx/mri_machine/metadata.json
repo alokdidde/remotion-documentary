@@ -1,0 +1,119 @@
+{
+  "sfxName": "mri_machine",
+  "catalogDescription": "Rhythmic magnetic thumping",
+  "category": "Science & Space",
+  "files": [
+    {
+      "file": "mri_machine_585645.mp3",
+      "freesoundId": 585645,
+      "freesoundName": "MRI machine like sound.wav",
+      "description": "Just an MRI type scanning machine sound I made using a vocoder and a synth, feel free to use it in any of your projects.",
+      "duration": 12,
+      "tags": [
+        "Artificial",
+        "Effect",
+        "Machine",
+        "Medical",
+        "MRI",
+        "Noise",
+        "Robotic",
+        "Scanner",
+        "Sci-Fi",
+        "SFX",
+        "Sound",
+        "Synthetic"
+      ],
+      "rating": 4.636363636363637,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "Orboram",
+      "fileSizeKB": 277.8
+    },
+    {
+      "file": "mri_machine_320532.mp3",
+      "freesoundId": 320532,
+      "freesoundName": "MRI fsk robot servo.wav",
+      "description": "here are the highlights from a MRI machine (a GE signa, i believe). probably useful for robot sounds. you'll also note the cooling system in there as well. These things dissipate a huge amount of energy and are quite interesting. The actual sounds come from vibration of the coils as the machine runs",
+      "duration": 281.775,
+      "tags": [
+        "actuator",
+        "GE-Signa",
+        "machine",
+        "MRI",
+        "robot",
+        "robotic",
+        "servo"
+      ],
+      "rating": 4.8125,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "parabolix",
+      "fileSizeKB": 6186.8
+    },
+    {
+      "file": "mri_machine_199728.mp3",
+      "freesoundId": 199728,
+      "freesoundName": "mrifourthscan.mp3",
+      "description": "The 4th scan of the hole MRI scanning procedure",
+      "duration": 140.997,
+      "tags": [
+        "ambiance",
+        "chamber",
+        "examine",
+        "hospital",
+        "hum",
+        "machine",
+        "MRI",
+        "xRay"
+      ],
+      "rating": 4,
+      "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "author": "WaveAdventurer",
+      "fileSizeKB": 3121.4
+    },
+    {
+      "file": "mri_machine_494475.mp3",
+      "freesoundId": 494475,
+      "freesoundName": "MRIfromScrew.wav",
+      "description": "I edited the sound of a book press screw to sound like the irregular thumping of an MRI machine.",
+      "duration": 376.148,
+      "tags": [
+        "beats",
+        "dial-up",
+        "edited",
+        "mechanical",
+        "MRI",
+        "screw"
+      ],
+      "rating": 4.642857142857143,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "hatfielddl",
+      "fileSizeKB": 8614.9
+    },
+    {
+      "file": "mri_machine_692655.mp3",
+      "freesoundId": 692655,
+      "freesoundName": "Nb (Niobium)",
+      "description": "Element #41, Niobium\nChemical Symbol: Nb\n\nRandom fact about it:\nNiobium is crucial in making wires for superconducting magnets, like those used in MRI machines.",
+      "duration": 8.844,
+      "tags": [
+        "Chemical-Element-Names",
+        "Chemical-Elements",
+        "Chemistry",
+        "Element-Names",
+        "Elements",
+        "English",
+        "English-Words",
+        "General-American",
+        "General-American-Accent",
+        "Name-of-Chemical-Elements-in-English",
+        "Name-of-Chemical-Elements-in-General-American-Accent",
+        "Periodic-Table-of-Chemistry",
+        "Spoken-Word",
+        "Words"
+      ],
+      "rating": 0,
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "author": "Hewn.Marrow",
+      "fileSizeKB": 168.8
+    }
+  ]
+}

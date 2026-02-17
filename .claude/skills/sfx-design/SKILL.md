@@ -13,7 +13,7 @@ Select and plan sound effects from the 200+ SFX library (14 categories) for each
 
 ## Output
 
-SFX plan integrated into the edit notes, specifying which effects to use at each narrative beat.
+SFX plan as `AudioEvent` objects on the global audio timeline (`src/data/audio-timeline.ts`), specifying which effects to use at each narrative beat with absolute frame positions.
 
 ## SFX Categories (14)
 
@@ -45,6 +45,22 @@ SFX plan integrated into the edit notes, specifying which effects to use at each
 2. **Background Music** — -12 to -18 dB under narration
 3. **SFX accents** — -6 to -12 dB (brief peaks allowed)
 4. **Ambience** — -18 to -24 dB (constant background)
+
+## Opening Montage SFX
+
+The cold-open montage (15-30s before title card) is the most SFX-dense section of the video. Plan these separately from chapter SFX:
+
+**Required layers:**
+- **Transition SFX** — Whoosh on every cut (8-12 cuts = 8-12 whooshes). Vary between `whoosh_fast`, `whoosh_heavy`, `whoosh_soft` to avoid repetition.
+- **Impact SFX** — `boom_deep` or `impact_heavy` on the 2-3 stat/quote text flashes. Sync exactly to the text appearance.
+- **Tension riser** — `tension_riser` or `riser_electronic` building from the start, peaking at the hook line (15-20s mark).
+- **Beat drop accent** — A single `boom_cinematic` or `impact_sub` synced to the music beat drop.
+- **Title card** — `impact_heavy` + brief silence on the smash cut to title.
+
+**Montage SFX rules:**
+- SFX can be louder in the montage than in the main video (no narration to compete with yet)
+- Layer up to 3 SFX briefly during the montage (exception to the normal 2-max rule)
+- Every visual transition must have a corresponding audio transition — no silent cuts
 
 ## Timing Best Practices
 

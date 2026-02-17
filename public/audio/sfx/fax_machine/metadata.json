@@ -1,0 +1,97 @@
+{
+  "sfxName": "fax_machine",
+  "catalogDescription": "Fax transmission",
+  "category": "Technology & Digital",
+  "files": [
+    {
+      "file": "fax_machine_126540.mp3",
+      "freesoundId": 126540,
+      "freesoundName": "fax_machine_ring1.wav",
+      "description": "a fax machine ringing.",
+      "duration": 1.6,
+      "tags": [
+        "equipment",
+        "fax",
+        "machine",
+        "office",
+        "ring",
+        "tone"
+      ],
+      "rating": 3.5,
+      "license": "http://creativecommons.org/licenses/by-nc/3.0/",
+      "author": "nnus",
+      "fileSizeKB": 28.8
+    },
+    {
+      "file": "fax_machine_126541.mp3",
+      "freesoundId": 126541,
+      "freesoundName": "fax_machine_ring2.wav",
+      "description": "a fax machine ringing.",
+      "duration": 2.8,
+      "tags": [
+        "equipment",
+        "fax",
+        "machine",
+        "office",
+        "ring",
+        "tone"
+      ],
+      "rating": 3,
+      "license": "http://creativecommons.org/licenses/by-nc/3.0/",
+      "author": "nnus",
+      "fileSizeKB": 51
+    },
+    {
+      "file": "fax_machine_15427.mp3",
+      "freesoundId": 15427,
+      "freesoundName": "Fax.wav",
+      "description": "Sound of someone dialing a number on a fax machine to send a fax. Recorded using an Olympus VN 480 recorder.",
+      "duration": 9.96245,
+      "tags": [
+        "fax",
+        "machine"
+      ],
+      "rating": 4.134615384615385,
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "author": "LG",
+      "fileSizeKB": 180.3
+    },
+    {
+      "file": "fax_machine_64463.mp3",
+      "freesoundId": 64463,
+      "freesoundName": "00707 fax printing 1.wav",
+      "description": "Fax machine printing document in noisy office, rec by AKG D 80",
+      "duration": 10.8631,
+      "tags": [
+        "fax",
+        "machine",
+        "noise",
+        "office",
+        "print"
+      ],
+      "rating": 4.625,
+      "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "author": "Robinhood76",
+      "fileSizeKB": 235.7
+    },
+    {
+      "file": "fax_machine_413342.mp3",
+      "freesoundId": 413342,
+      "freesoundName": "Teletypefax loop",
+      "description": "Janky-sounding mechanical device that sounds like an ancient, analog fax machine.  Speed it down by half and it is an elevator interior recording.",
+      "duration": 61.9599,
+      "tags": [
+        "device",
+        "fax",
+        "janky",
+        "machine",
+        "mechanical",
+        "typing"
+      ],
+      "rating": 4.818181818181818,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "flood-mix",
+      "fileSizeKB": 1347.6
+    }
+  ]
+}

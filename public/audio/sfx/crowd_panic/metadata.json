@@ -1,0 +1,103 @@
+{
+  "sfxName": "crowd_panic",
+  "catalogDescription": "Chaotic screaming/running",
+  "category": "Human & Social",
+  "files": [
+    {
+      "file": "crowd_panic_173945.mp3",
+      "freesoundId": 173945,
+      "freesoundName": "human male scream small crowd panic fear.mp3",
+      "description": "human male scream small crowd panic fear",
+      "duration": 31.981,
+      "tags": [
+        "crowd",
+        "fear",
+        "human",
+        "male",
+        "panic",
+        "scream",
+        "small"
+      ],
+      "rating": 4.72992700729927,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "JohnsonBrandEditing",
+      "fileSizeKB": 698
+    },
+    {
+      "file": "crowd_panic_491405.mp3",
+      "freesoundId": 491405,
+      "freesoundName": "Crowd in panic",
+      "description": "Medium sized, mixed male and female, crowd yelling and screaming in panic.\n\nRecorded (and featured) by students of Video Games and Animation from the National School of Arts of Uruguay, during the Sound Design Workshop.",
+      "duration": 38.9562,
+      "tags": [
+        "chaos",
+        "crowd",
+        "fear",
+        "female",
+        "hysteria",
+        "male",
+        "medium-crowd",
+        "mixed",
+        "panic",
+        "riot",
+        "scream",
+        "screaming",
+        "shouting",
+        "yell"
+      ],
+      "rating": 4.768253968253968,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "IENBA",
+      "fileSizeKB": 809.9
+    },
+    {
+      "file": "crowd_panic_435716.mp3",
+      "freesoundId": 435716,
+      "freesoundName": "CrowdPanic.mp3",
+      "description": "Here we find a crisp overlay of various screaming voices and background noise to make a great panicking crowd sound.",
+      "duration": 136.181,
+      "tags": [
+        "Crowd",
+        "Panic",
+        "Screaming"
+      ],
+      "rating": 4.61875,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "belthazarus",
+      "fileSizeKB": 2984
+    },
+    {
+      "file": "crowd_panic_727773.mp3",
+      "freesoundId": 727773,
+      "freesoundName": "Cartoon Crowd Panic Loop",
+      "description": "Loop of cartoon characters panicking",
+      "duration": 6.70488,
+      "tags": [
+        "cartoon",
+        "crowd",
+        "panic"
+      ],
+      "rating": 4.285714285714286,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "abraksil",
+      "fileSizeKB": 123.3
+    },
+    {
+      "file": "crowd_panic_361172.mp3",
+      "freesoundId": 361172,
+      "freesoundName": "Crowd on Stairs.wav",
+      "description": "Group of ca. 20 people running down stairs in a large house. No talking. Mics were set up on different levels",
+      "duration": 27,
+      "tags": [
+        "Crowd",
+        "panic",
+        "running",
+        "stairs"
+      ],
+      "rating": 4.838709677419355,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "quattrostagii",
+      "fileSizeKB": 633.4
+    }
+  ]
+}

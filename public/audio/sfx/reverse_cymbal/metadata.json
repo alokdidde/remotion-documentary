@@ -1,0 +1,102 @@
+{
+  "sfxName": "reverse_cymbal",
+  "catalogDescription": "Reversed cymbal swell",
+  "category": "Tension & Suspense",
+  "files": [
+    {
+      "file": "reverse_cymbal_240712.mp3",
+      "freesoundId": 240712,
+      "freesoundName": "Reverse Mapex Ride.mp3",
+      "description": "A reverse 20\" Mapex Ride cymbal. \r\nCaptured with a Sure SM57.\r\nNoticeable lack of high end, however, it can still be used for song intros etc. \r\n(No Reverb or any other effects were added to this sound)",
+      "duration": 6.17651,
+      "tags": [
+        "cymbal",
+        "cymbals",
+        "drums",
+        "kit",
+        "Mapex",
+        "percussion",
+        "Recording",
+        "reverse",
+        "Reverse-cymbals",
+        "Sure-SM57"
+      ],
+      "rating": 4.64367816091954,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "MarcusGraham325",
+      "fileSizeKB": 137.3
+    },
+    {
+      "file": "reverse_cymbal_244845.mp3",
+      "freesoundId": 244845,
+      "freesoundName": "Rev Cymb 27 reverb.wav",
+      "description": "Reverse cymbals \r\n\r\nJarred Gibb\r\n\r\nDigital Zero",
+      "duration": 18,
+      "tags": [
+        "cymbal",
+        "cymbals",
+        "gibb",
+        "jarred",
+        "metal",
+        "reverse"
+      ],
+      "rating": 0,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "JarredGibb",
+      "fileSizeKB": 339.4
+    },
+    {
+      "file": "reverse_cymbal_244824.mp3",
+      "freesoundId": 244824,
+      "freesoundName": "Rev Cymb 8 reverb.wav",
+      "description": "Reverse Cymbal \r\n\r\nJarred Gibb\r\n\r\nDigital Zero",
+      "duration": 18,
+      "tags": [
+        "cymbal",
+        "echo",
+        "fx",
+        "metal",
+        "reverse"
+      ],
+      "rating": 4,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "JarredGibb",
+      "fileSizeKB": 367.9
+    },
+    {
+      "file": "reverse_cymbal_244839.mp3",
+      "freesoundId": 244839,
+      "freesoundName": "Rev Cymb 26.wav",
+      "description": "Reverse Cymbals\r\n\r\nJarred Gibb\r\n\r\nDigital Zero",
+      "duration": 12,
+      "tags": [
+        "crash",
+        "cymbal",
+        "fx",
+        "metal",
+        "reverse"
+      ],
+      "rating": 4.5,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "JarredGibb",
+      "fileSizeKB": 75.8
+    },
+    {
+      "file": "reverse_cymbal_244814.mp3",
+      "freesoundId": 244814,
+      "freesoundName": "Rev Cymb 10.wav",
+      "description": "Reverse Cymbal \r\n\r\nJarred Gibb\r\n\r\nDigital Zero",
+      "duration": 12,
+      "tags": [
+        "cymbal",
+        "gibb",
+        "jarred",
+        "reverse"
+      ],
+      "rating": 5,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "JarredGibb",
+      "fileSizeKB": 58.6
+    }
+  ]
+}

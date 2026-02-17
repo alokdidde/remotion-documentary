@@ -1,0 +1,112 @@
+{
+  "sfxName": "tape_stop",
+  "catalogDescription": "Abrupt tape halt",
+  "category": "Transitions & Structural Cues",
+  "files": [
+    {
+      "file": "tape_stop_452900.mp3",
+      "freesoundId": 452900,
+      "freesoundName": "cassette tape deck ffwd start, stop clicks.flac",
+      "description": "cassette tape deck ffwd start, stop clicks.flac",
+      "duration": 50.7083,
+      "tags": [
+        "cassette",
+        "clicks",
+        "deck",
+        "ffwd",
+        "start",
+        "stop",
+        "tape"
+      ],
+      "rating": 4.714285714285714,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "kyles",
+      "fileSizeKB": 1210.1
+    },
+    {
+      "file": "tape_stop_452905.mp3",
+      "freesoundId": 452905,
+      "freesoundName": "cassette tape deck start, stop +play, clicks.flac",
+      "description": "cassette tape deck start, stop +play, clicks.flac",
+      "duration": 19.8333,
+      "tags": [
+        "cassette",
+        "clicks",
+        "deck",
+        "play",
+        "start",
+        "stop",
+        "tape"
+      ],
+      "rating": 4.769230769230769,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "kyles",
+      "fileSizeKB": 445.7
+    },
+    {
+      "file": "tape_stop_452904.mp3",
+      "freesoundId": 452904,
+      "freesoundName": "cassette tape deck rewind, ffwd long +start stop clicks.flac",
+      "description": "cassette tape deck rewind, ffwd long +start stop clicks.flac",
+      "duration": 161.167,
+      "tags": [
+        "cassette",
+        "clicks",
+        "deck",
+        "ffwd",
+        "long",
+        "rewind",
+        "start",
+        "stop",
+        "tape"
+      ],
+      "rating": 4.625,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "kyles",
+      "fileSizeKB": 3668.3
+    },
+    {
+      "file": "tape_stop_452898.mp3",
+      "freesoundId": 452898,
+      "freesoundName": "cassette tape deck ffwd fast to slow +start, stop clicks.flac",
+      "description": "cassette tape deck ffwd fast to slow +start, stop clicks.flac",
+      "duration": 69.9167,
+      "tags": [
+        "cassette",
+        "clicks",
+        "deck",
+        "fast",
+        "ffwd",
+        "slow",
+        "start",
+        "stop",
+        "tape"
+      ],
+      "rating": 4.833333333333333,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "kyles",
+      "fileSizeKB": 1564.4
+    },
+    {
+      "file": "tape_stop_452903.mp3",
+      "freesoundId": 452903,
+      "freesoundName": "cassette tape deck rewind slow +start, stop clicks.flac",
+      "description": "cassette tape deck rewind slow +start, stop clicks.flac",
+      "duration": 8.58333,
+      "tags": [
+        "cassette",
+        "clicks",
+        "deck",
+        "rewind",
+        "slow",
+        "start",
+        "stop",
+        "tape"
+      ],
+      "rating": 4.333333333333333,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "kyles",
+      "fileSizeKB": 195.4
+    }
+  ]
+}

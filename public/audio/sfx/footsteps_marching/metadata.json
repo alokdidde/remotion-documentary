@@ -1,0 +1,109 @@
+{
+  "sfxName": "footsteps_marching",
+  "catalogDescription": "Military march",
+  "category": "Human & Social",
+  "files": [
+    {
+      "file": "footsteps_marching_36098.mp3",
+      "freesoundId": 36098,
+      "freesoundName": "marching footsteps.wav",
+      "description": "A single set of marching footsteps from inside a metal wildlife tunnel to the outside.",
+      "duration": 11.6145,
+      "tags": [
+        "footsteps",
+        "marching"
+      ],
+      "rating": 2.6363636363636362,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "cognito perceptu",
+      "fileSizeKB": 267
+    },
+    {
+      "file": "footsteps_marching_480656.mp3",
+      "freesoundId": 480656,
+      "freesoundName": "R16-15-Army Marching.wav",
+      "description": "Marching footsteps outside. A large army.",
+      "duration": 35.3315,
+      "tags": [
+        "Footsteps",
+        "Group",
+        "Human",
+        "Marching",
+        "Optical",
+        "Vintage"
+      ],
+      "rating": 4.4,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "craigsmith",
+      "fileSizeKB": 765.2
+    },
+    {
+      "file": "footsteps_marching_240732.mp3",
+      "freesoundId": 240732,
+      "freesoundName": "marching-concrete-loop.aif",
+      "description": "Feet marching on concrete. \r\n\r\nThis is a composite of:\r\n85548__maj061785__footsteps-on-concrete and \r\n208531__ownederd__boot-steps-on-concrete-foley\r\n\r\nI retimed to match a medium pace marching rhythm and then multiplied by multi-tracking and adding delay.",
+      "duration": 8.77104,
+      "tags": [
+        "army",
+        "boot",
+        "concrete",
+        "foley",
+        "footsteps",
+        "march",
+        "marching",
+        "soldier",
+        "step"
+      ],
+      "rating": 4.683168316831683,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "stib",
+      "fileSizeKB": 209
+    },
+    {
+      "file": "footsteps_marching_240724.mp3",
+      "freesoundId": 240724,
+      "freesoundName": "marching-loop.aif",
+      "description": "I'm doing some WW1 commemorative stuff and couldn't find any marching on freesound. So here's my effort: 25s of medium pace marching on gravel, made from a few freesound samples mixed and retimed to match the pace.\r\n\r\nIt's a very bright, close-mic sound, with wide stereo spread. It should loop seaml",
+      "duration": 25.8182,
+      "tags": [
+        "army",
+        "crunch",
+        "foley",
+        "foot",
+        "footstep",
+        "footsteps",
+        "gravel",
+        "march",
+        "marching",
+        "soldier",
+        "step",
+        "steps",
+        "walk",
+        "walking"
+      ],
+      "rating": 4.78021978021978,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "stib",
+      "fileSizeKB": 651.3
+    },
+    {
+      "file": "footsteps_marching_480675.mp3",
+      "freesoundId": 480675,
+      "freesoundName": "R27-40-March on Gravel Road.wav",
+      "description": "Military marching. Several people marching on rocky road. (Could also be horse chewing oats.)",
+      "duration": 41.6052,
+      "tags": [
+        "Footsteps",
+        "Group",
+        "Human",
+        "Marching",
+        "Optical",
+        "Vintage"
+      ],
+      "rating": 4.833333333333333,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "craigsmith",
+      "fileSizeKB": 875.7
+    }
+  ]
+}

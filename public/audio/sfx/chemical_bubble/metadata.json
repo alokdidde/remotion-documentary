@@ -1,0 +1,133 @@
+{
+  "sfxName": "chemical_bubble",
+  "catalogDescription": "Liquid bubbling",
+  "category": "Science & Space",
+  "files": [
+    {
+      "file": "chemical_bubble_567457.mp3",
+      "freesoundId": 567457,
+      "freesoundName": "BUBBLES_LOW_PITCH.wav",
+      "description": "blowing bubbles in the water changed pitch to low",
+      "duration": 1.87429,
+      "tags": [
+        "blowing",
+        "boiling",
+        "bubble",
+        "bubbles",
+        "bubbling",
+        "chemical",
+        "low",
+        "potion",
+        "submerged",
+        "under-water",
+        "underwater",
+        "water"
+      ],
+      "rating": 5,
+      "license": "http://creativecommons.org/licenses/by/3.0/",
+      "author": "sound_ahead",
+      "fileSizeKB": 40.9
+    },
+    {
+      "file": "chemical_bubble_567453.mp3",
+      "freesoundId": 567453,
+      "freesoundName": "BUBBLES_LOW_AIR.wav",
+      "description": "blowing bubbles in the water low near the surface",
+      "duration": 0.851837,
+      "tags": [
+        "blowing",
+        "boiling",
+        "bubble",
+        "bubbles",
+        "bubbling",
+        "chemical",
+        "low",
+        "potion",
+        "submerged",
+        "under-water",
+        "underwater",
+        "water"
+      ],
+      "rating": 4.333333333333333,
+      "license": "http://creativecommons.org/licenses/by/3.0/",
+      "author": "sound_ahead",
+      "fileSizeKB": 20.8
+    },
+    {
+      "file": "chemical_bubble_567452.mp3",
+      "freesoundId": 567452,
+      "freesoundName": "BUBBLES_LOW_FAST.wav",
+      "description": "blowing bubbles in the water light fast kind nervous",
+      "duration": 1.56807,
+      "tags": [
+        "blowing",
+        "boiling",
+        "bubble",
+        "bubbles",
+        "bubbling",
+        "bubbly",
+        "chemical",
+        "low",
+        "potion",
+        "submerged",
+        "under-water",
+        "underwater",
+        "water"
+      ],
+      "rating": 4.545454545454546,
+      "license": "http://creativecommons.org/licenses/by/3.0/",
+      "author": "sound_ahead",
+      "fileSizeKB": 36.2
+    },
+    {
+      "file": "chemical_bubble_567455.mp3",
+      "freesoundId": 567455,
+      "freesoundName": "BUBBLES_LOW_4.wav",
+      "description": "blowing bubbles in the water low",
+      "duration": 1.08027,
+      "tags": [
+        "blowing",
+        "boiling",
+        "bubble",
+        "bubbles",
+        "bubbling",
+        "chemical",
+        "low",
+        "potion",
+        "submerged",
+        "under-water",
+        "underwater",
+        "water"
+      ],
+      "rating": 5,
+      "license": "http://creativecommons.org/licenses/by/3.0/",
+      "author": "sound_ahead",
+      "fileSizeKB": 25.5
+    },
+    {
+      "file": "chemical_bubble_567456.mp3",
+      "freesoundId": 567456,
+      "freesoundName": "BUBBLES_LOW_STRONG.wav",
+      "description": "blowing bubbles in the water low strong",
+      "duration": 1.80612,
+      "tags": [
+        "blowing",
+        "boiling",
+        "bubble",
+        "bubbles",
+        "bubbling",
+        "chemical",
+        "low",
+        "potion",
+        "submerged",
+        "under-water",
+        "underwater",
+        "water"
+      ],
+      "rating": 4,
+      "license": "http://creativecommons.org/licenses/by/3.0/",
+      "author": "sound_ahead",
+      "fileSizeKB": 41.3
+    }
+  ]
+}

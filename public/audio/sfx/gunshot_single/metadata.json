@@ -1,0 +1,117 @@
+{
+  "sfxName": "gunshot_single",
+  "catalogDescription": "Single rifle shot",
+  "category": "War & Conflict",
+  "files": [
+    {
+      "file": "gunshot_single_507486.mp3",
+      "freesoundId": 507486,
+      "freesoundName": "archi_gunshot_scifi_07.flac",
+      "description": "Sci-fi gunshots mostly using KarmaFX.",
+      "duration": 7.46016,
+      "tags": [
+        "blast",
+        "explosion",
+        "fictional",
+        "gun",
+        "gunshot",
+        "science-fiction",
+        "scifi",
+        "shooting",
+        "shot"
+      ],
+      "rating": 4.8,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "ElanHickler",
+      "fileSizeKB": 151.3
+    },
+    {
+      "file": "gunshot_single_507485.mp3",
+      "freesoundId": 507485,
+      "freesoundName": "archi_gunshot_scifi_08.flac",
+      "description": "Sci-fi gunshots mostly using KarmaFX.",
+      "duration": 7.06615,
+      "tags": [
+        "blast",
+        "explosion",
+        "fictional",
+        "gun",
+        "gunshot",
+        "science-fiction",
+        "scifi",
+        "shooting",
+        "shot"
+      ],
+      "rating": 4.5,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "ElanHickler",
+      "fileSizeKB": 161.5
+    },
+    {
+      "file": "gunshot_single_507489.mp3",
+      "freesoundId": 507489,
+      "freesoundName": "archi_gunshot_scifi_09.flac",
+      "description": "Sci-fi gunshots mostly using KarmaFX.",
+      "duration": 6.49927,
+      "tags": [
+        "blast",
+        "explosion",
+        "fictional",
+        "gun",
+        "gunshot",
+        "science-fiction",
+        "scifi",
+        "shooting",
+        "shot"
+      ],
+      "rating": 4.75,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "ElanHickler",
+      "fileSizeKB": 151.5
+    },
+    {
+      "file": "gunshot_single_507484.mp3",
+      "freesoundId": 507484,
+      "freesoundName": "archi_gunshot_scifi_01.flac",
+      "description": "Sci-fi gunshots mostly using KarmaFX.",
+      "duration": 5.31027,
+      "tags": [
+        "blast",
+        "explosion",
+        "fictional",
+        "gun",
+        "gunshot",
+        "science-fiction",
+        "scifi",
+        "shooting",
+        "shot"
+      ],
+      "rating": 4.5,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "ElanHickler",
+      "fileSizeKB": 124.1
+    },
+    {
+      "file": "gunshot_single_507481.mp3",
+      "freesoundId": 507481,
+      "freesoundName": "archi_gunshot_scifi_04.flac",
+      "description": "Sci-fi gunshots mostly using KarmaFX.",
+      "duration": 7.39909,
+      "tags": [
+        "blast",
+        "explosion",
+        "fictional",
+        "gun",
+        "gunshot",
+        "science-fiction",
+        "scifi",
+        "shooting",
+        "shot"
+      ],
+      "rating": 4.428571428571429,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "ElanHickler",
+      "fileSizeKB": 169.3
+    }
+  ]
+}

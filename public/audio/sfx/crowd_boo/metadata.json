@@ -1,0 +1,117 @@
+{
+  "sfxName": "crowd_boo",
+  "catalogDescription": "Crowd booing",
+  "category": "Human & Social",
+  "files": [
+    {
+      "file": "crowd_boo_264378.mp3",
+      "freesoundId": 264378,
+      "freesoundName": "crowd booing",
+      "description": "A crowd of about 20 adults loudly boo their disapproval. Interior recording in small hall (Somerset, UK). Part of a series of recordings made for an amateur show featuring a football match.\r\n\r\nRecorded with a Rode VideoMic Pro onto a Panasonic HCX-900 (camcorder), top and tailed in Audacity on 17/02",
+      "duration": 21.3666,
+      "tags": [
+        "adults",
+        "audience",
+        "auditorium",
+        "baddie",
+        "boo",
+        "cat-calls",
+        "crowd",
+        "disapproval",
+        "group",
+        "hiss",
+        "sport",
+        "sporting",
+        "theatre",
+        "villain"
+      ],
+      "rating": 4.484848484848484,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "HowardV",
+      "fileSizeKB": 471.5
+    },
+    {
+      "file": "crowd_boo_324893.mp3",
+      "freesoundId": 324893,
+      "freesoundName": "Crowd Boo.wav",
+      "description": "A small crowd booing/hissing in four different ways.",
+      "duration": 36.9872,
+      "tags": [
+        "adr",
+        "audience",
+        "bad",
+        "boo",
+        "booo",
+        "boooo",
+        "chatter",
+        "crowd",
+        "group",
+        "heckle",
+        "heckling",
+        "hiss",
+        "hissing",
+        "jeer",
+        "jeering",
+        "people",
+        "shout",
+        "shouting",
+        "unhappy",
+        "walla"
+      ],
+      "rating": 4.75,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "deleted_user_2104797",
+      "fileSizeKB": 760.4
+    },
+    {
+      "file": "crowd_boo_678539.mp3",
+      "freesoundId": 678539,
+      "freesoundName": "AF Crowd Boo Hiss Nat end .wav",
+      "description": "File of a crowd booing and hissing, generic yells originally used for a basketball game",
+      "duration": 27.7547,
+      "tags": [
+        "boo",
+        "crowd",
+        "hiss"
+      ],
+      "rating": 5,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "mglennsound",
+      "fileSizeKB": 611
+    },
+    {
+      "file": "crowd_boo_678537.mp3",
+      "freesoundId": 678537,
+      "freesoundName": "AF Crowd Boo Hiss LOOP 2.wav",
+      "description": "A looping file of a crowd booing and hissing, generic yells originally used for a basketball game",
+      "duration": 16.0853,
+      "tags": [
+        "boo",
+        "crowd",
+        "hiss",
+        "Loop"
+      ],
+      "rating": 4,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "mglennsound",
+      "fileSizeKB": 357.8
+    },
+    {
+      "file": "crowd_boo_678540.mp3",
+      "freesoundId": 678540,
+      "freesoundName": "AF Crowd Boo Hiss Nat end 2.wav",
+      "description": "File of a crowd booing and hissing, generic yells originally used for a basketball game",
+      "duration": 23.2533,
+      "tags": [
+        "boo",
+        "crowd",
+        "hiss",
+        "Loop"
+      ],
+      "rating": 4.666666666666667,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "mglennsound",
+      "fileSizeKB": 507.4
+    }
+  ]
+}

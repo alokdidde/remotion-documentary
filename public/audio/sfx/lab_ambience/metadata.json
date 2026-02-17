@@ -1,0 +1,118 @@
+{
+  "sfxName": "lab_ambience",
+  "catalogDescription": "Quiet lab equipment hum",
+  "category": "Science & Space",
+  "files": [
+    {
+      "file": "lab_ambience_688249.mp3",
+      "freesoundId": 688249,
+      "freesoundName": "lab_ambience.wav",
+      "description": "Diseño sonoro para un laboratorio ominoso.\n\nLab ambience. It contains a dark overal vibe, emulating a sci-fi space. Some of the sounds in this ambience are: sci-fi doors opening and closing, unclear human voices and constant computer beeps.\n\nSound under Creative Commons 0, but I'd be glad if you cre",
+      "duration": 183.946,
+      "tags": [
+        "ambience",
+        "ambient",
+        "atmosphere",
+        "background",
+        "lab",
+        "laboratorio",
+        "laboratory",
+        "ominoso",
+        "ominous",
+        "sci-fi"
+      ],
+      "rating": 4.771428571428571,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "saangosu",
+      "fileSizeKB": 4070.1
+    },
+    {
+      "file": "lab_ambience_84947.mp3",
+      "freesoundId": 84947,
+      "freesoundName": "Computer_Lab.aif",
+      "description": "Computer Lab ambience",
+      "duration": 59.1317,
+      "tags": [
+        "ambiance",
+        "ambience",
+        "computer",
+        "lab"
+      ],
+      "rating": 4.142857142857143,
+      "license": "http://creativecommons.org/licenses/sampling+/1.0/",
+      "author": "amszala",
+      "fileSizeKB": 1308.1
+    },
+    {
+      "file": "lab_ambience_205167.mp3",
+      "freesoundId": 205167,
+      "freesoundName": "COMPUTER_LAB_ROOMTONE_01.wav",
+      "description": "A computer lab with somebody quietly typing roomtone recorded with a Tascam DR-40",
+      "duration": 37.5931,
+      "tags": [
+        "ambience",
+        "computer",
+        "lab",
+        "roomtone"
+      ],
+      "rating": 4.666666666666667,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "justingregoire",
+      "fileSizeKB": 826.2
+    },
+    {
+      "file": "lab_ambience_108287.mp3",
+      "freesoundId": 108287,
+      "freesoundName": "computer_lab.mp3",
+      "description": "This is a recording of my air dehumidifier that has a strange sound to it, so I decided to process it, and now it sounds like a computer lab^^ Have fun with using it! After some editing it turns out to be loopable (this is the full recording)",
+      "duration": 45.037,
+      "tags": [
+        "air",
+        "ambience",
+        "background",
+        "computer",
+        "dehumidifier",
+        "edited",
+        "fx",
+        "informatics",
+        "lab",
+        "laboratory",
+        "processed",
+        "science",
+        "sci-fi",
+        "technical",
+        "technology"
+      ],
+      "rating": 4.741935483870968,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "BugInTheSYS",
+      "fileSizeKB": 983.6
+    },
+    {
+      "file": "lab_ambience_545915.mp3",
+      "freesoundId": 545915,
+      "freesoundName": "Weird Technology.wav",
+      "description": "Sci-Fi noise/ambience",
+      "duration": 10.4097,
+      "tags": [
+        "ambience",
+        "computer",
+        "computing",
+        "digital",
+        "electric",
+        "future",
+        "fx",
+        "lab",
+        "laboratory",
+        "machine",
+        "sci-fi",
+        "soundeffect",
+        "technology"
+      ],
+      "rating": 4.75,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "opticaillusions",
+      "fileSizeKB": 242.1
+    }
+  ]
+}

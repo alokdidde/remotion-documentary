@@ -1,0 +1,121 @@
+{
+  "sfxName": "cash_register",
+  "catalogDescription": "Register ka-ching",
+  "category": "Money & Economy",
+  "files": [
+    {
+      "file": "cash_register_636823.mp3",
+      "freesoundId": 636823,
+      "freesoundName": "Colombian_Supermarket_Cash_Register_Area_Stereo.wav",
+      "description": "Colombian Cash Register Area Walla in Supermarket Stereo, Recorded With Zoom H3-VR",
+      "duration": 240,
+      "tags": [
+        "Ambience",
+        "Cars",
+        "Cash",
+        "Crowds",
+        "Indoors",
+        "Register",
+        "Shopping",
+        "Walla"
+      ],
+      "rating": 0,
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "author": "USBMED_Ambiences_Sound_Library",
+      "fileSizeKB": 5287.8
+    },
+    {
+      "file": "cash_register_636830.mp3",
+      "freesoundId": 636830,
+      "freesoundName": "Colombian_Supermarket_Cash_Register_Area_Busy_FormatA.wav",
+      "description": "Colombian Cash Register Area Walla in Busy Supermarket Ambisonics Format A, Recorded With Zoom H3-VR",
+      "duration": 240,
+      "tags": [
+        "Ambience",
+        "Bags",
+        "Busy",
+        "Cars",
+        "Cash",
+        "Crowds",
+        "Indoors",
+        "Plastic",
+        "Register",
+        "Shopping",
+        "Walla"
+      ],
+      "rating": 5,
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "author": "USBMED_Ambiences_Sound_Library",
+      "fileSizeKB": 5212.8
+    },
+    {
+      "file": "cash_register_636829.mp3",
+      "freesoundId": 636829,
+      "freesoundName": "Colombian_Supermarket_Cash_Register_Area_Busy_Quad.wav",
+      "description": "Colombian Cash Register Area Walla in Busy Supermarket Quad, Recorded With Zoom H3-VR",
+      "duration": 240,
+      "tags": [
+        "Ambience",
+        "Bags",
+        "Busy",
+        "Cars",
+        "Cash",
+        "Crowds",
+        "Indoors",
+        "Plastic",
+        "Register",
+        "Shopping",
+        "Walla"
+      ],
+      "rating": 5,
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "author": "USBMED_Ambiences_Sound_Library",
+      "fileSizeKB": 5283
+    },
+    {
+      "file": "cash_register_636828.mp3",
+      "freesoundId": 636828,
+      "freesoundName": "Colombian_Supermarket_Cash_Register_Area_Busy_Stereo.wav",
+      "description": "Colombian Cash Register Area Walla in Busy Supermarket Stereo, Recorded With Zoom H3-VR",
+      "duration": 240,
+      "tags": [
+        "Ambience",
+        "Bags",
+        "Busy",
+        "Cars",
+        "Cash",
+        "Crowds",
+        "Indoors",
+        "Plastic",
+        "Register",
+        "Shopping",
+        "Walla"
+      ],
+      "rating": 3,
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "author": "USBMED_Ambiences_Sound_Library",
+      "fileSizeKB": 5248.4
+    },
+    {
+      "file": "cash_register_636824.mp3",
+      "freesoundId": 636824,
+      "freesoundName": "Colombian_Supermarket_Cash_Register_Area_Quad.wav",
+      "description": "Colombian Cash Register Area Walla in Supermarket Quad, Recorded With Zoom H3-VR",
+      "duration": 240,
+      "tags": [
+        "Ambience",
+        "Cars",
+        "Cash",
+        "Crowds",
+        "Indoors",
+        "Register",
+        "Shopping",
+        "Walla"
+      ],
+      "rating": 1,
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "author": "USBMED_Ambiences_Sound_Library",
+      "fileSizeKB": 5311.3
+    }
+  ]
+}

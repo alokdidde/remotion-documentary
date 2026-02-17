@@ -24,12 +24,31 @@ Run the comprehensive pre-upload checklist against the rendered documentary outp
 - [ ] Color theme consistent throughout
 - [ ] No file names, watermarks, or asset labels visible
 
+### Opening Montage (The #1 Retention Tool)
+- [ ] Cold-open montage exists (15-30s before title card)
+- [ ] 8-12 fast cuts previewing the video's most intriguing moments
+- [ ] High-energy music with riser → beat drop
+- [ ] SFX on every transition (whooshes, impacts, risers)
+- [ ] 2-3 provocative text flashes (stats or quotes, large and bold)
+- [ ] One killer hook narration line with `[declamatory]` tag
+- [ ] Smash/flip to title card with brief silence
+- [ ] Montage does NOT explain context — only sparks curiosity
+
+### Constant Motion (Zero Static Frames)
+- [ ] Every scene has at least one motion layer (Ken Burns, particles, gradient shift, parallax)
+- [ ] No static text screens — all text animates in/out (StaggeredMotion / AnimatedText)
+- [ ] Background video/images always have movement (zoom, pan, Ken Burns)
+- [ ] Data visualizations animate (counters tick up, bars grow, charts draw)
+- [ ] Transitions between scenes use varied @remotion/transitions (not just hard cuts)
+- [ ] If nothing moves on screen at any point, it's a bug
+
 ### Pacing (The Retention Driver)
 - [ ] Intro hooks within 3 seconds (no static frames or logos)
 - [ ] Something visual changes every 3-5 seconds
 - [ ] Editing doesn't become repetitive after the opening
 - [ ] Pattern interrupts every 2-3 minutes
 - [ ] Editing intensity matches content energy throughout
+- [ ] Within-scene motion preferred over hard cuts (StaggeredMotion for sequential reveals)
 
 ### YouTube Platform (The Algorithm Check)
 - [ ] End screen has 20 seconds of runway
@@ -42,6 +61,14 @@ Run the comprehensive pre-upload checklist against the rendered documentary outp
 - [ ] All on-screen stats and data verified
 - [ ] No copyrighted material without clearance
 - [ ] B-roll credited where required
+
+### Storytelling (The Persuasion Check — from story-telling.md)
+- [ ] Viewer's world is addressed in the opening (not just the topic)
+- [ ] Every major claim is rooted with a concrete example
+- [ ] Frame shifts follow validate → extend → pivot → root (no brute-force contradictions)
+- [ ] Consistent emotional world per chapter (visual + audio + tone aligned)
+- [ ] At least 2 micro-detail moments per chapter (mechanism, texture, close-up)
+- [ ] Cognitive hospitality — a non-expert could follow every transition
 
 ## How to Run
 

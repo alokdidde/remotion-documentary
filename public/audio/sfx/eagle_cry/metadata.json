@@ -1,0 +1,101 @@
+{
+  "sfxName": "eagle_cry",
+  "catalogDescription": "Soaring eagle screech",
+  "category": "Nature & Environment",
+  "files": [
+    {
+      "file": "eagle_cry_380124.mp3",
+      "freesoundId": 380124,
+      "freesoundName": "eagle.ogg",
+      "description": "to good eagle",
+      "duration": 23.8422,
+      "tags": [
+        "great",
+        "relax",
+        "sound"
+      ],
+      "rating": 4.576923076923077,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "mia28portman",
+      "fileSizeKB": 430.6
+    },
+    {
+      "file": "eagle_cry_63267.mp3",
+      "freesoundId": 63267,
+      "freesoundName": "eagle owl1.mp3",
+      "description": "Another recording made from our bathroom window which faces a stand of Eucalyptus trees. This time late at night when all was still. The haunting sound of an Eagle Owl in one of the trees. Listen carefully towards the end of the sample and you will hear its wing catch some leaves as it takes off. Re",
+      "duration": 33.8949,
+      "tags": [
+        "bird",
+        "calls",
+        "eagle",
+        "owl",
+        "owls",
+        "spain",
+        "spanish"
+      ],
+      "rating": 3.4333333333333336,
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "author": "falconbeard",
+      "fileSizeKB": 750.3
+    },
+    {
+      "file": "eagle_cry_172970.mp3",
+      "freesoundId": 172970,
+      "freesoundName": "Desert Eagle Reload [Air Soft].mp3",
+      "description": "This is a sound of a UHC Desert Eagle 44AE [Air Soft Gun] being reloaded. This is not a metal gun, it is made out of plastic.",
+      "duration": 4.61168,
+      "tags": [
+        "Desert",
+        "Eagle",
+        "Reloading"
+      ],
+      "rating": 3,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "TheRichardGamer",
+      "fileSizeKB": 82.5
+    },
+    {
+      "file": "eagle_cry_365717.mp3",
+      "freesoundId": 365717,
+      "freesoundName": "Fish eagle call.wav",
+      "description": "This sound was created using a camera lens cleaner (a whistle like sound). In post, the speed was reduced to make the fish eagle call sound more drawn out and realistic. the pitch was also lowered by an octave to match the frequency that a fish eagle call produces. This sound was recorded with a Zoo",
+      "duration": 22.568,
+      "tags": [
+        "bird",
+        "birds",
+        "call",
+        "eagle",
+        "falcon",
+        "fish-eagle",
+        "nature",
+        "OWI",
+        "tweet"
+      ],
+      "rating": 4,
+      "license": "http://creativecommons.org/licenses/by-nc/3.0/",
+      "author": "Cally06",
+      "fileSizeKB": 467
+    },
+    {
+      "file": "eagle_cry_701135.mp3",
+      "freesoundId": 701135,
+      "freesoundName": "eagle owl.wav",
+      "description": "Eagle owl (hibou grand duc) close recording, 5meters. \nCaged owl.\n\nFrance, august 2023\n\nrecorded with a pair of Clippy EM172 in AB setup\nrecorded on Zoom F3\npost production on izotope rx9 to remove most of background sounds.\n\nStereo wave 32bits 96Khs",
+      "duration": 84.3165,
+      "tags": [
+        "eagle",
+        "eagle-own",
+        "field-recording",
+        "grand-duc",
+        "hibou",
+        "night",
+        "owl"
+      ],
+      "rating": 4.5,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "bruno.auzet",
+      "fileSizeKB": 1816.1
+    }
+  ]
+}

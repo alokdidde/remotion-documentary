@@ -1,0 +1,106 @@
+{
+  "sfxName": "rain_light",
+  "catalogDescription": "Gentle rainfall",
+  "category": "Nature & Environment",
+  "files": [
+    {
+      "file": "rain_light_810468.mp3",
+      "freesoundId": 810468,
+      "freesoundName": "RAIN-Samsung Galaxy Smartphone, MCU_Light_Nicholas Judy_TDC",
+      "description": "Light rain. Some birdsong.",
+      "duration": 305.213,
+      "tags": [
+        "light",
+        "nature",
+        "Phone-recording",
+        "rain"
+      ],
+      "rating": 5,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "designerschoice",
+      "fileSizeKB": 6832.2
+    },
+    {
+      "file": "rain_light_501242.mp3",
+      "freesoundId": 501242,
+      "freesoundName": "LightRainThunder.wav",
+      "description": "Light rain and distant thunder \n\nBrandon, MS, USA",
+      "duration": 68.7804,
+      "tags": [
+        "light",
+        "lightning",
+        "rain",
+        "raining",
+        "thunder"
+      ],
+      "rating": 4.780487804878049,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "shelbyshark",
+      "fileSizeKB": 1547.8
+    },
+    {
+      "file": "rain_light_824738.mp3",
+      "freesoundId": 824738,
+      "freesoundName": "Light rain on a metallic balcony",
+      "description": "Light rain recorded early in the morning at 5am. Rain is falling on the balcony, which is metallic and produces some interesting sound variations\nRecorded with Tascam Portacapture X6",
+      "duration": 876.782,
+      "tags": [
+        "balcony",
+        "light",
+        "rain",
+        "raining"
+      ],
+      "rating": 5,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "bassimat",
+      "fileSizeKB": 19298.3
+    },
+    {
+      "file": "rain_light_171980.mp3",
+      "freesoundId": 171980,
+      "freesoundName": "AMB_M_City_Rain_Light.wav",
+      "description": "This is the sound of light rain falling in the courtyard of my apartment building.\r\n\r\nRecorded with: AT 4073a, Sound Devices 702t",
+      "duration": 206.206,
+      "tags": [
+        "ambience",
+        "city",
+        "drip",
+        "drizzle",
+        "light",
+        "rain",
+        "splatter",
+        "water"
+      ],
+      "rating": 4.5,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "conleec",
+      "fileSizeKB": 4622.6
+    },
+    {
+      "file": "rain_light_380651.mp3",
+      "freesoundId": 380651,
+      "freesoundName": "Light rain on street.wav",
+      "description": "Wav-file recorded with the Zoom H6 with stereo microphone.\r\nLight rain recorded out of an open window into a street in a city at night. \r\n\r\nBONNY ORBIT Sound Library",
+      "duration": 105,
+      "tags": [
+        "ambiance",
+        "ambience",
+        "ambient",
+        "atmos",
+        "atmosphere",
+        "city",
+        "field-recording",
+        "light",
+        "night",
+        "rain",
+        "relaxing",
+        "street",
+        "weather"
+      ],
+      "rating": 4.606060606060606,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "BonnyOrbit",
+      "fileSizeKB": 2389.9
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "sfxName": "wind_gentle",
+  "catalogDescription": "Soft breeze",
+  "category": "Nature & Environment",
+  "files": [
+    {
+      "file": "wind_gentle_181255.mp3",
+      "freesoundId": 181255,
+      "freesoundName": "a gentle breeze, wind 6",
+      "description": "a gentle breeze, wind",
+      "duration": 106.348,
+      "tags": [
+        "a",
+        "breeze",
+        "gentle",
+        "wind"
+      ],
+      "rating": 4.169811320754717,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "mario1298",
+      "fileSizeKB": 1872.6
+    },
+    {
+      "file": "wind_gentle_181254.mp3",
+      "freesoundId": 181254,
+      "freesoundName": "a gentle breeze, wind 5",
+      "description": "a gentle breeze, wind",
+      "duration": 123,
+      "tags": [
+        "a",
+        "breeze",
+        "gentle",
+        "wind"
+      ],
+      "rating": 2.41025641025641,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "mario1298",
+      "fileSizeKB": 2159.3
+    },
+    {
+      "file": "wind_gentle_181253.mp3",
+      "freesoundId": 181253,
+      "freesoundName": "a gentle breeze, wind 4",
+      "description": "a gentle breeze, wind",
+      "duration": 113.304,
+      "tags": [
+        "a",
+        "breeze",
+        "gentle",
+        "wind"
+      ],
+      "rating": 4.285714285714286,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "mario1298",
+      "fileSizeKB": 1975.3
+    },
+    {
+      "file": "wind_gentle_181251.mp3",
+      "freesoundId": 181251,
+      "freesoundName": "a gentle breeze, wind 2",
+      "description": "a gentle breeze, wind",
+      "duration": 32.6747,
+      "tags": [
+        "a",
+        "breeze",
+        "gentle",
+        "wind"
+      ],
+      "rating": 3.3333333333333335,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "mario1298",
+      "fileSizeKB": 569.2
+    },
+    {
+      "file": "wind_gentle_181252.mp3",
+      "freesoundId": 181252,
+      "freesoundName": "a gentle breeze, wind 3",
+      "description": "a gentle breeze, wind",
+      "duration": 124.8,
+      "tags": [
+        "a",
+        "breeze",
+        "gentle",
+        "wind"
+      ],
+      "rating": 4.319444444444445,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "mario1298",
+      "fileSizeKB": 2173.6
+    }
+  ]
+}

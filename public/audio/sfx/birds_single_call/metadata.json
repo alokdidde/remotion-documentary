@@ -1,0 +1,128 @@
+{
+  "sfxName": "birds_single_call",
+  "catalogDescription": "Lone bird cry",
+  "category": "Nature & Environment",
+  "files": [
+    {
+      "file": "birds_single_call_418262.mp3",
+      "freesoundId": 418262,
+      "freesoundName": "Crow Call, Single, A.wav",
+      "description": "Audio of a crow in Florida. Highly edited and EQ'd to remove the background ambience.\n\nThis sound is not in the public domain. Please attribute/credit the sound if you use it. If you would prefer to not have to give attribution, then take a look at the attribution-free license.\n\nAn example of how yo",
+      "duration": 2.34154,
+      "tags": [
+        "bird",
+        "Bird",
+        "call",
+        "Call",
+        "crow",
+        "Crow",
+        "cry",
+        "Cry",
+        "single",
+        "Single"
+      ],
+      "rating": 4.5,
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "author": "InspectorJ",
+      "fileSizeKB": 52.9
+    },
+    {
+      "file": "birds_single_call_719503.mp3",
+      "freesoundId": 719503,
+      "freesoundName": "12306 single sparrow chirps",
+      "description": "Single sparrow chirping",
+      "duration": 2.54048,
+      "tags": [
+        "bird",
+        "call",
+        "chirp",
+        "single",
+        "sparrow",
+        "tweet"
+      ],
+      "rating": 4.916666666666667,
+      "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "author": "Robinhood76",
+      "fileSizeKB": 58.3
+    },
+    {
+      "file": "birds_single_call_816426.mp3",
+      "freesoundId": 816426,
+      "freesoundName": "13550 crane bird scream",
+      "description": "Mid close recording of crane bird",
+      "duration": 1.66358,
+      "tags": [
+        "bird",
+        "call",
+        "crane",
+        "scream",
+        "single",
+        "voice",
+        "wild"
+      ],
+      "rating": 3,
+      "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "author": "Robinhood76",
+      "fileSizeKB": 40.8
+    },
+    {
+      "file": "birds_single_call_812026.mp3",
+      "freesoundId": 812026,
+      "freesoundName": "Bird Freaking Out",
+      "description": "Making assumptions about a caged bird, recorded Jan 28, 2025 at the Affandi Museum in Yogyakarta (aka Yogya, Jogjakarta, Jogja) using a Moto G34, cleaned up in RX and Audacity.",
+      "duration": 1.78119,
+      "tags": [
+        "alarm",
+        "alarming",
+        "birb",
+        "bird",
+        "bird-chirp",
+        "bird-chirping",
+        "birdie",
+        "call",
+        "calling",
+        "chirp",
+        "chirping",
+        "indonesia",
+        "isolated",
+        "little-bird",
+        "short",
+        "signal",
+        "single",
+        "siren"
+      ],
+      "rating": 0,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "qubodup",
+      "fileSizeKB": 42.6
+    },
+    {
+      "file": "birds_single_call_812034.mp3",
+      "freesoundId": 812034,
+      "freesoundName": "Irritated Bird Chirp",
+      "description": "Making assumptions about a caged bird, recorded Jan 28, 2025 at the Affandi Museum in Yogyakarta (aka Yogya, Jogjakarta, Jogja) using a Moto G34, cleaned up in RX and Audacity.",
+      "duration": 0.389229,
+      "tags": [
+        "angry",
+        "birb",
+        "bird",
+        "bird-chirp",
+        "bird-chirping",
+        "birdie",
+        "call",
+        "calling",
+        "chirp",
+        "indonesia",
+        "irritated",
+        "isolated",
+        "little-bird",
+        "short",
+        "single"
+      ],
+      "rating": 0,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "qubodup",
+      "fileSizeKB": 12.2
+    }
+  ]
+}

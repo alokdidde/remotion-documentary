@@ -1,0 +1,92 @@
+{
+  "sfxName": "subway_rumble",
+  "catalogDescription": "Underground train",
+  "category": "Urban & Industrial",
+  "files": [
+    {
+      "file": "subway_rumble_363223.mp3",
+      "freesoundId": 363223,
+      "freesoundName": "Subway Entrance Hall 3.wav",
+      "description": "This is a free recording of the entrance to the subway in masmo :)",
+      "duration": 2.39617,
+      "tags": [
+        "Entrance",
+        "Hall",
+        "Masmo",
+        "Subway"
+      ],
+      "rating": 1,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "Mrswalbard",
+      "fileSizeKB": 54.2
+    },
+    {
+      "file": "subway_rumble_363222.mp3",
+      "freesoundId": 363222,
+      "freesoundName": "Subway station 4.wav",
+      "description": "This is a free recording of the subway station in masmo :)",
+      "duration": 1.55433,
+      "tags": [
+        "Concrete",
+        "Masmo",
+        "Station",
+        "Subway"
+      ],
+      "rating": 1,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "Mrswalbard",
+      "fileSizeKB": 36.2
+    },
+    {
+      "file": "subway_rumble_363221.mp3",
+      "freesoundId": 363221,
+      "freesoundName": "Subway station 6.wav",
+      "description": "This is a free recording of the subway station in masmo :)",
+      "duration": 1.44531,
+      "tags": [
+        "Concrete",
+        "Masmo",
+        "Station",
+        "Subway"
+      ],
+      "rating": 1,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "Mrswalbard",
+      "fileSizeKB": 33.5
+    },
+    {
+      "file": "subway_rumble_363220.mp3",
+      "freesoundId": 363220,
+      "freesoundName": "Subway Station 3.wav",
+      "description": "This is a free recording of the subway station in masmo :)",
+      "duration": 1.37701,
+      "tags": [
+        "Concrete",
+        "Masmo",
+        "Station",
+        "Subway"
+      ],
+      "rating": 1,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "Mrswalbard",
+      "fileSizeKB": 31.7
+    },
+    {
+      "file": "subway_rumble_363219.mp3",
+      "freesoundId": 363219,
+      "freesoundName": "Subway Station 5.wav",
+      "description": "This is a free recording of the subway station in masmo :)",
+      "duration": 1.52143,
+      "tags": [
+        "Concrete",
+        "Masmo",
+        "Station",
+        "Subway"
+      ],
+      "rating": 2.5,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "Mrswalbard",
+      "fileSizeKB": 35.4
+    }
+  ]
+}

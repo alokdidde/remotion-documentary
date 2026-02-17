@@ -1,0 +1,106 @@
+{
+  "sfxName": "grain_pouring",
+  "catalogDescription": "Grain cascade",
+  "category": "Food & Agriculture",
+  "files": [
+    {
+      "file": "grain_pouring_635165.mp3",
+      "freesoundId": 635165,
+      "freesoundName": "cat dry food grains slow pour // servida lenta comida de gato perro",
+      "description": "Pouring and moving some cat food. Maybe it could be useful as coffee grains too?",
+      "duration": 71.3373,
+      "tags": [
+        "animal-food",
+        "cat",
+        "dog",
+        "grain",
+        "grains",
+        "pour",
+        "pouring",
+        "slow-pour"
+      ],
+      "rating": 5,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "manteca2",
+      "fileSizeKB": 1838
+    },
+    {
+      "file": "grain_pouring_68343.mp3",
+      "freesoundId": 68343,
+      "freesoundName": "00774 grain in bucket taking.wav",
+      "description": "Pouring grain mix into small plastic bucket, rec by Zoom H2",
+      "duration": 26.4121,
+      "tags": [
+        "bucket",
+        "grain",
+        "harvest",
+        "pour",
+        "pouring",
+        "rye",
+        "wheat"
+      ],
+      "rating": 4.333333333333333,
+      "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "author": "Robinhood76",
+      "fileSizeKB": 670.6
+    },
+    {
+      "file": "grain_pouring_26773.mp3",
+      "freesoundId": 26773,
+      "freesoundName": "powder (bath salt).wav",
+      "description": "Me pouring some grains of salt out. Alot of incidental sound will need to be filleted out to isolate the sound of grains landing.",
+      "duration": 30.8361,
+      "tags": [
+        "grain",
+        "grains",
+        "pour",
+        "pouring",
+        "powder"
+      ],
+      "rating": 3.9642857142857144,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "Walter_Odington",
+      "fileSizeKB": 721.4
+    },
+    {
+      "file": "grain_pouring_627070.mp3",
+      "freesoundId": 627070,
+      "freesoundName": "SAND POUR.wav",
+      "description": "Grabbing sand and pourring it on a pile of sand. Close perspective",
+      "duration": 62.6209,
+      "tags": [
+        "grabbing",
+        "grain",
+        "pour",
+        "pouring",
+        "sable",
+        "sand",
+        "texture"
+      ],
+      "rating": 4.828571428571428,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "nicoproson",
+      "fileSizeKB": 1549.3
+    },
+    {
+      "file": "grain_pouring_692102.mp3",
+      "freesoundId": 692102,
+      "freesoundName": "Cereals are poure in a large jar - individual grains at the end",
+      "description": "Recorded in high quality in a small room with well suppressed reverb on a professional microphone and audio interface.",
+      "duration": 9.90467,
+      "tags": [
+        "cereal",
+        "fall",
+        "glass",
+        "grain",
+        "jar",
+        "pour",
+        "pouring"
+      ],
+      "rating": 0,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "Wastefield",
+      "fileSizeKB": 211.4
+    }
+  ]
+}

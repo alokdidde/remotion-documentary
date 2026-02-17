@@ -1,0 +1,96 @@
+{
+  "sfxName": "breath_heavy",
+  "catalogDescription": "Labored breathing",
+  "category": "Tension & Suspense",
+  "files": [
+    {
+      "file": "breath_heavy_454383.mp3",
+      "freesoundId": 454383,
+      "freesoundName": "wrestler big run footsteps in ring +heavy breathing.flac",
+      "description": "wrestler big run footsteps in ring +heavy breathing.flac",
+      "duration": 110.193,
+      "tags": [
+        "big",
+        "breathing",
+        "footsteps",
+        "heavy",
+        "ring",
+        "run",
+        "wrestler"
+      ],
+      "rating": 4.75,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "kyles",
+      "fileSizeKB": 1689.3
+    },
+    {
+      "file": "breath_heavy_516696.mp3",
+      "freesoundId": 516696,
+      "freesoundName": "Respiración agitada (heavy breathing).wav",
+      "description": "Respiración agitada mientras se hace ejercicio. Grabada con una Zoom H6.\nHeavy breathing while exercising. Recorded with a Zoom H6.",
+      "duration": 4,
+      "tags": [
+        "breathe",
+        "breathing",
+        "exercise",
+        "heavy"
+      ],
+      "rating": 4.55,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "Amekiano",
+      "fileSizeKB": 73.2
+    },
+    {
+      "file": "breath_heavy_654352.mp3",
+      "freesoundId": 654352,
+      "freesoundName": "Heavy Breathing_1.mp3",
+      "description": "Heavy Breathing recorded on Zoom F-4 and Rode M-5.",
+      "duration": 100.189,
+      "tags": [
+        "Breath",
+        "Breathing",
+        "Heavy",
+        "Human",
+        "Male",
+        "Panic"
+      ],
+      "rating": 4.676470588235294,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "DarkSidedGenXer",
+      "fileSizeKB": 1955.6
+    },
+    {
+      "file": "breath_heavy_138293.mp3",
+      "freesoundId": 138293,
+      "freesoundName": "Boy_Heavy_Breathes.wav",
+      "description": "Boy taking a heavy breathe. ",
+      "duration": 1.37637,
+      "tags": [
+        "Boy",
+        "Breathes",
+        "Breathing",
+        "Heavy"
+      ],
+      "rating": 3,
+      "license": "http://creativecommons.org/licenses/by/3.0/",
+      "author": "Tdude9000",
+      "fileSizeKB": 31.4
+    },
+    {
+      "file": "breath_heavy_422342.mp3",
+      "freesoundId": 422342,
+      "freesoundName": "heavy breathing.wav",
+      "description": "A recording of my heavy breathing that will play randomly as the player moves in my sound design project",
+      "duration": 2.37306,
+      "tags": [
+        "breathing",
+        "heavy",
+        "running"
+      ],
+      "rating": 4.529411764705882,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "BehanSean",
+      "fileSizeKB": 55.2
+    }
+  ]
+}

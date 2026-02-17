@@ -1,0 +1,119 @@
+{
+  "sfxName": "radio_tune",
+  "catalogDescription": "Radio dial scanning",
+  "category": "Transitions & Structural Cues",
+  "files": [
+    {
+      "file": "radio_tune_720653.mp3",
+      "freesoundId": 720653,
+      "freesoundName": "Radio French FM Stations Scan Tuning 2",
+      "description": "Tuning on the radio stations",
+      "duration": 45.786,
+      "tags": [
+        "Distortion",
+        "FM",
+        "noise",
+        "Radio",
+        "scan",
+        "static",
+        "tuning"
+      ],
+      "rating": 4.6,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "Vtrmrll",
+      "fileSizeKB": 1092.8
+    },
+    {
+      "file": "radio_tune_269701.mp3",
+      "freesoundId": 269701,
+      "freesoundName": "FM radio tuning",
+      "description": "Tuning a FM radio.Recorded with a Zoom H5 and a XYH-5 stereo mic. 24bit/44.1kHz.\r\n\r\n\r\nBecause of the Creative Commons license, Please remember to put my username in the credits.",
+      "duration": 14.0844,
+      "tags": [
+        "buzzing",
+        "fm",
+        "fm-radio",
+        "frequencies",
+        "frequency",
+        "interference",
+        "noise",
+        "radio",
+        "static",
+        "tuner",
+        "tuning"
+      ],
+      "rating": 4.5,
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "author": "MrAuralization",
+      "fileSizeKB": 317.7
+    },
+    {
+      "file": "radio_tune_720652.mp3",
+      "freesoundId": 720652,
+      "freesoundName": "Radio French FM Stations Scan Tuning 1",
+      "description": "Tuning on the radio stations",
+      "duration": 17.0342,
+      "tags": [
+        "Distortion",
+        "FM",
+        "noise",
+        "Radio",
+        "scan",
+        "static",
+        "tuning"
+      ],
+      "rating": 4.909090909090909,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "Vtrmrll",
+      "fileSizeKB": 393.5
+    },
+    {
+      "file": "radio_tune_269702.mp3",
+      "freesoundId": 269702,
+      "freesoundName": "FM radio tuning",
+      "description": "Tuning a FM radio.Recorded with a Zoom H5 and a XYH-5 stereo mic. 24bit/44.1kHz.\r\n\r\n\r\nBecause of the Creative Commons license, please remember to put my username in the credits.",
+      "duration": 11.5147,
+      "tags": [
+        "buzzing",
+        "fm",
+        "fm-radio",
+        "frequencies",
+        "frequency",
+        "interference",
+        "mrauralization",
+        "noise",
+        "radio",
+        "static",
+        "tuner",
+        "tuning"
+      ],
+      "rating": 4.476190476190476,
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "author": "MrAuralization",
+      "fileSizeKB": 263.6
+    },
+    {
+      "file": "radio_tune_652590.mp3",
+      "freesoundId": 652590,
+      "freesoundName": "Vintage Radio Tuning 4.WAV",
+      "description": "Scanning through frequencies on an old Sterling Multi-Band Radio receiver.HA-5900.\nMedium Wave, Long Wave, FM, Marine-Air, SW1, SW2",
+      "duration": 123.977,
+      "tags": [
+        "AM",
+        "FM",
+        "Long",
+        "Medium",
+        "noise",
+        "radio",
+        "static",
+        "tuning",
+        "Wave",
+        "white"
+      ],
+      "rating": 5,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "exsil",
+      "fileSizeKB": 2736.8
+    }
+  ]
+}

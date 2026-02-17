@@ -1,0 +1,119 @@
+{
+  "sfxName": "siren_air_raid",
+  "catalogDescription": "Air raid siren",
+  "category": "Urban & Industrial",
+  "files": [
+    {
+      "file": "siren_air_raid_382611.mp3",
+      "freesoundId": 382611,
+      "freesoundName": "Air raid siren (Prague)",
+      "description": "Shortened air raid siren test in Prague. Recorded with Zoom f8 + Sennheiser MKH416.",
+      "duration": 80.4769,
+      "tags": [
+        "air",
+        "prague",
+        "raid",
+        "siren"
+      ],
+      "rating": 4.625,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "nooly",
+      "fileSizeKB": 1715
+    },
+    {
+      "file": "siren_air_raid_607382.mp3",
+      "freesoundId": 607382,
+      "freesoundName": "Long Air Raid Siren.wav",
+      "description": "A long vintage disaster or air raid siren.",
+      "duration": 30.4214,
+      "tags": [
+        "air",
+        "air-raid",
+        "alarm",
+        "Alert",
+        "Attack",
+        "civil",
+        "defense",
+        "disaster",
+        "emergency",
+        "federal",
+        "horn",
+        "raid",
+        "siren",
+        "tornado",
+        "warning"
+      ],
+      "rating": 4.44,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "JalynCatbtg",
+      "fileSizeKB": 683.9
+    },
+    {
+      "file": "siren_air_raid_336640.mp3",
+      "freesoundId": 336640,
+      "freesoundName": "Alarm, Air Raid Siren, Test, Devonport, Sony PCM M-10.wav",
+      "description": "Monday morning air raid siren test in Devonport, Devon. Recorded with my Sony PCM M-10.",
+      "duration": 77.2053,
+      "tags": [
+        "Air",
+        "raid",
+        "siren"
+      ],
+      "rating": 4.644927536231884,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "audiojacked",
+      "fileSizeKB": 1710.6
+    },
+    {
+      "file": "siren_air_raid_813124.mp3",
+      "freesoundId": 813124,
+      "freesoundName": "Ominous AIr Raid Siren",
+      "description": "Ominous air raid siren created using VSTs and effects: a long note of a few brass and wind instruments made in Mixcraft and then heavily edited with effects in Goldwave and Audacity",
+      "duration": 50.9752,
+      "tags": [
+        "air",
+        "horror",
+        "ominous",
+        "raid",
+        "siren"
+      ],
+      "rating": 4.142857142857143,
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "author": "DamTheGreat",
+      "fileSizeKB": 1159.5
+    },
+    {
+      "file": "siren_air_raid_412171.mp3",
+      "freesoundId": 412171,
+      "freesoundName": "Air Raid Siren Alarm",
+      "description": "High quality Air Raid Siren Sound FX.\r\n\r\nYou can donate me here: \r\n\r\nhttps://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted;_button_id=JB6LP3EPGYWX4\r\n\r\nThanks :)",
+      "duration": 122.449,
+      "tags": [
+        "Air",
+        "alarm",
+        "Alarm",
+        "Army",
+        "Bomb",
+        "design",
+        "Distance",
+        "Effect",
+        "FX",
+        "Game",
+        "High",
+        "Movie",
+        "Quality",
+        "Raid",
+        "sfx",
+        "Siren",
+        "sound",
+        "Sound",
+        "War",
+        "WW2"
+      ],
+      "rating": 4.610526315789474,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "Poligonstudio",
+      "fileSizeKB": 2667.3
+    }
+  ]
+}

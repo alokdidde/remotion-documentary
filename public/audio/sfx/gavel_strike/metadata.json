@@ -1,0 +1,119 @@
+{
+  "sfxName": "gavel_strike",
+  "catalogDescription": "Courtroom gavel",
+  "category": "Impacts & Emphasis",
+  "files": [
+    {
+      "file": "gavel_strike_810079.mp3",
+      "freesoundId": 810079,
+      "freesoundName": "OBJMisc-Blue Snowball Microphone, CU_Gavel, Hits, Auction, Judge, Courtroom_Nicholas Judy_TDC",
+      "description": "Gavel hits.",
+      "duration": 175.241,
+      "tags": [
+        "auction",
+        "Blue-brand",
+        "Blue-Snowball",
+        "courtroom",
+        "foley",
+        "gavel",
+        "hit",
+        "judge"
+      ],
+      "rating": 4.5,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "designerschoice",
+      "fileSizeKB": 3895.6
+    },
+    {
+      "file": "gavel_strike_675169.mp3",
+      "freesoundId": 675169,
+      "freesoundName": "S12-11 Crowd in courtroom booing with gavel hits; some call out.wav",
+      "description": "Crowd in courtroom booing with gavel hits; some call out",
+      "duration": 14.7239,
+      "tags": [
+        "35mm-Mag",
+        "AMBIENCE",
+        "courtroom",
+        "Optical",
+        "PUBLIC-PLACE",
+        "Vintage"
+      ],
+      "rating": 5,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "craigsmith",
+      "fileSizeKB": 316.3
+    },
+    {
+      "file": "gavel_strike_706824.mp3",
+      "freesoundId": 706824,
+      "freesoundName": "GAVEL DROPPED OR TOSSED.wav",
+      "description": "I had a bit of trouble finding this here on Freesound, so here now for you is a judge gavel being dropped or tossed to the bench in a courtroom, SFX from a film I am directing.  Created by tossing a wooden Japanese cutting board onto the top of a sturdy wooden old-school desk (the first three FX hea",
+      "duration": 15.5806,
+      "tags": [
+        "bang",
+        "bench",
+        "boom",
+        "clank",
+        "court",
+        "desk",
+        "desktop",
+        "drop",
+        "dropping",
+        "fall",
+        "gavel",
+        "heavy",
+        "hit",
+        "impact",
+        "judge",
+        "order",
+        "tap",
+        "throw",
+        "thud",
+        "toss",
+        "wood"
+      ],
+      "rating": 3.7142857142857144,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "beautifuldaymonster1968",
+      "fileSizeKB": 361.7
+    },
+    {
+      "file": "gavel_strike_70071.mp3",
+      "freesoundId": 70071,
+      "freesoundName": "gavel-triplemad.flac",
+      "description": "Sen John Kerry beating his gavel to call a hearing to order.  From C-Span, who also needs attribution in follow-on works.  This \"triple tap\" was timed to make it sound like someone who is mad at the courtroom as each subsequent tap is slightly louder than the last.",
+      "duration": 1.41932,
+      "tags": [
+        "congress",
+        "court",
+        "cspan",
+        "gavel",
+        "hammer",
+        "hearing",
+        "judge",
+        "senate"
+      ],
+      "rating": 4.081081081081081,
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "author": "zerolagtime",
+      "fileSizeKB": 33
+    },
+    {
+      "file": "gavel_strike_703748.mp3",
+      "freesoundId": 703748,
+      "freesoundName": "Gavel",
+      "description": "Courtroom gavel sound with reverb. Used for Law and Order sound-a-like.",
+      "duration": 2.96914,
+      "tags": [
+        "courtroom-drama-sound",
+        "Courtroom-gavel",
+        "judge-gavel",
+        "law-and-order"
+      ],
+      "rating": 4.923076923076923,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "flubberjam",
+      "fileSizeKB": 58.2
+    }
+  ]
+}

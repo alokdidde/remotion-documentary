@@ -1,0 +1,92 @@
+{
+  "sfxName": "book_close",
+  "catalogDescription": "Book shutting",
+  "category": "Narration & Information Cues",
+  "files": [
+    {
+      "file": "book_close_699319.mp3",
+      "freesoundId": 699319,
+      "freesoundName": "Book_Page_Close_04",
+      "description": "Book closing sound: a thick and thinly paged book was used",
+      "duration": 1.09424,
+      "tags": [
+        "book",
+        "close",
+        "pages",
+        "paper"
+      ],
+      "rating": 4.5,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "Valenspire",
+      "fileSizeKB": 28.1
+    },
+    {
+      "file": "book_close_699322.mp3",
+      "freesoundId": 699322,
+      "freesoundName": "Book_Page_Close_07",
+      "description": "Book closing sound: a thick and thinly paged book was used",
+      "duration": 0.284444,
+      "tags": [
+        "book",
+        "close",
+        "pages",
+        "paper"
+      ],
+      "rating": 5,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "Valenspire",
+      "fileSizeKB": 9.8
+    },
+    {
+      "file": "book_close_699316.mp3",
+      "freesoundId": 699316,
+      "freesoundName": "Book_Page_Close_01",
+      "description": "Book closing sound: a thick and thinly paged book was used",
+      "duration": 0.696599,
+      "tags": [
+        "book",
+        "close",
+        "pages",
+        "paper"
+      ],
+      "rating": 4.5,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "Valenspire",
+      "fileSizeKB": 18.7
+    },
+    {
+      "file": "book_close_699320.mp3",
+      "freesoundId": 699320,
+      "freesoundName": "Book_Page_Close_05",
+      "description": "Book closing sound: a thick and thinly paged book was used",
+      "duration": 0.536961,
+      "tags": [
+        "book",
+        "close",
+        "pages",
+        "paper"
+      ],
+      "rating": 5,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "Valenspire",
+      "fileSizeKB": 15.3
+    },
+    {
+      "file": "book_close_699321.mp3",
+      "freesoundId": 699321,
+      "freesoundName": "Book_Page_Close_06",
+      "description": "Book closing sound: a thick and thinly paged book was used",
+      "duration": 0.22966,
+      "tags": [
+        "book",
+        "close",
+        "pages",
+        "paper"
+      ],
+      "rating": 5,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "Valenspire",
+      "fileSizeKB": 8.5
+    }
+  ]
+}

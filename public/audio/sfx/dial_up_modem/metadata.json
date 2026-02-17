@@ -1,0 +1,122 @@
+{
+  "sfxName": "dial_up_modem",
+  "catalogDescription": "90s modem connection",
+  "category": "Technology & Digital",
+  "files": [
+    {
+      "file": "dial_up_modem_658932.mp3",
+      "freesoundId": 658932,
+      "freesoundName": "Dial-up_sound.mp3.flac",
+      "description": "uhq version of dial up noise",
+      "duration": 19.2998,
+      "tags": [
+        "56k",
+        "96khz",
+        "connection",
+        "dial",
+        "dialup",
+        "flac",
+        "internet",
+        "modem",
+        "phone",
+        "uhq",
+        "up"
+      ],
+      "rating": 4.927710843373494,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "thearchiveguy99",
+      "fileSizeKB": 426.8
+    },
+    {
+      "file": "dial_up_modem_65786.mp3",
+      "freesoundId": 65786,
+      "freesoundName": "dialup.wav",
+      "description": "Dial up tones are probably a dime a dozen but they can be unique and make neat sounds for glitch music.",
+      "duration": 22.8557,
+      "tags": [
+        "dial",
+        "glitch",
+        "huh",
+        "modem",
+        "noise",
+        "up"
+      ],
+      "rating": 4.463503649635037,
+      "license": "http://creativecommons.org/licenses/by/3.0/",
+      "author": "lintphishx",
+      "fileSizeKB": 497.2
+    },
+    {
+      "file": "dial_up_modem_586442.mp3",
+      "freesoundId": 586442,
+      "freesoundName": "Fake dial-up modem sound (Tape recorded)",
+      "description": "This is a **fake** dial-up modem sound. Rendered in SunVox.",
+      "duration": 20.48,
+      "tags": [
+        "busy",
+        "cable",
+        "communications",
+        "dial",
+        "dialing",
+        "dtmf",
+        "modem",
+        "phone",
+        "recording",
+        "signal",
+        "tape",
+        "telephone",
+        "telephony",
+        "tone",
+        "vintage"
+      ],
+      "rating": 4.571428571428571,
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "author": "berdnikov2004",
+      "fileSizeKB": 381.7
+    },
+    {
+      "file": "dial_up_modem_454650.mp3",
+      "freesoundId": 454650,
+      "freesoundName": "MODEM_2.aif",
+      "description": "14k Modem dail-up connecting to internet, recorder in 1999",
+      "duration": 16.579,
+      "tags": [
+        "14k",
+        "1999",
+        "dial",
+        "dial-up",
+        "internet",
+        "modem",
+        "phone",
+        "telephone",
+        "tones"
+      ],
+      "rating": 4.285714285714286,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "G_M_D_THREE",
+      "fileSizeKB": 374.3
+    },
+    {
+      "file": "dial_up_modem_454651.mp3",
+      "freesoundId": 454651,
+      "freesoundName": "MODEM_1.aif",
+      "description": "14k Modem dail-up connecting to internet, recorder in 1999",
+      "duration": 21.8384,
+      "tags": [
+        "14k",
+        "1999",
+        "dial",
+        "dial-up",
+        "internet",
+        "modem",
+        "phone",
+        "telephone",
+        "tones"
+      ],
+      "rating": 4.75,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "G_M_D_THREE",
+      "fileSizeKB": 477
+    }
+  ]
+}

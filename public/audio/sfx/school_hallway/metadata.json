@@ -1,0 +1,107 @@
+{
+  "sfxName": "school_hallway",
+  "catalogDescription": "Echoing chatter",
+  "category": "Human & Social",
+  "files": [
+    {
+      "file": "school_hallway_450489.mp3",
+      "freesoundId": 450489,
+      "freesoundName": "crowd int high school hallway tight light active students leaving some lockers2",
+      "description": "crowd int high school hallway tight light active students leaving some lockers2",
+      "duration": 26.8084,
+      "tags": [
+        "crowd",
+        "hallway",
+        "high",
+        "int",
+        "light",
+        "narrow",
+        "school",
+        "tight"
+      ],
+      "rating": 0,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "kyles",
+      "fileSizeKB": 616
+    },
+    {
+      "file": "school_hallway_450493.mp3",
+      "freesoundId": 450493,
+      "freesoundName": "crowd int high school hallway tight little boomy crowd light active conversations and lockers end",
+      "description": "crowd int high school hallway tight little boomy crowd light active conversations and lockers end",
+      "duration": 199.765,
+      "tags": [
+        "crowd",
+        "hallway",
+        "high",
+        "int",
+        "narrow",
+        "school",
+        "tight"
+      ],
+      "rating": 0,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "kyles",
+      "fileSizeKB": 4447.1
+    },
+    {
+      "file": "school_hallway_450505.mp3",
+      "freesoundId": 450505,
+      "freesoundName": "crowd int high school wide hallway medium travelling busy distant crowd and lockers echo",
+      "description": "crowd int high school wide hallway medium travelling busy distant and lockers echo",
+      "duration": 222.211,
+      "tags": [
+        "crowd",
+        "hallway",
+        "high",
+        "int",
+        "medium",
+        "school",
+        "travelling"
+      ],
+      "rating": 5,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "kyles",
+      "fileSizeKB": 4998.1
+    },
+    {
+      "file": "school_hallway_450439.mp3",
+      "freesoundId": 450439,
+      "freesoundName": "crowd int high school hallway corner active students conversations2",
+      "description": "crowd int high school hallway corner active students conversations2",
+      "duration": 134.968,
+      "tags": [
+        "corner",
+        "crowd",
+        "hallway",
+        "high",
+        "int",
+        "school"
+      ],
+      "rating": 5,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "kyles",
+      "fileSizeKB": 3050.4
+    },
+    {
+      "file": "school_hallway_450485.mp3",
+      "freesoundId": 450485,
+      "freesoundName": "crowd int high school hallway tight dry seniors locker open loudly nearby",
+      "description": "crowd int high school hallway tight dry seniors locker open loudly nearby",
+      "duration": 24.2325,
+      "tags": [
+        "crowd",
+        "hallway",
+        "high",
+        "int",
+        "narrow",
+        "school",
+        "tight"
+      ],
+      "rating": 0,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "kyles",
+      "fileSizeKB": 544.2
+    }
+  ]
+}

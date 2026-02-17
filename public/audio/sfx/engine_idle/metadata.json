@@ -1,0 +1,92 @@
+{
+  "sfxName": "engine_idle",
+  "catalogDescription": "Low rumbling engine",
+  "category": "Urban & Industrial",
+  "files": [
+    {
+      "file": "engine_idle_839668.mp3",
+      "freesoundId": 839668,
+      "freesoundName": "diesel_car_idle (21)",
+      "description": "Recording of a passenger car diesel engine running at idle. The sound features a steady low-frequency rumble with noticeable amplitude fluctuations typical of diesel engines. Recorded outdoors in Finland using an iPhone 11 Pro (2020), with the microphone positioned approximately one meter from the s",
+      "duration": 5.82267,
+      "tags": [
+        "diesel",
+        "engine",
+        "idle",
+        "motor"
+      ],
+      "rating": 0,
+      "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "author": "audio_sgn_a",
+      "fileSizeKB": 131
+    },
+    {
+      "file": "engine_idle_839666.mp3",
+      "freesoundId": 839666,
+      "freesoundName": "diesel_car_idle (2)",
+      "description": "Recording of a passenger car diesel engine running at idle. The sound features a steady low-frequency rumble with noticeable amplitude fluctuations typical of diesel engines. Recorded outdoors in Finland using an iPhone 11 Pro (2020), with the microphone positioned approximately one meter from the s",
+      "duration": 5.99333,
+      "tags": [
+        "diesel",
+        "engine",
+        "idle",
+        "motor"
+      ],
+      "rating": 0,
+      "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "author": "audio_sgn_a",
+      "fileSizeKB": 136.8
+    },
+    {
+      "file": "engine_idle_839667.mp3",
+      "freesoundId": 839667,
+      "freesoundName": "diesel_car_idle (20)",
+      "description": "Recording of a passenger car diesel engine running at idle. The sound features a steady low-frequency rumble with noticeable amplitude fluctuations typical of diesel engines. Recorded outdoors in Finland using an iPhone 11 Pro (2020), with the microphone positioned approximately one meter from the s",
+      "duration": 6.59067,
+      "tags": [
+        "diesel",
+        "engine",
+        "idle",
+        "motor"
+      ],
+      "rating": 0,
+      "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "author": "audio_sgn_a",
+      "fileSizeKB": 148.9
+    },
+    {
+      "file": "engine_idle_839665.mp3",
+      "freesoundId": 839665,
+      "freesoundName": "diesel_car_idle (19)",
+      "description": "Recording of a passenger car diesel engine running at idle. The sound features a steady low-frequency rumble with noticeable amplitude fluctuations typical of diesel engines. Recorded outdoors in Finland using an iPhone 11 Pro (2020), with the microphone positioned approximately one meter from the s",
+      "duration": 5.56667,
+      "tags": [
+        "diesel",
+        "engine",
+        "idle",
+        "motor"
+      ],
+      "rating": 0,
+      "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "author": "audio_sgn_a",
+      "fileSizeKB": 125.5
+    },
+    {
+      "file": "engine_idle_839664.mp3",
+      "freesoundId": 839664,
+      "freesoundName": "diesel_car_idle (18)",
+      "description": "Recording of a passenger car diesel engine running at idle. The sound features a steady low-frequency rumble with noticeable amplitude fluctuations typical of diesel engines. Recorded outdoors in Finland using an iPhone 11 Pro (2020), with the microphone positioned approximately one meter from the s",
+      "duration": 5.652,
+      "tags": [
+        "diesel",
+        "engine",
+        "idle",
+        "motor"
+      ],
+      "rating": 0,
+      "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "author": "audio_sgn_a",
+      "fileSizeKB": 126.8
+    }
+  ]
+}

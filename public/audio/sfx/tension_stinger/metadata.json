@@ -1,0 +1,119 @@
+{
+  "sfxName": "tension_stinger",
+  "catalogDescription": "Sharp dissonant sting",
+  "category": "Tension & Suspense",
+  "files": [
+    {
+      "file": "tension_stinger_669603.mp3",
+      "freesoundId": 669603,
+      "freesoundName": "Tension sound-alarm Loop - part 1 - marimba.wav",
+      "description": "1st loop from a progression of 4 short marimba loops accompanying tension or stress, or acting as a stinger or alarm.\n\nCheck out UstymPetrovych.com for more.",
+      "duration": 3.98171,
+      "tags": [
+        "alarm",
+        "loop",
+        "marimba",
+        "sample",
+        "short",
+        "stinger",
+        "stress",
+        "tension",
+        "video-game"
+      ],
+      "rating": 3.6666666666666665,
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "author": "Ustym_Petrovych",
+      "fileSizeKB": 90.1
+    },
+    {
+      "file": "tension_stinger_669601.mp3",
+      "freesoundId": 669601,
+      "freesoundName": "Tension sound-alarm Loop - part 3 - marimba.wav",
+      "description": "3rd loop from a progression of 4 short marimba loops accompanying tension or stress, or acting as a stinger or alarm.\n\nCheck out UstymPetrovych.com for more.",
+      "duration": 4.04671,
+      "tags": [
+        "alarm",
+        "loop",
+        "marimba",
+        "sample",
+        "short",
+        "stinger",
+        "stress",
+        "tension",
+        "video-game"
+      ],
+      "rating": 5,
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "author": "Ustym_Petrovych",
+      "fileSizeKB": 90.8
+    },
+    {
+      "file": "tension_stinger_669600.mp3",
+      "freesoundId": 669600,
+      "freesoundName": "Tension sound-alarm Loop - part 4 - marimba",
+      "description": "4th loop from a progression of 4 short marimba loops accompanying tension or stress, or acting as a stinger or alarm.\n\nCheck out UstymPetrovych.com for more.",
+      "duration": 3.9989,
+      "tags": [
+        "alarm",
+        "loop",
+        "marimba",
+        "sample",
+        "short",
+        "stinger",
+        "stress",
+        "tension",
+        "video-game"
+      ],
+      "rating": 5,
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "author": "Ustym_Petrovych",
+      "fileSizeKB": 93
+    },
+    {
+      "file": "tension_stinger_669602.mp3",
+      "freesoundId": 669602,
+      "freesoundName": "Tension sound-alarm Loop - part 2 - marimba.wav",
+      "description": "2nd loop from a progression of 4 short marimba loops accompanying tension or stress, or acting as a stinger or alarm.\n\nCheck out UstymPetrovych.com for more.",
+      "duration": 4.00469,
+      "tags": [
+        "alarm",
+        "loop",
+        "marimba",
+        "sample",
+        "short",
+        "stinger",
+        "stress",
+        "tension",
+        "video-game"
+      ],
+      "rating": 5,
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "author": "Ustym_Petrovych",
+      "fileSizeKB": 90
+    },
+    {
+      "file": "tension_stinger_638391.mp3",
+      "freesoundId": 638391,
+      "freesoundName": "Horror Stinger 12_Vampire Nest.wav",
+      "description": "Horror Stinger Jump Scare Sound FX - created by layering various field recordings and foley sounds and processing them.\n\nThis sound is part of a pack of 16 which can be downloaded here:\nhttps://freesound.org/people/Ulrich_Wehner/packs/35318/",
+      "duration": 4.02854,
+      "tags": [
+        "Bloodsuckers",
+        "Boom",
+        "Cinematic",
+        "Horror",
+        "horror-stinger",
+        "Impact",
+        "Jump-Scare",
+        "Stinger",
+        "Tension",
+        "Vampire",
+        "Vampires"
+      ],
+      "rating": 4.142857142857143,
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "author": "Ulrich_Wehner",
+      "fileSizeKB": 91.9
+    }
+  ]
+}

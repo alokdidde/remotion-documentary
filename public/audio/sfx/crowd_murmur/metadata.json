@@ -1,0 +1,113 @@
+{
+  "sfxName": "crowd_murmur",
+  "catalogDescription": "Background crowd talk",
+  "category": "Human & Social",
+  "files": [
+    {
+      "file": "crowd_murmur_449973.mp3",
+      "freesoundId": 449973,
+      "freesoundName": "crowd int large bingo hall playing murmur chatty numbers called over PA short.wav",
+      "description": "crowd int large bingo hall playing murmur chatty numbers called over PA short",
+      "duration": 39.6396,
+      "tags": [
+        "bingo",
+        "crowd",
+        "hall",
+        "int",
+        "large",
+        "murmur"
+      ],
+      "rating": 5,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "kyles",
+      "fileSizeKB": 885.2
+    },
+    {
+      "file": "crowd_murmur_455721.mp3",
+      "freesoundId": 455721,
+      "freesoundName": "crowd int medium gallery steps echo wash murmur from above1 with babies Montreal, Canada.flac",
+      "description": "crowd int medium gallery steps echo wash murmur from above1 with babies Montreal, Canada.flac",
+      "duration": 167.708,
+      "tags": [
+        "Canada",
+        "crowd",
+        "echo",
+        "gallery",
+        "int",
+        "medium",
+        "Montreal",
+        "murmur",
+        "steps",
+        "wash"
+      ],
+      "rating": 5,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "kyles",
+      "fileSizeKB": 3724.1
+    },
+    {
+      "file": "crowd_murmur_455687.mp3",
+      "freesoundId": 455687,
+      "freesoundName": "crowd ext medium amusement park dirt steps murmur movement Montreal, Canada.flac",
+      "description": "crowd ext medium amusement park dirt steps murmur movement Montreal, Canada.flac",
+      "duration": 183.988,
+      "tags": [
+        "amusement",
+        "crowd",
+        "dirt",
+        "ext",
+        "medium",
+        "movement",
+        "murmur",
+        "park",
+        "steps"
+      ],
+      "rating": 4,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "kyles",
+      "fileSizeKB": 4159.7
+    },
+    {
+      "file": "crowd_murmur_449977.mp3",
+      "freesoundId": 449977,
+      "freesoundName": "crowd int large bingo hall playing murmur chatty numbers called over PA wide.wav",
+      "description": "crowd int large bingo hall playing murmur chatty numbers called over PA wide",
+      "duration": 148.348,
+      "tags": [
+        "bingo",
+        "crowd",
+        "hall",
+        "int",
+        "large",
+        "murmur"
+      ],
+      "rating": 0,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "kyles",
+      "fileSizeKB": 3279.2
+    },
+    {
+      "file": "crowd_murmur_406184.mp3",
+      "freesoundId": 406184,
+      "freesoundName": "crowd ext small walla murmur arabic children and preteens at Friday fence border protest some close voices and some english words +distant motorcycle pass Gaza 2016.wav",
+      "description": "crowd ext small walla murmur arabic children and preteens at Friday fence border protest some close voices and some english words +distant motorcycle pass Gaza 2016.wav",
+      "duration": 256.298,
+      "tags": [
+        "arabic",
+        "children",
+        "crowd",
+        "ext",
+        "kids",
+        "murmur",
+        "people",
+        "preteens",
+        "small",
+        "walla"
+      ],
+      "rating": 4.571428571428571,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "kyles",
+      "fileSizeKB": 5995.6
+    }
+  ]
+}

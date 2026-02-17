@@ -1,0 +1,101 @@
+{
+  "sfxName": "thunder_crack",
+  "catalogDescription": "Sharp lightning crack",
+  "category": "Nature & Environment",
+  "files": [
+    {
+      "file": "thunder_crack_681517.mp3",
+      "freesoundId": 681517,
+      "freesoundName": "Thunder Claps, Distant, Boomy, Cracking Strikes, Storm",
+      "description": "Thunder Claps, Distant, Boomy, Cracking Strikes, Storm",
+      "duration": 232.086,
+      "tags": [
+        "boomy",
+        "claps",
+        "crack",
+        "distant",
+        "nature",
+        "storm",
+        "strikes",
+        "thunder",
+        "weather"
+      ],
+      "rating": 4.642857142857143,
+      "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "author": "PNMCarrieRailfan",
+      "fileSizeKB": 5143.4
+    },
+    {
+      "file": "thunder_crack_681480.mp3",
+      "freesoundId": 681480,
+      "freesoundName": "Thunder - Crack Originally Thunder 02.mp3",
+      "description": "Crack Originally Thunder Take 2",
+      "duration": 10.2019,
+      "tags": [
+        "crack",
+        "lightning",
+        "nature",
+        "thunder",
+        "weather"
+      ],
+      "rating": 4.666666666666667,
+      "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "author": "PNMCarrieRailfan",
+      "fileSizeKB": 227.4
+    },
+    {
+      "file": "thunder_crack_681479.mp3",
+      "freesoundId": 681479,
+      "freesoundName": "Thunder - Crack Originally Thunder 01",
+      "description": "Crack Originally Thunder Take 1",
+      "duration": 7.27617,
+      "tags": [
+        "crack",
+        "lightning",
+        "nature",
+        "thunder",
+        "weather"
+      ],
+      "rating": 4.777777777777778,
+      "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "author": "PNMCarrieRailfan",
+      "fileSizeKB": 163.7
+    },
+    {
+      "file": "thunder_crack_681613.mp3",
+      "freesoundId": 681613,
+      "freesoundName": "Thunder - Thunder Cracks Like Wind",
+      "description": "Thunder Cracks Like Wind",
+      "duration": 14.7994,
+      "tags": [
+        "crack",
+        "lightning",
+        "nature",
+        "thunder",
+        "wind"
+      ],
+      "rating": 4.6,
+      "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "author": "PNMCarrieRailfan",
+      "fileSizeKB": 326.7
+    },
+    {
+      "file": "thunder_crack_681482.mp3",
+      "freesoundId": 681482,
+      "freesoundName": "Thunder - Crack Originally Thunder 04.mp3",
+      "description": "Crack Originally Thunder Take 4",
+      "duration": 11.3513,
+      "tags": [
+        "crack",
+        "lightning",
+        "nature",
+        "thunder",
+        "weather"
+      ],
+      "rating": 4.818181818181818,
+      "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "author": "PNMCarrieRailfan",
+      "fileSizeKB": 251.9
+    }
+  ]
+}

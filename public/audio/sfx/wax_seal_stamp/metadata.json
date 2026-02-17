@@ -1,0 +1,25 @@
+{
+  "sfxName": "wax_seal_stamp",
+  "catalogDescription": "Pressing a wax seal",
+  "category": "Historical & Period",
+  "files": [
+    {
+      "file": "wax_seal_stamp_759526.mp3",
+      "freesoundId": 759526,
+      "freesoundName": "Wax seal",
+      "description": "The sound of someone sealing an envelope with a wax seal stamp, created by pressing a metal punch into a blob of Blu Tack on some paper. Could also be used as an ink stamp sound. Recorded with an iPhone 11, some cleanup done in Audacity.",
+      "duration": 1.31169,
+      "tags": [
+        "letter-writing",
+        "penmanship",
+        "stamp",
+        "wax-seal",
+        "wax-seal-stamp"
+      ],
+      "rating": 4.857142857142857,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "Cerise_Virtuelle",
+      "fileSizeKB": 31.9
+    }
+  ]
+}

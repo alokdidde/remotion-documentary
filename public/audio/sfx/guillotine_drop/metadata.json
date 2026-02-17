@@ -1,0 +1,90 @@
+{
+  "sfxName": "guillotine_drop",
+  "catalogDescription": "Blade falling",
+  "category": "Historical & Period",
+  "files": [
+    {
+      "file": "guillotine_drop_207390.mp3",
+      "freesoundId": 207390,
+      "freesoundName": "Guillotine Rec 5.wav",
+      "description": "One of around eight effects created for a production of \"A Tale of Two Cities\"\r\nRecording of purpose built model guillotine chopping a mixture of veg.\r\n4 mics were used 1 from top, a couple at the bottom and an attached PZM.\r\n\r\nResult was pitch shifted down.",
+      "duration": 1.2602,
+      "tags": [
+        "Beheading",
+        "Chop",
+        "Guillotine",
+        "Tale-of-Two-Cities"
+      ],
+      "rating": 5,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "jameswrowles",
+      "fileSizeKB": 31.3
+    },
+    {
+      "file": "guillotine_drop_231901.mp3",
+      "freesoundId": 231901,
+      "freesoundName": "guillotine2.wav",
+      "description": "Guillotine blade open and close ",
+      "duration": 2.13548,
+      "tags": [
+        "blade",
+        "guillotine",
+        "paper"
+      ],
+      "rating": 1.8333333333333333,
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "author": "Godowan",
+      "fileSizeKB": 40
+    },
+    {
+      "file": "guillotine_drop_207397.mp3",
+      "freesoundId": 207397,
+      "freesoundName": "Guillotine Rec 6.wav",
+      "description": "One of around eight effects created for a production of \"A Tale of Two Cities\"\r\nRecording of purpose built model guillotine chopping a mixture of veg.\r\n4 mics were used 1 from top, a couple at the bottom and an attached PZM.\r\n\r\nResult was pitch shifted down.",
+      "duration": 1.1678,
+      "tags": [
+        "Beheading",
+        "Chop",
+        "Guillotine",
+        "Tale-of-Two-Cities"
+      ],
+      "rating": 4.75,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "jameswrowles",
+      "fileSizeKB": 30.6
+    },
+    {
+      "file": "guillotine_drop_207396.mp3",
+      "freesoundId": 207396,
+      "freesoundName": "Guillotine Rec 7.wav",
+      "description": "One of around eight effects created for a production of \"A Tale of Two Cities\"\r\nRecording of purpose built model guillotine chopping a mixture of veg.\r\n4 mics were used 1 from top, a couple at the bottom and an attached PZM.\r\n\r\nResult was pitch shifted down.",
+      "duration": 1.74324,
+      "tags": [
+        "Beheading",
+        "Chop",
+        "Guillotine",
+        "Tale-of-Two-Cities"
+      ],
+      "rating": 3,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "jameswrowles",
+      "fileSizeKB": 43.3
+    },
+    {
+      "file": "guillotine_drop_334995.mp3",
+      "freesoundId": 334995,
+      "freesoundName": "Paper guillotine",
+      "description": "Guillotine cutting paper",
+      "duration": 16.7184,
+      "tags": [
+        "cut",
+        "guillotine",
+        "paper"
+      ],
+      "rating": 5,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "paulocorona",
+      "fileSizeKB": 306.2
+    }
+  ]
+}

@@ -36,5 +36,12 @@ npm-debug.log*
 
 # Generated assets (re-generate with scripts)
 public/video/
-public/audio/
 public/images/
+
+# Generated audio (re-generate with scripts)
+# Ignore all audio, then selectively un-ignore SFX metadata only
+public/audio/
+!public/audio/sfx/
+!public/audio/sfx/*/
+!public/audio/sfx/*/metadata.json
+public/audio/sfx/**/*.mp3

@@ -1,0 +1,116 @@
+{
+  "sfxName": "boxing_bell",
+  "catalogDescription": "Ring bell",
+  "category": "Sports & Competition",
+  "files": [
+    {
+      "file": "boxing_bell_66952.mp3",
+      "freesoundId": 66952,
+      "freesoundName": "Boxing Bell 1.wav",
+      "description": "A dual mono recording of a boxing bell struck once as at the beginning of a round.",
+      "duration": 7.70825,
+      "tags": [
+        "bell",
+        "bout",
+        "boxing",
+        "ding",
+        "fight",
+        "mono",
+        "pugilism",
+        "round",
+        "single"
+      ],
+      "rating": 4.462566844919786,
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "author": "Benboncan",
+      "fileSizeKB": 170.1
+    },
+    {
+      "file": "boxing_bell_66951.mp3",
+      "freesoundId": 66951,
+      "freesoundName": "Boxing Bell.wav",
+      "description": "A dual mono file of a bell striking three times as at the end of a boxing round.",
+      "duration": 8.24905,
+      "tags": [
+        "bell",
+        "bout",
+        "boxing",
+        "ding-ding-ding",
+        "fight",
+        "mono",
+        "pugilism",
+        "round",
+        "three-strikes"
+      ],
+      "rating": 4.513196480938416,
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "author": "Benboncan",
+      "fileSizeKB": 183.7
+    },
+    {
+      "file": "boxing_bell_520998.mp3",
+      "freesoundId": 520998,
+      "freesoundName": "Boxing Bell Signals",
+      "description": "Sound of bell used in boxing fight. Sound made with bicycle bell (edited) and recorded with H1 ZOOM.\n\nYou can use it freely but if you can, link me your creations in the comments - I'm curious to see what you do with it!\n\nYou can also support my work and buy this sound on Pond5: https://www.pond5.co",
+      "duration": 32.7929,
+      "tags": [
+        "bell",
+        "box",
+        "boxing",
+        "ding",
+        "effect",
+        "fight",
+        "game",
+        "intros",
+        "percussion",
+        "sfx",
+        "signal",
+        "sound",
+        "sound-design",
+        "sound-effect",
+        "sport"
+      ],
+      "rating": 4.783216783216783,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "Mateusz_Chenc",
+      "fileSizeKB": 734.7
+    },
+    {
+      "file": "boxing_bell_571096.mp3",
+      "freesoundId": 571096,
+      "freesoundName": "180820 Boxing bell, various rings dings pulses close distant, Soulpepper TORONTO.flac",
+      "description": "Various rings and dings from boxing bell.",
+      "duration": 543.664,
+      "tags": [
+        "bell",
+        "boxing",
+        "ding",
+        "ring"
+      ],
+      "rating": 4.473684210526316,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "TRP",
+      "fileSizeKB": 12067.2
+    },
+    {
+      "file": "boxing_bell_33244.mp3",
+      "freesoundId": 33244,
+      "freesoundName": "dingding.wav",
+      "description": "Ringing of a bell like in a boxing fight. Remix of\n13943_adcbicycle_15\n18660_cdrk_gong_0001_korean_1_shot_mono",
+      "duration": 2.88454,
+      "tags": [
+        "bell",
+        "boxing",
+        "ding",
+        "environmental-sounds-research",
+        "fight",
+        "remix",
+        "sound-effects"
+      ],
+      "rating": 3.9365671641791047,
+      "license": "http://creativecommons.org/licenses/sampling+/1.0/",
+      "author": "ljudman",
+      "fileSizeKB": 64.7
+    }
+  ]
+}

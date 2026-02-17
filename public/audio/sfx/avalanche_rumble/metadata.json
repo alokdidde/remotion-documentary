@@ -1,0 +1,104 @@
+{
+  "sfxName": "avalanche_rumble",
+  "catalogDescription": "Snow cascade",
+  "category": "Nature & Environment",
+  "files": [
+    {
+      "file": "avalanche_rumble_725100.mp3",
+      "freesoundId": 725100,
+      "freesoundName": "Explosion & Avalanche.flac",
+      "description": "Explosion or Avalanche? Clip of Stomping city from A Growing Concern.",
+      "duration": 10.2201,
+      "tags": [
+        "Avalanche",
+        "Explosion",
+        "Large",
+        "Medium"
+      ],
+      "rating": 5,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "ShangASDFGuy123",
+      "fileSizeKB": 269.6
+    },
+    {
+      "file": "avalanche_rumble_162673.mp3",
+      "freesoundId": 162673,
+      "freesoundName": "avl06.wav",
+      "description": "Small stone avalanche caused by dislodging some rocks from an overcrop.\r\nRecorded with a Zoom H2 with 90° dispersion.",
+      "duration": 7.208,
+      "tags": [
+        "avalanche",
+        "destruction",
+        "fall",
+        "rock",
+        "rubble",
+        "slide",
+        "stone"
+      ],
+      "rating": 4.586206896551724,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "blaukreuz",
+      "fileSizeKB": 178.9
+    },
+    {
+      "file": "avalanche_rumble_162669.mp3",
+      "freesoundId": 162669,
+      "freesoundName": "avl03.wav",
+      "description": "Small stone avalanche caused by dislodging some rocks from an overcrop.\r\nRecorded with a Zoom H2 with 90° dispersion.",
+      "duration": 13.048,
+      "tags": [
+        "avalanche",
+        "destruction",
+        "fall",
+        "rock",
+        "rubble",
+        "slide",
+        "stone"
+      ],
+      "rating": 4.933333333333334,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "blaukreuz",
+      "fileSizeKB": 319.2
+    },
+    {
+      "file": "avalanche_rumble_162674.mp3",
+      "freesoundId": 162674,
+      "freesoundName": "avl05.wav",
+      "description": "Small stone avalanche caused by dislodging some rocks from an overcrop.\r\nRecorded with a Zoom H2 with 90° dispersion.",
+      "duration": 6.112,
+      "tags": [
+        "avalanche",
+        "destruction",
+        "fall",
+        "rock",
+        "rubble",
+        "slide",
+        "stone"
+      ],
+      "rating": 4.777777777777778,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "blaukreuz",
+      "fileSizeKB": 147.2
+    },
+    {
+      "file": "avalanche_rumble_162670.mp3",
+      "freesoundId": 162670,
+      "freesoundName": "avl02.wav",
+      "description": "Small stone avalanche caused by dislodging some rocks from an overcrop.\r\nRecorded with a Zoom H2 with 90° dispersion.",
+      "duration": 13.8533,
+      "tags": [
+        "avalanche",
+        "destruction",
+        "fall",
+        "rock",
+        "rubble",
+        "slide",
+        "stone"
+      ],
+      "rating": 4.818181818181818,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "blaukreuz",
+      "fileSizeKB": 346.3
+    }
+  ]
+}

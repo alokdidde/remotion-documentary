@@ -1,0 +1,109 @@
+{
+  "sfxName": "phone_ring_modern",
+  "catalogDescription": "Smartphone ringtone",
+  "category": "Human & Social",
+  "files": [
+    {
+      "file": "phone_ring_modern_345808.mp3",
+      "freesoundId": 345808,
+      "freesoundName": "Ringtone: GVC desk phone",
+      "description": "GVC model #457 desk phone, this phone has a mechanical bell ringer. The file has the typical pause between rings to simulate a POTS line.\nIt was recorded in an anechoic chamber with pro gear like most of my other classic ringtones.",
+      "duration": 11.9812,
+      "tags": [
+        "alert",
+        "bell",
+        "desk-phone",
+        "phone",
+        "ring",
+        "ringtone",
+        "telephone"
+      ],
+      "rating": 4.555555555555555,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "knufds",
+      "fileSizeKB": 273.4
+    },
+    {
+      "file": "phone_ring_modern_345737.mp3",
+      "freesoundId": 345737,
+      "freesoundName": "Ringtone: Princess desk phone",
+      "description": "AT&T; Princess desk phone w/ electronic ringer",
+      "duration": 2.336,
+      "tags": [
+        "ATT",
+        "classic-phone",
+        "electronic-ringer",
+        "phone",
+        "Princess-telephone",
+        "ringtone"
+      ],
+      "rating": 4.857142857142857,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "knufds",
+      "fileSizeKB": 54.9
+    },
+    {
+      "file": "phone_ring_modern_345805.mp3",
+      "freesoundId": 345805,
+      "freesoundName": "Ringtone: 1960s office phone",
+      "description": "Vintage 1950s-1960s Bell systems traditional rotary dial office desk phone. This telephone has the classic mechanical bell ringer.",
+      "duration": 4.48,
+      "tags": [
+        "bell",
+        "office-phone",
+        "old-telephone",
+        "phone",
+        "phone-ring",
+        "ring",
+        "ringtone",
+        "telephone",
+        "vintage"
+      ],
+      "rating": 4.181818181818182,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "knufds",
+      "fileSizeKB": 103.4
+    },
+    {
+      "file": "phone_ring_modern_459045.mp3",
+      "freesoundId": 459045,
+      "freesoundName": "FX LuMu cellphone ringtone Huawei Y6 fx old phone.wav",
+      "description": "Cellphone ringtone\n\nModel: Huawei Y6\n\nRecorded in studio with Sennheiser MKH416 through Sound Devices 722\n\nCheck out the whole pack!",
+      "duration": 28.1694,
+      "tags": [
+        "bells",
+        "cellphone",
+        "Huawei-Y6",
+        "mobile-phone",
+        "old",
+        "phone",
+        "ringtone"
+      ],
+      "rating": 4.9,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "LudwigMueller",
+      "fileSizeKB": 606.6
+    },
+    {
+      "file": "phone_ring_modern_459003.mp3",
+      "freesoundId": 459003,
+      "freesoundName": "FX LuMu cellphone ringtone Huawei Y6 fx phone funny old brrr.wav",
+      "description": "Cellphone ringtone\n\nModel: Huawei Y6\n\nRecorded in studio with Sennheiser MKH416 through Sound Devices 722\n\nCheck out the whole pack!",
+      "duration": 13.106,
+      "tags": [
+        "buzzer",
+        "cellphone",
+        "funny",
+        "Huawei-Y6",
+        "mobile-phone",
+        "old",
+        "phone",
+        "ringtone"
+      ],
+      "rating": 4.384615384615385,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "LudwigMueller",
+      "fileSizeKB": 307.1
+    }
+  ]
+}

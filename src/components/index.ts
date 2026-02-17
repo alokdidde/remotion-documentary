@@ -22,11 +22,29 @@ export { BackgroundVideo, BackgroundImage } from "./media/BackgroundVideo";
 
 // Audio
 export { Narration } from "./audio/Narration";
-export { BackgroundMusic, chapterMusic } from "./audio/BackgroundMusic";
+export { BackgroundMusic } from "./audio/BackgroundMusic";
+export { AudioTimeline } from "./audio/AudioTimeline";
 
 // Maps
 export { IndiaMap } from "./maps/IndiaMap";
 export { RailwayRoute } from "./maps/RailwayRoute";
+
+// 3D (requires @remotion/three + three + @react-three/fiber)
+export { ThreeScene } from "./three/ThreeScene";
+export { Globe } from "./three/Globe";
+export { FloatingParticles } from "./three/FloatingParticles";
+export { Bars3D } from "./three/Bars3D";
+
+// Motion (remotion-bits) — within-scene sequential animations
+export {
+  StaggeredMotion,
+  AnimatedText,
+  TypeWriter,
+  GradientTransition,
+  Particles,
+  Spawner,
+  Behavior,
+} from "remotion-bits";
 
 // Transitions
 export { ChapterTransition, FadeTransition } from "./transitions/ChapterTransition";

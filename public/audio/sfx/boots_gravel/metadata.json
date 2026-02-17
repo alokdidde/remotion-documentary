@@ -1,0 +1,97 @@
+{
+  "sfxName": "boots_gravel",
+  "catalogDescription": "Heavy boots on gravel",
+  "category": "War & Conflict",
+  "files": [
+    {
+      "file": "boots_gravel_432686.mp3",
+      "freesoundId": 432686,
+      "freesoundName": "Boots gravel wind",
+      "description": "Boots scraping in the gravel. Some wind",
+      "duration": 18.2545,
+      "tags": [
+        "Boots",
+        "gravel",
+        "wind"
+      ],
+      "rating": 0,
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "author": "Vortichez",
+      "fileSizeKB": 466.1
+    },
+    {
+      "file": "boots_gravel_827199.mp3",
+      "freesoundId": 827199,
+      "freesoundName": "FEETMisc_Outdoor, Croxall Lakes, Staffordshire, Walking on Gravel, Boots, _JW Audio",
+      "description": "A recording of me walking on gravel in walking boots.",
+      "duration": 51.6276,
+      "tags": [
+        "boots",
+        "footsteps",
+        "gravel",
+        "outdoors",
+        "walking"
+      ],
+      "rating": 5,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "JW_Audio",
+      "fileSizeKB": 1204.5
+    },
+    {
+      "file": "boots_gravel_452629.mp3",
+      "freesoundId": 452629,
+      "freesoundName": "footsteps boots heavy gravel ext.wav",
+      "description": "footsteps boots heavy gravel ext.wav",
+      "duration": 29.3627,
+      "tags": [
+        "boots",
+        "ext",
+        "footsteps",
+        "gravel",
+        "heavy"
+      ],
+      "rating": 4.904761904761905,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "kyles",
+      "fileSizeKB": 738.8
+    },
+    {
+      "file": "boots_gravel_452628.mp3",
+      "freesoundId": 452628,
+      "freesoundName": "footsteps boots gravel dirt quick but separated.wav",
+      "description": "footsteps boots gravel dirt quick but separated.wav",
+      "duration": 31.2395,
+      "tags": [
+        "boots",
+        "dirt",
+        "footsteps",
+        "gravel",
+        "quick"
+      ],
+      "rating": 4.928571428571429,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "kyles",
+      "fileSizeKB": 744.8
+    },
+    {
+      "file": "boots_gravel_810228.mp3",
+      "freesoundId": 810228,
+      "freesoundName": "FEETHmn_Outdoor, Middleton lakes, Staffordshire, Walking on Gravel Path, Rucksack, Walking Boots, Recording 4 , Zoom F3, Movo X3 Mark 2 Shotgun Mic, Mono 48Khs, 32bit_ JW Audio_",
+      "description": "A recording of me walking outside on a gravel path in a pair of walking boots.",
+      "duration": 47.3285,
+      "tags": [
+        "boots",
+        "foley",
+        "footsteps",
+        "gravel",
+        "outdoor",
+        "recordings",
+        "walking"
+      ],
+      "rating": 5,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "JW_Audio",
+      "fileSizeKB": 1212.8
+    }
+  ]
+}

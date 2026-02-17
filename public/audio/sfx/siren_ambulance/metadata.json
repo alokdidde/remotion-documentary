@@ -1,0 +1,115 @@
+{
+  "sfxName": "siren_ambulance",
+  "catalogDescription": "Ambulance siren",
+  "category": "Urban & Industrial",
+  "files": [
+    {
+      "file": "siren_ambulance_202418.mp3",
+      "freesoundId": 202418,
+      "freesoundName": "Thimon_Loisa_ambulance_siren.wav",
+      "description": "Sound of an ambulance siren\r\n\r\nTechnical detail:\r\n\r\nDuration: 4 seconds\r\n\r\nSine 1: 493.9\r\nSine 2: 392\r\n\r\nThat will be more fluid\r\n\r\nPhaser:\r\n\r\n2 phases\r\nLFO Frequency: 0.4\r\nOriginal / Edited: 143\r\nDepth: 100",
+      "duration": 4.44082,
+      "tags": [
+        "alarm",
+        "ambulance",
+        "emergency",
+        "hooter",
+        "police",
+        "prosecution",
+        "ringtone",
+        "siren"
+      ],
+      "rating": 4,
+      "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "author": "iut_Paris8",
+      "fileSizeKB": 59.4
+    },
+    {
+      "file": "siren_ambulance_406541.mp3",
+      "freesoundId": 406541,
+      "freesoundName": "skyline Middle East distant traffic horn honks and city haze07 ambulance siren first part Gaza 2016.wav",
+      "description": "skyline Middle East distant traffic horn honks and city haze07 ambulance siren first part Gaza 2016.wav",
+      "duration": 160.577,
+      "tags": [
+        "ambulance",
+        "city",
+        "distant",
+        "East",
+        "haze",
+        "honks",
+        "horn",
+        "Middle",
+        "siren",
+        "skyline",
+        "traffic"
+      ],
+      "rating": 4.875,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "kyles",
+      "fileSizeKB": 3557.3
+    },
+    {
+      "file": "siren_ambulance_93643.mp3",
+      "freesoundId": 93643,
+      "freesoundName": "01545 fast ambulance siren.wav",
+      "description": "Ambulance siren fast - mathematically generated",
+      "duration": 19.9997,
+      "tags": [
+        "alarm",
+        "ambulance",
+        "emergency",
+        "fire",
+        "police",
+        "siren"
+      ],
+      "rating": 3.2,
+      "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "author": "Robinhood76",
+      "fileSizeKB": 336.7
+    },
+    {
+      "file": "siren_ambulance_540153.mp3",
+      "freesoundId": 540153,
+      "freesoundName": "09759 ambulance siren loop.wav",
+      "description": "Ambulance siren looping sound",
+      "duration": 11.4822,
+      "tags": [
+        "alarm",
+        "ambulance",
+        "emergency",
+        "loop",
+        "police",
+        "rescue",
+        "siren"
+      ],
+      "rating": 4.4,
+      "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "author": "Robinhood76",
+      "fileSizeKB": 264
+    },
+    {
+      "file": "siren_ambulance_557107.mp3",
+      "freesoundId": 557107,
+      "freesoundName": "german ambulance siren sound effect",
+      "description": "german ambulance siren sound effect recorded with olympus lsp4.\n\nIf you appreciate these sounds, I warmly invite you to visit the YouTube channel of the Leipzig Song Scene Association (Leipziger Liederszene e.V.).\nhttps://www.youtube.com/@LeipzigerLiederszene\n\nYour comments, likes, or even subscript",
+      "duration": 15.7609,
+      "tags": [
+        "ambulance",
+        "deutsch",
+        "deutschland",
+        "einsatz",
+        "emergency",
+        "german",
+        "krankenwagen",
+        "notfall",
+        "rescue",
+        "siren",
+        "sirens"
+      ],
+      "rating": 4.7,
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "author": "Garuda1982",
+      "fileSizeKB": 349.5
+    }
+  ]
+}

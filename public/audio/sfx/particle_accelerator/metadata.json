@@ -1,0 +1,109 @@
+{
+  "sfxName": "particle_accelerator",
+  "catalogDescription": "Deep mechanical hum",
+  "category": "Science & Space",
+  "files": [
+    {
+      "file": "particle_accelerator_58933.mp3",
+      "freesoundId": 58933,
+      "freesoundName": "lsjlt 26 acceleartor.wav",
+      "description": "An accelerating mixture of sounds moving from slow ticks and hums to machnery or motor cycle like sounds - created by adjusting lfo and pitch parameters.",
+      "duration": 1.06748,
+      "tags": [
+        "electro",
+        "electronic",
+        "hum",
+        "noise",
+        "processed",
+        "synth",
+        "tick"
+      ],
+      "rating": 0,
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "author": "ERH",
+      "fileSizeKB": 33.7
+    },
+    {
+      "file": "particle_accelerator_100641.mp3",
+      "freesoundId": 100641,
+      "freesoundName": "subwayacceleratesuptospeed.mp3",
+      "description": "Subway train accelerating up to speed, general hum.",
+      "duration": 26.6068,
+      "tags": [
+        "accelerate",
+        "hum",
+        "subway"
+      ],
+      "rating": 0,
+      "license": "http://creativecommons.org/licenses/by/3.0/",
+      "author": "edbles",
+      "fileSizeKB": 589.1
+    },
+    {
+      "file": "particle_accelerator_186960.mp3",
+      "freesoundId": 186960,
+      "freesoundName": "engine3_up.wav",
+      "description": "A machine accelerating. starts with a puttering engine, then a climbing hum/whine that peaks with faint squeaks like brakes or wheels Sampled from a recording on freesound.",
+      "duration": 14.5963,
+      "tags": [
+        "accelerating",
+        "engine",
+        "hum",
+        "machine",
+        "speeding",
+        "speeding-up",
+        "train"
+      ],
+      "rating": 5,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "ReadeOnly",
+      "fileSizeKB": 317.5
+    },
+    {
+      "file": "particle_accelerator_721022.mp3",
+      "freesoundId": 721022,
+      "freesoundName": "H5 subway train hum",
+      "description": "This the 400Hz current chopper tone produced when the Toronto Subway H5/H6 trains accelerate. A similar, but lower pitched 200Hz tone is emitted from 81-720 subway trains in the Moscow Metro when accelerating.",
+      "duration": 5,
+      "tags": [
+        "buzz",
+        "chopper",
+        "current",
+        "electric",
+        "h5",
+        "hum",
+        "subway",
+        "toronto",
+        "train",
+        "ttc"
+      ],
+      "rating": 0,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "chungus43A",
+      "fileSizeKB": 146.7
+    },
+    {
+      "file": "particle_accelerator_721019.mp3",
+      "freesoundId": 721019,
+      "freesoundName": "MR73 metro train sound (synth)",
+      "description": "Sound synthesized in beepbox.co\n\nThis is the sound of an MR73 rubber-tire metro train from Montreal. There is no typical train wheel sound as this train uses rubber tires instead. When departing, the train produces 3 tones (180, 240, and 360 Hz) from the current chopper, a device that controls the m",
+      "duration": 65.4545,
+      "tags": [
+        "chopper",
+        "current",
+        "electric",
+        "hum",
+        "metro",
+        "montreal",
+        "motor",
+        "subway",
+        "train",
+        "underground"
+      ],
+      "rating": 5,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "chungus43A",
+      "fileSizeKB": 1595.5
+    }
+  ]
+}

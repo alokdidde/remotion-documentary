@@ -21,7 +21,6 @@ interface AudioAsset {
   prompt: string;
   filename: string;
   status: AssetStatus;
-  voice?: string;
   duration?: number;
 }
 

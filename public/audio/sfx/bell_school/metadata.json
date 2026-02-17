@@ -1,0 +1,105 @@
+{
+  "sfxName": "bell_school",
+  "catalogDescription": "School bell ring",
+  "category": "Historical & Period",
+  "files": [
+    {
+      "file": "bell_school_493961.mp3",
+      "freesoundId": 493961,
+      "freesoundName": "BELL 02.mp3",
+      "description": "Back in the day our Primary School was one of the first to get a Master-clock PA / Audio / Bell system that was custom made. (Can't seem to find any details on those PA rack machines) Anyways, here are some of the tones we used. Bell 2 wasn't in use but it was part of the package deal.",
+      "duration": 8.03372,
+      "tags": [
+        "1980s-1990s",
+        "Australia",
+        "Bell",
+        "Melbourne",
+        "School",
+        "Tone",
+        "Vintage"
+      ],
+      "rating": 4.75,
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "author": "old_bell_boy_melbourne",
+      "fileSizeKB": 181.6
+    },
+    {
+      "file": "bell_school_493959.mp3",
+      "freesoundId": 493959,
+      "freesoundName": "BELL 04.mp3",
+      "description": "Back in the day our Primary School was one of the first to get a Master-clock PA / Audio / Bell system that was custom made. (Can't seem to find any details on those PA rack machines) Anyways, here are some of the tones we used. Bell 4 got used few years later after deciding to shorten the bell from",
+      "duration": 6.64923,
+      "tags": [
+        "1980s-1990s",
+        "Australia",
+        "Bell",
+        "Melbourne",
+        "School",
+        "Tone",
+        "Vintage"
+      ],
+      "rating": 4.333333333333333,
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "author": "old_bell_boy_melbourne",
+      "fileSizeKB": 148.3
+    },
+    {
+      "file": "bell_school_493960.mp3",
+      "freesoundId": 493960,
+      "freesoundName": "BELL 03.mp3",
+      "description": "Back in the day our Primary School was one of the first to get a Master-clock PA / Audio / Bell system that was custom made. (Can't seem to find any details on those PA rack machines) Anyways, here are some of the tones we used. Bell 3 is pretty much it 10x Ding, Ding &amp; Ding.",
+      "duration": 10.0451,
+      "tags": [
+        "1980s-1990s",
+        "Australia",
+        "Bell",
+        "Melbourne",
+        "School",
+        "Tone",
+        "Vintage"
+      ],
+      "rating": 5,
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "author": "old_bell_boy_melbourne",
+      "fileSizeKB": 226.6
+    },
+    {
+      "file": "bell_school_217221.mp3",
+      "freesoundId": 217221,
+      "freesoundName": "AboutTheSchools_DP_ES_school_bell",
+      "description": "School bell at IES Doctor Puigvert, Barcelona, recorded for TheCityRings.org",
+      "duration": 16.7309,
+      "tags": [
+        "barcelona",
+        "bell",
+        "Doctor-Puigvert",
+        "ring",
+        "ringing",
+        "school",
+        "sonsdebarcelona",
+        "spain",
+        "thecityrings"
+      ],
+      "rating": 2.857142857142857,
+      "license": "http://creativecommons.org/licenses/by/3.0/",
+      "author": "thecityrings",
+      "fileSizeKB": 309.3
+    },
+    {
+      "file": "bell_school_461158.mp3",
+      "freesoundId": 461158,
+      "freesoundName": "8 School bell.wav",
+      "description": "school bell ringing",
+      "duration": 9.33883,
+      "tags": [
+        "bell",
+        "ringing",
+        "school"
+      ],
+      "rating": 3.0833333333333335,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "15FPanska_Hecl_Filip",
+      "fileSizeKB": 212.3
+    }
+  ]
+}

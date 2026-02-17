@@ -1,0 +1,128 @@
+{
+  "sfxName": "silence_ringing",
+  "catalogDescription": "Near-silence with faint ring",
+  "category": "Tension & Suspense",
+  "files": [
+    {
+      "file": "silence_ringing_554653.mp3",
+      "freesoundId": 554653,
+      "freesoundName": "bec bells pealing cropped.wav",
+      "description": "four-bell tower at Bethesda Church, Saratoga Springs NY USA - electronic control rings the bells at random. Long tail fade to silence at the end. SM58 up in the tower to Behringer USB interface to Audacity, trimmed and amplified.",
+      "duration": 77.1805,
+      "tags": [
+        "bells",
+        "church",
+        "pealing",
+        "ringing"
+      ],
+      "rating": 4.75,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "HMTSCCSound",
+      "fileSizeKB": 1726.1
+    },
+    {
+      "file": "silence_ringing_251538.mp3",
+      "freesoundId": 251538,
+      "freesoundName": "A000010.wav",
+      "description": "Phone rings, call receiver picks up phone, some silence, hang up phone.",
+      "duration": 55.8903,
+      "tags": [
+        "call",
+        "calling",
+        "click",
+        "house",
+        "land",
+        "land-line",
+        "line",
+        "phone",
+        "ring",
+        "ringing",
+        "telephone"
+      ],
+      "rating": 4.461538461538462,
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "author": "WaveAdventurer",
+      "fileSizeKB": 1246.1
+    },
+    {
+      "file": "silence_ringing_251540.mp3",
+      "freesoundId": 251540,
+      "freesoundName": "A000007.wav",
+      "description": "Phone rings, call receiver answers call, silence, then hangs up phone.",
+      "duration": 18.1423,
+      "tags": [
+        "call",
+        "calling",
+        "dial",
+        "house-phone",
+        "land",
+        "land-line",
+        "line",
+        "phone",
+        "ring",
+        "ringing",
+        "telephone",
+        "tone"
+      ],
+      "rating": 4.142857142857143,
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "author": "WaveAdventurer",
+      "fileSizeKB": 412.6
+    },
+    {
+      "file": "silence_ringing_251539.mp3",
+      "freesoundId": 251539,
+      "freesoundName": "A000008.wav",
+      "description": "Phone rings, call receiver answers call, silence, call receiver hangs up phone.",
+      "duration": 42.2432,
+      "tags": [
+        "call",
+        "calling",
+        "dial",
+        "dialing",
+        "house-phone",
+        "land",
+        "land-line",
+        "line",
+        "phone",
+        "ring",
+        "ringing",
+        "telephone"
+      ],
+      "rating": 4.5,
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "author": "WaveAdventurer",
+      "fileSizeKB": 946.1
+    },
+    {
+      "file": "silence_ringing_611821.mp3",
+      "freesoundId": 611821,
+      "freesoundName": "Timer alarm detector bleeping beeping",
+      "description": "Sound of an alarm, timer or detector ringing. Bleeping four times in a pulse and then silence. Quiet background noise of a machine running.",
+      "duration": 5.80544,
+      "tags": [
+        "alarm",
+        "alarm-clock",
+        "beep",
+        "bleep",
+        "clock",
+        "cooking",
+        "detector",
+        "digital",
+        "egg-timer",
+        "electronic",
+        "morning",
+        "radar",
+        "ring",
+        "ringing",
+        "timer",
+        "wake",
+        "wake-up"
+      ],
+      "rating": 4.842105263157895,
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "author": "syntheffects",
+      "fileSizeKB": 142.6
+    }
+  ]
+}

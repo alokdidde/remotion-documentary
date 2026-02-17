@@ -1,0 +1,116 @@
+{
+  "sfxName": "applause",
+  "catalogDescription": "Clapping audience",
+  "category": "Human & Social",
+  "files": [
+    {
+      "file": "applause_361552.mp3",
+      "freesoundId": 361552,
+      "freesoundName": "applause001.mp3",
+      "description": "Applause response",
+      "duration": 6.77909,
+      "tags": [
+        "applaud",
+        "applauding",
+        "applause",
+        "audience",
+        "auditorium",
+        "cheer",
+        "cheering",
+        "cheers",
+        "clap",
+        "clapping",
+        "claps",
+        "crowd",
+        "foley",
+        "hand-clapping",
+        "polite",
+        "theatre"
+      ],
+      "rating": 1.4761904761904763,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "tec_studio",
+      "fileSizeKB": 154.8
+    },
+    {
+      "file": "applause_361549.mp3",
+      "freesoundId": 361549,
+      "freesoundName": "applause004.mp3",
+      "description": "applause response",
+      "duration": 4.49116,
+      "tags": [
+        "applaud",
+        "applauding",
+        "applause",
+        "audience",
+        "auditorium",
+        "cheer",
+        "cheering",
+        "cheers",
+        "clap",
+        "clapping",
+        "claps",
+        "crowd",
+        "foley",
+        "hand-clapping",
+        "polite",
+        "theatre"
+      ],
+      "rating": 1.4210526315789473,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "tec_studio",
+      "fileSizeKB": 105
+    },
+    {
+      "file": "applause_480686.mp3",
+      "freesoundId": 480686,
+      "freesoundName": "R02-13-Group Applause.wav",
+      "description": "Steady applause from a large group, begins and end in midst of applause. Short clip.",
+      "duration": 2.13067,
+      "tags": [
+        "Applause",
+        "Crowds",
+        "Optical",
+        "Vintage"
+      ],
+      "rating": 2.625,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "craigsmith",
+      "fileSizeKB": 46.6
+    },
+    {
+      "file": "applause_480683.mp3",
+      "freesoundId": 480683,
+      "freesoundName": "R02-07-Steady Applause Medium Crowd.wav",
+      "description": "Medium-sized crowd applauding, starts in middle of applause. Steady and calm. Close up.",
+      "duration": 6.95606,
+      "tags": [
+        "Applause",
+        "Crowds",
+        "Optical",
+        "Vintage"
+      ],
+      "rating": 4.8,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "craigsmith",
+      "fileSizeKB": 149.8
+    },
+    {
+      "file": "applause_480680.mp3",
+      "freesoundId": 480680,
+      "freesoundName": "R02-04-Steady Applause.wav",
+      "description": "Steady applause from a large crowd. Fades out to one or two claps. Medium distance from microphone.",
+      "duration": 26.004,
+      "tags": [
+        "Applause",
+        "Crowds",
+        "Optical",
+        "Vintage"
+      ],
+      "rating": 4.6,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "craigsmith",
+      "fileSizeKB": 551.3
+    }
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "sfxName": "rain_on_window",
+  "catalogDescription": "Rain tapping glass",
+  "category": "Nature & Environment",
+  "files": [
+    {
+      "file": "rain_on_window_346641.mp3",
+      "freesoundId": 346641,
+      "freesoundName": "Rain on Windows, Interior, B.wav",
+      "description": "Raw audio of rain hitting a skylight window from inside the house. This recording was taken closer to the window than in the 'A' version (though the difference is negligible).\n\nThis sound is not in the public domain. Please attribute/credit the sound if you use it. If you would prefer to not have to",
+      "duration": 31.9081,
+      "tags": [
+        "house",
+        "House",
+        "interior",
+        "Interior",
+        "On",
+        "rain",
+        "Rain",
+        "raining",
+        "Raining",
+        "window",
+        "Window",
+        "windows",
+        "Windows"
+      ],
+      "rating": 4.387096774193548,
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "author": "InspectorJ",
+      "fileSizeKB": 704
+    },
+    {
+      "file": "rain_on_window_346642.mp3",
+      "freesoundId": 346642,
+      "freesoundName": "Rain on Windows, Interior, A.wav",
+      "description": "Raw audio of rain hitting a skylight window from inside the house.\n\nThis sound is not in the public domain. Please attribute/credit the sound if you use it. If you would prefer to not have to give attribution, then take a look at the attribution-free license.\n\nAn example of how you might credit is b",
+      "duration": 31.5177,
+      "tags": [
+        "house",
+        "House",
+        "inside",
+        "Inside",
+        "interior",
+        "Interior",
+        "On",
+        "rain",
+        "Rain",
+        "raining",
+        "Raining",
+        "window",
+        "Window",
+        "windows",
+        "Windows"
+      ],
+      "rating": 4.2844827586206895,
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "author": "InspectorJ",
+      "fileSizeKB": 687.1
+    },
+    {
+      "file": "rain_on_window_277749.mp3",
+      "freesoundId": 277749,
+      "freesoundName": "Rain_Window_int.wav",
+      "description": "Rain on a window recorded from inside\r\n\r\nEquipment used: Zoom H4 internal mics\r\nLocation: Karlskrona, Sweden\r\nDate: 23 June 2015",
+      "duration": 19.0285,
+      "tags": [
+        "internal",
+        "Rain",
+        "Window"
+      ],
+      "rating": 3.2222222222222223,
+      "license": "http://creativecommons.org/licenses/by/3.0/",
+      "author": "alexkandrell",
+      "fileSizeKB": 420.2
+    },
+    {
+      "file": "rain_on_window_592345.mp3",
+      "freesoundId": 592345,
+      "freesoundName": "Rain balcony window perspective",
+      "description": "Sound of rain from the perspective of a window looking towards the balcony.",
+      "duration": 36.7183,
+      "tags": [
+        "balcony",
+        "drip",
+        "dripping",
+        "drips",
+        "drops",
+        "rain",
+        "raindrops",
+        "raining",
+        "water",
+        "weather",
+        "wet",
+        "window"
+      ],
+      "rating": 4.8,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "supersnd",
+      "fileSizeKB": 852.1
+    },
+    {
+      "file": "rain_on_window_81818.mp3",
+      "freesoundId": 81818,
+      "freesoundName": "Silencyo_CC_Rain on Window_Reverberant room_Large Perspective.aif",
+      "description": "Large perspective of rain on window recorded from inside a reverberant room. It's a nice false rain pouring during a shooting but sometime we hear drips from outside.\nrecorded using 2 A/B microphones neumann KM 84 in a Fostex PD4.   ",
+      "duration": 81.8347,
+      "tags": [
+        "inside",
+        "interior",
+        "rain",
+        "window"
+      ],
+      "rating": 4.1923076923076925,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "silencyo",
+      "fileSizeKB": 1838.3
+    }
+  ]
+}

@@ -13,6 +13,7 @@ export const config = {
   freesoundApiKey: process.env.FREESOUND_API_KEY || '',
   freesoundClientId: process.env.FREESOUND_CLIENT_ID || '',
   googleCseId: process.env.GOOGLE_CSE_ID || '',
+  mapboxApiKey: process.env.MAPBOX_API_KEY || '',
 
   // Output directories
   rootDir: path.resolve(__dirname, '..'),
@@ -26,17 +27,22 @@ export const config = {
   sfxDir: path.resolve(__dirname, '..', 'public', 'audio', 'sfx'),
   musicDir: path.resolve(__dirname, '..', 'public', 'audio', 'music'),
 
-  // ElevenLabs voice IDs (Hindi voices)
-  voices: {
-    hindiMale: 'pFZP5JQG7iQjIQuC4Bku', // Raj - Hindi male voice
-    hindiMaleAlt: 'TX3LPaxmHKxFdv7VOQHJ', // Liam - can work for Hindi
-    hindiNarrator: 'N2lVS1w4EtoT3dr4eOWO', // Callum - deep narrator voice
-  },
+  // ElevenLabs voice ID
+  voiceId: 'jmz2hUrAWEIhZkD3LXpt',
 
   // Model configurations
   models: {
     geminiImage: 'gemini-3-pro-image-preview',
-    elevenLabsTTS: 'eleven_multilingual_v2',
+    elevenLabsTTS: 'eleven_v3',
+  },
+
+  // Cloudflare R2 (S3-compatible storage for SFX library)
+  r2: {
+    accountId: process.env.CLOUDFLARE_R2_ACCOUNT_ID || '',
+    accessKeyId: process.env.CLOUDFLARE_R2_ACCESS_KEY_ID || '',
+    secretAccessKey: process.env.CLOUDFLARE_R2_SECRET_ACCESS_KEY || '',
+    bucket: process.env.CLOUDFLARE_R2_BUCKET || 'sfx',
+    publicUrl: process.env.CLOUDFLARE_R2_PUBLIC_URL || '',
   },
 
   // Default settings

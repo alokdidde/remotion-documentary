@@ -1,0 +1,102 @@
+{
+  "sfxName": "stamp_seal",
+  "catalogDescription": "Official stamp/seal",
+  "category": "Impacts & Emphasis",
+  "files": [
+    {
+      "file": "stamp_seal_472471.mp3",
+      "freesoundId": 472471,
+      "freesoundName": "40- sello.wav",
+      "description": "put a stamp",
+      "duration": 0.191361,
+      "tags": [
+        "click",
+        "pop",
+        "seal",
+        "stamp",
+        "stamping",
+        "tap"
+      ],
+      "rating": 0,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "mushusito",
+      "fileSizeKB": 4.5
+    },
+    {
+      "file": "stamp_seal_393061.mp3",
+      "freesoundId": 393061,
+      "freesoundName": "Sello.wav",
+      "description": "seal",
+      "duration": 10.9497,
+      "tags": [
+        "seal",
+        "stamp",
+        "swage"
+      ],
+      "rating": 2.25,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "sbaneat",
+      "fileSizeKB": 203.9
+    },
+    {
+      "file": "stamp_seal_434475.mp3",
+      "freesoundId": 434475,
+      "freesoundName": "Stamp",
+      "description": "Using a stamper.",
+      "duration": 3.99383,
+      "tags": [
+        "frank",
+        "letter",
+        "mail",
+        "office",
+        "post",
+        "seal",
+        "stamp",
+        "stamper",
+        "stamping"
+      ],
+      "rating": 5,
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "author": "dersuperanton",
+      "fileSizeKB": 99.1
+    },
+    {
+      "file": "stamp_seal_759526.mp3",
+      "freesoundId": 759526,
+      "freesoundName": "Wax seal",
+      "description": "The sound of someone sealing an envelope with a wax seal stamp, created by pressing a metal punch into a blob of Blu Tack on some paper. Could also be used as an ink stamp sound. Recorded with an iPhone 11, some cleanup done in Audacity.",
+      "duration": 1.31169,
+      "tags": [
+        "letter-writing",
+        "penmanship",
+        "stamp",
+        "wax-seal",
+        "wax-seal-stamp"
+      ],
+      "rating": 4.857142857142857,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "Cerise_Virtuelle",
+      "fileSizeKB": 31.9
+    },
+    {
+      "file": "stamp_seal_478648.mp3",
+      "freesoundId": 478648,
+      "freesoundName": "Thumping of stamp pad in Allahabad",
+      "description": "A rubber seal being dabbed on an ink pad in Allahabad/Prayagraj, Uttar Pradesh, India. Indistinct conversations in Hindi/Awadhi can be heard from the background.",
+      "duration": 22.389,
+      "tags": [
+        "allahabad",
+        "india",
+        "ink-pad",
+        "Prayagraj",
+        "seal",
+        "UP",
+        "Uttar-Pradesh"
+      ],
+      "rating": 0,
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "author": "psubhashish",
+      "fileSizeKB": 505.7
+    }
+  ]
+}

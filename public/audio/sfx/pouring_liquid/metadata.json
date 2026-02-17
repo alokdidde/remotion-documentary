@@ -1,0 +1,119 @@
+{
+  "sfxName": "pouring_liquid",
+  "catalogDescription": "Liquid being poured",
+  "category": "Food & Agriculture",
+  "files": [
+    {
+      "file": "pouring_liquid_261378.mp3",
+      "freesoundId": 261378,
+      "freesoundName": "Liquid pouring on floor 2",
+      "description": "A thin stream of liquid being poured onto a floor.\r\n\r\nrecorded with a Roland R-05",
+      "duration": 2.28678,
+      "tags": [
+        "blood",
+        "floor",
+        "liquid",
+        "pour",
+        "poured",
+        "pouring",
+        "spill",
+        "splash",
+        "splat",
+        "splatter",
+        "water",
+        "wet"
+      ],
+      "rating": 4.777777777777778,
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "author": "JakLocke",
+      "fileSizeKB": 69.6
+    },
+    {
+      "file": "pouring_liquid_261303.mp3",
+      "freesoundId": 261303,
+      "freesoundName": "Liquid pouring on floor 1",
+      "description": "Five instances of a thin stream of liquid being poured onto a floor.\r\n\r\nrecorded with a Roland R-05",
+      "duration": 11.2968,
+      "tags": [
+        "blood",
+        "floor",
+        "liquid",
+        "pour",
+        "poured",
+        "pouring",
+        "spill",
+        "splash",
+        "splat",
+        "splatter",
+        "water",
+        "wet"
+      ],
+      "rating": 4.833333333333333,
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "author": "JakLocke",
+      "fileSizeKB": 294.7
+    },
+    {
+      "file": "pouring_liquid_432349.mp3",
+      "freesoundId": 432349,
+      "freesoundName": "Liquid Pouring With Ice.wav",
+      "description": "Recording of a liquid being poured into a glass filled with ice.  Recorded on my Tascam TM-PC1's.",
+      "duration": 17.8599,
+      "tags": [
+        "cubes",
+        "drink",
+        "glass",
+        "ice",
+        "liquid",
+        "pour",
+        "pouring"
+      ],
+      "rating": 4.830188679245283,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "ericlichtenberg",
+      "fileSizeKB": 352
+    },
+    {
+      "file": "pouring_liquid_432350.mp3",
+      "freesoundId": 432350,
+      "freesoundName": "Liquid Pouring No Ice.wav",
+      "description": "Recording of a liquid being poured into a glass with no ice.  Recorded on my Tascam TM-PC1's.",
+      "duration": 10.2078,
+      "tags": [
+        "drink",
+        "glass",
+        "liquid",
+        "pour",
+        "pouring"
+      ],
+      "rating": 4.921568627450981,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "ericlichtenberg",
+      "fileSizeKB": 202.7
+    },
+    {
+      "file": "pouring_liquid_700151.mp3",
+      "freesoundId": 700151,
+      "freesoundName": "pour 0",
+      "description": "Pouring a liquid into a bottle",
+      "duration": 1.46125,
+      "tags": [
+        "bottle",
+        "cup",
+        "drink",
+        "fill",
+        "filling",
+        "gasoline",
+        "liquid",
+        "petrol",
+        "pour",
+        "pouring",
+        "water"
+      ],
+      "rating": 4.25,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "piotrkier",
+      "fileSizeKB": 30.3
+    }
+  ]
+}

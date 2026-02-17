@@ -1,11 +1,11 @@
 ---
 name: youtube-download
-description: Search and download YouTube videos via yt-dlp for documentary footage
+description: Download YouTube videos via yt-dlp by URL
 ---
 
-# YouTube Download Skill
+# YouTube Download
 
-Search YouTube for relevant footage and download clips for use in your documentary.
+Download YouTube videos via yt-dlp for use in your documentary.
 
 ## Prerequisites
 
@@ -16,34 +16,43 @@ Install yt-dlp:
 
 ## Usage
 
-### Search for videos
-```bash
-npx tsx scripts/youtube-download.ts --search "documentary b-roll nature" --max-results 5
-```
-
-### Download a specific video
+### Download a video
 ```bash
 npx tsx scripts/youtube-download.ts --url "https://youtube.com/watch?v=..." --output "nature-clip"
 ```
 
-### With options
+### Download a specific time range
 ```bash
-npx tsx scripts/youtube-download.ts --url "https://youtu.be/..." --output "clip" --resolution 1080 --max-duration 60
+npx tsx scripts/youtube-download.ts --url "https://youtube.com/watch?v=..." --output "seg1" --sections "1:58-3:00"
+```
+
+### Custom output directory and resolution
+```bash
+npx tsx scripts/youtube-download.ts -u "https://youtu.be/..." -o "clip" --sections "10-120" -d public/video/ch1/ -r 720
 ```
 
 ## Options
 
-- `--search, -s` - Search query
-- `--max-results, -n` - Number of results (default: 5)
-- `--url, -u` - YouTube URL to download
-- `--output, -o` - Output filename (without extension)
-- `--resolution, -r` - 720 or 1080 (default: 720)
-- `--max-duration` - Max duration in seconds
+| Flag | Short | Description | Default |
+|------|-------|-------------|---------|
+| `--url` | `-u` | YouTube URL to download | (required) |
+| `--output` | `-o` | Output filename (without extension) | |
+| `--output-dir` | `-d` | Output directory | `public/video/youtube/` |
+| `--resolution` | `-r` | 720 or 1080 | 1080 |
+| `--sections` | | Time range, e.g. `10-120` or `1:58-3:00` | |
+| `--max-duration` | | Max duration in seconds | |
 
 ## Output
 
-- Videos saved to: `public/video/youtube/`
+- Videos saved to specified `--output-dir` or `public/video/youtube/`
 - Metadata files created alongside downloads
+
+## Search First
+
+Use `youtube-search.ts` to find videos:
+```bash
+npx tsx scripts/youtube-search.ts --query "documentary b-roll nature" --max-results 5
+```
 
 ## Fair Use Guidelines
 

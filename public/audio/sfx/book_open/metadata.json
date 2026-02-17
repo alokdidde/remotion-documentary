@@ -1,0 +1,107 @@
+{
+  "sfxName": "book_open",
+  "catalogDescription": "Book spine cracking open",
+  "category": "Narration & Information Cues",
+  "files": [
+    {
+      "file": "book_open_833349.mp3",
+      "freesoundId": 833349,
+      "freesoundName": "book open",
+      "description": "this is a diary of a wimpy kid book being opened in my basement with the bad microphone that came in my computer",
+      "duration": 1.62996,
+      "tags": [
+        "book",
+        "diaryofawimpykidbook",
+        "open",
+        "page"
+      ],
+      "rating": 4.5,
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "author": "ILOVEMCDONALDS1234",
+      "fileSizeKB": 38.6
+    },
+    {
+      "file": "book_open_426383.mp3",
+      "freesoundId": 426383,
+      "freesoundName": "Book Open.wav",
+      "description": "opening a book",
+      "duration": 0.533107,
+      "tags": [
+        "book",
+        "close",
+        "open"
+      ],
+      "rating": 3.6,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "Jbricker1997",
+      "fileSizeKB": 11.2
+    },
+    {
+      "file": "book_open_802662.mp3",
+      "freesoundId": 802662,
+      "freesoundName": "Book open and close - Libro abriéndose y cerrándose",
+      "description": "Book being open and close on the table, you can hear also a little hit on the surface. Is a loop on repeat. Libro abriendose y cerrándose con el sonido de las páginas o hojas",
+      "duration": 52.1387,
+      "tags": [
+        "bang",
+        "Book",
+        "close",
+        "hit",
+        "open",
+        "paper",
+        "slam"
+      ],
+      "rating": 0,
+      "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "author": "Mishow0",
+      "fileSizeKB": 1199.4
+    },
+    {
+      "file": "book_open_663462.mp3",
+      "freesoundId": 663462,
+      "freesoundName": "paper_book_open_3.wav",
+      "description": "The satisfying unmistakable sound of opening a book",
+      "duration": 0.893375,
+      "tags": [
+        "book",
+        "click",
+        "flick",
+        "flip",
+        "library",
+        "magazine",
+        "open",
+        "page",
+        "pages",
+        "paper",
+        "read",
+        "reading",
+        "turn",
+        "turning",
+        "wobble"
+      ],
+      "rating": 0,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "Geoff-Bremner-Audio",
+      "fileSizeKB": 22.6
+    },
+    {
+      "file": "book_open_793604.mp3",
+      "freesoundId": 793604,
+      "freesoundName": "Opening and Closing a Book",
+      "description": "Just opening and closing a pretty thick book. I recorded multiple examples, so there’s plenty to play with, and incase some users might like some attempts more than others.",
+      "duration": 26.9705,
+      "tags": [
+        "big",
+        "book",
+        "close",
+        "foley",
+        "open",
+        "thick"
+      ],
+      "rating": 4.5,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "Ultra-Edward",
+      "fileSizeKB": 623.8
+    }
+  ]
+}

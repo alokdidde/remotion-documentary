@@ -1,0 +1,120 @@
+{
+  "sfxName": "typing_keyboard",
+  "catalogDescription": "Keyboard clatter",
+  "category": "Human & Social",
+  "files": [
+    {
+      "file": "typing_keyboard_546043.mp3",
+      "freesoundId": 546043,
+      "freesoundName": "Keyboard Typing 3 (HHKB, Topre)",
+      "description": "Typing on an unmodded Happy Hacking Keyboard (HHKB) Professional Hybrid with topre switches (45g key weight). Recorded with a tiny \"mini karaoke\" microphones. No post-production.",
+      "duration": 52.0127,
+      "tags": [
+        "45g",
+        "happy-hacking-keyboard",
+        "hhkb",
+        "key",
+        "keyboard",
+        "mechanical",
+        "switch",
+        "topre",
+        "typing",
+        "weight"
+      ],
+      "rating": 3.875,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "grcekh",
+      "fileSizeKB": 1011.6
+    },
+    {
+      "file": "typing_keyboard_546033.mp3",
+      "freesoundId": 546033,
+      "freesoundName": "Keyboard Typing 2 (HHKB, Topre)",
+      "description": "Typing on an unmodded Happy Hacking Keyboard (HHKB) Professional Hybrid with topre switches (45g key weight). Recorded with a Yeti Nano while typing 50-word segments at a time on typings.gg. No post-production.",
+      "duration": 196.537,
+      "tags": [
+        "45g",
+        "happy-hacking-keyboard",
+        "hhkb",
+        "key",
+        "keyboard",
+        "mechanical",
+        "switch",
+        "topre",
+        "typing",
+        "weight"
+      ],
+      "rating": 4.75,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "grcekh",
+      "fileSizeKB": 3838
+    },
+    {
+      "file": "typing_keyboard_546165.mp3",
+      "freesoundId": 546165,
+      "freesoundName": "Keyboard Typing 8 (HHKB, Topre)",
+      "description": "Typing on WhiteFox mechanical keyboard with Hako Violet switches. Recorded with a Yeti Nano while typing 50-word segments at a time on typings.gg. The clip ends with individual keys typed back-to-back. No post-production.",
+      "duration": 149.502,
+      "tags": [
+        "45g",
+        "happy-hacking-keyboard",
+        "hhkb",
+        "key",
+        "keyboard",
+        "mechanical",
+        "switch",
+        "topre",
+        "typing",
+        "weight"
+      ],
+      "rating": 4.3,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "grcekh",
+      "fileSizeKB": 2985.9
+    },
+    {
+      "file": "typing_keyboard_546164.mp3",
+      "freesoundId": 546164,
+      "freesoundName": "Keyboard Typing 7 (HHKB, Topre)",
+      "description": "Typing on an unmodded Happy Hacking Keyboard (HHKB) Professional Hybrid with topre switches (45g key weight).. Recorded with a Yeti Nano while typing 50-word segments at a time on typings.gg. The clip ends with individual keys typed back-to-back. No post-production.",
+      "duration": 63.2279,
+      "tags": [
+        "45g",
+        "happy-hacking-keyboard",
+        "hhkb",
+        "key",
+        "keyboard",
+        "mechanical",
+        "switch",
+        "topre",
+        "typing",
+        "weight"
+      ],
+      "rating": 4.523809523809524,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "grcekh",
+      "fileSizeKB": 1169
+    },
+    {
+      "file": "typing_keyboard_546046.mp3",
+      "freesoundId": 546046,
+      "freesoundName": "Keyboard Typing 5 (WhiteFox, Mechanical)",
+      "description": "Typing on WhiteFox mechanical keyboard with Hako Violet switches. Recorded with a Yeti Nano while typing 50-word segments at a time on typings.gg. No post-production.",
+      "duration": 99.9944,
+      "tags": [
+        "hako-violet",
+        "keyboard",
+        "mechanical",
+        "mechanical-keyboard",
+        "switches",
+        "type",
+        "typing",
+        "whitefox"
+      ],
+      "rating": 3.789473684210526,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "grcekh",
+      "fileSizeKB": 2013.5
+    }
+  ]
+}

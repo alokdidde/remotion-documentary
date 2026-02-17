@@ -1,0 +1,112 @@
+{
+  "sfxName": "transition_rise",
+  "catalogDescription": "Rising tonal sweep",
+  "category": "Transitions & Structural Cues",
+  "files": [
+    {
+      "file": "transition_rise_339726.mp3",
+      "freesoundId": 339726,
+      "freesoundName": "Metallic Bird Sweep",
+      "description": "Sweep Effect.",
+      "duration": 9.46778,
+      "tags": [
+        "effect",
+        "fx",
+        "riser",
+        "rising",
+        "sound-effect",
+        "sweep",
+        "sweeper",
+        "sweeping"
+      ],
+      "rating": 0,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "Ihaksi",
+      "fileSizeKB": 217.5
+    },
+    {
+      "file": "transition_rise_339712.mp3",
+      "freesoundId": 339712,
+      "freesoundName": "Bassic Noise Sweep",
+      "description": "Sweep effect.",
+      "duration": 7.97322,
+      "tags": [
+        "effect",
+        "fx",
+        "riser",
+        "rising",
+        "sound-effect",
+        "sweep",
+        "sweeper",
+        "sweeping"
+      ],
+      "rating": 0,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "Ihaksi",
+      "fileSizeKB": 178.5
+    },
+    {
+      "file": "transition_rise_339728.mp3",
+      "freesoundId": 339728,
+      "freesoundName": "Noise Sweep Reso",
+      "description": "Sweep Effect.",
+      "duration": 14.3701,
+      "tags": [
+        "effect",
+        "fx",
+        "riser",
+        "rising",
+        "sound-effect",
+        "sweep",
+        "sweeper",
+        "sweeping"
+      ],
+      "rating": 0,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "Ihaksi",
+      "fileSizeKB": 323.7
+    },
+    {
+      "file": "transition_rise_339724.mp3",
+      "freesoundId": 339724,
+      "freesoundName": "Hitting E Sweep",
+      "description": "Sweep Effect.",
+      "duration": 8.44238,
+      "tags": [
+        "effect",
+        "fx",
+        "riser",
+        "rising",
+        "sound-effect",
+        "sweep",
+        "sweeper",
+        "sweeping"
+      ],
+      "rating": 5,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "Ihaksi",
+      "fileSizeKB": 192
+    },
+    {
+      "file": "transition_rise_156520.mp3",
+      "freesoundId": 156520,
+      "freesoundName": "log rising sweep sine.flac",
+      "description": "sweep like retro video game",
+      "duration": 1.24503,
+      "tags": [
+        "game",
+        "log",
+        "retro",
+        "rising",
+        "sine",
+        "sweep",
+        "test",
+        "tone"
+      ],
+      "rating": 4,
+      "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "author": "Timbre",
+      "fileSizeKB": 21
+    }
+  ]
+}

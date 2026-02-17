@@ -1,0 +1,124 @@
+{
+  "sfxName": "heartbeat_loop",
+  "catalogDescription": "Rhythmic heartbeat",
+  "category": "Tension & Suspense",
+  "files": [
+    {
+      "file": "heartbeat_loop_418866.mp3",
+      "freesoundId": 418866,
+      "freesoundName": "Heartbeat loop",
+      "description": "Single heartbeat loop.",
+      "duration": 1,
+      "tags": [
+        "heart",
+        "heart-beat",
+        "heartbeat",
+        "loop",
+        "loopable",
+        "pulse",
+        "synth"
+      ],
+      "rating": 4.651515151515151,
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "author": ".name",
+      "fileSizeKB": 11.5
+    },
+    {
+      "file": "heartbeat_loop_485076.mp3",
+      "freesoundId": 485076,
+      "freesoundName": "Heartbeat, Regular, Single, 01-01, LOOP.wav",
+      "description": "Loopable audio of a heartbeat, artificially created with by using a low-pass filter on some fireworks and adding some reverberation and Soundtoys \"Decapitator\".\n\nThis sound is not in the public domain. Please attribute/credit the sound if you use it. If you would prefer to not have to give attributi",
+      "duration": 2.02304,
+      "tags": [
+        "beat",
+        "Beat",
+        "blood",
+        "Blood",
+        "heart",
+        "Heart",
+        "heartbeat",
+        "Heartbeat",
+        "loop",
+        "Loop",
+        "pulse",
+        "Pulse",
+        "thump",
+        "Thump"
+      ],
+      "rating": 4.415929203539823,
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "author": "InspectorJ",
+      "fileSizeKB": 50.5
+    },
+    {
+      "file": "heartbeat_loop_324456.mp3",
+      "freesoundId": 324456,
+      "freesoundName": "RIGAUD_Matthieu_2015_2016_Heartbeat.wav",
+      "description": "This sound is like a heartbeat which goes fast, as when somebody is stressed, is scared or make an effort.\r\nIt is the record of a throat transformed with Audacity. The sound can be repeated in a loop.\r\n\r\nProduction steps :\r\n- Import a specific sound (here, this is the sound of a throat)\r\n-Normalize ",
+      "duration": 1.01474,
+      "tags": [
+        "beat",
+        "effort",
+        "fast",
+        "fear",
+        "heart",
+        "heartbeat",
+        "loop",
+        "percs",
+        "rhythm",
+        "rhythmic",
+        "scared",
+        "stressed"
+      ],
+      "rating": 2.5714285714285716,
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "author": "univ_lyon3",
+      "fileSizeKB": 25.9
+    },
+    {
+      "file": "heartbeat_loop_410390.mp3",
+      "freesoundId": 410390,
+      "freesoundName": "PANTIGNY_JeanLoup_2017_2018_heartbeatBreath.wav",
+      "description": "The heartbeat loop was 100% generated in Audacity.\r\n\r\nIn order to do it, I generated a chirp (Sifflet in french) with a starting frequency of 100hz and and ending frequency of 1hz.\r\nThe amplitude was also reduced from 0.75 to 0. The duration of this chirp was set to 0.5 seconds.\r\nTo make the second ",
+      "duration": 8.2711,
+      "tags": [
+        "body",
+        "breath",
+        "breathing",
+        "heart",
+        "heartbeat",
+        "human",
+        "loop"
+      ],
+      "rating": 4,
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "author": "univ_lyon3",
+      "fileSizeKB": 172.1
+    },
+    {
+      "file": "heartbeat_loop_218454.mp3",
+      "freesoundId": 218454,
+      "freesoundName": "remix #2 of excerpt of 218383__kferentchak__heartbeat.flac",
+      "description": "simulated heartbeat, a processed excerpt of Freesound #218383 by kferentchak looped",
+      "duration": 28.8474,
+      "tags": [
+        "218383",
+        "bass",
+        "beat",
+        "deep",
+        "heart",
+        "heartbeat",
+        "irregular",
+        "kferentchak",
+        "loop",
+        "remix",
+        "rhythm",
+        "simulated"
+      ],
+      "rating": 5,
+      "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "author": "Timbre",
+      "fileSizeKB": 521.6
+    }
+  ]
+}

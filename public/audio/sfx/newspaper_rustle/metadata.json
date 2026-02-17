@@ -1,0 +1,91 @@
+{
+  "sfxName": "newspaper_rustle",
+  "catalogDescription": "Newspaper being opened",
+  "category": "Narration & Information Cues",
+  "files": [
+    {
+      "file": "newspaper_rustle_471903.mp3",
+      "freesoundId": 471903,
+      "freesoundName": "Paper Rustling 1 (Newspaper)",
+      "description": "Some rustling with a newspaper Magazine.",
+      "duration": 36.1747,
+      "tags": [
+        "Foley",
+        "Newspaper",
+        "Paper",
+        "Rustle",
+        "Rustling"
+      ],
+      "rating": 4.777777777777778,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "Sheyvan",
+      "fileSizeKB": 877.5
+    },
+    {
+      "file": "newspaper_rustle_52291.mp3",
+      "freesoundId": 52291,
+      "freesoundName": "newpaper rustle.wav",
+      "description": "Newspaper rustling",
+      "duration": 5.57279,
+      "tags": [
+        "newspaper",
+        "rustle"
+      ],
+      "rating": 4.264705882352941,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "XxBirdoxX",
+      "fileSizeKB": 126.9
+    },
+    {
+      "file": "newspaper_rustle_67226.mp3",
+      "freesoundId": 67226,
+      "freesoundName": "tidningen.wav",
+      "description": "Mono recording of a newspaper rustle",
+      "duration": 19.528,
+      "tags": [
+        "newspaper",
+        "recording",
+        "rustle"
+      ],
+      "rating": 4.3125,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "ellisha",
+      "fileSizeKB": 429.5
+    },
+    {
+      "file": "newspaper_rustle_618410.mp3",
+      "freesoundId": 618410,
+      "freesoundName": "NEWSPAPER SCRUNCH.m4a",
+      "description": "Scrunching up 2 pages of a broadsheet newspaper into a tight ball",
+      "duration": 12.736,
+      "tags": [
+        "Newspaper",
+        "rustle",
+        "scrunch"
+      ],
+      "rating": 5,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "REACTORFACTORY",
+      "fileSizeKB": 311.6
+    },
+    {
+      "file": "newspaper_rustle_808564.mp3",
+      "freesoundId": 808564,
+      "freesoundName": "Paper rustle",
+      "description": "Rustle the paper monotonously for 30 seconds.",
+      "duration": 32.7194,
+      "tags": [
+        "book",
+        "newspaper",
+        "page",
+        "paper",
+        "rustle",
+        "rustling"
+      ],
+      "rating": 0,
+      "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "author": "SpinOpel",
+      "fileSizeKB": 754.4
+    }
+  ]
+}

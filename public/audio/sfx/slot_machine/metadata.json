@@ -1,0 +1,97 @@
+{
+  "sfxName": "slot_machine",
+  "catalogDescription": "Slot reel spinning",
+  "category": "Money & Economy",
+  "files": [
+    {
+      "file": "slot_machine_118239.mp3",
+      "freesoundId": 118239,
+      "freesoundName": "slot machine (phrygian).mp3",
+      "description": "A slot machine.",
+      "duration": 12.0566,
+      "tags": [
+        "casino",
+        "classic",
+        "machine",
+        "slot",
+        "slot-machine"
+      ],
+      "rating": 4.571428571428571,
+      "license": "http://creativecommons.org/licenses/by-nc/3.0/",
+      "author": "pierrecartoons1979",
+      "fileSizeKB": 196.3
+    },
+    {
+      "file": "slot_machine_118236.mp3",
+      "freesoundId": 118236,
+      "freesoundName": "classic slot machine.mp3",
+      "description": "A slot machine.",
+      "duration": 12.0566,
+      "tags": [
+        "casino",
+        "classic",
+        "machine",
+        "slot",
+        "slot-machine"
+      ],
+      "rating": 4.411764705882353,
+      "license": "http://creativecommons.org/licenses/by-nc/3.0/",
+      "author": "pierrecartoons1979",
+      "fileSizeKB": 197.1
+    },
+    {
+      "file": "slot_machine_118238.mp3",
+      "freesoundId": 118238,
+      "freesoundName": "slot machine (lydian).mp3",
+      "description": "A slot machine.",
+      "duration": 12.0566,
+      "tags": [
+        "casino",
+        "classic",
+        "machine",
+        "slot",
+        "slot-machine"
+      ],
+      "rating": 5,
+      "license": "http://creativecommons.org/licenses/by-nc/3.0/",
+      "author": "pierrecartoons1979",
+      "fileSizeKB": 198.1
+    },
+    {
+      "file": "slot_machine_118237.mp3",
+      "freesoundId": 118237,
+      "freesoundName": "major 7 slot machine.mp3",
+      "description": "A slot machine.",
+      "duration": 12.0566,
+      "tags": [
+        "casino",
+        "classic",
+        "machine",
+        "slot",
+        "slot-machine"
+      ],
+      "rating": 4.733333333333333,
+      "license": "http://creativecommons.org/licenses/by-nc/3.0/",
+      "author": "pierrecartoons1979",
+      "fileSizeKB": 197.8
+    },
+    {
+      "file": "slot_machine_69698.mp3",
+      "freesoundId": 69698,
+      "freesoundName": "slot_machine_insert_3_coins_and_spin.wav",
+      "description": "Slot machine sounds.",
+      "duration": 7.10531,
+      "tags": [
+        "machine",
+        "payoff",
+        "slot",
+        "start",
+        "stop"
+      ],
+      "rating": 4.482456140350878,
+      "license": "http://creativecommons.org/licenses/sampling+/1.0/",
+      "author": "lukaso",
+      "fileSizeKB": 129.7
+    }
+  ]
+}

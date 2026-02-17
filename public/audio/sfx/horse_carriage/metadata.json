@@ -1,0 +1,124 @@
+{
+  "sfxName": "horse_carriage",
+  "catalogDescription": "Carriage wheels on cobblestone",
+  "category": "Historical & Period",
+  "files": [
+    {
+      "file": "horse_carriage_450325.mp3",
+      "freesoundId": 450325,
+      "freesoundName": "Canadian Horse Carriage.wav",
+      "description": "Horse carriage ambiance in Quebec, Canada \n\nAudio Technica at825\n\n2019",
+      "duration": 121.441,
+      "tags": [
+        "ambience",
+        "atmosphere",
+        "background-sound",
+        "carriage",
+        "horse",
+        "soundscape"
+      ],
+      "rating": 4.584415584415584,
+      "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "author": "vero.marengere",
+      "fileSizeKB": 2776.3
+    },
+    {
+      "file": "horse_carriage_639285.mp3",
+      "freesoundId": 639285,
+      "freesoundName": "Horse Carriage Through Edfu Egypt",
+      "description": "Horse carriage ride through streets of Edfu Egypt",
+      "duration": 112.703,
+      "tags": [
+        "ambiance",
+        "ambience",
+        "ambient",
+        "Arabic",
+        "atmosphere",
+        "buggy",
+        "carriage",
+        "city",
+        "clip",
+        "clop",
+        "coach",
+        "crowd",
+        "Edfu",
+        "Egypt",
+        "equine",
+        "field-recording",
+        "general-noise",
+        "hooves",
+        "horse",
+        "horses",
+        "Nile",
+        "noise",
+        "people",
+        "ride",
+        "soundscape",
+        "street",
+        "streets",
+        "temple",
+        "traffic",
+        "urban"
+      ],
+      "rating": 4.428571428571429,
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "author": "RTB45",
+      "fileSizeKB": 2570.9
+    },
+    {
+      "file": "horse_carriage_333680.mp3",
+      "freesoundId": 333680,
+      "freesoundName": "Horse-drawn carriage - Approach and stop.wav",
+      "description": "A horse drawn carriage approaches and stops in front of you.\r\nExterior recording - Mono\r\n",
+      "duration": 39.1333,
+      "tags": [
+        "carriage",
+        "diligence",
+        "horse",
+        "horse-drawn",
+        "stage-coach"
+      ],
+      "rating": 4.291666666666667,
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "author": "Sirderf",
+      "fileSizeKB": 714.8
+    },
+    {
+      "file": "horse_carriage_653091.mp3",
+      "freesoundId": 653091,
+      "freesoundName": "Horse and Carriage.wav",
+      "description": "I recorded this sound at a wedding. The brides arrived in a white carriage pulled by two white horses.  This was recorded directly by my Canon EOSR. (Originally a video)  I came to Freesound looking for an audio clip that I could overlay and saw there were none. So i figured I would contribute What ",
+      "duration": 15.2152,
+      "tags": [
+        "carriage",
+        "field-recording",
+        "gallop",
+        "horse",
+        "Horse",
+        "trot"
+      ],
+      "rating": 4.470588235294118,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "chuckeazay22",
+      "fileSizeKB": 372.6
+    },
+    {
+      "file": "horse_carriage_363018.mp3",
+      "freesoundId": 363018,
+      "freesoundName": "horse carriage 2-edited.mp3",
+      "description": "A short clip of a single-horse carriage rolling on a grass and gravel path.",
+      "duration": 33.5292,
+      "tags": [
+        "carriage",
+        "gravel",
+        "hooves",
+        "horse",
+        "wheels"
+      ],
+      "rating": 4.764705882352941,
+      "license": "http://creativecommons.org/licenses/by/3.0/",
+      "author": "j_o_j",
+      "fileSizeKB": 836
+    }
+  ]
+}

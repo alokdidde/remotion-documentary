@@ -1,0 +1,101 @@
+{
+  "sfxName": "missile_launch",
+  "catalogDescription": "Rocket ignition whoosh",
+  "category": "War & Conflict",
+  "files": [
+    {
+      "file": "missile_launch_320356.mp3",
+      "freesoundId": 320356,
+      "freesoundName": "Missile Kaunch in two minutes.mp3",
+      "description": "An announcement for Two Minutes until missile launch.",
+      "duration": 5.07927,
+      "tags": [
+        "Announcement",
+        "Launch",
+        "Missile"
+      ],
+      "rating": 1,
+      "license": "http://creativecommons.org/licenses/by/3.0/",
+      "author": "DTrainsMan123",
+      "fileSizeKB": 119.5
+    },
+    {
+      "file": "missile_launch_320354.mp3",
+      "freesoundId": 320354,
+      "freesoundName": "Missile Launch Terminated",
+      "description": "This is an announcement that the missile has been terminated.",
+      "duration": 3.45129,
+      "tags": [
+        "Announcements",
+        "Launch",
+        "Missile"
+      ],
+      "rating": 2.125,
+      "license": "http://creativecommons.org/licenses/by/3.0/",
+      "author": "DTrainsMan123",
+      "fileSizeKB": 80.9
+    },
+    {
+      "file": "missile_launch_320355.mp3",
+      "freesoundId": 320355,
+      "freesoundName": "Missile Launch Intiated",
+      "description": "An announcement that the launch has been activated.",
+      "duration": 2.68834,
+      "tags": [
+        "Announcement",
+        "Launch",
+        "Missile"
+      ],
+      "rating": 1,
+      "license": "http://creativecommons.org/licenses/by/3.0/",
+      "author": "DTrainsMan123",
+      "fileSizeKB": 63.5
+    },
+    {
+      "file": "missile_launch_51468.mp3",
+      "freesoundId": 51468,
+      "freesoundName": "missile_launch_2.wav",
+      "description": "White noise manipulated until it sounds like a rocket or missile being launched.",
+      "duration": 2.32218,
+      "tags": [
+        "exhaust",
+        "launch",
+        "missile",
+        "rocket"
+      ],
+      "rating": 4.443661971830986,
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "author": "smcameron",
+      "fileSizeKB": 52.3
+    },
+    {
+      "file": "missile_launch_162379.mp3",
+      "freesoundId": 162379,
+      "freesoundName": "Tomahawk Missile Rocket Launch 2",
+      "description": "BGM-109 Tomahawk Land Attack Missile Launch.\r\n\r\nExtracted from a video () by a US Government agency, thus public domain.\r\n\r\nFind many more military sounds in my military sounds pack, also located on Freesound.\r\n\r\nContact me if you have interest in specific sounds for open source or commercial purpos",
+      "duration": 11.6622,
+      "tags": [
+        "army",
+        "burning",
+        "explosion",
+        "fire",
+        "firing",
+        "fuel",
+        "ground-ground",
+        "Launch",
+        "launching",
+        "military",
+        "Missile",
+        "naval",
+        "navy",
+        "Rocket",
+        "Tomahawk",
+        "weapon"
+      ],
+      "rating": 3.9473684210526314,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "qubodup",
+      "fileSizeKB": 253.5
+    }
+  ]
+}

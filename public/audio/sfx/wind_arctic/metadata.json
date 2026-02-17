@@ -1,0 +1,114 @@
+{
+  "sfxName": "wind_arctic",
+  "catalogDescription": "Biting cold wind",
+  "category": "Nature & Environment",
+  "files": [
+    {
+      "file": "wind_arctic_441244.mp3",
+      "freesoundId": 441244,
+      "freesoundName": "Arctic Winds Northpole 3 (Dramatic and more Realistic Snowbreeze)",
+      "description": "This is number 3 of my previous (one year ago) uploaded Arctic Wind sounds, but this time i started back again from the scratch, with a duo of noise sound operators and with the power of 4 LFO's instead of 2 manipulating each other (panning, amp, cutoff envelope and Filter-Q/Cue). Some of the LFO's ",
+      "duration": 88.0007,
+      "tags": [
+        "Arctic",
+        "Cold",
+        "Dramatic",
+        "Freeze",
+        "Morphing",
+        "North",
+        "Pole",
+        "Realistic",
+        "Snowbreeze",
+        "Wind",
+        "Winds",
+        "Winter"
+      ],
+      "rating": 4,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "enricoviets",
+      "fileSizeKB": 1884.6
+    },
+    {
+      "file": "wind_arctic_450142.mp3",
+      "freesoundId": 450142,
+      "freesoundName": "air tone arctic wind blowing, distant water tone lowcut Quaqtaq, Nunavik.flac",
+      "description": "air tone arctic wind blowing, distant water tone lowcut Quaqtaq, Nunavik",
+      "duration": 162.704,
+      "tags": [
+        "air",
+        "arctic",
+        "cold",
+        "tone",
+        "wind",
+        "winter"
+      ],
+      "rating": 5,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "kyles",
+      "fileSizeKB": 3511.7
+    },
+    {
+      "file": "wind_arctic_402652.mp3",
+      "freesoundId": 402652,
+      "freesoundName": "Arctic Winds Northpole Nr2 (.wav)",
+      "description": "This is version 2 of the previous uploaded Arctic Winds, the 2nd LFO now manipulates the rate of the first LFO correctly. (I used 2 low frequency operators (LFO) on a Low Pass Filter (24db) on a generic pink noise sound with medium resonance settings, one of these LFO's was manipulating the other on",
+      "duration": 240.202,
+      "tags": [
+        "Arctic",
+        "Cold",
+        "Freeze",
+        "Morphing",
+        "North",
+        "Pole",
+        "Wind",
+        "Winds",
+        "Winter"
+      ],
+      "rating": 3.5555555555555554,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "enricoviets",
+      "fileSizeKB": 5392.8
+    },
+    {
+      "file": "wind_arctic_450143.mp3",
+      "freesoundId": 450143,
+      "freesoundName": "air tone arctic wind blowing, distant water tone Quaqtaq, Nunavik.flac",
+      "description": "air tone arctic wind blowing, distant water tone Quaqtaq, Nunavik",
+      "duration": 162.704,
+      "tags": [
+        "air",
+        "arctic",
+        "cold",
+        "tone",
+        "wind",
+        "winter"
+      ],
+      "rating": 4.75,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "kyles",
+      "fileSizeKB": 3530.2
+    },
+    {
+      "file": "wind_arctic_17756.mp3",
+      "freesoundId": 17756,
+      "freesoundName": "Wind2.aif",
+      "description": "Heavy gusting Arctic or hurricane winds, whistling, rumbling, chimes and deep synthesized wind instrumentation.\nConstructed in LIVE! with Reaktor and Reason.\nI created a wind patch in a Reaktor synth called Subharmonic. Layered that with another wind patch made in a synth called Steam Pipe 2. I adde",
+      "duration": 27,
+      "tags": [
+        "air",
+        "arctic",
+        "gusts",
+        "howling",
+        "hurricane",
+        "sound-design",
+        "wind",
+        "wind-chimes",
+        "winter"
+      ],
+      "rating": 4.275914634146342,
+      "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "author": "pushtobreak",
+      "fileSizeKB": 591.3
+    }
+  ]
+}

@@ -110,15 +110,15 @@ async function main() {
   }
 
   const args = process.argv.slice(2);
-  const chapterArg = args.find(a => a.startsWith('--chapter='))?.split('=')[1];
+  const filterArg = args.find(a => a.startsWith('--filter=') || a.startsWith('-f='))?.split('=')[1];
 
   let prompts = musicPrompts;
 
-  if (chapterArg) {
-    prompts = musicPrompts.filter(p => p.id.includes(chapterArg));
+  if (filterArg) {
+    prompts = musicPrompts.filter(p => p.id.includes(filterArg));
     if (prompts.length === 0) {
-      console.error(`Chapter not found: ${chapterArg}`);
-      console.log('Available chapters:', musicPrompts.map(p => p.id).join(', '));
+      console.error(`No match for filter: ${filterArg}`);
+      console.log('Available IDs:', musicPrompts.map(p => p.id).join(', '));
       return;
     }
   }

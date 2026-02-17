@@ -1,0 +1,118 @@
+{
+  "sfxName": "earthquake_tremor",
+  "catalogDescription": "Ground shaking",
+  "category": "Nature & Environment",
+  "files": [
+    {
+      "file": "earthquake_tremor_678418.mp3",
+      "freesoundId": 678418,
+      "freesoundName": "Hard Earthquake.mp3",
+      "description": "An earthquake sound I made by rattling various objects located in the dining room of the apartment that I live in, and my bedroom.",
+      "duration": 33.5296,
+      "tags": [
+        "banging",
+        "collapse",
+        "collapsing",
+        "earthquake",
+        "loud",
+        "noise",
+        "rattling",
+        "rumble",
+        "scary",
+        "sfx",
+        "shake"
+      ],
+      "rating": 4,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "crunchymaniac",
+      "fileSizeKB": 781.5
+    },
+    {
+      "file": "earthquake_tremor_503014.mp3",
+      "freesoundId": 503014,
+      "freesoundName": "Wine glasses shaking in an earthquake",
+      "description": "A rack full of wine glasses being shaken as it would during a small earthquake. Recorded in stereo with a Zoom H6 device.",
+      "duration": 11.2854,
+      "tags": [
+        "AudioDramaHub",
+        "earthquake",
+        "glasses",
+        "glasses-clinking",
+        "glasses-shaking",
+        "shaking",
+        "wine-glasses"
+      ],
+      "rating": 3.75,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "RavenWolfProds",
+      "fileSizeKB": 264.2
+    },
+    {
+      "file": "earthquake_tremor_518087.mp3",
+      "freesoundId": 518087,
+      "freesoundName": "japan_earthquake_alert.wav",
+      "description": "a stereo field design that i create for a japan earthquake alert.\n\nOriginal sound: 512771_Faolan121_2016_11_22_Japan_earthquake_alert",
+      "duration": 65.55,
+      "tags": [
+        "alert",
+        "earthquake",
+        "japan"
+      ],
+      "rating": 3.857142857142857,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "gorkylmz1",
+      "fileSizeKB": 1517.9
+    },
+    {
+      "file": "earthquake_tremor_248343.mp3",
+      "freesoundId": 248343,
+      "freesoundName": "Earthquake",
+      "description": "Distant earthquake sound with a slight horror aspect to it.\r\nMade by growling into my microphone and then slowing the tempo down and applying bass and treble boosting distortion effects on FL Studio\r\n\r\nNo Reverb effects are on this just incase you use it in a game that already has a Reverb system bu",
+      "duration": 24.2788,
+      "tags": [
+        "ambient",
+        "background",
+        "computer",
+        "Earthquake",
+        "effect",
+        "environment",
+        "explosion",
+        "generated",
+        "pitch",
+        "rocks",
+        "voice"
+      ],
+      "rating": 3.4107142857142856,
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "author": "ryanconway",
+      "fileSizeKB": 409
+    },
+    {
+      "file": "earthquake_tremor_442264.mp3",
+      "freesoundId": 442264,
+      "freesoundName": "Earthquake Siren in Mexico City",
+      "description": "The \"alarma sismica\" from Mexico City on 19th of September 2018, one year after the last big earthquake in the city. City noise in background.\nRecorded at Alameda Central Park.\n\nORTF Schoeps Microphone\nSound Devices 633\nOridingal Recording in Wave 96kHz 24bit\nSound Ref: MX-180919T03\n\nMore sounds fro",
+      "duration": 240.661,
+      "tags": [
+        "Alarm",
+        "Alarma",
+        "Blume",
+        "City",
+        "Ciudad",
+        "DF",
+        "Earthquake",
+        "Felix",
+        "Felixblume",
+        "Mexico",
+        "MX-180919T03",
+        "Siren",
+        "Sismica",
+        "Sismo"
+      ],
+      "rating": 4.714285714285714,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "felix.blume",
+      "fileSizeKB": 5398.6
+    }
+  ]
+}

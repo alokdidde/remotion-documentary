@@ -1,0 +1,132 @@
+{
+  "sfxName": "grandfather_clock",
+  "catalogDescription": "Ticking with chime",
+  "category": "Historical & Period",
+  "files": [
+    {
+      "file": "grandfather_clock_127099.mp3",
+      "freesoundId": 127099,
+      "freesoundName": "grandfather_clock_chime_04.wav",
+      "description": "A grandfather clock striking the hour of four.\n\nSince this was recorded inside the clock, you also hear all the other ambient noises of the clock's mechanisms, including the ticking.\n",
+      "duration": 55.8082,
+      "tags": [
+        "antique",
+        "bells",
+        "charming",
+        "chime",
+        "clock",
+        "foley",
+        "grandfather",
+        "mechanical",
+        "old",
+        "strike",
+        "tick",
+        "tock"
+      ],
+      "rating": 4.769230769230769,
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "author": "joedeshon",
+      "fileSizeKB": 1241.3
+    },
+    {
+      "file": "grandfather_clock_127098.mp3",
+      "freesoundId": 127098,
+      "freesoundName": "grandfather_clock_chime_03.wav",
+      "description": "A grandfather clock striking the hour of three.\n\nSince this was recorded inside the clock, you also hear all the other ambient noises of the clock's mechanisms, including the ticking.\n",
+      "duration": 54.049,
+      "tags": [
+        "antique",
+        "bells",
+        "charming",
+        "chime",
+        "clock",
+        "foley",
+        "grandfather",
+        "mechanical",
+        "old",
+        "strike",
+        "tick",
+        "tock"
+      ],
+      "rating": 4.857142857142857,
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "author": "joedeshon",
+      "fileSizeKB": 1199.1
+    },
+    {
+      "file": "grandfather_clock_127097.mp3",
+      "freesoundId": 127097,
+      "freesoundName": "grandfather_clock_chime_02.wav",
+      "description": "A grandfather clock striking the hour of two.\n\nSince this was recorded inside the clock, you also hear all the other ambient noises of the clock's mechanisms, including the ticking.\n",
+      "duration": 47.8382,
+      "tags": [
+        "antique",
+        "bells",
+        "charming",
+        "chime",
+        "clock",
+        "foley",
+        "grandfather",
+        "mechanical",
+        "old",
+        "strike",
+        "tick",
+        "tock"
+      ],
+      "rating": 4.923076923076923,
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "author": "joedeshon",
+      "fileSizeKB": 1063.3
+    },
+    {
+      "file": "grandfather_clock_127096.mp3",
+      "freesoundId": 127096,
+      "freesoundName": "grandfather_clock_chime_01.wav",
+      "description": "A grandfather clock striking the hour of one.\n\nSince this was recorded inside the clock, you also hear all the other ambient noises of the clock's mechanisms, including the ticking.\n",
+      "duration": 46.3968,
+      "tags": [
+        "antique",
+        "bells",
+        "charming",
+        "chime",
+        "clock",
+        "foley",
+        "grandfather",
+        "mechanical",
+        "old",
+        "strike",
+        "tick",
+        "tock"
+      ],
+      "rating": 4.4,
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "author": "joedeshon",
+      "fileSizeKB": 1032.6
+    },
+    {
+      "file": "grandfather_clock_127105.mp3",
+      "freesoundId": 127105,
+      "freesoundName": "grandfather_clock_chime_10.wav",
+      "description": "A grandfather clock striking the hour of ten.\n\nSince this was recorded inside the clock, you also hear all the other ambient noises of the clock's mechanisms, including the ticking.\n",
+      "duration": 66.2174,
+      "tags": [
+        "antique",
+        "bells",
+        "charming",
+        "chime",
+        "clock",
+        "foley",
+        "grandfather",
+        "mechanical",
+        "old",
+        "strike",
+        "tick",
+        "tock"
+      ],
+      "rating": 4.583333333333333,
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "author": "joedeshon",
+      "fileSizeKB": 1467.4
+    }
+  ]
+}

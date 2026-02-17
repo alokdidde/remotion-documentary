@@ -1,0 +1,117 @@
+{
+  "sfxName": "scan_beep",
+  "catalogDescription": "Barcode/scanner beep",
+  "category": "Technology & Digital",
+  "files": [
+    {
+      "file": "scan_beep_522654.mp3",
+      "freesoundId": 522654,
+      "freesoundName": "Sonar, Radar, Metal Detector, Beep Signal",
+      "description": "A Beeping Scanning Sound --Great sound for an old radar device or metal detector! Maybe even a space ship sound or scanning device. CC ZERO, Let me see what you do with it :)",
+      "duration": 49.7197,
+      "tags": [
+        "beacon",
+        "beep",
+        "chip",
+        "computer",
+        "detector",
+        "digital",
+        "distress",
+        "metal",
+        "radar",
+        "scan",
+        "searching",
+        "signal",
+        "sonar",
+        "space"
+      ],
+      "rating": 4,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "Beetlemuse",
+      "fileSizeKB": 1247.8
+    },
+    {
+      "file": "scan_beep_555122.mp3",
+      "freesoundId": 555122,
+      "freesoundName": "Cash register beeping  sound effect",
+      "description": "Cash register beeping  sound effect recorded with sony pcm d100.\n\nIf you appreciate these sounds, I warmly invite you to visit the YouTube channel of the Leipzig Song Scene Association (Leipziger Liederszene e.V.).\nhttps://www.youtube.com/@LeipzigerLiederszene\n\nYour comments, likes, or even subscrip",
+      "duration": 48.8292,
+      "tags": [
+        "beep",
+        "beeping",
+        "cash",
+        "cashier",
+        "register",
+        "scan",
+        "scanner",
+        "shop",
+        "shopping",
+        "store",
+        "super",
+        "supermarket"
+      ],
+      "rating": 4.7727272727272725,
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "author": "Garuda1982",
+      "fileSizeKB": 1212.3
+    },
+    {
+      "file": "scan_beep_347300.mp3",
+      "freesoundId": 347300,
+      "freesoundName": "Scanner beeping sound",
+      "description": "Scanning barcode with a scanner in a storage closet",
+      "duration": 16.1317,
+      "tags": [
+        "beep",
+        "inventory",
+        "office",
+        "radio",
+        "scan",
+        "scanner",
+        "scanning",
+        "supermarket"
+      ],
+      "rating": 4.894736842105263,
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "author": "suhral",
+      "fileSizeKB": 354.4
+    },
+    {
+      "file": "scan_beep_202530.mp3",
+      "freesoundId": 202530,
+      "freesoundName": "scanner beep.wav",
+      "description": "Bar-code scanner beep",
+      "duration": 0.301859,
+      "tags": [
+        "beep",
+        "scan",
+        "scanner"
+      ],
+      "rating": 4.575757575757576,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "kalisemorrison",
+      "fileSizeKB": 8.8
+    },
+    {
+      "file": "scan_beep_372551.mp3",
+      "freesoundId": 372551,
+      "freesoundName": "Supermarket Self-Service Checkout.wav",
+      "description": "Scanning groceries at a supermarket self-service checkout",
+      "duration": 70.4185,
+      "tags": [
+        "Beep",
+        "Beeping",
+        "Checkout",
+        "Scan",
+        "Scanner",
+        "Scanning",
+        "Self-Service",
+        "Supermarket"
+      ],
+      "rating": 4.923076923076923,
+      "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "Glitchedtones",
+      "fileSizeKB": 1320.1
+    }
+  ]
+}
