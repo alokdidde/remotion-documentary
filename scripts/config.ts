@@ -39,6 +39,8 @@ export const config = {
   models: {
     geminiImage: 'gemini-3-pro-image-preview',
     elevenLabsTTS: 'eleven_v3',
+    geminiDeepResearch: 'deep-research-pro-preview-12-2025',
+    geminiGrounding: 'gemini-2.5-flash',
   },
 
   // Cloudflare R2 (S3-compatible storage for SFX library)

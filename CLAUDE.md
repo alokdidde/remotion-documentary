@@ -44,7 +44,8 @@ Six continuous dials (0.0–1.0) in `editorial.yaml` control the 3D world:
 ## Production Pipeline
 
 ```
- 1. Research + Concept → RESEARCH_BRIEF.md, concept.md
+ 0. DEEP RESEARCH → RESEARCH_BRIEF.md (sourced facts, verified claims)
+ 1. Concept → concept.md (uses RESEARCH_BRIEF.md as primary input)
  2. PASS 1: STRUCTURE → project.yaml + acts/act-N/act.yaml + seq-N/sequence.yaml + scene-N/scene.yaml
  3. Asset sourcing → assets/{footage,images,music,sfx}/ + manifest.yaml files
  4. PASS 2: NARRATIVE → acts/.../scene-N/narration.txt per scene
@@ -70,6 +71,7 @@ Six continuous dials (0.0–1.0) in `editorial.yaml` control the 3D world:
 
 | Want to change | Regenerate | Keep |
 |---------------|------------|------|
+| Research foundation | Deep research → concept → Pass 1 → 2 → 3 | Assets (re-evaluate) |
 | Overall structure | Pass 1 → 2 → 3 | project.yaml, assets |
 | One scene's narration | narration.txt → TTS → alignment → Pass 3 | Everything else |
 | One scene's edit decisions | editorial.yaml → Pass 3 only | Everything else |
@@ -84,6 +86,11 @@ npm run build        # Bundle for production
 npm run lint         # ESLint + TypeScript type check (eslint src && tsc)
 npm run compile      # Compile acts/ YAML tree → compiled/timeline.json + render-props.json
 npm run render       # Render Documentary composition → output/*.mp4
+
+# Deep research (step 0 — before concept)
+npx tsx scripts/research-deep.ts --topic "..." --output <project>/RESEARCH_BRIEF.md       # Full deep research (5-20 min)
+npx tsx scripts/research-deep.ts --query "..." --output <project>/RESEARCH_BRIEF.md --append  # Quick grounded lookup
+npx tsx scripts/research-deep.ts --follow-up "q1" "q2" --output <project>/RESEARCH_BRIEF.md   # Verify claims
 
 # Asset generation (all via npx tsx scripts/...)
 npx tsx scripts/generate-all-narration.ts              # Batch TTS from acts/.../narration.txt
@@ -272,7 +279,7 @@ Tags for ElevenLabs v3 performance scripts. Use in `narration.txt` files.
 Required API keys in `.env` (see `.env.example`):
 
 ```
-GOOGLE_API_KEY=       # Gemini image generation
+GOOGLE_API_KEY=       # Gemini image generation + deep research + search grounding
 ELEVENLABS_API_KEY=   # TTS narration, SFX, music
 PEXELS_API_KEY=       # Stock photo/video search + download
 GOOGLE_CLOUD_PROJECT= # Veo video generation (optional)
