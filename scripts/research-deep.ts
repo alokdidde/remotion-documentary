@@ -150,19 +150,56 @@ async function runDeepResearch(opts: DeepResearchOptions): Promise<void> {
 function buildResearchPrompt(topic: string): string {
   return `Conduct comprehensive research on: "${topic}"
 
-Please produce a detailed research report covering:
+This research will be used to produce a YouTube documentary. Produce a detailed research report with exactly these 10 sections using these exact headings:
 
-1. **Summary** — One paragraph overview of the topic
-2. **Why This Matters** — Documentary angle: why would an audience care?
-3. **Key Facts** — Important facts, figures, and data points. Include specific numbers, dates, and names. Flag any claims that are commonly repeated but hard to verify.
-4. **Timeline** — Chronological sequence of key events
-5. **Key People** — Major figures involved, their roles, and significance
-6. **Themes & Tensions** — Conflicts, contradictions, controversies, and narrative arcs suitable for documentary storytelling
-7. **Visual / B-Roll Ideas** — What footage, images, or locations would illustrate this story
-8. **Contested Claims** — Any facts that sources disagree on, or claims that lack reliable sourcing
-9. **Open Questions** — What remains unknown or underexplored
+## 1. Summary
+One paragraph overview of the topic.
 
-For every factual claim, note the source. Prefer primary sources, academic papers, and reputable journalism over blogs or social media.`;
+## 2. Why This Matters
+Documentary angle — why would an audience care? What's the emotional or intellectual hook?
+
+## 3. Key Facts
+Specific, concrete data points. Present as a table or bullet list.
+- Include exact numbers (costs, population, counts — not "thousands" or "many")
+- Include exact dates (DD MMM YYYY when possible — not just "2015")
+- Include named people with their exact roles and titles
+- Include named organizations, legislation, court cases with identifiers
+- Each fact MUST have an inline citation [N] referencing the Sources list
+- Do NOT use vague language ("significant", "major", "widely regarded")
+
+## 4. Timeline
+Chronological key events. At least 6 entries. Each entry must have:
+- A specific date (DD MMM YYYY when possible, at minimum month + year)
+- What happened in one sentence
+- An inline citation [N]
+
+## 5. Key People
+At least 3 major figures. For each person: full name, title/role, why they matter, inline citation [N].
+
+## 6. Themes & Tensions
+Conflicts, contradictions, and narrative arcs suitable for documentary storytelling. Be specific — name the parties, stakes, and outcomes. These will drive the documentary's Conflict Arc structure.
+
+## 7. Visual / B-Roll Ideas
+Concrete footage, images, and locations to search for. Include:
+- Specific locations (with city/region)
+- Specific events that were photographed/filmed
+- Types of archival material that likely exists
+- Map animations needed (which geography, which boundaries)
+
+## 8. Contested Claims
+Facts that sources disagree on, or claims that are commonly repeated but lack reliable primary sourcing. If none found, state "None identified after cross-referencing N sources." Move any "commonly cited" figures here if you can't trace them to a primary source.
+
+## 9. Open Questions
+What remains unknown, underexplored, or would require primary research to answer.
+
+## 10. Sources
+Numbered list matching inline citations. For each source include:
+- [N] — number
+- Title of the source
+- URL
+- Type tag: [primary], [news], [academic], [government], [wikipedia], or [other]
+
+Aim for at least 8 sources, with at least half being non-Wikipedia. Prefer primary sources, government documents, academic papers, and reputable journalism over blogs or social media. Use inline citations [N] throughout the report (not [cite: N] or other formats).`;
 }
 
 function extractInteractionText(interaction: any): string {
