@@ -1,0 +1,42 @@
+# scene.yaml — Scene-level configuration
+# Lives at: my-documentary/acts/act-1/seq-1/scene-1/scene.yaml
+#
+# This file contains the STATIC properties of a scene.
+# The AI agent's DECISIONS live in editorial.yaml (separate file).
+# This separation means you can re-run the AI agent without
+# losing scene metadata, and vice versa.
+
+# Color grade (references a grade defined in project.yaml)
+color_grade: warm-golden
+
+# Ambience override (optional — falls back to sequence default)
+ambience:
+  src: assets/sfx/beds/industrial_hum.wav
+  volume: 0.4
+  loop: true
+
+# Visual assets available for this scene
+# The AI agent picks from these in editorial.yaml
+# This is the "palette" the editor can choose from
+available_visuals:
+  - id: factory_exterior
+    type: broll
+    src: assets/footage/factory_floor.mp4
+
+  - id: robot_arm
+    type: image
+    src: assets/images/robot_arm.jpg
+
+  - id: workers
+    type: broll
+    src: assets/footage/workers_line.mp4
+
+  - id: cost_title
+    type: title
+    text: "₹15 Lakh per arm"
+    style:
+      font_size: 64
+      font_weight: bold
+      color: "#ffffff"
+      position: center
+      background: "rgba(0,0,0,0.6)"

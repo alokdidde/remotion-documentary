@@ -1,0 +1,10 @@
+title: "The Problem"
+
+arc:
+  start_energy: 0.3
+  peak_energy: 0.7
+  end_energy: 0.2
+  peak_position: 0.7
+
+sequences:
+  - seq-1

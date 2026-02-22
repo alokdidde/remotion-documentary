@@ -1,0 +1,38 @@
+export { compile } from "./compiler";
+export { loadProject } from "./loader";
+export type {
+  LoadedProject,
+  LoadedAct,
+  LoadedSequence,
+  LoadedScene,
+} from "./loader";
+export type {
+  Project,
+  Act,
+  Sequence,
+  Scene,
+  Editorial,
+  WordTimings,
+  VisualAsset,
+  BRollAsset,
+  ImageAsset,
+  TitleAsset,
+  TitleStyle,
+  ColorGrade,
+  AudioMixConfig,
+  MixLayer,
+  SegmentIntent,
+  SegmentSfx,
+  CameraWaypoint,
+  ElementPosition3D,
+  Scene3DConfig,
+  CompiledTimeline,
+  CompiledSegment,
+  CompiledSfxEvent,
+  CompiledVisualEvent,
+  CompiledMusicCue,
+  CompiledMusicEvent,
+  CompiledTextEvent,
+  MusicManifest,
+  SfxManifest,
+} from "./types";

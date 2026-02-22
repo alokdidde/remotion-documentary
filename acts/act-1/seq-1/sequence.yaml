@@ -1,0 +1,17 @@
+purpose: "Hook the viewer with a striking contrast"
+
+music:
+  src: assets/music/tension_drone.mp3
+  volume: 0.5
+  fade_in_seconds: 2.0
+  fade_out_seconds: 3.0
+  track_offset_seconds: 0
+
+default_ambience:
+  src: assets/sfx/beds/city_ambient_soft.wav
+  volume: 0.3
+  loop: true
+
+scenes:
+  - scene-1
+  - scene-2

@@ -1,0 +1,42 @@
+# manifest.yaml — Music library metadata
+# Lives at: my-documentary/assets/music/manifest.yaml
+#
+# The AI agent reads this to understand what music is available
+# and make informed selections at the sequence level.
+
+tracks:
+  - id: hopeful_piano
+    file: hopeful_piano.mp3
+    duration_seconds: 185
+    bpm: 92
+    key: C major
+    mood_tags: [hopeful, warm, gentle, reflective]
+    energy_range: [0.2, 0.5]         # what energy levels this fits
+    warmth_range: [0.6, 1.0]         # what warmth levels this fits
+    has_build: true                   # does the track have a natural crescendo
+    build_starts_at: 45              # seconds into track where energy rises
+    loop_safe: false                  # can it loop cleanly
+
+  - id: tension_drone
+    file: tension_drone.mp3
+    duration_seconds: 240
+    bpm: null                         # ambient, no clear tempo
+    key: null
+    mood_tags: [tense, uncertain, industrial, dark]
+    energy_range: [0.3, 0.7]
+    warmth_range: [0.0, 0.3]
+    has_build: true
+    build_starts_at: 60
+    loop_safe: true
+
+  - id: resolution_strings
+    file: resolution_strings.mp3
+    duration_seconds: 150
+    bpm: 78
+    key: G major
+    mood_tags: [resolved, emotional, warm, expansive]
+    energy_range: [0.3, 0.8]
+    warmth_range: [0.5, 0.9]
+    has_build: true
+    build_starts_at: 30
+    loop_safe: false

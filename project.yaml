@@ -1,0 +1,67 @@
+title: "How Robots Will Change India"
+description: "A documentary exploring the intersection of automation and labor"
+
+fps: 30
+width: 1920
+height: 1080
+
+voice:
+  voice_id: "pNInz6obpgDQGcFmaJgB"
+  model_id: "eleven_multilingual_v2"
+  stability: 0.5
+  similarity_boost: 0.75
+  style: 0.3
+
+audio_mix:
+  narration:
+    base_volume: 1.0
+    ducks_under: []
+  sfx_bed:
+    base_volume: 0.15
+    ducks_under: [narration]
+    duck_ratio: 0.5
+    ramp_ms: 300
+  sfx_transition:
+    base_volume: 0.35
+    ducks_under: [narration]
+    duck_ratio: 0.6
+    ramp_ms: 200
+  ambience:
+    base_volume: 0.2
+    ducks_under: [narration, sfx_bed]
+    duck_ratio: 0.5
+    ramp_ms: 500
+  music:
+    base_volume: 0.5
+    ducks_under: [narration, sfx_bed, sfx_transition]
+    duck_ratio: 0.25
+    ramp_ms: 300
+
+color_grades:
+  warm-golden:
+    brightness: 1.05
+    contrast: 1.1
+    saturate: 1.15
+    sepia: 0.1
+    hue_rotate: -5
+  cool-blue:
+    brightness: 0.95
+    contrast: 1.15
+    saturate: 0.85
+    sepia: 0
+    hue_rotate: 10
+  neutral:
+    brightness: 1.0
+    contrast: 1.0
+    saturate: 1.0
+    sepia: 0
+    hue_rotate: 0
+  desaturated:
+    brightness: 0.9
+    contrast: 1.2
+    saturate: 0.4
+    sepia: 0
+    hue_rotate: 0
+
+acts:
+  - act-1

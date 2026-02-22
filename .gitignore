@@ -45,3 +45,6 @@ public/audio/
 !public/audio/sfx/*/
 !public/audio/sfx/*/metadata.json
 public/audio/sfx/**/*.mp3
+
+# Compiled pipeline output (regenerate with npm run compile)
+compiled/

@@ -2,10 +2,11 @@
   "permissions": {
     "allow": [
       "WebSearch",
-      "Bash(npx tsx --eval \"import ''./scripts/sfx-catalog.js''; console.log\\(''sfx-catalog OK''\\)\")",
-      "WebFetch(domain:www.remotion.dev)",
       "WebFetch(domain:remotion-bits.dev)",
-      "Bash(npm install:*)"
+      "Bash(tail:*)",
+      "Bash(head:*)",
+      "Bash(grep:*)",
+      "Bash(npx tsx:*)"
     ]
   }
 }

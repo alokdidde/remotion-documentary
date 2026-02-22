@@ -27,6 +27,11 @@ export const config = {
   sfxDir: path.resolve(__dirname, '..', 'public', 'audio', 'sfx'),
   musicDir: path.resolve(__dirname, '..', 'public', 'audio', 'music'),
 
+  // Pipeline directories
+  assetsDir: path.resolve(__dirname, '..', 'assets'),
+  actsDir: path.resolve(__dirname, '..', 'acts'),
+  compiledDir: path.resolve(__dirname, '..', 'compiled'),
+
   // ElevenLabs voice ID
   voiceId: 'jmz2hUrAWEIhZkD3LXpt',
 

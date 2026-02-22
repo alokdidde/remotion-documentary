@@ -1,0 +1,20 @@
+color_grade: cool-blue
+
+available_visuals:
+  - id: assembly_line
+    type: broll
+    src: assets/footage/assembly_line.mp4
+
+  - id: automation_graph
+    type: image
+    src: assets/images/automation_graph.jpg
+
+  - id: stat_title
+    type: title
+    text: "40% by 2030"
+    style:
+      font_size: 72
+      font_weight: bold
+      color: "#ffffff"
+      position: center
+      background: "rgba(0,0,0,0.7)"

@@ -1,0 +1,40 @@
+intent:
+  weight: 0.6
+  energy: 0.5
+  contrast: 0.7
+  breath: 0.4
+  warmth: 0.3
+  density: 0.5
+
+sfx:
+  entry: 0.5
+  entry_src: assets/sfx/transitions/riser_heavy.wav
+  exit: 0.3
+  exit_src: assets/sfx/transitions/resonance_warm.wav
+  bed: 0.3
+  bed_src: assets/sfx/beds/digital_texture.wav
+
+word_events:
+  - type: visual-change
+    at_word: 0
+    visual_id: assembly_line
+    animation: ken-burns
+    direction: pan-left
+
+  - type: visual-change
+    at_word: 8
+    visual_id: automation_graph
+    animation: fade-in
+
+  - type: music-intensity
+    at_word: 8
+    intensity: 0.7
+
+  - type: text-overlay
+    at_word: 12
+    visual_id: stat_title
+    duration_words: 3
+
+  - type: music-intensity
+    at_word: 15
+    intensity: 0.4

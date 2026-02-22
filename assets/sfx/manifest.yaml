@@ -1,0 +1,53 @@
+# manifest.yaml — SFX library metadata
+# Lives at: my-documentary/assets/sfx/manifest.yaml
+#
+# Two categories: beds (sustained textures) and transitions (entry/exit sounds)
+
+beds:
+  - id: industrial_hum
+    file: beds/industrial_hum.wav
+    duration_seconds: 30
+    loop_safe: true
+    mood_tags: [industrial, mechanical, serious]
+    energy_range: [0.2, 0.6]
+
+  - id: city_ambient_soft
+    file: beds/city_ambient_soft.wav
+    duration_seconds: 45
+    loop_safe: true
+    mood_tags: [urban, neutral, grounded]
+    energy_range: [0.1, 0.4]
+
+  - id: digital_texture
+    file: beds/digital_texture.wav
+    duration_seconds: 30
+    loop_safe: true
+    mood_tags: [tech, futuristic, clinical]
+    energy_range: [0.3, 0.7]
+
+transitions:
+  # Entry sounds — risers, swells that lead INTO a segment
+  - id: riser_subtle
+    file: transitions/riser_subtle.wav
+    duration_seconds: 2.0
+    category: entry
+    intensity_range: [0.1, 0.4]      # matches sfx.entry values
+
+  - id: riser_heavy
+    file: transitions/riser_heavy.wav
+    duration_seconds: 3.5
+    category: entry
+    intensity_range: [0.5, 1.0]
+
+  # Exit sounds — tails, resonances that linger AFTER a segment
+  - id: resonance_low
+    file: transitions/resonance_low.wav
+    duration_seconds: 3.0
+    category: exit
+    intensity_range: [0.3, 0.7]
+
+  - id: resonance_warm
+    file: transitions/resonance_warm.wav
+    duration_seconds: 2.5
+    category: exit
+    intensity_range: [0.1, 0.4]

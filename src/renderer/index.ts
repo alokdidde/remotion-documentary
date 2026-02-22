@@ -1,0 +1,10 @@
+export { DocumentaryComposition } from "./DocumentaryComposition";
+export type { DocumentaryCompositionProps } from "./DocumentaryComposition";
+export { SceneStep } from "./SceneStep";
+export { FullScreenStep } from "./FullScreenStep";
+export { VisualLayer } from "./VisualLayer";
+export { AudioLayer } from "./AudioLayer";
+export { MusicLayer } from "./MusicLayer";
+export { TextOverlayLayer } from "./TextOverlayLayer";
+export { TransitionSfxLayer } from "./TransitionSfxLayer";
+export { ColorGradeLayer } from "./ColorGradeLayer";
