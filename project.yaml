@@ -6,8 +6,8 @@ width: 1920
 height: 1080
 
 voice:
-  voice_id: "pNInz6obpgDQGcFmaJgB"
-  model_id: "eleven_multilingual_v2"
+  voice_id: "WaqMdPR4ga80Q9kzp4ft"
+  model_id: "eleven_v3"
   stability: 0.5
   similarity_boost: 0.75
   style: 0.3

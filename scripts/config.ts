@@ -33,7 +33,7 @@ export const config = {
   compiledDir: path.resolve(__dirname, '..', 'compiled'),
 
   // ElevenLabs voice ID
-  voiceId: 'jmz2hUrAWEIhZkD3LXpt',
+  voiceId: 'WaqMdPR4ga80Q9kzp4ft',
 
   // Model configurations
   models: {
